@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="AutoBlocker"/>
+  <Id value="AutoBlocker"/>
+  <Version value="v1.0.9"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <Official value="false"/>
+  <DependedModules>
+    <DependedModule Id="Native" DependentVersion="e1.5.8"/>
+    <DependedModule Id="SandBoxCore" DependentVersion="e1.5.8"/>
+    <DependedModule Id="Sandbox" DependentVersion="e1.5.8"/>
+    <DependedModule Id="CustomBattle" DependentVersion="e1.5.8"/>
+    <DependedModule Id="StoryMode" DependentVersion="e1.5.8"/>
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="AutoBlocker"/>
+      <DLLName value="AutoBlocker.dll"/>
+      <SubModuleClassType value="AutoBlocker.AutoBlocker"/>
+      <SubModuleClassType value="AutoBlocker.AlwaysDownBlockState"/>
+      <SubModuleClassType value="AutoBlocker.BlockDirectionConversionUtility"/>
+      <SubModuleClassType value="AutoBlocker.BlockState"/>
+      <SubModuleClassType value="AutoBlocker.BlockStateConversionUtility"/>
+      <SubModuleClassType value="AutoBlocker.BlockStyle"/>
+      <SubModuleClassType value="AutoBlocker.Config"/>
+      <SubModuleClassType value="AutoBlocker.ConfigManager"/>
+      <SubModuleClassType value="AutoBlocker.ConfigMenuVM"/>
+      <SubModuleClassType value="AutoBlocker.ConfigScreenBase"/>
+      <SubModuleClassType value="AutoBlocker.ConstantBlockState"/>
+      <SubModuleClassType value="AutoBlocker.DefaultShieldBlockState"/>
+      <SubModuleClassType value="AutoBlocker.DownWhenNoImmediateThreatBlockState"/>
+      <SubModuleClassType value="AutoBlocker.DragBlockState"/>
+      <SubModuleClassType value="AutoBlocker.HoldBlockState"/>
+      <SubModuleClassType value="AutoBlocker.BannerlordPatches"/>
+      <SubModuleClassType value="AutoBlocker.MoveBlockState"/>
+      <SubModuleClassType value="AutoBlocker.OffBlockState"/>
+      <SubModuleClassType value="AutoBlocker.OnClickBlockState"/>
+      <SubModuleClassType value="AutoBlocker.ShieldBlockStyle"/>
+      <SubModuleClassType value="AutoBlocker.ShieldBlockStyles"/>
+      <SubModuleClassType value="AutoBlocker.WeaponBlockStyle"/>
+      <SubModuleClassType value="AutoBlocker.WeaponBlockStyles"/>
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+  <Xmls/>
+</Module>

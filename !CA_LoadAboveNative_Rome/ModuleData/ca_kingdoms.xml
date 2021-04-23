@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+<!-- Empire Factions -->
+  <Kingdom id="empire" owner="Hero.lord_1_1" banner_key="11.4.2.4345.4345.768.768.1.0.0.163.0.11.512.512.769.764.1.0.0" 
+  primary_banner_color="0xff284E19" secondary_banner_color="0xffE0C78E" label_color="FF284E19" color="FF284E19" color2="FFE0C78E" alternative_color="FFE0C78E" alternative_color2="FF284E19" 
+  culture="Culture.empire" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b" 
+  name="{=NF627oiX}Northern Empire" short_name="{=nsDj8Qxl}northern Empire" title="{=NF627oiX}Northern Empire" ruler_title="{=8pjMAqOg}Senator" 
+  text="{=aEfsyVH4}Many of the oldest families of the Empire live in the north. They came here as marcher lords, granted vast tracts of land by their colleagues in the Senate to keep 'pacified' northern tribes in check and hold the frontiers against Battanian, Sturgian, and Khuzait raiders. They drained marshes and turned the river floodplains into wheatfields, cut back forests and turned the hillsides into pasture. But as the republic became an empire and as emperors became more and more dependent on money and lands to reward their loyal soldiers, the nobility here began to fear that their estates would one day be seized by some cash-starved tyrant. Consequently, in the ongoing imperial civil war they have become some of the strongest champions of Lucon, who sees a Senate of established property-holders as the supreme authority and the emperor as its servant.">
+    <relationships>
+      <relationship kingdom="Kingdom.khuzait" value="-1" isAtWar="true" />
+    </relationships>
+    <policies>
+      <policy id="policy_senate" />
+      <policy id="policy_feudal_inheritance" />
+    </policies>
+  </Kingdom>
+
+  <Kingdom id="empire_w" owner="Hero.lord_1_7" banner_key="11.8.142.4345.4345.768.768.1.0.0.164.0.11.512.512.769.764.1.0.0" 
+  primary_banner_color="0xff830808" secondary_banner_color="0xffE0C78E" label_color="FF830808" color="FF830808" color2="FFE0C78E" alternative_color="FFE0C78E" alternative_color2="FF830808" 
+  culture="Culture.empire" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_a" 
+  name="{=yG3YUySN}Western Empire" short_name="{=ZEmH0MwL}western Empire" title="{=yG3YUySN}Western Empire" 
+  text="{=mOZsbV8j}According to tradition, the first Calradians entered the continent as exiles, coming from lands across the western ocean. But the Empire's center of gravity moved east and south, and their original heartland has, for the most part, been lost to the Vlandians. The west of the Empire today, a warm green land of oak forests and volcanic outcrops, was mostly conquered from the Palaic tribes. They have intermarried with Calradian colonists and today their old languages and customs are mostly forgotten. Service in the legions has traditionally been a path out of rural poverty and many an ambitious general has drawn his most loyal recruits fron this region. The landowners here have naturally gravitated towards Garios, the partisan of soldiers and soldiers' interests, in the ongoing civil war.">
+    <relationships>
+      <relationship kingdom="Kingdom.battania" value="-1" isAtWar="true" />
+    </relationships>
+    <policies>
+      <policy id="policy_senate" />
+      <policy id="policy_land_grants_for_veterans" />
+    </policies>
+  </Kingdom>
+  
+  <Kingdom id="empire_s" owner="Hero.lord_1_14" banner_key="11.21.12.4345.4345.768.768.1.0.0.162.116.11.512.512.769.764.1.0.0" 
+  primary_banner_color="0xff224277" secondary_banner_color="0xffE0C78E" label_color="FF224277" color="FF224277" color2="FFE0C78E" alternative_color="FFE0C78E" alternative_color2="FF224277" 
+  culture="Culture.empire" settlement_banner_mesh="encounter_flag_a" flag_mesh="info_screen_flags_b" 
+  name="{=frBQ9mbP}Southern Empire" short_name="{=GbnlN6na}southern Empire" title="{=frBQ9mbP}Southern Empire" 
+  text="{=Xtyb9Dyr}The lands that are now the southern Empire were once ruled by proud independent city-states controlling trading routes over the Perassic Sea and the steppe. They invited the Empire into their internal feuds and one by one they were absorbed, some by treaty, some by conquest. Calradian aristocrats intermarried with merchant princes and nomad chiefs, many of whom claimed descent from the kings, champions and demigods of eastern legends. In recent generations, as these towns grew to become some of the richest and most populous in the continent, many Senatorial families elsewhere became suspicious that the southerners would someday try to make one of their own into a hereditary monarch. The southern nobility's support for Rhagaea, an unapolegetic advocate of the dynastic principle, would seem to confirm these fears.">
+    <relationships>
+      <relationship kingdom="Kingdom.aserai" value="-1" isAtWar="true" />
+    </relationships>
+    <policies>
+      <policy id="policy_senate" />
+      <policy id="policy_royal_privilege" />
+    </policies>
+  </Kingdom>
+
+  <Kingdom id="vlandia" owner="Hero.lord_4_1" banner_key="11.129.129.1536.1536.768.768.1.0.0.160.127.127.512.512.769.764.1.0.0" 
+  primary_banner_color="0xff284E19" secondary_banner_color="0xffB4F0F1" label_color="FF55831A" color="FF2D3F1D" color2="FFBFCBB0" alternative_color="FFD69516" alternative_color2="FF55831A" 
+  culture="Culture.vlandia" settlement_banner_mesh="encounter_flag_d" flag_mesh="info_screen_flags_c" 
+  name="{=Palaic}Palaic" short_name="{=Palaic}Palaic" title="{=Palaic}Palaic Tribes" ruler_title="{=palaicruler}High Chieftan" text="{=Placeholder}Placeholder.">
+    <relationships>
+      <relationship kingdom="Kingdom.sturgia" value="-1" isAtWar="true" />
+    </relationships>
+    <policies>
+      <policy id="policy_feudal_inheritance" />
+      <policy id="policy_castle_charters" />
+    </policies>
+  </Kingdom>
+
+  <Kingdom id="battania" owner="Hero.lord_5_1" banner_key="11.94.94.6296.6296.768.768.1.0.0.460.7.7.509.509.767.766.1.0.0" 
+  primary_banner_color="0xff224277" secondary_banner_color="0xffF5B365" label_color="FF224277" color="FF224277" color2="FFF5B365" alternative_color="FF224277" alternative_color2="FF855FA8" 
+  culture="Culture.battania" settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" 
+  name="{=Dryatia}Dryatia" short_name="{=Dryatics}Dryatics" title="{=DaciaTitle}High Kingdom of the Dryatics" ruler_title="{=afvM7XpQ}High King" 
+  text="{=Placeholder}Placeholder.">
+    <relationships>
+      <relationship kingdom="Kingdom.empire_w" value="-1" isAtWar="true" />
+    </relationships>
+    <policies>
+      <policy id="policy_cantons" />
+      <policy id="policy_lawspeakers" />
+    </policies>
+  </Kingdom>
+
+</Kingdoms>

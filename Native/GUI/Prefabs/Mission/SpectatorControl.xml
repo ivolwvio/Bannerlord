@@ -1,0 +1,27 @@
+<Window>
+  <Widget WidthSizePolicy = "StretchToParent" HeightSizePolicy = "StretchToParent" IsVisible="@IsEnabled">
+    <Children>
+
+      <Widget WidthSizePolicy = "StretchToParent" HeightSizePolicy = "Fixed" SuggestedHeight="100" VerticalAlignment="Bottom">
+        <Children>
+
+          <ListPanel WidthSizePolicy = "CoverChildren" HeightSizePolicy = "CoverChildren" VerticalAlignment="Center" HorizontalAlignment="Left" MarginLeft="20">
+            <Children>
+              <InputKeyVisualWidget DataSource="{PrevCharacterKey}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="48" SuggestedHeight="48" VerticalAlignment="Center" HorizontalAlignment="Left" KeyID="@KeyID"/>
+              <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" Text="@PrevCharacterText" Brush="ScoreboardDefaultFontBrush" ClipContents="false"/>
+            </Children>
+          </ListPanel>
+
+          <ListPanel WidthSizePolicy = "CoverChildren" HeightSizePolicy = "CoverChildren" VerticalAlignment="Center" HorizontalAlignment="Right" MarginRight="20">
+            <Children>
+              <InputKeyVisualWidget DataSource="{NextCharacterKey}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="48" SuggestedHeight="48" VerticalAlignment="Center" HorizontalAlignment="Left" KeyID="@KeyID"/>
+              <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Center" Text="@NextCharacterText" Brush="ScoreboardDefaultFontBrush" ClipContents="false"/>
+            </Children>
+          </ListPanel>
+          
+        </Children>
+      </Widget>
+      
+    </Children>
+  </Widget>
+</Window>

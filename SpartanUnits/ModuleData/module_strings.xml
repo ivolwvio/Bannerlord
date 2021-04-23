@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+    <!--WARBAND-->
+    <!--WARBAND-->
+	<string id="str_crafting_template" text="{=*}Hellenic Gear" />	
+    <string id="str_crafting_template.xiphos" text="{=*}Hellenic Xiphos" />
+	<string id="str_crafting_template.spartan_sword" text="{=*}Hellenic Kopis" />
+	<string id="str_crafting_template.TwoHandedPolearmGreek" text="{=*}Hellenic Hoplite Spear" />
+  </strings>
+</base>

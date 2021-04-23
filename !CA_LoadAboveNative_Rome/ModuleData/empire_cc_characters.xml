@@ -1,0 +1,1579 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+<!-- Face templates -->
+
+
+<!-- THE PARENTS -->
+  <!--Culture: Empire-->
+
+<!-- 0. -->
+  <NPCCharacter id="mother_char_creation_0_empire"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_0_empire"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--1.Retainer-->
+  <NPCCharacter id="mother_char_creation_1_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_1_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_elite_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_centurion_iron_defense" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_centurion_squamata_iron_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_centurion_manica_gold_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_1" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+
+  </NPCCharacter>
+
+  <!--2.Merchant-->
+  <NPCCharacter id="mother_char_creation_2_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.dress_with_overall" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      <equipment slot="Head"
+                 id="Item.head_scarf" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_2_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+
+  </NPCCharacter>
+
+  <!--3.Freeholder-->
+  <NPCCharacter id="mother_char_creation_3_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_3_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_montefortino_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!--4.Artisan-->
+  <NPCCharacter id="mother_char_creation_4_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cloth_apron" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      <equipment slot="Head"
+                 id="Item.head_wrapped" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_4_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+  <!--5.Forester-->
+  <NPCCharacter id="mother_char_creation_5_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.battania_female_civil_a" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_5_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cloth_tunic" />
+      <equipment slot="Leg"
+                 id="Item.strapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <equipment slot="Cape"
+                 id="Item.battania_woodland_cloak" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!--6.Vagabond-->
+  <NPCCharacter id="mother_char_creation_6_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_6_empire"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      <equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Player Character -->
+  <!--Culture:Empire -->
+  <!--Retainer -->
+  <NPCCharacter id="player_char_creation_childhood_age_empire_1_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_education_age_empire_1_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_1_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_1_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!--Merchant -->
+  <NPCCharacter id="player_char_creation_childhood_age_empire_2_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_education_age_empire_2_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_2_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_2_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+  <!--Freeholder -->
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_3_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_3_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_3_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_3_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!--Artisan -->
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_4_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_4_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_4_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_4_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!--Forester -->
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_5_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_5_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_5_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_5_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!--Vagabond -->
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_6_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_6_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_childhood_age_empire_6_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_empire_6_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_default"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Item2"
+                 id="Item.empire_mace_1_t2" />
+      <equipment slot="Item3"
+                 id="Item.steppe_bow" />
+      <equipment slot="Body"
+                 id="Item.fur_armor_with_strap" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.heavy_nordic_tunic" />
+      <equipment slot="Leg"
+                 id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Equipment -->
+  <!--STARTING EQUIPMENT SETS BEGIN (Only change the equipment sets, other fields except the id are ignored.-->
+  <!--Special Situations-->
+  <!--Joined a commander's Staff=> Empire Only, Parents Are Retainers-->
+
+  <NPCCharacter id="player_char_creation_empire_10_m"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_3_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_optio_iron_defense" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_squamata_skirt_iron_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_squamata_shoulders_iron" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_empire_10_f"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_3_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_optio_iron_defense" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_squamata_skirt_iron_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_squamata_shoulders_iron" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--trained with the cavalry=> Empire Khuzait Aserai Vlandia Only, Parents Are Retainers-->
+
+  <NPCCharacter id="player_char_creation_empire_9_m"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_roman_oval_shield_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item2"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_coolus_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_squamata_brass_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_squamata_shoulders_brass" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic_white" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_empire_9_f"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_roman_oval_shield_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item2"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_coolus_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_squamata_brass_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_squamata_shoulders_brass" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic_white" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--stood guard with the garrisons-->
+
+  <NPCCharacter id="player_char_creation_empire_1_m"
+                name="{=CAYZDsAj}Legionary"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item1"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item0"
+                 id="Item.cla_roman_oval_shield_1" />
+      <equipment slot="Item2"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_brass_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_brass" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_empire_1_f"
+                is_female="true"
+                name="{=CAYZDsAj}Legionary"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item1"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item0"
+                 id="Item.cla_roman_oval_shield_1" />
+      <equipment slot="Item2"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_brass_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_brass" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--rode with the scouts-->
+
+  <NPCCharacter id="player_char_creation_empire_2_m"
+                name="{=noTLVPDD}Doctor"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item0"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item1"
+                 id="Item.default_arrows" />
+      <equipment slot="Item2"
+                 id="Item.default_arrows" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_brass_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_left" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_cloak" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_empire_2_f"
+                is_female="true"
+                name="{=noTLVPDD}Doctor"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item0"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item1"
+                 id="Item.default_arrows" />
+      <equipment slot="Item2"
+                 id="Item.default_arrows" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_brass_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_left" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_cloak" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--trained with the infantry-->
+
+  <NPCCharacter id="player_char_creation_empire_3_m"
+                name="{=mzyc3bms}Magistrate"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_shield_1" />
+      <equipment slot="Item3"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_mix" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_empire_3_f"
+                is_female="true"
+                name="{=mzyc3bms}Magistrate"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_shield_1" />
+      <equipment slot="Item3"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_mix" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--joined the skirmishers-->
+  <NPCCharacter id="player_char_creation_empire_4_m"
+                name="{=CAYZDsAj}Legionary"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_sling_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_sling_stones" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_round_shield_1" />
+      <equipment slot="Item3"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_imperial_celtic_brass_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_right" />
+      <equipment slot="Cape"
+                 id="Item.wolf_shoulder" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_empire_4_f"
+                is_female="true"
+                name="{=CAYZDsAj}Legionary"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_sling_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_sling_stones" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_round_shield_1" />
+      <equipment slot="Item3"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_imperial_celtic_brass_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_right" />
+      <equipment slot="Cape"
+                 id="Item.wolf_shoulder" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--marched with the camp followers-->
+
+  <NPCCharacter id="player_char_creation_empire_5_m"
+                name="{=noTLVPDD}Doctor"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_polearm_1_t4" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      <equipment slot="Item3"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_montefortino_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_bolted_leather_strips_1" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="player_char_creation_empire_5_f"
+                is_female="true"
+                name="{=noTLVPDD}Doctor"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_polearm_1_t4" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      <equipment slot="Item3"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_montefortino_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_bolted_leather_strips_1" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="brother_char_creation_empire"
+                is_female="false"
+                name="{=!}Minstrel"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_shield_1" />
+      <equipment slot="Item3"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_mix_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_1" />
+      <equipment slot="Horse"
+                 id="Item.sumpter_horse" />
+      <equipment slot="HorseHarness"
+                 id="Item.cla_empire_striped_horse_harness_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>

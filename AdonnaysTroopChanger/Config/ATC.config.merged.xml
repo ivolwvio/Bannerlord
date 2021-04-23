@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ATCConfig>
+  <MapFaction id="player_faction">
+    <Culture id="default">
+      <basicTroops>
+        <volunteer id="skiritai_recruit" percent="100" />
+      </basicTroops>
+      <eliteTroops spawnChance="0" atPower="0" spawnChanceCap="0" />
+    </Culture>
+  </MapFaction>
+  <MapFaction id="player_clan">
+    <Culture id="default">
+      <basicTroops>
+        <volunteer id="skiritai_recruit" percent="100" />
+      </basicTroops>
+      <eliteTroops spawnChance="0" atPower="0" spawnChanceCap="0" />
+    </Culture>
+  </MapFaction>
+  <MapFaction id="empire">
+    <Culture id="default">
+      <basicTroops>
+        <volunteer id="imperial_recruit" percent="50" />
+        <volunteer id="skiritai_recruit" percent="50" clanonly="true" replacewith="imperial_recruit" />
+      </basicTroops>
+      <eliteTroops spawnChance="0" atPower="0" spawnChanceCap="0" />
+    </Culture>
+  </MapFaction>
+  <MapFaction id="empire_s">
+    <Culture id="default">
+      <basicTroops>
+        <volunteer id="imperial_recruit" percent="50" />
+        <volunteer id="skiritai_recruit" percent="50" clanonly="true" replacewith="imperial_recruit" />
+      </basicTroops>
+      <eliteTroops spawnChance="0" atPower="0" spawnChanceCap="0" />
+    </Culture>
+  </MapFaction>
+  <MapFaction id="empire_w">
+    <Culture id="default">
+      <basicTroops>
+        <volunteer id="imperial_recruit" percent="50" />
+        <volunteer id="skiritai_recruit" percent="50" clanonly="true" replacewith="imperial_recruit" />
+      </basicTroops>
+      <eliteTroops spawnChance="0" atPower="0" spawnChanceCap="0" />
+    </Culture>
+  </MapFaction>
+</ATCConfig>

@@ -1,0 +1,21 @@
+<CA_EagleRising>
+
+<!-- this works but is not fit for a realistic mod, original particle effect is not included in the rome mod -->
+<!-- Decrease hostile morale -->
+<!-- Shadow Morale -5 -->
+	<HasParticle>false</HasParticle>
+	<ParticleToEquippedOnly>true</ParticleToEquippedOnly>
+	<ShoudRepeatParticle>false</ShoudRepeatParticle> 
+	<RepeatParticlePeriod>1</RepeatParticlePeriod>
+	<ParticleEffectName>psys_game_metal_metal_coll</ParticleEffectName>
+	<ParticleBoneIndexes>13</ParticleBoneIndexes>
+	
+	<HasLight>false</HasLight>
+	<LightBone>0</LightBone>
+	<LightRadius>1.5</LightRadius>
+	<LightIntensity>125</LightIntensity>
+	<LightColor>#340034FF</LightColor>
+	
+	<AuraRadius>5</AuraRadius>
+	<BuffAmount>-5</BuffAmount>
+</CA_EagleRising>

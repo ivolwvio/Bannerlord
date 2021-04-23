@@ -1,0 +1,1133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+<!-- Parents -->
+  <NPCCharacter id="mother_char_creation_0_empire"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+      <EquipmentSet id="mother_char_creation_0_empire" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_0_empire"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+      <EquipmentSet id="father_char_creation_0_empire" />
+    </Equipments>
+  </NPCCharacter>
+<!-- Empire Battle Templates -->
+  <NPCCharacter id="cla_roman_bat_template_medium"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_normal"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsMediumNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire heavy battle template -->
+  <NPCCharacter id="cla_roman_bat_template_heavy"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}emp_bat_template_heavy"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsHeavyNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire flamboyant battle template -->
+  <NPCCharacter id="cla_roman_bat_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_flamboyant"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsFlamboyantNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire stoic battle template -->
+  <NPCCharacter id="cla_roman_bat_template_stoic"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_stoic"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsStoicNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire southern frontier battle template -->
+  <NPCCharacter id="cla_roman_bat_template_southfrontier"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_southern"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsNomadNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire northern frontier battle template -->
+  <NPCCharacter id="cla_roman_bat_template_northfrontier"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_northern"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsWoodlandNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire noncombatant battle template -->
+  <NPCCharacter id="cla_roman_bat_template_lady"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_noncombatant_lady_battle_template"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsLadyNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Civ -->
+  <NPCCharacter id="cla_roman_civ_template_default"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_unarmored_noble_equipment"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentDefaultTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_default" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_roman_civ_template_stoic"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire civilian template stoic"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentStoicTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_stoic" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_roman_civ_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire civilian template flamboyant"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentFlamboyantTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- deprecate heavy ones possibly -->
+  <NPCCharacter id="cla_roman_civ_template_heavy"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire civilian template heavy"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_roman_civ_template_southfrontier"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire civilian template south frontier"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentNomadTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_southfrontier" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_roman_civ_template_northfrontier"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_unarmored_noble_equipment_northern"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentWoodlandTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_northfrontier" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Villager -->
+  <NPCCharacter id="cla_villager_empire"
+                default_group="Infantry"
+                level="1"
+                name="{=KtqB640w}Empire Peasant"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+<BodyProperties version="4" age="22" weight="0.3" build="0.24"  key="000720088000000D0070030006001E03063300110010200000000001819050000047700304010000000000000000000000000000000000000000000010880000"  />
+<BodyPropertiesMax version="4" age="69.94" weight="0.9" build="0.7"  key="0010F80FC000300FFFFFA9AFBAEBFF7EEEFFFFFFFEF7EFFEFFFFFFFF7EFF8EAF00A770030AFFFF59000000000000000000000000000000000000000047589102"  />
+    </face>
+    <skills></skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.cla_empire_recruit" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_polearm_1_t1" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Item1"
+                 id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_2haxe_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_pitchfork_1_t1" />
+      <equipment slot="Item1"
+                 id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_pitchfork_2_t1" />
+      <equipment slot="Item1"
+                 id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Item1"
+                 id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Item1"
+                 id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Item1"
+                 id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_pitchfork_2_t1" />
+      <equipment slot="Item1"
+                 id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_pitchfork_1_t1" />
+      <equipment slot="Item1"
+                 id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_2haxe_1_t1" />
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_polearm_1_t1" />
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townswoman_empire"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=WbH2HS8j}Empire Townswoman"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="NPCCharacter.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <BodyProperties version="4" age="22.05" weight="0.2918" build="0.2886" key="0000600990000001227101022221000240008203101023225532432173535432004446030401121200000000000000000000000000000000000000000A940001"  />
+      <BodyPropertiesMax version="4" age="58.36" weight="0.7701" build="0.838"  key="0013F80FD2B4300EFE7EFE6EEDFFFFEFEFFE9EEFEFF8FFEEFFFFEFEE8FFEFF9E00A776030AFEFFB80000000000000000000000000000000000000000695490C4"  />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.vlandian_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.dress_with_overall" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.vlandian_dress" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress_b" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.dress_with_overall" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Fighters -->
+  <NPCCharacter id="cla_fighter_empire"
+                default_group="Infantry"
+                level="1"
+                name="{=!}Empire Fighter"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face>
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentSet id="cla_fighter_empire" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_fighter_aserai"
+                default_group="Infantry"
+                level="1"
+                age="30"
+                name="{=!}Aserai Fighter"
+                occupation="Villager"
+                culture="Culture.aserai"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face>
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentSet id="cla_fighter_aserai" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_fighter_auxiliary"
+                default_group="Infantry"
+                level="1"
+                name="{=!}Sturgia Fighter"
+                occupation="Villager"
+                culture="Culture.sturgia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face>
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentSet id="cla_fighter_auxiliary" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Gangsters -->
+  <NPCCharacter id="cla_civillian_template_gangster_tier1_empire"
+                name="{=!}civillian_template_gangster_tier1_empire"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_civillian_template_gangster_tier1_empire" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_civillian_template_gangster_tier2_empire"
+                name="{=!}civillian_template_gangster_tier2_empire"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_civillian_template_gangster_tier2_empire" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_civillian_template_gangster_tier3_empire"
+                name="{=!}civillian_template_gangster_tier3_empire"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_civillian_template_gangster_tier3_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Troops -->
+  <NPCCharacter id="cla_empire_troop_civilian_template_t1"
+                name="{=!}empire_troop_civilian_template_t1"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.empire"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_empire_troop_civilian_template_t1" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_empire_troop_civilian_template_t2"
+                name="{=!}empire_troop_civilian_template_t2"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.empire"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_empire_troop_civilian_template_t2" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_empire_troop_civilian_template_t3"
+                name="{=!}empire_troop_civilian_template_t3"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.empire"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_empire_troop_civilian_template_t3" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- -->
+  <NPCCharacter id="cla_npc_companion_equipment_template_empire"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}wanderer_equipment"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="mother_char_creation_0_empire"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+      <EquipmentSet id="mother_char_creation_0_empire" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_0_empire"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+      <EquipmentSet id="father_char_creation_0_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_roman_bat_template_medium"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_normal"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsMediumNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire heavy battle template -->
+  <NPCCharacter id="cla_roman_bat_template_heavy"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}emp_bat_template_heavy"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsHeavyNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire flamboyant battle template -->
+  <NPCCharacter id="cla_roman_bat_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_flamboyant"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsFlamboyantNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire stoic battle template -->
+  <NPCCharacter id="cla_roman_bat_template_stoic"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_stoic"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsStoicNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire southern frontier battle template -->
+  <NPCCharacter id="cla_roman_bat_template_southfrontier"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_southern"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsNomadNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire northern frontier battle template -->
+  <NPCCharacter id="cla_roman_bat_template_northfrontier"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_battle_equipment_northern"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsWoodlandNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Empire noncombatant battle template -->
+  <NPCCharacter id="cla_roman_bat_template_lady"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_noncombatant_lady_battle_template"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsLadyNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- EMPIRE CIVILIAN TEMPLATES -->
+  <NPCCharacter id="cla_roman_civ_template_default"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_unarmored_noble_equipment"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentDefaultTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_default" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_roman_civ_template_stoic"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire civilian template stoic"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentStoicTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_stoic" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_roman_civ_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire civilian template flamboyant"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentFlamboyantTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- deprecate heavy ones possibly -->
+  <NPCCharacter id="cla_roman_civ_template_heavy"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire civilian template heavy"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_roman_civ_template_southfrontier"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire civilian template south frontier"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentNomadTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_southfrontier" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_roman_civ_template_northfrontier"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}empire_unarmored_noble_equipment_northern"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentWoodlandTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_civ_template_northfrontier" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SPCultures>
+  <Culture id="battania"
+           name="{=dryatic}Dryatic"
+           is_main_culture="true"
+           color="FF224277"
+           color2="FFF5B365"
+           elite_basic_troop="NPCCharacter.cla_dacia_elite_recruit"
+           basic_troop="NPCCharacter.cla_dacia_recruit"
+           melee_militia_troop="NPCCharacter.cla_dacia_militia_spearman"
+           ranged_militia_troop="NPCCharacter.cla_dacia_militia_archer"
+           melee_elite_militia_troop="NPCCharacter.cla_dacia_militia_veteran_spearman"
+           ranged_elite_militia_troop="NPCCharacter.cla_dacia_militia_veteran_archer"
+           can_have_settlement="true"
+           town_edge_number="16"
+           militia_bonus="1"
+           villager_party_template="PartyTemplate.cla_villager_dacia_template"
+           default_party_template="PartyTemplate.cla_kingdom_hero_party_dacia_template"
+           encounter_background_mesh="encounter_battania"
+           elite_caravan_party_template="PartyTemplate.cla_elite_caravan_template_dacia"
+           caravan_party_template="PartyTemplate.cla_caravan_template_dacia"
+           militia_party_template="PartyTemplate.cla_militia_dacia_template"
+           rebels_party_template="PartyTemplate.cla_rebels_dacia_template"
+           default_face_key="00050008150024829976643D4756DCBACA69866255A096007441D0498EEAF60101993614F9A7B7A500000000000000000000000000000000000000003D249002"
+           text="{=Ax9OkgL5}The misty hills of north-western Calradia are dominated by the Battanian clans, the original inhabitants of much of the continent. Their hilltop fortresses have born witness to countless wars fought to resist outside invaders: first the Empire's legions, and more recently the rising Sturgian and Vlandian kingdoms. They are masters of the longbow, the night raid, the sudden wild charge out of the woods. They idolise valour, but especially like it when mixed with a bit of mischief - the cattle thief who can whisk an entire herd into the fog; the champion who dines with a rival tribe, and, regaling his hosts with an anecdote of battle, produces from his bag the skull of one of their kinsmen that he took as a souvenir."
+           tournament_master="NPCCharacter.cla_tournament_master_dacia"
+           villager="NPCCharacter.cla_villager_dacia"
+           caravan_master="NPCCharacter.cla_caravan_master_dacia"
+           armed_trader="NPCCharacter.cla_armed_trader_dacia"
+           caravan_guard="NPCCharacter.cla_caravan_guard_dacia"
+           veteran_caravan_guard="NPCCharacter.cla_veteran_caravan_guard_dacia"
+           duel_preset="NPCCharacter.cla_dacia_duel_preset"
+           prison_guard="NPCCharacter.cla_prison_guard_dacia"
+           guard="NPCCharacter.cla_guard_dacia"
+           steward="NPCCharacter.cla_steward_dacia"
+           blacksmith="NPCCharacter.cla_blacksmith_dacia"
+           weaponsmith="NPCCharacter.cla_weaponsmith_dacia"
+           townswoman="NPCCharacter.cla_townswoman_dacia"
+           townswoman_infant="NPCCharacter.cla_townswoman_infant_dacia"
+           townswoman_child="NPCCharacter.cla_townswoman_child_dacia"
+           townswoman_teenager="NPCCharacter.cla_townswoman_teenager_dacia"
+           townsman="NPCCharacter.cla_townsman_dacia"
+           townsman_infant="NPCCharacter.cla_townsman_infant_dacia"
+           townsman_child="NPCCharacter.cla_townsman_child_dacia"
+           townsman_teenager="NPCCharacter.cla_townsman_teenager_dacia"
+           village_woman="NPCCharacter.cla_village_woman_dacia"
+           villager_male_child="NPCCharacter.cla_villager_child_dacia"
+           villager_male_teenager="NPCCharacter.cla_villager_teenager_dacia"
+           villager_female_child="NPCCharacter.cla_village_woman_child_dacia"
+           villager_female_teenager="NPCCharacter.cla_village_woman_teenager_dacia"
+           ransom_broker="NPCCharacter.cla_ransom_broker_dacia"
+           gangleader_bodyguard="NPCCharacter.cla_gangleader_bodyguard_dacia"
+           merchant_notary="NPCCharacter.cla_merchant_notary_dacia"
+           artisan_notary="NPCCharacter.cla_artisan_notary_dacia"
+           preacher_notary="NPCCharacter.cla_preacher_notary_dacia"
+           rural_notable_notary="NPCCharacter.cla_rural_notable_notary_dacia"
+           shop_worker="NPCCharacter.cla_shop_worker_dacia"
+           tavernkeeper="NPCCharacter.cla_tavernkeeper_dacia"
+           taverngamehost="NPCCharacter.cla_taverngamehost_dacia"
+           musician="NPCCharacter.cla_musician_dacia"
+           tavern_wench="NPCCharacter.cla_tavern_wench_dacia"
+           armorer="NPCCharacter.cla_armorer_dacia"
+           horseMerchant="NPCCharacter.cla_horseMerchant_dacia"
+           barber="NPCCharacter.cla_barber_dacia"
+           merchant="NPCCharacter.cla_merchant_dacia"
+           beggar="NPCCharacter.cla_beggar_dacia"
+           female_beggar="NPCCharacter.cla_female_beggar_dacia"
+           female_dancer="NPCCharacter.cla_female_dancer_dacia"
+           gear_practice_dummy="NPCCharacter.cla_gear_practice_dummy_dacia"
+           weapon_practice_stage_1="NPCCharacter.cla_weapon_practice_stage_1_dacia"
+           weapon_practice_stage_2="NPCCharacter.cla_weapon_practice_stage_2_dacia"
+           weapon_practice_stage_3="NPCCharacter.cla_weapon_practice_stage_3_dacia"
+           gear_dummy="NPCCharacter.cla_gear_dummy_dacia"
+           board_game_type="BaghChal">
+    <!--Welsh word order is like Arabic - Penmaenmawr/> head of the black stone-->
+    <!--diphthongs - ae Caer = 'kire'. Io is yo-->
+    <male_names>
+      <name name="{=Avizina}Avizina" />
+      <name name="{=Aeric}Aeric" />
+      <name name="{=Arlech}Arlech" />
+      <name name="{=Bikili}Bikili" />
+      <name name="{=Blaesus}Blaesus" />
+      <name name="{=Brasus}Brasus" />
+      <name name="{=Blaikisa}Blaikisa" />
+      <name name="{=Blegissa}Blegissa" />
+      <name name="{=Charnabon}Charnabon" />
+      <name name="{=Comosicus}Comosicus" />
+      <name name="{=Dadas}Dadas" />
+      <name name="{=Dapyx}Dapyx" />
+      <name name="{=Dardiolai}Dardiolai" />
+      <name name="{=Danillo}Danillo" />
+      <name name="{=Kaigiza}Kaigiza" />
+      <name name="{=Komakiza}Komakiza" />
+      <name name="{=Komozoi}Komozoi" />
+      <name name="{=Moskon}Moskon" />
+      <name name="{=Mucapor}Mucapor" />
+      <name name="{=Mucatra}Mucatra" />
+      <name name="{=Natoporus}Natoporus" />
+      <name name="{=Oroles}Oroles" />
+      <name name="{=Petipor}Petipor" />
+      <name name="{=Pouridour}Pouridour" />
+      <name name="{=Roles}Roles" />
+      <name name="{=Rolouzis}Rolouzis" />
+      <name name="{=Rubobostes}Rubobostes" />
+      <name name="{=Tarbus}Tarbus" />
+      <name name="{=Thiamarkos}Thiamarkos" />
+      <name name="{=Thiaper}Thiaper" />
+      <name name="{=Tiatitis}Tiatitis" />
+      <name name="{=Tsiru}Tsiru" />
+      <name name="{=Thiadicem}Thiadicem" />
+      <name name="{=Rugan}Rugan" />
+      <name name="{=Vezina}Vezina" />
+      <name name="{=Zebeleizis}Zebeleizis" />
+      <name name="{=Zoutulas}Zoutulas" />
+      <name name="{=Zyraxes}Zyraxes" />
+    </male_names>
+    <female_names>
+      <name name="{=Avinia}Avinia" />
+      <name name="{=Ada}Ada" />
+      <name name="{=Anda}Anda" />
+      <name name="{=Agia}Agia" />
+      <name name="{=Asa}Asa" />
+      <name name="{=Brigis}Brigis" />
+      <name name="{=Caelis}Caelis" />
+      <name name="{=Cercer}Cercer" />
+      <name name="{=Cidre}Cidre" />
+      <name name="{=Daellia}Daellia" />
+      <name name="{=Dakina}Dakina" />
+      <name name="{=Dicotella}Dicotella" />
+      <name name="{=Diellena}Diellena" />
+      <name name="{=Diesema}Diesema" />
+      <name name="{=Diodela}Diodela" />
+      <name name="{=Dokela}Dokela" />
+      <name name="{=Guoleta}Guoleta" />
+      <name name="{=Hormea}Hormea" />
+      <name name="{=Mendruta}Mendruta" />
+      <name name="{=Mizela}Mizela" />
+      <name name="{=Nemenepsa}Nemenepsa" />
+      <name name="{=Olma}Olma" />
+      <name name="{=Pegrina}Pegrina" />
+      <name name="{=Phithophthethela}Phithophthethela" />
+      <name name="{=Riborasta}Riborasta" />
+      <name name="{=Salia}Salia" />
+      <name name="{=Seba}Seba" />
+      <name name="{=Skiare}Skiare" />
+      <name name="{=Stirsozila}Stirsozila" />
+      <name name="{=Tanidila}Tanidila" />
+      <name name="{=Teudila}Teudila" />
+      <name name="{=Trutrastra}Trutrastra" />
+      <name name="{=Tamaea}Tamaea" />
+      <name name="{=Tulbela}Tulbela" />
+      <name name="{=Usazila}Usazila" />
+      <name name="{=Ulbela}Ulbela" />
+      <name name="{=Zia}Zia" />
+      <name name="{=Ziaka}Ziaka" />
+      <name name="{=Zevea}Zevea" />
+      <name name="{=Zaiba}Zaiba" />
+      <name name="{=Zaika}Zaika" />
+      <name name="{=Ziodela}Ziodela" />
+    </female_names>
+    <clan_names>
+      <name name="{=ppQbB9BH}fen Aertus" />
+      <name name="{=T1xNyk3H}fen Brachar" />
+      <name name="{=CYxjotI2}fen Crusac" />
+      <name name="{=begCei6W}fen Domus" />
+      <name name="{=iQbFDpKT}fen Earach" />
+      <name name="{=SQji7Ek8}fen Fiachan" />
+      <name name="{=GBfFp7bW}fen Loen" />
+      <name name="{=T1mpRVib}fen Morain" />
+      <name name="{=rjew3J8a}fen Seanel" />
+      <name name="{=MHT9jCqB}fen Tuil" />
+    </clan_names>
+    <possible_clan_banner_icon_ids>
+      <icon id="131" />
+      <icon id="132" />
+      <icon id="133" />
+      <icon id="134" />
+      <icon id="135" />
+      <icon id="136" />
+      <icon id="137" />
+      <icon id="145" />
+      <icon id="149" />
+      <icon id="151" />
+      <icon id="203" />
+      <icon id="406" />
+      <icon id="407" />
+      <icon id="408" />
+      <icon id="412" />
+      <icon id="413" />
+      <icon id="414" />
+      <icon id="415" />
+    </possible_clan_banner_icon_ids>
+    <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.cla_tournament_template_dacia_one_participant_set_v1" />
+      <template name="NPCCharacter.cla_tournament_template_dacia_one_participant_set_v2" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.cla_tournament_template_dacia_two_participant_set_v1" />
+      <template name="NPCCharacter.cla_tournament_template_dacia_two_participant_set_v2" />
+      <template name="NPCCharacter.cla_tournament_template_dacia_two_participant_set_v3" />
+      <template name="NPCCharacter.cla_tournament_template_dacia_two_participant_set_v4" />
+      <template name="NPCCharacter.cla_tournament_template_dacia_two_participant_set_v5" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.cla_tournament_template_dacia_four_participant_set_v1" />
+      <template name="NPCCharacter.cla_tournament_template_dacia_four_participant_set_v2" />
+      <template name="NPCCharacter.cla_tournament_template_dacia_four_participant_set_v3" />
+    </tournament_team_templates_four_participant>
+  </Culture>
+
+</SPCultures>

@@ -1,0 +1,1557 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+<!-- Wanderer Equipment -->
+  <NPCCharacter id="npc_wanderer_equipment_empire" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}wanderer_equipment" occupation="NotAssigned" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_npc_wanderer_equipment_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="npc_artisan_equipment_empire" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}artisan_equipment" occupation="NotAssigned" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_npc_artisan_equipment_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="npc_gang_leader_equipment_empire" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}gang_leader_equipment" occupation="NotAssigned" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_npc_gang_leader_equipment_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="npc_preacher_equipment_empire" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}preacher_equipment" occupation="NotAssigned" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_npc_preacher_equipment_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="npc_merchant_equipment_empire" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}merchant_equipment" occupation="NotAssigned" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_npc_merchant_equipment_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="npc_gentry_equipment_empire" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}gentry_equipment" occupation="NotAssigned" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_npc_gentry_equipment_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Wanderers -->
+  <NPCCharacter id="spc_wanderer_empire_0" name="{=bvjFhiDr}{HERO.FIRSTNAME} the Scholar" voice="curt" age="29" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_0" faction="Kingdom.empire"  is_template="true" /> -->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="PeltastFightingSkills" value="2" />
+      <Trait id="EngineerSkills" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_1" name="{=xTQPfmS9}{HERO.FIRSTNAME} the Bull" voice="earnest" age="29" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_1" faction="Kingdom.empire"  is_template="true" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="HuscarlFightingSkills" value="4" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_2" name="{=Ivx4uJVp}{HERO.FIRSTNAME} the Silent" voice="softspoken" age="26" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_2" faction="Kingdom.empire"  is_template="true" />-->
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_3" name="{=1OZBZZCi}{HERO.FIRSTNAME} the Boar" voice="ironic" age="40" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_3" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="HopliteFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_4" name="{=t9e34kgH}{HERO.FIRSTNAME} the Robber" voice="ironic" age="22" default_group="Infantry" is_hero="false" is_template="true" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_4" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="PeltastFightingSkills" value="3" />
+      <Trait id="RogueSkills" value="3" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_5" name="{=pZSAdyC0}{HERO.FIRSTNAME} the Butcher" voice="curt" age="30" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_5" faction="Kingdom.empire" is_template="true" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="PeltastFightingSkills" value="4" />
+      <Trait id="RogueSkills" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_6" name="{=OArAImbM}{HERO.FIRSTNAME} of the Hills" voice="curt" age="22" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_6" faction="Kingdom.empire" is_template="true" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="WoodsScoutSkills" value="2" />
+      <Trait id="RogueSkills" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_7" name="{=c5Kjcxsa}{HERO.FIRSTNAME} the Wanderer" voice="ironic" age="24" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_7" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="HopliteFightingSkills" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_8" name="{=KTObbG71}{HERO.FIRSTNAME} the Wronged" voice="curt" age="23" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_8" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="CrossbowmanStyle" value="3" />
+      <Trait id="RogueSkills" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_9" name="{=7apnGFz7}{HERO.FIRSTNAME} the Black" voice="curt" age="21" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_9" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="PeltastFightingSkills" value="3" />
+      <Trait id="RogueSkills" value="2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <!--<Trait id="GangLeaderIsNemesis" value="1" />-->
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+
+  <!-- extra imperials -->
+  <NPCCharacter id="spc_wanderer_empire_10" name="{=cud22JY1}{HERO.FIRSTNAME} the Surgeon" voice="ironic" is_template="true" age="31" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_wanderer_empire_10" faction="Kingdom.empire" is_template="true" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="PeltastFightingSkills" value="2" />
+      <Trait id="Surgeon" value="4" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_wanderer_empire_11" name="{=KTObbG71}{HERO.FIRSTNAME} the Wronged" voice="curt" age="28" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.vlandia" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <!--<Trait id="LordIsNemesis" value="1" />-->
+      <Trait id="RomanHair" value="1" />
+      <Trait id="CavalryFightingSkills" value="4" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" civilian="true" />
+      <EquipmentSet id="cla_npc_companion_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Urban Characters -->
+  <!-- URBAN CHARACTERS OF EMPIRE -->
+  <!-- Worldly imperial merchant -->
+  <NPCCharacter id="spc_notable_empire_0" name="{=!}Cautious imperial merchant" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <!--<Hero id="spc_notable_empire_0" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="spc_notable_empire_0b" name="{=!}{FIRSTNAME} the Vintner" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <!--<Hero id="spc_notable_empire_0b" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_1" name="{=!}Empire merchant 3, ruthless" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_1b" name="{=!}Cold imperial merchant" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_2" name="{=!}{FIRSTNAME} the Saltpanner" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_2b" name="{=!}Empire merchant 6, cautious" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Can be acater -->
+  <NPCCharacter id="spc_notable_empire_3" name="{=!}Empire merchant 7, selfmade" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Traits>
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_3b" name="{=!}Empire merchant 8, jocular" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_4" name="{=!}Empire merchant 9, heiress" voice="curt" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_4b" name="{=!}Empire merchant 10, devious" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_5" name="{=!}Messianic imperial preacher" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <!--<Hero id="spc_notable_empire_5" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_6" name="{=!}Puritan imperial preacher" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <!--<Hero id="spc_notable_empire_6" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_7" name="{=!}Female imperial mystic" voice="earnest" is_template="true" default_group="Infantry" is_female="true" culture="Culture.empire" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="0" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_8" name="{=!}Imperial gruff labor leader" voice="curt" is_template="true" default_group="Infantry" is_female="false" culture="Culture.empire" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_9" name="{=!}Imperial outgoing labor leader" voice="earnest" is_template="true" default_group="Infantry" is_female="false" culture="Culture.empire" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_notable_empire_9" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_gl1" name="{=!}Protective imperial male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_notable_empire_10" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_10" name="{=!}Ironic imperial gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_notable_empire_10" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_11" name="{=!}Intimidating male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_notable_empire_11" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_gl4" name="{=!}Bestial male imperial gang leader" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_notable_empire_11" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_12" name="{=!}Female imperial gang leader" voice="ironic" is_template="true" is_female="true" culture="Culture.empire" occupation="GangLeader" default_group="Infantry">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <!--<Hero id="spc_notable_empire_12" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_13" name="{=!}Menacing female imperial gang leader" voice="softspoken" is_template="true" is_female="true" culture="Culture.empire" occupation="GangLeader" default_group="Infantry">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <!--<Hero id="spc_notable_empire_13" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_21" name="{=!}Empire gruff rural notable" voice="curt" is_template="true" default_group="Infantry" culture="Culture.empire" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_empire_22" name="{=!}Empire rural notable agreeable" voice="softspoken" is_template="true" default_group="Infantry" culture="Culture.empire" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.cla_townsman_empire" />
+    </face>
+    <Traits>
+      <Trait id="GentryEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_empire_outlaw_1" name="{=!}Empire bold outlaw" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Outlaw">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_empire_outlaw_1" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_empire_outlaw_2" name="{=!}Empire menacing outlaw" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Outlaw">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_empire_outlaw_2" faction="Kingdom.empire" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_empire_headman_1" name="{=!}empire rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_empire_headman_2" name="{=!}empire conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_empire_headman_3" name="{=!}empire devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.empire" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
+    <skills></skills>
+    <Traits>
+      <Trait id="RomanHair" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+<!-- Townsman templates? Not sure what these are -->
+<!--Townsman -->
+  <NPCCharacter id="child_template_empire_townsman_male" name="{=!}Imperial Child Townsman Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.footmans_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="child_template_empire_townsman_female" name="{=!}Imperial Child Townsman Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.footmans_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="teenager_template_empire_townsman_female" name="{=!}Imperial Teenager Townsman Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.head_piece" />
+        <equipment slot="Body" id="Item.empire_dress_b" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.leather_apron" />
+        <equipment slot="Leg" id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.head_scarf" />
+        <equipment slot="Body" id="Item.vlandian_dress" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.aserai_female_civil_a" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="teenager_template_empire_townsman_male" name="{=!}Imperial Teenager Townsman Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+  <!--Villager -->
+  <NPCCharacter id="child_template_empire_villager_male" name="{=!}Imperial Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.footmans_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="child_template_empire_villager_female" name="{=!}Imperial Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.footmans_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="teenager_template_empire_villager_male" name="{=!}Imperial Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.cla_roman_hamata_brass_cingulum" />
+        <equipment slot="Cape" id="Item.cla_roman_cloak" />
+        <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tundra_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.footmans_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="teenager_template_empire_villager_female" name="{=!}Imperial Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.long_woolen_tunic" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.head_scarf" />
+        <equipment slot="Body" id="Item.vlandian_dress" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.aserai_female_civil_a" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!--Noble -->
+  <NPCCharacter id="child_template_empire_noble_male" name="{=!}Imperial Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+       <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_template_empire_noble_female" name="{=!}Imperial Child Noble Female" is_child_template="true" age="6" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.empire_dress" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.empire_dress" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.empire_dress" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="teenager_template_empire_noble_male" name="{=!}Imperial Teenager Noble Male" is_child_template="true" age="14" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire_2" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.cla_empire_elite_squamata_brass_1" />
+        <equipment slot="Leg" id="Item.cla_empire_sandals_2" />
+        <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="teenager_template_empire_noble_female" name="{=!}Imperial Teenager Noble Female" is_child_template="true" age="14" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.empire_dress" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.aserai_female_civil_a" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.vlandian_dress" />
+        <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>

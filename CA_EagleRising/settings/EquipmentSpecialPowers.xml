@@ -1,0 +1,139 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <strings>
+
+
+<!-- NOTE: APPEARANCES DO NOT MATCH DESCRIPTION - PARTICLE EFFECTS ARE NOT INCLUDED IN EAGLE RISING TO MAINTAIN REALISM -->
+
+<!-- #Slow - Reduces the speed of enemies within the radius -->
+<!-- 1. 30% 2. 50% 3. 70% -->
+<!-- Radius = 5 -->
+<!-- Unique -->
+
+
+
+<!-- #Fear - This reduces enemy morale in a radius-->
+<!-- Tier 1: -5 Morale Tier 2: -10 Tier 3: -15 -->
+<!-- Radius = 5 -->
+
+  	<string id="cla_palaic_helm_mask_iron_1_f" text="DreadAura1" />
+  	<string id="cla_palaic_helm_mask_brass_1_f" text="DreadAura1" />
+  	<string id="cla_palaic_helm_mask_copper_1_f" text="DreadAura1" />
+  	<string id="cla_palaic_helm_mask_bear_iron_1_f" text="DreadAura2" />
+  	<string id="cla_palaic_helm_mask_bear_brass_1_f" text="DreadAura2" />
+  	<string id="cla_palaic_helm_mask_bear_copper_1_f" text="DreadAura2" />
+  	<string id="cla_palaic_helm_mask_bear_iron_2_f" text="DreadAura3" />
+  	<string id="cla_palaic_helm_mask_bear_brass_2_f" text="DreadAura3" />
+  	<string id="cla_palaic_helm_mask_bear_copper_2_f" text="DreadAura3" />
+<!-- #Offense - This gives a flat increase to the ammount of damage dealt, however it will now show on your screen, but the damage is done, if attack damage showed 32, with +5 aura, then enemy damage recieved is 37 -->
+<!--1. DMG:+5 2. DMG:+10 3. DMG:+15-->
+
+  	<string id="cla_palaic_brass_bracers_1_a" text="OffenseAura1" />
+  	<string id="cla_palaic_brass_bracers_2_a" text="OffenseAura2" />
+  	<string id="cla_palaic_brass_bracers_3_a" text="OffenseAura2" />
+<!-- #Damage Reduction - Flat reduction in damage taken. If Dmg Reduction is 5 and you take 30 damage, 5 health will be added -->
+<!-- 1. Fire - DR: 5 2. Holy - DR: 10 3. Lightning: DR: 15 -->
+<!-- Radius = 5 -->
+ 
+	<string id="cla_empire_helm_optio_iron_defense" text="DefenseAura1" />
+	<string id="cla_empire_helm_optio_brass_defense" text="DefenseAura1" />
+	<string id="cla_empire_helm_optio_iron_black_defense" text="DefenseAura1" />
+	<string id="cla_empire_helm_optio_brass_black_defense" text="DefenseAura1" />
+	<string id="cla_empire_helm_optio_iron_white_defense" text="DefenseAura1" />
+	<string id="cla_empire_helm_optio_brass_white_defense" text="DefenseAura1" />
+
+	<string id="cla_empire_helm_optio_iron_defense_2" text="DefenseAura2" />
+	<string id="cla_empire_helm_optio_brass_defense_2" text="DefenseAura2" />
+
+	<string id="cla_empire_helm_centurion_iron_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_brass_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_iron_black_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_brass_black_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_iron_white_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_iron_white_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_iron_gold_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_brass_gold_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_iron_blue_defense" text="DefenseAura2" />
+	<string id="cla_empire_helm_centurion_brass_blue_defense" text="DefenseAura2" />
+
+	<string id="cla_roman_helm_centurion_iron_feather_red" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_iron_feather_red_2" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_brass_feather_red" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_brass_feather_red_2" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_iron_feather_blue" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_iron_feather_blue_2" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_brass_feather_blue" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_brass_feather_blue_2" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_iron_feather_yellow" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_iron_feather_yellow_2" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_brass_feather_yellow" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_brass_feather_yellow_2" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_iron_feather_white" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_iron_feather_white_2" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_brass_feather_white" text="DefenseAura3" />
+	<string id="cla_roman_helm_centurion_brass_feather_white_2" text="DefenseAura3" />
+
+<!-- #Morale - Increase morale of troops around aura -->
+<!-- 1. M: +5 2. M: +10 3. M: +15 -->
+<!-- Radius = 5 -->
+  	<string id="cla_empire_hamata_morale" text="HeroicAura1" />
+  	<string id="cla_empire_squamata_iron_morale" text="HeroicAura1" />
+  	<string id="cla_empire_squamata_brass_morale" text="HeroicAura1" />
+  	<string id="cla_empire_squamata_mix_morale" text="HeroicAura1" />
+  	<string id="cla_empire_squamata_iron_medals_1_morale" text="HeroicAura2" />
+  	<string id="cla_empire_squamata_brass_medals_1_morale" text="HeroicAura2" />
+  	<string id="cla_empire_squamata_iron_medals_2_morale" text="HeroicAura3" />
+  	<string id="cla_empire_squamata_brass_medals_2_morale" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_1" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_2" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_brass" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_brass_2" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_iron_gold_red" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_iron_gold_black" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_gold_red" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_gold_black" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_silver_red" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_silver_black" text="HeroicAura3" />
+
+  	<string id="cla_empire_legate_helm_iron_gold_blue" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_iron_gold_white" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_iron_gold_gold" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_gold_blue" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_gold_white" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_gold_gold" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_silver_blue" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_silver_white" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_diron_silver_gold" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_iron_blue" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_iron_white" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_iron_gold" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_brass_blue" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_brass_white" text="HeroicAura3" />
+  	<string id="cla_empire_legate_helm_brass_gold" text="HeroicAura3" />
+
+  	<string id="cla_palaic_helm_mask_wolf_iron_1_m" text="HeroicAura2" />
+  	<string id="cla_palaic_helm_mask_wolf_brass_1_m" text="HeroicAura2" />
+  	<string id="cla_palaic_helm_mask_wolf_copper_1_m" text="HeroicAura2" />
+  	<string id="cla_palaic_helm_mask_wolf_iron_2_m" text="HeroicAura3" />
+  	<string id="cla_palaic_helm_mask_wolf_brass_2_m" text="HeroicAura3" />
+  	<string id="cla_palaic_helm_mask_wolf_copper_2_m" text="HeroicAura3" />
+
+<!-- Dacia -->
+  	<string id="cla_dacia_invisible_bracers_1_m" text="HeroicAura1" />
+  	<string id="cla_dacia_invisible_bracers_2_m" text="HeroicAura2" />
+  	<string id="cla_dacia_invisible_bracers_3_m" text="HeroicAura3" />
+  	<string id="cla_dacia_bracelet_silver_both_m" text="HeroicAura2" />
+  	<string id="cla_dacia_bracelet_gold_both_m" text="HeroicAura3" />
+	
+<!-- #DOT - Does damage over -->
+<!-- 1. Poison: Radius: 5 Dmg: 5/2s 2. Fire: Radius 4 Dmg: 10/3s 3. Lightning - Radius: 4 Dmg: 4/1s -->
+<!-- Unique -->
+
+
+<!-- #Healing - Healing Over Time Aura -->
+<!-- 1. 3HP/s 2. 6HP/s 3. 9HP/s -->
+<!-- Radius = 5 -->
+<!-- Unique -->
+
+  </strings>
+</base>

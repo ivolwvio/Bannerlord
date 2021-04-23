@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- WELCOME TO THE AEW CONFIGURATION FILE 
+
+
+I played Bannerlord a while now and I have not come across any rare weapon in any of the
+vendors. This leads me to believe that rare weapons (weapons above a certain price or 
+tier) will never show up. To make them obtainable without needing to resort to the cheat
+mode I thought I'd add the weapons to the tournament prize pool instead. 
+
+A nice quest would have been more interesting, but I have no idea how to create quests.
+
+
+!! WORKS ONLY ON NEWLY CREATED TOURNAMENTS !!
+Tournaments that already existed when you enabled the mod will not be affected. Enable the
+helper messages (ShowAEWPrizeMessages) if you want to see if the mod works correctly.
+
+
+In this config file you have the following options:
+
+EnableTournamentPrizes
+**********************
+Possible values: true, false
+
+Setting this option to "true" allows the AEW weapons to show up in tournaments as prizes.
+
+Setting the option to false will stop AEW weapons from showing up as tournament prizes. 
+All following options will have no effect when you set this to false.
+
+
+
+ShowAEWPrizeMessages
+********************
+Possible values: true, false
+
+Setting this option to "true" will enable ingame messages anytime a weapon has been added 
+to a tournament with the town in which he tournament is held (in case you still have 
+trouble finding the weapons you can enable this as a helper).
+Setting it to "false" disables those messages. The event will still be logged in the 
+AEW.debug.log file in the /Config folder for analysis/debugging purposes.
+
+
+
+TournamentPrizeChance
+*********************
+possible values: 0.00 to 100.00 (decimals are optional, so 5 is the same as 5.00)
+
+Here you can set the chance an AEW weapon is used a tournament prize. Setting it to 100
+will make every tournament prize an AEW weapon. 
+-->
+
+<AEWSettings>
+  <EnableTournamentPrizes>true</EnableTournamentPrizes>  
+  <ShowAEWPrizeMessages>true</ShowAEWPrizeMessages>      
+  <TournamentPrizeChance>5</TournamentPrizeChance>
+</AEWSettings>

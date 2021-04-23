@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value = "Sparta"/>
+	<Id value = "Sparta"/>
+	<Version value = "v1.0.0"/>
+	<DefaultModule value="false"/>
+	<SingleplayerModule value="true"/>
+  <Official value="false" />
+  <DependedModules>
+		<DependedModule Id="Native" DependentVersion="e1.5.8"/>
+	</DependedModules>
+	<SubModules/>
+	
+	<Xmls>		
+		<XmlNode>
+			<XmlName id="partyTemplates" path="spartaparties"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+			</IncludedGameTypes>
+		</XmlNode>	
+		<XmlNode>                
+			<XmlName id="Items" path="spartaitems"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>    
+		<XmlNode>                
+			<XmlName id="NPCCharacters" path="spartacharacters"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+      <XmlName id="CraftingPieces" path="spartacrafting_parts"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+    <XmlNode>
+      <XmlName id="CraftingTemplates" path="spartacrafting_temp"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+        <GameType value = "CustomGame"/>
+      </IncludedGameTypes>
+    </XmlNode>
+	</Xmls>
+	
+</Module>

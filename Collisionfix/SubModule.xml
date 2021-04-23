@@ -1,0 +1,25 @@
+<Module>
+  <Name value="Collision fix"/>
+  <Id value="Collisionfix"/>
+  <Version value="v1.4.0"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <DependedModules>
+    <DependedModule Id="Native"/>
+    <DependedModule Id="SandBoxCore"/>
+    <DependedModule Id="Sandbox"/>
+    <DependedModule Id="CustomBattle"/>
+    <DependedModule Id="StoryMode" />
+  </DependedModules>
+  <SubModules/>
+	<Xmls>        
+		<XmlNode>  
+			<XmlName id="Monsters" path="collision"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>  
+	</Xmls>
+</Module>

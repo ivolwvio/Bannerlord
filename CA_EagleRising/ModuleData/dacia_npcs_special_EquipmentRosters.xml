@@ -1,0 +1,1872 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentRosters>
+
+
+
+  <EquipmentRoster id="cla_spc_notable_battania_0b">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_0c">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_0d">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_0e">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_1">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_1b">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_2">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_3">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_4">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_battania_5">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+<!-- Wanderer Equipment -->
+  <EquipmentRoster id="cla_npc_wanderer_equipment_dacia">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_npc_artisan_equipment_dacia">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+  <EquipmentRoster id="cla_npc_gang_leader_equipment_dacia">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+  <EquipmentRoster id="cla_npc_preacher_equipment_dacia">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+  <EquipmentRoster id="cla_npc_merchant_equipment_dacia">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_black_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_blue_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_gray_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_white_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_a_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <Equipment slot="Item1" id="Item.cla_dacia_shield_red_1" />
+      <Equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <Equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <Equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+</EquipmentRosters>

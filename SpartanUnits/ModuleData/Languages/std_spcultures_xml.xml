@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="028fTB8B" text="Hellenic" />
+    <string id="028fTB8C" text="The Greeks are a frugal people, they are a warrior nation build upon the ideal of liberty, but they are constantly at a odds with one another fighting over territory, this land is rarely in a peaceful state and thus is a breeding ground for great heros, heros that will certainly be needed to join the defence against the invasion of a foreign empire known as the Aserai whom they've quarrelled with before. The Aserai seek to strip the Greeks of their liberty and subjegate tiny Greece, however, it will be no problem for the Greeks to set aside their differences once again in order to oppose the Aserai, after all, nothing unites a people like a common enemy..." />
+  </strings>
+</base>

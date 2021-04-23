@@ -1,0 +1,1724 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="02c5bQSM" text="At" />
+    <string id="02E0oSJm" text="FAUL! Rakibin alanın dışında dövüşüyordu. Diskalifiye edildi!" />
+    <string id="03mPaWum" text="Krallık" />
+    <string id="04GuLxE1" text="Kendi birliğini dağıtamazsın" />
+    <string id="082FNWAD" text="Özellikler" />
+    <string id="08aYzc2F" text="Köy Büyüğü" />
+    <string id="09ooh9I3" text="Piyonlar rakibin ana karesine doğru ilerler. Son kareye ulaştıklarında, kendi ana karelerine doğru geri dönerler. Yol boyunca düşman piyonları ele geçirilebilir." />
+    <string id="0amC7X1h" text="Savaş İlanı" />
+    <string id="0DiBS84d" text="Merhametli" />
+    <string id="0GZ19XHb" text="Koşum Takımı" />
+    <string id="0hCHIcVk" text="At sırtında savaş" />
+    <string id="0IjUokET" text="Ne kadar? Kaç para? Çabuk ol.[ib:hip][rb:trivial]" />
+    <string id="0j9JnMNB" text="{ITEM_NAME} alındı." />
+    <string id="0JyRvjSF" text="Planımız bir savunma hattı oluşturmak." />
+    <string id="0mDkVTWn" text="Kahramanlar" />
+    <string id="0oGz5rVx" text="Onur" />
+    <string id="0qCbsOif" text="Tabanca" />
+    <string id="0RkO7oHP" text="komutan" />
+    <string id="0V4jIIju" text="Kuşatma yapmak için {SETTLEMENT_NAME}'{.e} gidiyor" />
+    <string id="0zz1iDMY" text="bir klan şefi" />
+    <string id="11aiaODt" text="Ayak Zırhı" />
+    <string id="13q8IRfZ" text="kız kardeşim {REFERING_HERO.LINK}" />
+    <string id="1AcoIQVl" text="{SETTLEMENT}'{.i} yağmalamaya geldin. Sakinlerinin bir kısmı sana karşı koymak için toplandı. Bu köyü yağmalamak {KINGDOM} ile savaşa neden olur." />
+    <string id="1asbVsat" text="Ele geçirme, rakibin piyonunu her iki taraftan da kendi piyonlarınla çevreleyerek gerçekleştirilir.{newline}Piyonlar orta karede bloke edilerek de ele geçirilebilir. Bu her iki oyuncu için de geçerlidir." />
+    <string id="1Bm1Wk1v" text="Piyade" />
+    <string id="1BSSOa8a" text="Üstün Zırh" />
+    <string id="1cd6u0qn" text="Kapıları aç ve dışarı saldır!" />
+    <string id="1CPdu9K0" text="Taş" />
+    <string id="1dLZLQsY" text="Askerlere Bağışla{newline}Bu eylemi geri alamazsın." />
+    <string id="1E6hFc0r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} arkamızdaki düşmanlara karşı bizi koruyor." />
+    <string id="1HPITLca" text="Tutsak Sayısı Limiti Aşıldı" />
+    <string id="1jqxlEkT" text="Baharat" />
+    <string id="1KcIeYe2" text="Bir karakterle konuşmak için onunla aynı yerde olmalısın." />
+    <string id="1klXxZFS" text="Ben {TOWNS}'{.nin} leydisiyim." />
+    <string id="1Llb4gGw" text="Bitiş" />
+    <string id="1MStGeRa" text="Yenilen Rakip Sayısı: {BEATEN_OPPONENT_COUNT}" />
+    <string id="1o1TyPib" text="Ek Yoldaş Limiti" />
+    <string id="1PwQxaOu" text="Bir turnuva için hazırlıklar devam ediyor gibi görünüyor. Turnuva ödülü {ITEM}." />
+    <string id="1pxLpZ4r" text="Hesaplanıyor:" />
+    <string id="1SAFluHl" text="Nahasawi" />
+    <string id="1wHTYnxh" text="İmparatorluğa karşı kurulan komployu destekledin!" />
+    <string id="1wkANMRC" text="Planımız bu dar geçidi tutmaya çalışmak." />
+    <string id="1XVvU23F" text="Pano metni gövde özellikleri anahtarı olarak kullanılamıyor!" />
+    <string id="1Zq8mzzJ" text="Pekala. Ağımıza ne tür bir sinek yakalanmış görelim bakalım." />
+    <string id="22a9fyiQ" text="Baba" />
+    <string id="22FUKSQb" text="Seviye atlamak için bu beceriyi kullanarak {REQUIRED_XP_FOR_NEXT_LEVEL} tecrübe puanı kazan" />
+    <string id="24L5DoQt" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} önemli konumları koruyor." />
+    <string id="25MeMNbP" text="Sağ" />
+    <string id="275LD0Gh" text="Dükkan Çalışanı" />
+    <string id="29bsCzkn" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} güvenli bir yere çekiliyor." />
+    <string id="2a33tk2f" text="Günlük Proje" />
+    <string id="2Af5HRJU" text="Köy Eşrafı" />
+    <string id="2awf1tei" text="Vergi" />
+    <string id="2aXJEgag" text="Güç: {ARMY_STRENGTH}" />
+    <string id="2CfPklXG" text="Ordu Adı" />
+    <string id="2CgZVkDj" text="bir dük" />
+    <string id="2FWBCCw0" text="Kız kardeş" />
+    <string id="2gpFPuZZ" text="Zalim" />
+    <string id="2I2uKJlw" text="Merhamet" />
+    <string id="2JnLh6F0" text="Düzenbaz" />
+    <string id="2Jr3zWQz" text="Atlar ve Koşum Takımları" />
+    <string id="2RFda5ph" text="Ödül olarak {GOLD_AMOUNT}{GOLD_ICON} alındı." />
+    <string id="2RIyK1bp" text="Silahlar" />
+    <string id="2Sal30D2" text="Sahibin nüfuzuna +{BONUS_AMOUNT} bonus" />
+    <string id="2u3dRUlE" text="{SETTLEMENT_NAME} (vergi)" />
+    <string id="2W2l9Kym" text="Büyük Lider Getirisi Bonusu" />
+    <string id="2wclahIJ" text="Fırlatma" />
+    <string id="2wGBBTxT" text="ipek" />
+    <string id="2WpbTaVJ" text="Vergilere %+{BONUS_AMOUNT} bonus" />
+    <string id="2X1rBrdC" text="{?IS_UNDER_A_DAY}{?}{DAY_VALUE} gün {?IS_UNDER_ONE_HOUR}{?}{HOUR_VALUE} saat" />
+    <string id="300TAI7u" text="Hepsini Sat" />
+    <string id="33ghdWWi" text="Diğer Politikalar" />
+    <string id="33hHRM8r" text="Rakibin Sırası" />
+    <string id="3CpNUnVl" text="İptal" />
+    <string id="3CsACce8" text="Çıkış" />
+    <string id="3cTKRX1M" text="Daha önce hiç görülmemiş" />
+    <string id="3Ds5ARHL" text="Tüccar" />
+    <string id="3E0ZXV7j" text="Karar Sonucu" />
+    <string id="3F35l4QF" text="Savunanların Sağlıklı Asker Sayısı" />
+    <string id="3fAm8FaM" text="Öyle olsun... Babamın dediği gibi, eğer kimseyi öldürmediysen yolculuğun bir değeri yoktur." />
+    <string id="3FUaZk5A" text="Leydim" />
+    <string id="3Gb7tKgJ" text="{LEFT} ve {RIGHT}" />
+    <string id="3IGjY8RG" text="Serbest savaş" />
+    <string id="3IpiWM7H" text="Haydut" />
+    <string id="3KD1KqHp" text="Kuşatma Kulesi (Seviye 2)" />
+    <string id="3l8HsbHK" text="Heh. Akıllıca bir seçim yaptın. Buraya geri gelirsen, tekrar iş yapabiliriz.[ib:closed][rb:positive]" />
+    <string id="3o6FDRsq" text="Ele Geçirilen Kentler" />
+    <string id="3PzgpFGq" text="Tarafsız" />
+    <string id="3qFPyJtB" text="{SETTLEMENT_NAME}'{.de} bekliyor" />
+    <string id="3sRdGQou" text="Çık" />
+    <string id="3sWa2Hmt" text="oğlum {REFERING_HERO.LINK}" />
+    <string id="3syV6ymi" text="Ezici" />
+    <string id="3tJq5QyQ" text="{HEALTHY_NUM}+{WOUNDED_NUM}w" />
+    <string id="3TXGG01D" text="İyi bir seçim yaptınız {?PLAYER.GENDER}hanımım{?}beyim{\?}. Adamlarım sözlerinde durmayı ve paralarını hak etmeyi bilirler.[rb:very_positive]" />
+    <string id="3uR8wLko" text="Lordumuz {REFERING_HERO.LINK}" />
+    <string id="3vT6TQmF" text="{PLAYER.LINK}, {SIDE_STRING} {CLASS_NAME}{.de}{.sin}." />
+    <string id="3wS4uOvU" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} geriden savaşıyor." />
+    <string id="3xeuA9VP" text="Yerleşkeye +{TROOP_AMOUNT} Asker" />
+    <string id="3xIv2cP9" text="Tepede konumlan" />
+    <string id="3XsOeE2v" text="{TRADE_AMOUNT}{GOLD_ICON} {?PAY_OR_GET}alınacak{?}ödenilecek{\?}." />
+    <string id="3ZRTekjS" text="Eldiven" />
+    <string id="45kZUyjh" text="Zeytin" />
+    <string id="4AQmS4iA" text="Garnizon kapasitesine +{BONUS_AMOUNT} bonus" />
+    <string id="4bq2mUf1" text="Krallık kurmaya uygun" />
+    <string id="4BQaqqzg" text="Güvenlik:" />
+    <string id="4cU98rkg" text="Eritme" />
+    <string id="4gOGGbeQ" text="Özel Savaş" />
+    <string id="4H1nDlBO" text="Haftalık Ücret" />
+    <string id="4Hdcxk0a" text="Saldırgan" />
+    <string id="4IuXGSdc" text="Sur Dayanıklılığı" />
+    <string id="4JFfP1lt" text="Sivil Ekipmanı" />
+    <string id="4jLW7hag" text="Ordudan At" />
+    <string id="4kKxsVzZ" text="{TOWN}'{.de} bulunan {ALLEY_NAME} sokağın ele geçirildi." />
+    <string id="4kvKQuXM" text="Post" />
+    <string id="4KXvyxrK" text="Bağlı yerleşke" />
+    <string id="4l3BLxBC" text="Kuşatma kulesinden atış yap" />
+    <string id="4ml9Bx6i" text="Çok Oyunculu Mod Getirisi" />
+    <string id="4mMXsVGb" text="Han Oyun Ustası" />
+    <string id="4nv6LzDp" text="Tüfek" />
+    <string id="4okzoXIw" text="Yoldaş" />
+    <string id="4ol7MhA5" text="Düşmanlar tarafından pusuya düşürüldün. Ne var ki adamların savaşacak durumda değil." />
+    <string id="4rRsmX8i" text="Güzel. Bazen koyunları kırkmak, yemekten daha iyidir." />
+    <string id="4Skg9QhO" text="Trebüşe" />
+    <string id="4U6x48yQ" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} savaşa öncülük ediyor." />
+    <string id="4WD0kJSR" text="Hrrr... Umarım bizi oyuna getirmiyorsundur." />
+    <string id="4wYguFLZ" text="Bir sorun çözüyor" />
+    <string id="4Y5T7wp1" text="Aile üyeleri klandan atılamaz." />
+    <string id="4YfjgtO2" text="Asker Bağışla" />
+    <string id="59hbrhfY" text="Askerlerin Mevcut Tecrübe Puanı" />
+    <string id="59PSpyu8" text="Bağlı yerleşke: {SETTLEMENT_LINK}" />
+    <string id="5b7UhwsO" text="b" />
+    <string id="5bqmaciE" text="Orduda yer alacak {ARMY_MEMBER}" />
+    <string id="5cGXHF1a" text="Bugün" />
+    <string id="5CYdyMzj" text="Kalan" />
+    <string id="5DBDy2si" text="Düşmanları pusuya düşürdün." />
+    <string id="5DSafcSC" text="Konane" />
+    <string id="5eH0lCEO" text="Mevcut Eğitim Adımını Devre Dışı Bırak" />
+    <string id="5H0cDmm1" text="Bu karaktere seviye atlatmak için toplam {SKILL_LEVEL_FOR_LEVEL_UP} beceri puanı kazan." />
+    <string id="5jVYwNCQ" text="Ödenmemiş Ücretler" />
+    <string id="5k4dxUEJ" text="Askerler" />
+    <string id="5kS1qjZL" text="Bu yerleşkede halihazırda sonuca bağlanmamış bir karar var." />
+    <string id="5lDYh7wJ" text="Rakibine karşı bir bariyer oluşturdun ama daha az piyonun kaldı. Oyunu kaybettin!" />
+    <string id="5pGjYBFn" text="Alınan Haraç" />
+    <string id="5QN7SFNW" text="III" />
+    <string id="5rj7xQE4" text="Yay" />
+    <string id="5RSfkx7d" text="Ordunun toplanması biraz zaman alabilir." />
+    <string id="5siAbi69" text="Mu Torere" />
+    <string id="5sMBbn7y" text="Çıkarcı" />
+    <string id="5SQaiYXi" text="FAUL! Rakibinin atına vuramazsın. Diskalifiye oldun!" />
+    <string id="5T7nyzda" text="Bunu duyduğuma sevindim. Öldürmek bizi de susatıyor." />
+    <string id="5U70lB7k" text="Gizlenmek için {KEY} tuşuna bas" />
+    <string id="5WJbtDqp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} müttefiklerin gerisinde savaşıyor." />
+    <string id="5WWbQRQ5" text="Bir oyuncu eğer rakibi daha fazla sıçrama (ele geçirme) yapamazsa kazanır." />
+    <string id="5X9Sq4T4" text="{NUM} Lord(lar)" />
+    <string id="5ZPp8btH" text="Takas Teklifi kabul edildi!" />
+    <string id="65QqsaKe" text="Yanlış taraftasın!" />
+    <string id="6b1RXicd" text="Geliştirilmiş Koçbaşı" />
+    <string id="6bex2HUl" text="Çoğu insan geçinmeyi başarıyor gibi görünse de birçoğu kızgın görünüyor ve yoldan geçen birkaç kişinin sabrının tükendiğini mırıldandığını duyuyorsun. Bir şeyler döndüğünü seziyorsun." />
+    <string id="6Bk1YjS4" text="Köylüleri sana malzeme vermeleri için zorlamaya çalıştığında, bir kısmı sana karşı koymak için toplanıyor." />
+    <string id="6bx9IhpD" text="Yükseltmeler" />
+    <string id="6e82kCVB" text="Alttan Tutuşlu Gönderli Silah" />
+    <string id="6GSXsdeX" text="Hız" />
+    <string id="6jp724SU" text="Düşmanlar" />
+    <string id="6Jx6qbZn" text="{?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} surları savun" />
+    <string id="6nQR7yYF" text="Başlat" />
+    <string id="6OZycZbc" text="Klanın yeni birliğe liderlik edecek kahramanı yok." />
+    <string id="6PLqUB34" text="soylu" />
+    <string id="6pNrNj93" text="Sur" />
+    <string id="6SFktFH3" text="Orta Seviye Zırh" />
+    <string id="6taBfzMK" text="Asaligat" />
+    <string id="6Xl9F8Oa" text="Kentteki Dükkanlar" />
+    <string id="6XYG7bux" text="{AMOUNT}{INFLUENCE_ICON} harcayacaksın" />
+    <string id="6Yna8whI" text="safkan" />
+    <string id="72Rasm5f" text="Hiçbir şeyimiz yok - ne gümüş ne de eşya." />
+    <string id="77aNVVE0" text="Nam Bonusu" />
+    <string id="77SdNt8C" text="Rakibin sana karşı bir bariyer oluşturdu ve daha az piyonun kaldı. Oyunu kaybettin!" />
+    <string id="79cOhac4" text="Bu yeterli olur. En azından şimdilik. İyi yolculuklar - umarım yakında tekrar görüşürüz.[ib:closed][rb:positive]" />
+    <string id="79ElOr2x" text="At Tüccarı" />
+    <string id="7a3aryUB" text="Hayvan" />
+    <string id="7acrOvmJ" text="Menzilli Silahlar I" />
+    <string id="7AFlpaem" text="{STR1} {STR2}" />
+    <string id="7AOOQ5iB" text="Zorluklara rağmen pek şikayet duymuyorsun ve insanlar yöneticilerinin sıkıntıları atlatmalarını sağlayacağına güveniyor gibi görünüyorlar." />
+    <string id="7chepLLh" text="{?IS_GENERAL_SIDE}{?}{SIDE_STRING} taraftaki{\?} kuşatma silahlarını yok et" />
+    <string id="7cMUohRm" text="Simülasyon savaşlarını yönet. Zor savaşları kazan. Gerekirse askerleri feda ederek karşılaşmalardan kaçın." />
+    <string id="7cnb2iEb" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} savaşıyor." />
+    <string id="7EnFh9e5" text="Konum: {LOCATION}" />
+    <string id="7EVjgrFW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} dağınık olarak savaşıyor." />
+    <string id="7h6cXdW7" text="Mühendis" />
+    <string id="7hj7Kaoz" text="Toplam Gelir" />
+    <string id="7IqpjCDY" text="Bir tutsağı idam etmek itibarını olumsuz etkiler ve tutsağın krallığı/klanı ile olan ilişkini düşürür.{newline}Bu eylemi geri alamazsın.{newline}Bu karakteri idam etmek istediğine emin misin?" />
+    <string id="7JpAR59k" text="Mal taşımak için kullanılır" />
+    <string id="7llkDelg" text="Krallık Kararları" />
+    <string id="7mRN2br0" text="Formasyonun liderliği {HERO_NAME}'{.e} verildi." />
+    <string id="7MSuWxaY" text="{CHILD.NAME} {CHILD.AGE} yaşına bastı ve senin rehberliğine ihtiyacı var." />
+    <string id="7MWaMaez" text="Elimizde bunlar var: {ITEM_LIST}. Bunları al ama canımızı bağışla." />
+    <string id="7NjjTDud" text="Batanya savaş atı" />
+    <string id="7oJ9gIeT" text="Tüccar yeterli paraya sahip değil." />
+    <string id="7pAZatbz" text="{?RULER.GENDER}İmparatoriçe{?}İmparator{\?} {RULER.NAME}" />
+    <string id="7sUhWG0E" text="Saplama Hasarı: " />
+    <string id="7sZMMYbe" text="Küçük Grup" />
+    <string id="7t1daAel" text="Kötü bir karar verdin dostum.[if:idle_furious][ib:aggressive][rb:very_negative]" />
+    <string id="7vdgxtwo" text="IV" />
+    <string id="7vrdpDFK" text="&lt;b&gt;Mangonel&lt;/b&gt;{NEWLINE}Burulma ipleri kullanarak uzak mesafeden taş atar.{NEWLINE}Surlara, düşman kuşatma aletlerine ve bu aletleri kullananlara karşı eşit derecede etkilidir." />
+    <string id="7WFFCVMa" text="Özel" />
+    <string id="7xFRFV0P" text="Savunma çemberi oluşturun." />
+    <string id="7Xynf4IA" text="El Zırhı" />
+    <string id="7zUWqY3O" text="Sol" />
+    <string id="80hwCw7B" text="İsyan sırasında %-{BONUS_AMOUNT} daha az milis" />
+    <string id="83Yt9rbK" text="Gedik Açıldı" />
+    <string id="87qtKk4K" text="Turu İzle" />
+    <string id="893hzVCQ" text="&lt;b&gt;Ateşli Mangonel&lt;/b&gt;{NEWLINE}Rum ateşi ile dolu küpler atar ve mangonellerin zaten ölümcül olan gücünü ateşle birleştirir." />
+    <string id="8apwrVjc" text="Ek Klan Birliği" />
+    <string id="8B7V0qdT" text="Savaşı kaybettin!" />
+    <string id="8bSHlWBL" text="Şu anda bu kentte turnuva yok." />
+    <string id="8byRf9zO" text="General" />
+    <string id="8cY08v3s" text="Köy ortalama bir gelir düzeyine sahip. Hem insanların hem de hayvanların karnı doyuyor gibi görünüyor. Köylüler mevsimlik işleriyle uğraşıyorlar." />
+    <string id="8geYNpC9" text="Menzilli {THRUST_DAMAGE_TYPE} Hasar: " />
+    <string id="8HMyTKF6" text="Vlandiyalılar" />
+    <string id="8Jb61k7G" text="(+{GAIN_AMOUNT} bütünlük)" />
+    <string id="8kVhiTmu" text="Sonraki Seviye:" />
+    <string id="8l8xEu64" text="Satın Al ve Kuşan" />
+    <string id="8LhfzIQE" text="w" />
+    <string id="8LJGt1bg" text="Safkan Batanya atı" />
+    <string id="8mBT44QK" text="{FACTION} Soylusu" />
+    <string id="8oaVYIlk" text="{SETTLEMENT_NAME}'{.nin} dışındasın. İçeri giremezsin çünkü kale düşmana ait." />
+    <string id="8OkPHu4f" text="Hayır" />
+    <string id="8Rkxc5jE" text="Erzak Yok" />
+    <string id="8UBfIenN" text="Normal" />
+    <string id="8ucLajpU" text="Tek Elli Balta" />
+    <string id="8UFjXbbW" text="{?IS_GENERAL_SIDE}{?}{SIDE_STRING} taraftan{\?} saldır" />
+    <string id="8w0aaDbn" text="Demir" />
+    <string id="8ZZgNNaY" text="{USE_KEY}" />
+    <string id="923438xA" text="Güzel, {PLAYER.LINK}, güzel. Tam {OPPONENT_COUNT} rakibi alt etmeyi başardın. Cesaretinle seyircilerin gözdesi oldun. Ayrıca {PRIZE}{GOLD_ICON} tutarında bir para ödülü kazandın." />
+    <string id="929Lxhde" text="Orduyu terk edersen {INFLUENCE_COST} nüfuz kaybedeceksin." />
+    <string id="92M0Pb5T" text="İzci" />
+    <string id="984Ink0j" text="Ok" />
+    <string id="9aymfBBG" text="Yoldaş Edinmek" />
+    <string id="9B5kxWb8" text="Diğer birlik asker limitini aştı.{newline}Askerlerini geçici olarak tutacaklar ama askerleri bir süre sonra birliği hızla terk etmeye başlayacak.{newline}Emin misin?" />
+    <string id="9Bm06EEJ" text="Bu refahı sağlayan yöneticilerin bilgeliğine dair çok övgü duydun." />
+    <string id="9C0J0ZkT" text="Piyade koruması altında atış yap." />
+    <string id="9dcQ2VZv" text="Planımız menzilli askerlerin etrafında bir savunma çemberi oluşturmak." />
+    <string id="9ECleB7I" text="Zafer kazanmak için rakibinle düello yap!" />
+    <string id="9EgIraI1" text="Aktif Politikalar" />
+    <string id="9esIWdDC" text="Seni ibret olsun diye cezalandırmamız gerekecek öyleyse. Boşuna merhamet dileme.[ib:aggressive][rb:very_negative]" />
+    <string id="9FhdRKWu" text="Fırlatma Bıçağı" />
+    <string id="9gNjg4P0" text="Oyununu kaydetmeden Ana Menüye döneceksin. Çıkmak istediğine emin misin?" />
+    <string id="9iycVtyV" text="Öğrenme Oranı: x {COUNT}" />
+    <string id="9NjDfz5Z" text="({LEFT} / {RIGHT})" />
+    <string id="9PLNQrWw" text="Pek şikayet duymuyorsun ve insanlar yetkililere güveniyor gibi görünüyor." />
+    <string id="9pwIt4aa" text="Balmumu" />
+    <string id="9yffPYUl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} hücum ediyor." />
+    <string id="a0mJ0cVV" text="Tüketim" />
+    <string id="A0sT86A3" text="Savaş Seçilmedi" />
+    <string id="a0YMy8E5" text="Yükseltme için {REQUIRED_ITEM} gerekiyor." />
+    <string id="a10WGnBr" text="FAUL! Alanın dışında dövüşemezsin. Diskalifiye oldun!" />
+    <string id="a15eUf3B" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} surların içinde düşmanla savaşıyor." />
+    <string id="A1tkQyBb" text="{KINGDOM_NAME} mağlup edildi. Başarısız oldun!" />
+    <string id="a3hmB91k" text="Kuşatma aletleri kur ve çalıştır. Saldırı veya savunmada kuşatma aletlerini başarıyla kullan." />
+    <string id="A3T5z4Mv" text="Defansif" />
+    <string id="a3uKkLez" text="{LORD.LINK}, {SETTLEMENT_NAME} yakınlarındaki alanda" />
+    <string id="a47CpGXN" text="Güç Seviyeleri" />
+    <string id="a5j1v7tM" text="Davana katılmayı reddedenlerin başına gelenleri duyduk. Sonumuzun onlar gibi olmasını istemiyoruz ve seninle savaşamayız. İstediğin sürece senin renklerini giyeceğiz." />
+    <string id="a6D6Ga2F" text="Silah Menzili " />
+    <string id="a6zaA9Um" text="+{BONUS_AMOUNT} yerleşke milisi" />
+    <string id="A7dcz7Yr" text="Yakın Dövüş Silahları II" />
+    <string id="a8zwLVKj" text="Güç" />
+    <string id="aa5tNRb9" text="Kritik Başarı İhtimali" />
+    <string id="AagJ9cSL" text="Onun nerede olduğunu bilmiyorum." />
+    <string id="aaQtzfjL" text="İyi yaptınız {?PLAYER.GENDER}hanımım{?}beyim{\?}. Bizden parayı ve şarabı esirgemediğiniz sürece Kalradya'da hiçbir düşmandan korkmanıza gerek yok." />
+    <string id="aayrvLOX" text="İşine bak. İyi yolculuklar." />
+    <string id="abbALYlp" text="Balista" />
+    <string id="aBgnQ1MO" text="Vali Ata" />
+    <string id="abV5bff6" text="Bir piyon ele geçirdin." />
+    <string id="aCkzVUCR" text="Can Puanı: " />
+    <string id="aCP5ZBbp" text="İlişki:" />
+    <string id="aDA9PWFT" text="İleri" />
+    <string id="ADJBbfbQ" text="Kürk" />
+    <string id="ADJQa8am" text="Paralı askerler diğer klanları destekleyemez." />
+    <string id="adtqbbGU" text="Ordu Liderine Uzaklık" />
+    <string id="aebVkHyA" text="Pes mi ediyorsun?" />
+    <string id="aeouhelq" text="Evet" />
+    <string id="af4G3RYV" text=" (savaş)" />
+    <string id="agIbuP9a" text="Heh! Seni epey hırpalamışlar. Ama dert etme; herkes arada sırada dayak yer. Önemli olan ayağa kalkıp silkelenmek ve dövüşe devam etmektir. Şampiyonlar böyle yapar." />
+    <string id="agkgu85j" text="Kuşatma yapmak için {SETTLEMENT}'{.e} geldin." />
+    <string id="aGNfjmsz" text="&lt;b&gt;Merdiven&lt;/b&gt;" />
+    <string id="aGSMGMfn" text="Merhamet:" />
+    <string id="agYpWI9u" text="Başarı İhtimali" />
+    <string id="aH4KnzBu" text="Temkinli" />
+    <string id="ahiBhAqU" text="Zırh" />
+    <string id="aHKwty74" text="Eylemi İptal Et" />
+    <string id="ahpal89z" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w / {MAX_COUNT})" />
+    <string id="AI2Spvw0" text="Kazma" />
+    <string id="aieN31uq" text="Yoldaşlar ({COMPANION_COUNT}/{COMPANION_LIMIT})" />
+    <string id="AIh1Ik4A" text="Kalradya İmparatorluğu" />
+    <string id="aIkffnN6" text="Karakterler" />
+    <string id="aiX4b5kS" text="Tamamlanmış Görevler" />
+    <string id="AIYWSAyK" text="Ticaretten para kazan. Kervan çalıştır." />
+    <string id="aJoNj6JX" text="Çift elli kısa bir silahla savaş." />
+    <string id="aJXhsjmT" text="Selamlar gezgin. Seni çakallara yem etmemizi istemiyorsan, bize istediğimizi ver." />
+    <string id="ajZTZoXQ" text="Çift Elli Gürz" />
+    <string id="AkgIYqHT" text="Valide Sultan" />
+    <string id="AkUpgiBl" text="Seviye {TIER_LEVEL}" />
+    <string id="alEG3BOa" text="{CLAN_LEADER} ile ilişkin {MAGNITUDE} artarak {VALUE} oldu." />
+    <string id="alMmQrhK" text="Birlik Morali" />
+    <string id="AmbKQ7LT" text="Naklet" />
+    <string id="AMhvD9om" text="Ordu Komutanı" />
+    <string id="AMzpSK7F" text="zeytin" />
+    <string id="anHqaNK0" text="kraliçe" />
+    <string id="anrHk7ea" text="{PARTY} saldırıya önderlik ediyor. Askerlerinle ona katılacaksın." />
+    <string id="aNSAaHk9" text="Bagh Chal, Koyunlar (beyaz) ile Kurtlar (siyah) arasında oynanan bir oyundur.{newline}Kurtların, tahtanın dört köşesinden başlayan dört piyonu vardır. Bütün koyunlar tahtaya yerleştirilene kadar her tur bir koyun tahtaya yerleştirilir ve bir kurt hamle yapar ya da ele geçirir.{newline}Bütün koyunlar yerleştirildikten sonra, koyunlar da artık tahtada hareket edebilir." />
+    <string id="AONnsaao" text="İmparatorluğun liderisin!" />
+    <string id="aOvxxLZ8" text="Erzak Çeşitliliği" />
+    <string id="Aph8CcKO" text="Serbest Özellik Puanları: Bu puanları özellikleri arttırmak için kullanabilirsin. Kazandığın her {ATTRIBUTE_EVERY_LEVEL} seviyesi için serbest bir özellik kazanırsın. " />
+    <string id="ar2Y8Xs9" text="{LEFT}: " />
+    <string id="aR4e8B2A" text="II" />
+    <string id="arHXmqqc" text="bir rica" />
+    <string id="arWaVMpe" text="Ağır bir saldırı gerçekleştirmeli ve kuşatma aletlerini yok etmeliyiz." />
+    <string id="aseraifaction" text="Aseray" />
+    <string id="aseraimembers" text="Aseraylılar" />
+    <string id="asHzEWnG" text="O zaman kumları kanınla boyayacağız." />
+    <string id="aTLrmbVL" text="Seviye IV" />
+    <string id="aUNYlvbN" text="{SETTLEMENT}'{.i} yağmalamaya geldin. Sakinlerinin bir kısmı sana karşı koymak için toplandı." />
+    <string id="AUOio5Tu" text="Günlük İşler" />
+    <string id="AVoWvlue" text="{RANK} ({NUMBER})" />
+    <string id="AVQUGwTg" text="Kent ortalama bir gelir düzeyine sahip." />
+    <string id="awQrcrt2" text="Çömlek" />
+    <string id="AWW0T6xR" text="Bir piyon, her seferinde bir kare olmak üzere dikey olarak hareket ettirilebilir.{newline}Bir piyon, önceki hamlede geldiği kareye geri taşınamaz.{newline}Eğer oyuncu hareket edemiyorsa, rakibinin piyonlarından birini kaldırarak hamle yapabilir." />
+    <string id="Ayrvf5yp" text="Öldürülen" />
+    <string id="aZrbxdat" text="Hepsini yapmak için [{KEY_NAME}] tuşunu basılı tut" />
+    <string id="b0Mv6mZy" text="Kale pozisyonunu geri al!" />
+    <string id="b0yJ9JsW" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} surlara saldırıyor." />
+    <string id="b1BiRmgI" text="Kuşatma kampını kuruyorsun. Hazırlıkların bitmesini beklemelisin." />
+    <string id="B1j4F6i7" text="Gün" />
+    <string id="b1Ra7gHa" text="Menzilli Silahlar II" />
+    <string id="b1vtY2yU" text="Beklenen" />
+    <string id="b4lDDcli" text="Aile" />
+    <string id="B5J6DbpG" text="Erzakın Yeterli Olduğu Gün Sayısı: {REMAINING_DAYS}{newline}{newline} Toplam Erzak: {TOTAL_FOOD_AMOUNT}{newline}Günlük Tüketim: {DAILY_FOOD_CONSUMPTION} " />
+    <string id="b5t34yLX" text="At Koşum Takımı" />
+    <string id="b6biU4f1" text="Yeni Birlik Oluştur" />
+    <string id="B6g1ukB7" text="Seviye I" />
+    <string id="b778BvfW" text="Bu mal ortalamadan %{PERCENTAGE} daha pahalı" />
+    <string id="b7aDfCR9" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} savunma yapıyor." />
+    <string id="b7bWCXbk" text="Hadi koş bakalım ufak koyun. Dışarıdaki diğer kurt sürülerine karşı da dikkatli ol." />
+    <string id="b7U3Gvuu" text="Öfkeli köylülerden bazıları taleplerini daha yeni karşıladıklarını söylüyor. Devam edersen, kavga çıkacak gibi görünüyor." />
+    <string id="BAaS5Dkc" text="Uygula" />
+    <string id="baHmYsx3" text="Çift Elli Silah" />
+    <string id="baIUUw1c" text="Seçilen klanın nüfuzunu arttırmak için kendi nüfuzunu harca" />
+    <string id="BANC61K5" text="Önceki Karakter" />
+    <string id="bB4602W2" text="Saplama {THRUST_DAMAGE_TYPE} Hasarı: " />
+    <string id="bBXGPgwe" text="kızım {REFERING_HERO.LINK}" />
+    <string id="BbYFboh2" text="{RULER.NAME} {?RULER.GENDER}Hanım{?}Bey{\?}" />
+    <string id="bC5aMfG0" text="Köyler" />
+    <string id="bcmlu1ml" text="Kendisi {PRISON_PARTY_LEADER.LINK}'{.nin} tutsağı." />
+    <string id="BD8Mi02a" text="{ASKED_LORD.LINK} şu anda kaçak." />
+    <string id="bdFJgWp3" text="Savunanların Sancağı" />
+    <string id="Bdg4kSqC" text=" ({NUMBER_OF_MEN})" />
+    <string id="bdQBpUba" text="Bizi eli boş göndermemeniz büyük bir incelik." />
+    <string id="BE1scex6" text="Günlük Atölye Kazancı" />
+    <string id="bF7HmNGQ" text="Kuzait Kağanlığı" />
+    <string id="bfIEbq8b" text="Soldaki listeden üye ekleyerek ordu kurabilirsin. Seçimlerini tamamlamak için &quot;Bitti&quot; düğmesine bas." />
+    <string id="bFpLKvcS" text="kağan" />
+    <string id="bfQLwMUp" text="Klanlar" />
+    <string id="BfQrnvpC" text="Ordu Kurmak" />
+    <string id="BftxIurV" text="{DECISION_NAME} kararını kesinleştirmelisin." />
+    <string id="bg6x6Hbv" text="Miğfer" />
+    <string id="Bg83jhCR" text="Kentin zor günler geçirdiği belli. İnsanlar yetersiz beslenmiş görünüyor ve binalar bakımsız." />
+    <string id="bg8co4he" text="Katlet{newline}Bu eylemi geri alamazsın." />
+    <string id="bgjiFSHZ" text="Batanyalılar" />
+    <string id="bGyrPe8c" text="Üretim" />
+    <string id="bh2v8n4K" text="Giysi" />
+    <string id="bh9U2fsZ" text="Damat" />
+    <string id="BhGlPxqx" text="Yalnızca hareketli birlikleri dağıtabilirsin" />
+    <string id="bIiBytSB" text="Okçular" />
+    <string id="bj0Ko5uX" text="Kalradya İmparatorluğu çöküşte. İmparator Arenicos öldürülmeden önce bile ülkenin birliği siyasi sürtüşmeler nedeniyle parçalanmaya başlamıştı. Günümüzde taraflar açık açık savaşıyor. Kalradyalılar buna rağmen güçlerini koruyorlar. Teknolojik olarak komşularından üstünler ve mühendislik konusundaki ustalıkları sadece su kemerleriyle, nefes kesen mimarileriyle ve devasa surlarıyla sınırlı değil. Kuşatma muharebeleri konusunda da uzmanlar." />
+    <string id="bJ5SzaXp" text="Yaralı" />
+    <string id="bjxBjKH2" text="leydim" />
+    <string id="BkB9aOhw" text="Şu anda sancak penceresine erişilemiyor!" />
+    <string id="bkysJj7F" text="Kuşatma Silahı" />
+    <string id="BlidMNGT" text="İlişki" />
+    <string id="bLWyjOdS" text="Gövde Zırhı " />
+    <string id="Bm4yZBWb" text="{SETTLEMENT_NAME}'{.de} bulunan zindandasın." />
+    <string id="bMjtFIba" text="Tam zamanında yetiştin! {PLAYER.LINK}. En içten teşekkürlerimi kabul et lütfen!" />
+    <string id="BMQ5SHOH" text="At Ekipmanı I" />
+    <string id="bN8gqxtB" text="Savaşı Sonlandır" />
+    <string id="BNAHlS9P" text="Emin misin? Bu eylemi geri alamazsın." />
+    <string id="bnDZqSxC" text="gümüş cevheri" />
+    <string id="bNnQt4jN" text="Demirci" />
+    <string id="bNoCJyi9" text="Onurlu" />
+    <string id="bO5kjF3G" text="Onur:" />
+    <string id="BObPGFCw" text="Al ve Kuşan" />
+    <string id="bPCAdgLs" text="Önderlik edeceğin formasyonu seç" />
+    <string id="BPVFAl7J" text="Planımız piyadelerimizin etrafından tam güçle saldırmak." />
+    <string id="bPXvukDs" text="Hareket Etme ve Ele Geçirme" />
+    <string id="bPzyoTEF" text="Bu cevaptan pişman olacaksın." />
+    <string id="BQDrheU6" text="Kumaş" />
+    <string id="brQ42NE5" text="Nasıl öğrenilir" />
+    <string id="bsabIdYm" text="Çift Elli Balta" />
+    <string id="BsdOl4He" text="FAUL! Rakibin atına vurdu. Diskalifiye edildi!" />
+    <string id="bTAkmho7" text="Yükseltmek İçin Gerekli Tecrübe Puanı: {XP_AMOUNT}" />
+    <string id="Btglp7Ij" text="Kendi klanını atamazsın." />
+    <string id="btil6Rdb" text="Bakalım burada ne varmış? Görünen o ki dağ ruhları dualarımızı duydu ve bize avda başarı sağladı." />
+    <string id="BtnJh0j4" text="Savaşta" />
+    <string id="buQvCDbP" text="Savunmak için {SETTLEMENT_NAME}'{.e} gidiyor" />
+    <string id="BVaXBAr9" text="Zar At" />
+    <string id="bw9HPIwa" text="Düşman tarafına takviye kuvvetler geldi!" />
+    <string id="bWcpv1ou" text="Yerleşke Seçilmedi" />
+    <string id="bWVG2s2h" text="Sadece yanında rakip piyon bulunan bir piyonu orta kareye taşıyabilirsin.{newline}Her piyon dış kenarlarda serbestçe bir kare hareket ettirilebilir.{newline}Orta karede bulunan bir piyon, herhangi bir boş kareye taşınabilir." />
+    <string id="bWz3rWWq" text="Akıllı böcek. Ne kadar?" />
+    <string id="BX8RG4Dj" text="Karşılık Ver" />
+    <string id="bXS5KHk8" text="Düelloyu kazandın. Kudretini görmek orduna cesaret verdi. Birliğin moral kazandı." />
+    <string id="BY5RMAoj" text="{ATTACKER_NAME}'{.den} {AMOUNT} {DAMAGE_TYPE} hasarı aldın ({LOST_HP_PERCENTAGE}% Can Puanı)." />
+    <string id="bz7Glmsm" text="Beceriler" />
+    <string id="bZJs2AQX" text="İşte paramız: {MONEY}{GOLD_ICON}. İşte mallarımız: {ITEM_LIST}. Bunları alın ama canımızı bağışlayın {?PLAYER.GENDER}hanımım{?}beyim{\?}." />
+    <string id="bZOVbBRG" text="Beceri puanların gerekli eşiğe ulaştığında, bir veya daha fazla getiri açılır.{newline}{newline}Bu, karakter ekranı düğmesinin üzerinde küçük bir gösterge ile bildirilir.{newline}{newline}Mevcut getiri seçeneklerini görüntülemek için karakter düğmesine tıkla." />
+    <string id="bzrOHiS8" text="İnsanlar, kaybedecek hiçbir şeyleri yokmuş gibi yetkililere açıkça sövüyorlar." />
+    <string id="C0llOApK" text="{HERO}'{.nin} Ordusu" />
+    <string id="c1Ag8YJS" text="Batanyalılar, Kalradya'nın kuzeyinin ormanlarla kaplı olduğu, İmparatorluğun ve kentlerinin bu ormanların kutsallığını bozmadığı günleri dün gibi hatırlarlar. Bu gözükara savaşçılar geleneklerine sadıktırlar. Savaşa giderken yüzlerini boyarlar ve soyluları bile büyük bir ustalıkla kullandıkları büyük baltalarıyla ve çift elli kılıçlarıyla atlarına binmeden dövüşmeyi tercih ederler." />
+    <string id="c1g7MC9D" text="Klan Seviyesi Bonusu" />
+    <string id="c2pdihCB" text="Kervanlar" />
+    <string id="c3cdHImi" text="Her iki taraftan kuşatarak rakibinin piyonlarını ele geçir. Bir piyon iki rakip piyon arasında hareket ettiğinde ele geçirilmez.{newline}İlk iki görüntüde, beyaz piyonlar siyah piyonlar tarafından ele geçiriliyor. Son iki görüntüde ise ele geçirme yok." />
+    <string id="C3VxZFSy" text="Seviye III" />
+    <string id="C4n1rgBC" text="Seega" />
+    <string id="C4qjBqLO" text="Sturgiyalılar" />
+    <string id="c6Ei8Fqh" text="{FACTION}'{.nin} Vasalı" />
+    <string id="C6n2tZlQ" text="müttefikim {REFERING_HERO.LINK}" />
+    <string id="c7bVbjD7" text="Nasıl istersen. Bundan böyle senin için dövüşeceğiz." />
+    <string id="C9EDof32" text="Ordu Seçilmedi" />
+    <string id="caadBNhn" text="Kuşatma Kulesi (Seviye 3)" />
+    <string id="caFEBWSY" text="Rakibin seni yendi. Kaybettin." />
+    <string id="cAgI2lPn" text="{SETTLEMENT_NAME} Valisi" />
+    <string id="caPP57v9" text="Rezerve Taşı" />
+    <string id="captainasleader" text="Komutan" />
+    <string id="CaW72yB3" text="Toplam Maliyet" />
+    <string id="cBY2MxY0" text="prenses" />
+    <string id="cBZ6OlKW" text="Cirit" />
+    <string id="CcAG3D8Q" text="Atanmamış" />
+    <string id="ccUEYdrU" text="Orduya Katıl" />
+    <string id="cDCU9RnR" text="Savaş atı" />
+    <string id="cDjq52h2" text="Çavuş" />
+    <string id="ChmM5tjf" text="Oyun berabere bitti!" />
+    <string id="cJmI2poS" text="Bilgi" />
+    <string id="cjZqTaHm" text="Yeterince nüfuzun yok." />
+    <string id="CKGavOyA" text="Tek elli veya çift elli mızrak ya da benzeri bir gönderli silahla savaş." />
+    <string id="cKKYSB0z" text="{AMOUNT}{GOLD_ICON} kaybettin." />
+    <string id="ckPhG1KV" text="Bağlı köy(ler)" />
+    <string id="CKR7PhRI" text="Düşman Orduları" />
+    <string id="CkwERBcS" text="Müteffik hattının gerisinde savaş" />
+    <string id="cMrROb6w" text="Alınabilir Görev" />
+    <string id="CODsu5Ok" text="Yeni Sefer" />
+    <string id="COhJ2HsU" text="{HOUR} saat içinde otomatik olarak çözümlenecek." />
+    <string id="CoHPb7DL" text="Planımız onları süvarilerimizle ezmek ve takip eden bir saldırıyla geri kalanları silip süpürmek." />
+    <string id="cpaUPZ4c" text="Bu topraklardan geçmek için bize ödemen gereken bir bedel var, bu yüzden sakıncası yoksa alacağımızı tahsil edeceğiz..." />
+    <string id="cqI6P8fr" text="Kale surlarından atış yap" />
+    <string id="cQWCp9F1" text="Günlük Birlik Ücreti" />
+    <string id="cr9fxFyS" text="Kalkanlara Karşı Bonus" />
+    <string id="cRMgjRMP" text="Güzel, güzel. Sonradan neler sakladığını görmek için bağırsaklarını deşmektense doğrudan anlaşmayı tercih ederim.[ib:hip][rb:trivial]" />
+    <string id="CRR7cYhJ" text="Şu Anda İnşa Ediliyor" />
+    <string id="cRwZI5o2" text="Son Olaylar" />
+    <string id="CsjtWt1g" text="Hancı" />
+    <string id="CthDdsb6" text="Kazanan" />
+    <string id="cThSwxbP" text="Kahraman olmayan tutsaklar idam edilemez" />
+    <string id="CXUXk5ai" text="imparatorluk ahalisi" />
+    <string id="cyPGadJ6" text="Otomatik Yerleştir" />
+    <string id="CyTa1Z5d" text="{TEXT} [{HOTKEY}]" />
+    <string id="CZqZGAVB" text="Takas Teklifi reddedildi!" />
+    <string id="D124K5KE" text="çanak çömlek" />
+    <string id="D5QlXOV0" text="Kritik Başarısızlık, İkna Şansı Tümden Kaybedildi" />
+    <string id="d5RAufbd" text="Rol" />
+    <string id="d68pZq4j" text="Gerekli Beceri Seviyesi" />
+    <string id="D7KllIPI" text="Sorunlar" />
+    <string id="D7ooUTqV" text="Yere yıkıldın!" />
+    <string id="D8wa0m1m" text="m" />
+    <string id="D8Wjbw9K" text="Tutsak düştüm ama sonra kaçmayı başardım" />
+    <string id="D9WJXQ9Z" text="Reddet" />
+    <string id="DaE0N37L" text="Eşraf" />
+    <string id="DaX6bsaD" text="{CLAN_PARTY_NAME}, {SETTLEMENT_NAME} yakınlarında {ENEMY_PARTY_NAME}'{.nin} saldırısına uğradı" />
+    <string id="dbdliaP3" text="eşim {REFERING_HERO.LINK}" />
+    <string id="DBU4VaIl" text="Haydut Grubu" />
+    <string id="dc24lBcV" text="Yakın Dövüş Silahları IV" />
+    <string id="DCms1bJb" text="keten" />
+    <string id="dd7Owiys" text="{FACTION} ile Barış Yap" />
+    <string id="DdXZHifm" text="{ATTRIBUTE_NAME}'{.nin} arttırılması, ona bağlı becerilerin öğrenilmesini kolaylaştırır ve öğrenme limitini yükseltir." />
+    <string id="depxBZNO" text="Liderlik Beceri Seviyesi Bonusu" />
+    <string id="DEwpjLCB" text="deri" />
+    <string id="dgaf7Jpb" text="Kurulum" />
+    <string id="di4MlBRx" text="{NUMBER_OF} {ITEM}" />
+    <string id="DItheHi7" text="Yedekte kal" />
+    <string id="DIuI1moW" text="Çete Lideri" />
+    <string id="dJbaRaAD" text="Erzakın tükenmesine kalan gün" />
+    <string id="DJgeYv9X" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} yedeğe çekiliyor." />
+    <string id="DjoYTx2w" text="Paralı askerler ordu toplayamaz" />
+    <string id="dKcvwi6V" text="Vay vay, şuna bak! Gümüş sökülmeye başlasan iyi edersin dostum, yoksa çocuklarla canını yakmak zorunda kalacağız." />
+    <string id="DKnL0IcO" text="İmparatorluğu yok ettin!" />
+    <string id="DKqLY1aJ" text="Kuşan" />
+    <string id="dKXdN4BL" text="Bir orduya önderlik ediyorsun" />
+    <string id="dLXZaEI1" text="Erzak Almak" />
+    <string id="DM6luo3c" text="Devam Et" />
+    <string id="dMKyWmJ6" text="Düşmanlar tarafından pusuya düşürüldün." />
+    <string id="dO5tqXT8" text="Eski Eş" />
+    <string id="DOKG38dF" text="Eğitim Etkinleştirildi" />
+    <string id="dpylFaD1" text="Birimler" />
+    <string id="DqJG7bvh" text="Kapasite Aşıldı" />
+    <string id="dQRdP9eQ" text="Karşılaşma" />
+    <string id="DRaJ7hoz" text="Kazanan" />
+    <string id="Dtcv8XNu" text="&lt;b&gt;Kuşatma Kulesi&lt;/b&gt;{NEWLINE}Surlara çıkmak için kullanılır. Merdivenlerden daha iyidir" />
+    <string id="DtKKtcws" text="Çok fazla yük taşıdığın için birliğinin hızı düştü.{newline}Hızlanmak için taşıdığın yükü azaltmalısın.{newline}Birliğine daha fazla asker katarak ya da at ve deve satın alarak da birliğinin yük taşıma kapasitesini arttırabilirsin." />
+    <string id="DTRwTvT4" text="Atlı okçular, hücum!" />
+    <string id="DTt1aeSj" text="{?IS_POSITIVE}+{?}-{\?}{ITEM_AMOUNT} {ITEM_TYPE}" />
+    <string id="DTWem4V1" text="bu stok" />
+    <string id="DU9SofaW" text="Kesici" />
+    <string id="DuFg1avZ" text="Sonraki seviye: {NEXT_SKILL_POINTS}" />
+    <string id="Duoo5R2P" text="Arena Ustası" />
+    <string id="DvecWeGT" text="Kış {DAY}, {YEAR}" />
+    <string id="DvGueBrU" text="Keten" />
+    <string id="Dw3CViwY" text="İmparatorluğu mağlup ettin!" />
+    <string id="dxtuFW8b" text="Oldukça iyi mücadele ettin. Çok güzel hareketlerin oldu. Hataların da oldu elbette ama kesinlikle umut vaat ediyorsun. Ayrıca, {OPPONENT_COUNT} rakibi devirdiğin için {PRIZE}{GOLD_ICON} ödül kazandın." />
+    <string id="DyarV8i7" text="Bu politika için zaten önerilmiş bir karar var." />
+    <string id="dyLYsWPf" text="Güven Veren Lider Getirisi Bonusu" />
+    <string id="dyY3hkH1" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} {?IS_PLURAL}farklı düşman formasyonlarına{?}bir düşman formasyonuna{\?} hücum ediyor." />
+    <string id="Dzntsudy" text="{VICTIM_NAME}'{.e} {AMOUNT} {DAMAGE_TYPE} hasarı verdin (%{LOST_HP_PERCENTAGE} Can Puanı)." />
+    <string id="E05lmb5n" text="{HERO_NAME} ile ilişkin &lt;a style=&quot;AzalacakStyle&quot; &gt;&lt;b&gt;azalacak&lt;/b&gt;&lt;/a&gt;" />
+    <string id="E1OwmQFb" text="Geri" />
+    <string id="e1tZ4kEY" text="Her Şey" />
+    <string id="e4OPfBqt" text="Kaçınma" />
+    <string id="e54212r1" text="Kentlerde sana yardım edebilecek yetenekli kişiler bulabilirsin.{newline}{newline}Bu potansiyel yoldaşlar genellikle hanlarda takılırlar.{newline}{newline}Potansiyel bir yoldaş bulmak için han bölgesine git." />
+    <string id="E7DLnBbA" text="çöl savaş atı" />
+    <string id="E9f8YUbO" text="Toplam beceri puanların hedef değere ulaştığında seviye atlarsın. Seviye atlamak harcanacak odak puanları sağlar.{newline}{newline}Harcanmamış odak puanların varsa, bunu karakter ekranı düğmesinin üzerindeki küçük göstergede görürsün. Farklı becerileri gözden geçirmek için düğmeye tıkla ve odak puanını vermek için birini seç." />
+    <string id="eAGeVRjI" text="{GOLD_AMOUNT}{GOLD_ICON} aldın." />
+    <string id="EAicirVE" text="Korkusuz" />
+    <string id="eaIQXj6O" text="Serbest Özellik Puanları: {NUMBER}" />
+    <string id="ealIwlQH" text="{SETTLEMENT_NAME}}'{.i} savunuyor" />
+    <string id="eavr4x8n" text="İnşaat:" />
+    <string id="eb0nLx5E" text="Aseray Sultanlığı" />
+    <string id="EbB9y2zZ" text="Savaş İlan Et" />
+    <string id="ebbyLN2i" text="Kentler" />
+    <string id="eDVvDS1i" text="Köylüler" />
+    <string id="EegxpPka" text="İnşaata +{BONUS_AMOUNT} bonus" />
+    <string id="eEmbb1MR" text="Üretim(ler)" />
+    <string id="EHkzaZBi" text="{SETTLEMENT_NAME} Turnuvası" />
+    <string id="eIws123Z" text="Bacak Zırhı" />
+    <string id="ejhFyhyx" text="&lt;b&gt;Kuşatma Kulesi&lt;/b&gt;&lt;br&gt;{NEWLINE}Saldıranları surlarla aynı yüksekliğe getirerek savunanlar karşısında eşit şansa sahip olmalarını sağlar." />
+    <string id="eKwhGmbI" text="Bu asker {XP_AMOUNT} tecrübe puanı kazandıktan sonra, bir asker daha yükseltme için hazır olacak." />
+    <string id="elhSbQfW" text="akrabam {REFERING_HERO.LINK}" />
+    <string id="ElMVvrip" text="bira" />
+    <string id="ELsDFwAD" text="Şarap" />
+    <string id="EMCISbYJ" text="Savaş Kıyafeti" />
+    <string id="empiremembers" text="İmparatorluk" />
+    <string id="eMsA4Vk0" text="Bu birlik genişleyecek. Mevcut genişleme hedefi {TARGET_SIZE}" />
+    <string id="eMwbzp49" text="Savaş kaybedildi..." />
+    <string id="engineeringskill" text="Mühendislik" />
+    <string id="enhza8zr" text="Krallık" />
+    <string id="eNQgzubm" text="Yaya savaş. Haritada yaya hareket et." />
+    <string id="ENzvOHsA" text="{ASKED_LORD.LINK} sahada, şu anda {SETTLEMENT_NAME} yakınlarında olmalı." />
+    <string id="eob9goyW" text=" ve " />
+    <string id="eodelMzf" text="Leydi" />
+    <string id="EOhmOITp" text="İlgili Görev Nesnelerini Takip Et" />
+    <string id="EPGDe5fG" text="Yalnızca kurtlar ele geçirebilirler ve bunu bir koyunun arkasındaki boş kareye atlayarak gerçekleştirirler. Ele geçirme de oyun tahtasının çizgilerini takip eder." />
+    <string id="eqAc8AOs" text="{LEFT}:" />
+    <string id="ErnykQEH" text="Çıktılar" />
+    <string id="es0Y3Bxc" text="Katıl" />
+    <string id="esxNxipn" text="Morali Düşük Birlikler" />
+    <string id="eTyaQ1sG" text="Sefere Devam Et" />
+    <string id="eu25AFfI" text="Şu anda envantere erişilemiyor!" />
+    <string id="eufhFrnC" text="{VILLAGE_NAME} Köylüleri" />
+    <string id="EUmwEtap" text="İyi dövüştün {PLAYER.LINK}. {OPPONENT_COUNT} rakibi devirdin. Elbette bu performansınla bir ödülü hak ediyorsun: {PRIZE}{GOLD_ICON}. Güzel, ha?" />
+    <string id="eURzhtb0" text="{PARTY_NAME} etrafında toplanıyor" />
+    <string id="EUzxzL9s" text="Kafa Zırhı: " />
+    <string id="EV0av1mc" text="Lider Seviye Bonusu" />
+    <string id="EvAriC6s" text="Kalradya'daki her karakterin iki ekipman seti vardır. Karakterler saldırı bekliyorlarsa askeri setlerini kullanırlar. Karakter modelinin üzerindeki düğmeler kullanılarak setler arasında geçiş yapılabilir. Zırhların ve silahların çoğu sivil set seçiliyken kullanılamaz çünkü sivil set karakterin ağır silahlı olmasının yersiz veya yasak olduğu durumlarda kullanılır." />
+    <string id="evuR5kwf" text="Söylentilere bakılırsa, {ITEM_NAME} burada diğer kentlere göre daha ucuza satılıyormuş. Buradan bir miktar alıp, daha pahalıya satıldığı {TOWN_NAME}'{.e} götürürsen, adet başına muhtemelen {PRICE_DIFF}{GOLD_ICON} civarı kazanç elde edebilirsin." />
+    <string id="EvvMNX3A" text="Başlayan oyuncu, dört piyondan bir tanesini oyun tahtasından kaldırılması için seçer.{newline}Ardından, diğer oyuncu da bitişiğindeki piyonlardan bir tanesinin kaldırılması için seçim yapar. Eğer başlayan oyuncunun seçtiği piyon ortada ise, diğer oyuncu da ortadaki iki piyondan birini kaldırmak zorundadır.{newline}{newline}Oyun başlıyor." />
+    <string id="Ew11a1Tx" text="Mancınık" />
+    <string id="EWa1R7bv" text="Düşmanlar " />
+    <string id="EWq48MmD" text="{LEFT}: {RIGHT}" />
+    <string id="EWRoIdbA" text="Haydutlar" />
+    <string id="ewUtdIQh" text="s" />
+    <string id="exhusbandbrotherinlaw" text="Eski kayınbirader" />
+    <string id="exhusbandfatherinlaw" text="Eski kayınpeder" />
+    <string id="exhusbandmotherinlaw" text="Eski kayınvalide" />
+    <string id="exhusbandsisterinlaw" text="Eski yenge" />
+    <string id="ExjMoUiT" text="Ahşap" />
+    <string id="exwifebrotherinlaw" text="Eski kayınbirader" />
+    <string id="exwifefatherinlaw" text="Eski kayınpeder" />
+    <string id="exwifemotherinlaw" text="Eski kayınvalide" />
+    <string id="exwifesisterinlaw" text="Eski yenge" />
+    <string id="ey5OcaGI" text="Kalkanlarla kullanılamaz" />
+    <string id="eyMU7X0e" text="Sen bir lordsun ve oy kullanıyorsun. Hükümdar en son oy kullanacak ve sonuca karar verecek." />
+    <string id="EZLs7hLL" text="Hey! Dur! Gümüşlerini sökül. Burada oyun oynamıyoruz." />
+    <string id="EzrK2tnA" text="Savaştayken ordunu yönetemezsin" />
+    <string id="F4RMyaR5" text="{PARTY} ile karşılaştın." />
+    <string id="F5UPr9jh" text="Hepsini Al" />
+    <string id="f6gSyvnC" text="Düşmanları yay ve ok kullanarak vur. Uzun mesafeden zor atışlar yap." />
+    <string id="f6pjlKdz" text="Dün" />
+    <string id="f7t4saJu" text="Değer" />
+    <string id="F8g1TzoX" text="{SETTLEMENT_NAME}'{.nin} dışındasın. Kale kapısının üzerinde {LORD.LINK}'{.nin} sancağının dalgalandığını görüyorsun." />
+    <string id="Fa16r8MN" text="Tutsağı İdam Et" />
+    <string id="Fa2nKXxI" text="Vali" />
+    <string id="faYiCHXK" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} ok menziline giriyor." />
+    <string id="FbcC2loc" text="Kendinden geçtin ve zafer rakibinin oldu!" />
+    <string id="fd35ahzV" text="&lt;b&gt;Ateşli Balista&lt;/b&gt;{NEWLINE}Uçları katrana bulanmış olan oklar atar.{NEWLINE}Bu oklar düşmanın kuşatma aletlerine ve ahşap yapılarına ateş hasarı verdiği gibi, askerlere karşı da ölümcüldür." />
+    <string id="FD9abtTo" text="Eğer 100&lt;img src=&quot;Icons\Coin@2x&quot;&gt; bahis oynar ve kazanırsan, {NORMALIZED_EXPECTED_GOLD}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; elde edersin." />
+    <string id="FdTd3yIx" text="Yaptığın değişiklikler uygulanamıyor. Ayarları sıfırlamak ve ekranı değiştirmek ister misin?" />
+    <string id="fEJQcb4U" text="Sadakat Yönelimi" />
+    <string id="fEqd7jXj" text="{EFFECT_NAME}: +{NUM}" />
+    <string id="fEu5S6Bd" text="Mesafe" />
+    <string id="fEXuXAl1" text="Ordu Morali: {ARMY_MORALE}{newline}{ARMY_MORALE_ITEMS}" />
+    <string id="FfVdGZsj" text="Erzak üretimine +{BONUS_AMOUNT} bonus" />
+    <string id="Fg9qCGUu" text="Üzüm" />
+    <string id="FjRiPhEI" text="Bozguna Uğramış Birlik" />
+    <string id="FkhJz0po" text="Konum" />
+    <string id="FLa5OuyK" text="Gezgin" />
+    <string id="FLrzc1uk" text="Korkarım gırtlağını kesmemiz gerekecek o halde - prensip olarak elbette. İzinsiz girdiğin için." />
+    <string id="fMmlUHyz" text="Savurma Hasarı: " />
+    <string id="fMSYE6Ii" text="Varsayılan" />
+    <string id="forgeverb" text="Demir Döv" />
+    <string id="Fp68NbYO" text="Krallıklar" />
+    <string id="fpdXZ0fl" text="Asker Alımı" />
+    <string id="FpI5JMZq" text="İşlemler sıfırlandı" />
+    <string id="fpP2s7hX" text="Köy gelişimine +{BONUS_AMOUNT} artış." />
+    <string id="fQ2RLaOa" text="Klanın Hiç Tımarı Yok" />
+    <string id="fQAGU9GW" text="Cömertlik:" />
+    <string id="FqwHAxuM" text="Çift Elli Gönderli Silah" />
+    <string id="frBQ9mbP" text="Güney İmparatorluğu" />
+    <string id="fRCQyBKt" text="Vlandiya süvari atı" />
+    <string id="FRepQsmO" text="Turnuva bir atlı mızrak dövüşü olacak." />
+    <string id="frt7AmX0" text="{MAJOR_PARTY_LEADER}'{.nin} Garnizonu" />
+    <string id="fRu5Y4OT" text="Yaralandım ve ölüme terk edildim" />
+    <string id="FRuzuVyO" text="Klan Seçilmedi" />
+    <string id="FRZfpryn" text="Bu yerleşkeyi başkasına vermek için teklif sun" />
+    <string id="FS78CuPs" text="{ATTRIBUTE_NAME} özelliğine bağlı beceriler şunlardır:" />
+    <string id="FSo6tf7x" text="peynir" />
+    <string id="FVEvjlis" text="Birlik Limiti Aşıldı" />
+    <string id="FvYhaE3z" text="Sancak" />
+    <string id="fwbD1Jqo" text="Satın Al" />
+    <string id="FwlZRESM" text="Milise +{BONUS_AMOUNT} bonus" />
+    <string id="fWwYUOVs" text="Teklifini kabul edeceğiz." />
+    <string id="FxoVjLvl" text="Kalkanlar ve Menzilli Silahlar" />
+    <string id="FxPzcyLN" text="{SUPPORTERNAME}, {CANDIDATENAME}'{.i} destekliyor" />
+    <string id="FZBqNCvd" text="hiç kimse" />
+    <string id="G0AWk1rX" text="Merdiven" />
+    <string id="g0gDsalr" text="Fevri" />
+    <string id="g1KLcfxT" text="Köyde refah hakim. Dolup taşan tahıl çuvalları, sağlıklı hayvanlar ve dolu yük arabaları tarlaların sağladığı bolluğun en güzel göstergesi." />
+    <string id="G4XXubLg" text="bir emire" />
+    <string id="G5yvspkZ" text="Geri çekilemezsin, düello devam ediyor!" />
+    <string id="g7zo28KR" text="{PARTY} ile karşılaştın. Sizin ezici gücünüze karşı hiç şansları yok ve teslim oluyorlar." />
+    <string id="g8nrakuu" text="Yakın Dövüş Silahları I" />
+    <string id="G95mB3b3" text="Şu anda karakter penceresine erişilemiyor!" />
+    <string id="gA5fByM2" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} {#IS_LEFT}{#}sağdaki surları{#}farklı taraflardaki surları{\#}{?IS_MIDDLE}ortadaki surları{?}{\?}{?IS_RIGHT}soldaki surları{?}{\?} tekrar ele geçirmeye çalışıyor." />
+    <string id="gamefinance" text="Mali Durum" />
+    <string id="gAX49b7b" text="Rakibine karşı bir bariyer oluşturdun ama eşit miktarda piyonunuz kaldı. Oyun berabere bitti!" />
+    <string id="GAzaM1RC" text="Eti ve postu için kesilebilir" />
+    <string id="GbbGlcMZ" text="Piyonlar herhangi bir kareye dikey veya yatay yönde hareket edebilir ama başka piyonların üzerinden atlayamaz.{newline}Piyonlar orta karenin üzerine gelemez ve üzerinden geçemez. Şah da orta kareden ayrıldıktan sonra bu kurala riayet eder." />
+    <string id="GbWWelfl" text="Atlar&amp;Koşum Takımları" />
+    <string id="GD4aQgl7" text="Koyun" />
+    <string id="gdraqMso" text="{SETTLEMENT_NAME}'{.nin} dışındasın. İçeri girmen yasak." />
+    <string id="GDugjWao" text="İşte {MONEY}{GOLD_ICON}. Al ve bizi rahat bırak." />
+    <string id="GEyL9Z8b" text="şarap" />
+    <string id="gflnRhhe" text="({PRIMARY_ROLE}/{SECONDARY_ROLE})" />
+    <string id="gfQmYDRq" text="Eşrafı sana asker vermeye zorladığında, halkın bir kısmı sana karşı koymak için toplanıyor." />
+    <string id="gFtu0j4T" text="Ok" />
+    <string id="ggMmjk31" text="Geçersiz" />
+    <string id="ggpRTQQl" text="Birlik Lideri" />
+    <string id="ggrqoGnE" text="{AMOUNT} harca" />
+    <string id="GGuCcMvk" text="savaş atı" />
+    <string id="ggzCiYkk" text="Yükseltme için {VALUE}{GOLD_ICON} gerekiyor." />
+    <string id="gHnfFi1s" text="Emekli" />
+    <string id="GhVXQrYF" text="Askerleri Yükseltme" />
+    <string id="giftverb" text="Hediye" />
+    <string id="gj2HD7M3" text="Kazanmak için hala bir şansın var. Çekilmek mi istiyorsun?" />
+    <string id="gKbGZObs" text="toplam stok" />
+    <string id="GKO2ogal" text="Yolsuzluk" />
+    <string id="gKzLAjXr" text="Ordu bütünlüğü azaldı ve ordunun dağılma ihtimali arttı.{newline}Ordu yönetimi düğmesine tıklayarak ordu bütünlüğünü arttırabilirsin." />
+    <string id="GmcgoiGy" text="Ticaret" />
+    <string id="GNkrUdwb" text="Yardımların için teşekkürler yabancı. Benim adım {CONVERSATION_CHARACTER.LINK}. Seninkini öğrenebilir miyim?" />
+    <string id="GnWy8WAW" text="Sadakat:" />
+    <string id="gNzXoCrq" text="Hadi uza bakalım minik böcek." />
+    <string id="GopVkA1q" text="Kanun Kaçağı" />
+    <string id="gOSpzTrt" text="Orada dur. Bu bir soygun.[if:idle_furious]" />
+    <string id="gPAkLi7l" text="({STR})" />
+    <string id="GPESFoWD" text="Mancınık" />
+    <string id="GPW3ku2Y" text="{?RULER.GENDER}Prenses{?}Prens{\?} {RULER.NAME}" />
+    <string id="Gre2v55i" text="Güç: {POWER}" />
+    <string id="GRX8NjWI" text="Boyut" />
+    <string id="gSVaitFE" text="{SETTLEMENT_NAME}}'{.i} yağmalıyor" />
+    <string id="gsVtO9A7" text="Milis" />
+    <string id="gT5zJaD7" text="Düşman beni yere serdi" />
+    <string id="gTlW1qOB" text="Bu mal ortalamadan %{PERCENTAGE} daha ucuz" />
+    <string id="guardnoun" text="Muhafız" />
+    <string id="GUBcQZ3J" text="Tutsağın Mevcut Uyum Durumu" />
+    <string id="gY8kkujq" text="Savaş sona erdi! Çıkmak için tab tuşuna bas... " />
+    <string id="gYATKZJp" text="%{NUMBER}" />
+    <string id="GYhHacVk" text="Vuruş için 1 puan kazandın!" />
+    <string id="gZmQvtxm" text="Koçbaşı Çatısı" />
+    <string id="h03DZtbc" text="Koşum Atı" />
+    <string id="H0o13D7a" text="Dükkanlar" />
+    <string id="H1emUb6k" text="Yaş:" />
+    <string id="H4rAiNlf" text="Kendi üzerine {BET_AMOUNT} bahis oynadın ve dövüşü kazandın. İşte ödülün {REWARD_AMOUNT}{GOLD_ICON}." />
+    <string id="h60wQVVX" text="Mızrak" />
+    <string id="h6AJXR2e" text="Birliğini geri çekmek istediğine emin misin?" />
+    <string id="h8Bcd7NE" text="{FACTION} Hükümdar Seçimi" />
+    <string id="H9y9dLao" text="Alacağın ödülü arttırmak için altınla bahse girebilirsin. Her turda oranlar farklı olur ve her seferinde {MAX_AMOUNT}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; bahse girebilirsin." />
+    <string id="haax8kMa" text="Gönderli Silah" />
+    <string id="hAgZBZP8" text="Çekil" />
+    <string id="haLX0kbG" text="Devam etmek için tıkla" />
+    <string id="hbeUbpEA" text="İptal etmek istediğine emin misin?" />
+    <string id="HcAV8x7p" text="Birlik Üyesi" />
+    <string id="HCZ5XSEL" text="{?IS_POSITIVE}+{?}-{\?} {NUMBER}" />
+    <string id="HD2wzAxz" text="Sturgiyalılar, Kalradya'nın kuzeyindeki yabancı kabilelerin soyundan gelirler. İmparatorluk onların soğuk ormanlarına doğru genişleyince, geleneksel olarak avladıkları ve tuzağa düşürdükleri orman hayvanlarının lüks kürkleri için hazır bir pazar buldular. Sturgiyalı kabile şefleri prens oldular ve topraklarına göç eden Kuzeyli paralı askerlerin yardımıyla, üstünlük sağlamak için rekabet etmeye başladılar. İyi avcılar ve gezginler olan Sturgiyalılar, hem ticaret hem de yağma fırsatları bulmak için uzaklara seyahat ederler." />
+    <string id="hDktLs4a" text="Akıllıca ve saygılı davrandın. Gidebilirsin." />
+    <string id="HdTVkcII" text="İnsanlarla ilişkilerini geliştir. Soylularla sohbet et. Takaslar yap." />
+    <string id="HEQ2zEei" text="Geri al" />
+    <string id="hEWuE0Ch" text="Komutan sensin. Savaş sırasında bütün birliklere emir verebilirsin." />
+    <string id="hfSW9FTN" text="Menzilli Silahlar V" />
+    <string id="HGBuP0wy" text="Bu tutsak {CONFORMITY_AMOUNT} uyum kazandığında, bir tutsak daha askere alınmaya hazır olacak. Tutsaklar saat başı {CONFORMITY_PER_HOUR} uyum kazanır." />
+    <string id="HiSzYWeh" text="Bira" />
+    <string id="hJypvWMR" text="Arıt" />
+    <string id="HkfY3Ds5" text="Gövde Zırhı" />
+    <string id="HkZ4E94O" text="Kuzait konfederasyonunu meydana getiren bozkır kabileleri eskiden göçebe bir yaşam sürerlerdi ama yakın bir zamanda İmparatorluğun doğu sınırına yerleştiler ve yavaş yavaş kalıcı kent merkezleri olan bir tarım topluluğuna dönüşüyorlar. Buna rağmen, atlara olan yakınlıkları da dahil olmak üzere, göçebe yaşamlarının birçok unsurunu korumaya devam ediyorlar. Atlı okçulukta ve oklarını atıp dörtnala uzaklaşmakta ustalar." />
+    <string id="hL3JIQbd" text="Savaşta bu birliğe önderlik et." />
+    <string id="HmbvM9Na" text="Mevcut maçı atlamak istiyor musun?" />
+    <string id="HMgrtLYa" text="Şampiyonun düelloyu kaybetti. Bu yenilgi ordunun cesaretini kırdı. Birliğin moral kaybetti." />
+    <string id="hMIjbLjt" text="hanımefendi" />
+    <string id="hmlUJaDa" text="Memnun oldum {PLAYER.LINK}. Benim adım {CONVERSATION_CHARACTER.LINK} ve sana borçluyum. Eğer herhangi bir konuda yardıma ihtiyacın olursa, haber vermen yeter..." />
+    <string id="HNBAw1uO" text="{PARTY} {AMOUNT_TO_ADD} nam kazandı. {CLAN}'{.nin} yeni namı {NEW_RENOWN}." />
+    <string id="HNqy4Ctc" text="Bir sorunu çözmekte olan bir yoldaşı atamazsın." />
+    <string id="ho5EndaV" text="Karar" />
+    <string id="homesettlement" text="Ev" />
+    <string id="hometab" text="Ana Sayfa" />
+    <string id="HP9wMk1T" text="Şu anda birlik penceresine erişilemiyor!" />
+    <string id="HPe7HaZx" text="Tutsak Fidyeleri" />
+    <string id="hqIIEur1" text="{ARMY} ile karşılaştın." />
+    <string id="hSsS5xAa" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} diğer kuşatma aletlerinin gelmesini bekliyor." />
+    <string id="HuCClZqT" text="Ücret" />
+    <string id="husbandbrotherinlaw" text="kayınbirader" />
+    <string id="husbandfatherinlaw" text="kayınpeder" />
+    <string id="husbandmotherinlaw" text="kayınvalide" />
+    <string id="husbandsisterinlaw" text="yenge" />
+    <string id="hVmamTJX" text="Erzak çeşitliliğinden birlik morali kazan (İaşeci). Yerleşkenin refahını arttır ve projeler inşa et (Vali)." />
+    <string id="HWSKCne0" text="Bir projeyi hızlandırmak inşaata +{BOOST} ekler ve günde {COST}&lt;img src=&quot;Icons\Coin@2x&quot;&gt; tutar. " />
+    <string id="Hx47TGrA" text="Zor" />
+    <string id="hYgmzZJX" text="Dinar" />
+    <string id="HYVQKIhh" text="Savunan Tarafın Ordusu" />
+    <string id="HZ8ws4qX" text="Paralı Askerlik Hizmeti" />
+    <string id="hZ9eNwFZ" text="Getiriler genellikle çiftler halinde açılır.{newline}{newline}Her biri farklı bonuslar verir, dolayısıyla seçimini dikkatli yapmalısın." />
+    <string id="hzflo2kJ" text="Bir kere daha canımızı kurtardın {PLAYER.LINK}! Sen gerçekten çok iyi bir dostsun." />
+    <string id="i0H8WLRx" text="Yönetici bir klanı atamazsın." />
+    <string id="I2YhWaIt" text="Mallar" />
+    <string id="i30TCtj2" text="DURAKLATILDI" />
+    <string id="I42QtISB" text="Ana kahramanı klandan atamazsın." />
+    <string id="I4BbOX46" text="{ARMY_LEADER}'{.nin} ordusundasın." />
+    <string id="i4g81l3E" text="İlişki: {NUM}" />
+    <string id="I8xMpWxO" text="Gözü pek" />
+    <string id="IagYTD5O" text="Refah" />
+    <string id="IbGNaL0H" text="{HERO.LINK}   Seviye: {LEVEL}" />
+    <string id="IbkODMHV" text="İzleri ve sığınakları sapta. Zor arazilerde seyahat et. (İzci)" />
+    <string id="IcgVKFxZ" text="Hükümdar" />
+    <string id="iCirZbD8" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} kale surlarından atış yapıyor." />
+    <string id="icmyseoo" text="Lordum" />
+    <string id="IcQ2doLo" text="x{QUANTITY}" />
+    <string id="id62me1x" text="&quot;Kuşatma&quot; seçeneğine tıkla" />
+    <string id="If65Vm9h" text="Çocuk Eğitimi" />
+    <string id="IF7zS5ia" text="Tutsak limitini aştın.{newline}Tutsaklarını geçici olarak elinde tutmaya devam edeceksin ama bir süre sonra birliğinden hızla kaçacaklar. Ayrıca yavaşlayacaksın.{newline}Emin misin?" />
+    <string id="iFg5N7r3" text="Tek Elli Silah" />
+    <string id="Igoid3sR" text="Bu klanı krallıktan atmayı teklif et (%{SUPPORT})" />
+    <string id="ihVHfUFT" text="Formasyon" />
+    <string id="iisvVbDI" text="Hepsini Satın Al" />
+    <string id="IjMel5eg" text="Bütün tutsakları tek seferde satabilirsin.{newline}{newline}Ya da tek tek seçmek için fidye simsarıyla etkileşimde bulunabilirsin." />
+    <string id="IK2IPJi1" text="Tuz" />
+    <string id="iKUXVaFf" text="Nüfuz maliyeti: {reg0}" />
+    <string id="iKzyJHiD" text="Üzgünüm, şu anda ticaret konusunda sana verebileceğim iyi bir tüyo yok." />
+    <string id="iLcfZ71B" text="İkna" />
+    <string id="iLD5Lkto" text="Ateşli Mancınık" />
+    <string id="ilE6nmWh" text="Sonbahar {DAY}, {YEAR}" />
+    <string id="ilhkpKfp" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} at sırtında savaşıyor." />
+    <string id="ImJ4hdke" text="Yeni Politika Teklif Et" />
+    <string id="iNDKwJYJ" text="Asker Yükseltme Tecrübe Puanı Maliyeti" />
+    <string id="InGwtrWt" text="Çık" />
+    <string id="inKr3PbA" text="Ordular" />
+    <string id="iNriAkLl" text="Hızı arttırmak için kullanılır" />
+    <string id="ioKVFDcQ" text="{?AND} {?}ve {\?}{SENTENCE_3} " />
+    <string id="ioKwRFcj" text="Barış yapmayı değerlendir (Destek: %{SUPPORT})" />
+    <string id="iOLa5rjZ" text="Tahıl, genellikle satın alabileceğin en ucuz besindir.{newline}{newline}Diğer erzak türleri, tüketildiğinde çeşitli bonuslar verebilir.{newline}{newline}Bir miktar erzak al." />
+    <string id="IoLK7Lec" text="Üs büyüklüğü" />
+    <string id="iORENG5d" text="Paralı askerler politika öneremezler." />
+    <string id="IOtAJCVw" text="Toplam Nüfuz: {TOTAL_INFLUENCE}" />
+    <string id="ip5xbG4t" text="İç kesimlerde yetişen binek atı" />
+    <string id="IPjqLEdQ" text="{DAY} gün önce" />
+    <string id="IQ4bSdf5" text="Yenge" />
+    <string id="iQao7Ct6" text="Açlık Çeken Birlikler" />
+    <string id="iRo4meJR" text="Şu anda ansiklopediye erişilemiyor!" />
+    <string id="Is3O8NXW" text=" ({NUMBER_OF_MEN}+{NUMBER_OF_WOUNDED_MEN}w)" />
+    <string id="ISJ8Tt8a" text="{COUNT} parça {ITEM}" />
+    <string id="itLpRUtF" text="Klanda birlik için hiç boş yer yok." />
+    <string id="ITTGMEUJ" text="Hurma" />
+    <string id="Itv3fgJm" text="Tahıl" />
+    <string id="itvLr7dL" text="Al" />
+    <string id="iUTXqFmm" text=" ve yakınlardaki {VILLAGE_NAMES} {?VILLAGE_COUNT}köyleri{?}köyü{\?}" />
+    <string id="IuWu5Bu7" text="Cömertlik" />
+    <string id="IUxlDj4s" text="Tümünü Rastgele Seç" />
+    <string id="iVEZrZzs" text="Öncü birlikte savaş" />
+    <string id="IvrBQHRp" text="Yakın Dövüş Silahları" />
+    <string id="IwpFM2CJ" text="Turnuva at yarışı turnuvası olacak." />
+    <string id="IXCjqxr9" text="Sturgiya avcısı" />
+    <string id="IXwOaa98" text="Birlik Büyüklüğü" />
+    <string id="iYCR3xuQ" text="Sturgiya Prensliği" />
+    <string id="iyob7aH3" text="Konumunu koru" />
+    <string id="izKWEAbY" text="Klanın Ek Geliri Yok" />
+    <string id="J0hYxaaa" text="Tabii, sana bir tüyo vereyim. Daha demin {SETTLEMENT}'{.den} {BUY_COST}{GOLD_ICON} dinara {ITEM_NAME} aldım ve {DESTINATION}'{.e} gidip {SELL_COST}{GOLD_ICON} dinara satacağım." />
+    <string id="J3ACAwbt" text="Rakibin sana karşı bir bariyer oluşturdu ama senin daha çok piyonun kaldı. Oyunu kazandın!" />
+    <string id="J3L0MuEU" text="Savaş kaybedildi. Sonuçları görüntülemek için {leave_key} tuşuna bas." />
+    <string id="j4F7tTzy" text="Klan" />
+    <string id="j4IdJPkE" text="At Sırtında Doldurulamaz" />
+    <string id="J4NmLqib" text="Bitti" />
+    <string id="J5961cx8" text="Önemli ölçüde yavaşlayacaksın. Dikkatli ol." />
+    <string id="J7DnK8Kv" text="Bugün senin şanslı günün değil dostum. Gümüşlerini sökülmeye ne dersin? Kimsenin gırtlağını kesmek zorunda kalmak istemem." />
+    <string id="j9Weia10" text="Kolay" />
+    <string id="JAFIo7cM" text=":" />
+    <string id="jbQ3LYBl" text="imparator" />
+    <string id="JbTCDDb0" text="Kundaklı Yay Oku" />
+    <string id="jCbYaCcg" text="Memnun oldum {PLAYER.LINK}. Ben {CONVERSATION_CHARACTER.LINK}. Yardımların için teşekkür ederim, umarım tekrar görüşürüz." />
+    <string id="Jd0Kq9lD" text="Kalkan" />
+    <string id="jd4ULLGr" text="Aktif Görevler" />
+    <string id="JdNTRtpJ" text=" Birliğinin moralini yüksek tut. Ordular topla ve yönet. " />
+    <string id="jEaglTuQ" text="İmparatorluğu birleştirdin!" />
+    <string id="Jelvod71" text="Ele Geçirme" />
+    <string id="jfIbp2Hg" text="Fayda: " />
+    <string id="JflqTj4T" text="Diğer" />
+    <string id="JG2bgZMM" text="Müttefik {TARGET_FORMATION}{.nin} önünde savaş" />
+    <string id="jGFEbaex" text="Zar" />
+    <string id="JGk5MJkN" text="Serbest Puanlar" />
+    <string id="Jh7sayJB" text="Başarısız Olma İhtimali" />
+    <string id="JHBEwYGT" text="Kentli tarafından satın alındı" />
+    <string id="JHbVw0BJ" text="Lonca Başkanı" />
+    <string id="jhosdZaX" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} kalenin önemli noktalarını koruyor." />
+    <string id="jIcGy6gI" text="{LEFT} : {RIGHT}" />
+    <string id="jiKRLWD4" text="Ansiklopedide göster" />
+    <string id="JKH59XNp" text="Hekimlik" />
+    <string id="JkpSoFQ8" text="Karşı Tarafa Verilen Zayiat" />
+    <string id="JkVV4vUs" text="Sohbeti başlatmak için konuş düğmesine tıkla." />
+    <string id="jlgjLDo7" text="Garnizon" />
+    <string id="jM9KGCIa" text="{?RULER.GENDER}Emire{?}Emir{\?} {RULER.NAME}" />
+    <string id="JnoB0RZ4" text="Onu idam et" />
+    <string id="jnTQbSsH" text="Köyde insanların sana karşı koymak için toplandığını görüyorsun. Ne yapmak istiyorsun?" />
+    <string id="joICaqvo" text="Atanmamış" />
+    <string id="JP7LTAsa" text="Güzel! Güzel! Şimdi git bakalım! Hadi yoluna![ib:closed][rb:positive]" />
+    <string id="jpBpwgAs" text="Kaleler" />
+    <string id="jPwa1oOm" text="Gümüş" />
+    <string id="JQarnWiz" text="Bunun için yeterli malzemen yok." />
+    <string id="jQGcUobB" text="Sivil" />
+    <string id="JQOUUVct" text="Duraklat" />
+    <string id="jsf7b6bD" text="Tutsağı İdam Etmek" />
+    <string id="JSokBXER" text="Zırhlı Piyade" />
+    <string id="jSXE0Gbj" text="Burada az sayıda köylü var ve korku içinde dağılıp kaçışıyorlar. Köy senin insafına kalmış durumda." />
+    <string id="jtN3ayKE" text="Öncelikli Üretim" />
+    <string id="jtqfplDk" text="keten kumaş" />
+    <string id="JTyC3Xra" text="Eli Sıkı" />
+    <string id="Ju9ZiFT2" text="Yakın Dövüş Silahları V" />
+    <string id="jx8ohENz" text="Zırh Ustası" />
+    <string id="jy9orOJz" text="Oyna" />
+    <string id="jZYUdkXF" text="Çok aç" />
+    <string id="K0mlQblA" text="Ordunun günlük erzak tüketimi" />
+    <string id="K0XVOalL" text="Mevcut Bahis" />
+    <string id="K2G3XJwZ" text="Asabi" />
+    <string id="k3LajvfJ" text="Sancak Düzenleyici" />
+    <string id="k4TcX1wT" text="{HOUR_PREPARATION_TIME} saat" />
+    <string id="K5uR5HVX" text="Daha fazla bilgi için '{EXTEND_KEY}' tuşuna bas." />
+    <string id="K6GYskvJ" text="Medeniyet:" />
+    <string id="k6tT1vIg" text="Atlı mızrak dövüşü sona erdi ve bugün rakibine mağlup oldun..." />
+    <string id="k7ig2JvK" text="bir baron" />
+    <string id="k8ocninL" text="Orada dur bakalım - yavaş ol. Yüce ve ebedi gökyüzü bu toprakları bize bahşetti. Bizim iznimiz olmadan hiç kimse buradan geçemez." />
+    <string id="k8PxNh7x" text="Kalkan V" />
+    <string id="k8QpbFnj" text="Pelerin" />
+    <string id="k9QvIYaR" text="Odak puanları herhangi bir beceriyi öğrenme hızını arttırmak için kullanılır." />
+    <string id="ka7vAxgo" text="Düşman {TARGET_FORMATION} birliğine saldır" />
+    <string id="KafFddmO" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} generali koruyor." />
+    <string id="KawqKhwh" text="Ağır Zırh" />
+    <string id="KC5AZohd" text="Selamlar gezgin. Ormanımıza hoş geldin. Küçük bir ücret almamız gerekecek." />
+    <string id="KcQiDE6b" text="{SETTLEMENT_NAME}'{.de} şu fiyata satılabilir: {SELL_PRICE}" />
+    <string id="kdV0tx9K" text="Merhaba gezgin. Umarım para keseni yanında taşıyorsundur. Gördüğün gibi biz eşkıya olarak adlandırabileceğin kişilerdeniz ve korkarım bize biraz para ödemeden geçmene izin veremeyiz.[if:convo_delighted]" />
+    <string id="kDV7wCtI" text="Tamamlanma Süresi: {PREPARATION_TIME}" />
+    <string id="KFGfTXqE" text="Yük Beygiri" />
+    <string id="kftE5nvv" text="At Zırhı" />
+    <string id="KGH8rjOP" text="Yağmalamak için {SETTLEMENT_NAME}'{.e} gidiyor" />
+    <string id="KGHlXL8H" text="Pekala - bu toprakları kanınla temizleyeceğiz." />
+    <string id="KGjFnVsR" text="Kavramlar" />
+    <string id="kgqCVvIb" text="kardeşim {REFERING_HERO.LINK}" />
+    <string id="kHC5EjDJ" text="Kent Bonusu" />
+    <string id="kHC5EjEJ" text="Küçük Grup Bonusu" />
+    <string id="Khr5yETv" text="Aseray halkı, Nahasa Çölü'nde yaşayan göçebe bedevilerin ve yerleşik vaha çiftçilerinin karışımından meydana gelir. Binicilikleriyle ve kıtanın en kazançlı ticaret yollarında yer almaktan kaynaklanan, özellikle tıp alanındaki bilgi birikimleriyle tanınırlar. Her klan soyundan büyük bir gurur duyar ve diğer klanları kıskanır, ancak etkileyici bir lider tarafından bir araya getirildiklerinde, güneyde büyük bir güç haline gelirler." />
+    <string id="ki5DqTtC" text="Yerleşke refahına +{BONUS_AMOUNT} artış." />
+    <string id="kIAsKjp1" text="Welcome to Mount&amp;Blade II: Bannerlord Gamescom demo!{newline}This demo showcases the mid-game features of Bannerlord!{newline}You are free to resolve issues, conquer settlements, govern cities, join tournaments, trade or just hang around in the game world. {newline}Have fun and don't hesitate to ask if you have any questions." />
+    <string id="KiJd6Xik" text="Hareket" />
+    <string id="KiVCv1Bx" text="{SETTLEMENT_NAME}'{.i} kuşatıyor" />
+    <string id="KJDqOGEU" text="Planımız, başka bir gün savaşmak üzere geri çekilip yeniden düzen almak." />
+    <string id="KkaVpLXd" text="Bu politikayı yürürlüğe koymayı değerlendir (Destek: %{SUPPORT})" />
+    <string id="klZnvb15" text="Karakter" />
+    <string id="kM1Y8XT0" text="Hayal kırıklığına uğramayacaksınız {?PLAYER.GENDER}hanımım{?}beyim{\?}. Kalradya'nın hiçbir yerinde bizden daha iyi savaşçılar bulamazsınız.[rb:very_positive]" />
+    <string id="koX9okuG" text="Hiçbiri" />
+    <string id="kQMtOPye" text="Kuşat" />
+    <string id="KQQaoouG" text="(Bitti)" />
+    <string id="kRKYHQ6V" text="Bir piyon istifi ana karesine geldiğinde, istifi kontrol eden oyuncunun bütün piyonları eline döner ve yeniden kullanılabilir hale gelir. Diğer oyuncuya ait piyonlar oyundan çıkarılır." />
+    <string id="krmvzGaV" text="Nasıl Oynanır" />
+    <string id="kRraos2Z" text="Benim bölgemde sorun çıkardın... Bu hiç hoşuma gitmedi." />
+    <string id="krtuDr9P" text="Yeni SandBox" />
+    <string id="KSaxvbs9" text="Haritada göster" />
+    <string id="ktFeXrXl" text="Hiçbir hamle yapamazsın. Tur atlanıyor." />
+    <string id="KTGG9EgL" text="İyi yolculuklar! Dikkat et de bizden başka hiç kimse seni soymasın!" />
+    <string id="Ktk2FaFn" text="Birlikler ({CURRENT}\{LIMIT})" />
+    <string id="KUEHAD4U" text="Görevler" />
+    <string id="kUh3nsAF" text="Sancağın üçüncü ve son parçasını buldun!" />
+    <string id="kuKad3dj" text="{MISSION_MODE}" />
+    <string id="kuLjsNgz" text="Kırsal Bölge Eşrafı" />
+    <string id="kVLfRWjE" text="Garnizon ücretlerinde +%{BONUS_AMOUNT} indirim." />
+    <string id="kVTJbB7k" text="çöl atı" />
+    <string id="kvykuTJS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} kuşatma silahlarına saldırıyor." />
+    <string id="kwKT6zKq" text="Birliğinin yapması gerekenler: {BEHAVIOUR_NAME_BEGIN}{?IS_PLURAL} ve {?}{\?}{BEHAVIOUR_NAME_END}" />
+    <string id="KWXEMsHC" text="{LORD.LINK}, {SETTLEMENT_NAME}'{.de}" />
+    <string id="kx7q8ybD" text="Kol Zırhı" />
+    <string id="kX8svveF" text="Bu malın maliyeti ortalama fiyatına yakın" />
+    <string id="kx8ZfaST" text="Tamam. Hayatına ne kadar değer veriyorsun?[ib:hip][rb:trivial]" />
+    <string id="kXno6ZuU" text="Savaş sona erdi..." />
+    <string id="kyiibFu2" text="Savaşı kazandın!" />
+    <string id="KZAQHSa2" text="Ancak, refahın herkese eşit fayda sağlamadığı belli. İnsanlar öfkeli görünüyorlar ve kırsal göçmenlerden, yükselen fiyatlardan ve haksız kazanç elde eden kişilerden sürekli şikayet ediyorlar." />
+    <string id="KZdUZcQC" text="kürk" />
+    <string id="l4uTnJct" text="Bir sonucu ve bu sonucu ne kadar desteklemek istediğini seçmelisin." />
+    <string id="l6a3grfK" text="senin birliğin" />
+    <string id="L7teSXvq" text="Bir orduyu yönetmek için o ordunun lideri olman gerekir." />
+    <string id="L7wn49Uz" text="Diplomasi" />
+    <string id="lAgfGeXJ" text="Krallık" />
+    <string id="LAo4HM0z" text="kadife" />
+    <string id="LApMSsnb" text="Odak Puanları" />
+    <string id="laV5aNhK" text="Benzersiz" />
+    <string id="lAWwcO6b" text="Vlandiya Krallığı" />
+    <string id="lb13ceVM" text="{?RULER.GENDER}Yüce Kraliçe{?}Yüce Kral{\?} {RULER.NAME}" />
+    <string id="lbdSaDpI" text="Kalan Süre" />
+    <string id="lBn2pSBL" text="Üyeler" />
+    <string id="LBNzsqyb" text="Tımarlar" />
+    <string id="LBy6YDMV" text="Tekrar toplan" />
+    <string id="Lc1vIEnM" text="Kurtlar ve koyunlar her turda bir kare olmak üzere, tahtanın üzerindeki çizgilerde kaydırılarak hareket ettirilir." />
+    <string id="LcrlI57W" text="Sturgiya koşu atı" />
+    <string id="LEC8NhCV" text="Politikalar" />
+    <string id="lFlDCKLW" text="İmparatorluk savaş atı" />
+    <string id="lfMgaBiJ" text="Seni öldürmediğimize değmesini sağla." />
+    <string id="Lg3zeoYi" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} {#IS_LEFT}{#}sol{#}birçok{\#}{?IS_MIDDLE}orta{?}{\?}{?IS_RIGHT}sağ{?}{\?} kanadı koruyor." />
+    <string id="LGa98fMQ" text="sığır" />
+    <string id="lh1yhgXw" text="At Ekipmanı V" />
+    <string id="lihYjOSc" text="adet" />
+    <string id="liiohtmi" text="savaş devesi" />
+    <string id="LJ6Krlbr" text="İzcilik" />
+    <string id="lj8XH6O7" text="Şu anda krallık penceresine erişilemiyor!" />
+    <string id="ljcHO6PW" text="Güvenlik Yönelimi" />
+    <string id="LJwKdMdw" text="Rakibinin pozisyon almasını bekle" />
+    <string id="LL6GkIfg" text="Eğer devrilmeden {OPPONENT_COUNT_1} rakibi yenebilirsen, {PRIZE_1}{GOLD_ICON} kazanırsın. En az {OPPONENT_COUNT_2} rakibi yere serersen {PRIZE_2}{GOLD_ICON}, {OPPONENT_COUNT_3} rakibi yenebilirsen {PRIZE_3}{GOLD_ICON} ve {OPPONENT_COUNT_4} rakibi mağlup edecek kadar ayakta kalabilirsen de {PRIZE_4}{GOLD_ICON} alırsın. Eğer ayakta kalan son dövüşçü olmayı başarırsan, {PRIZE_5}{GOLD_ICON} tutarındaki büyük ödülü kazanırsın. Kulağa güzel geliyor, değil mi?[rb:trivial]" />
+    <string id="Ll90uaxu" text="Başarılı Kuşatmalar" />
+    <string id="LmwhFv5p" text="Et" />
+    <string id="lnKAqDVM" text="Önemli konumu koru" />
+    <string id="lockverb" text="Kilitle" />
+    <string id="Lp0byzGQ" text="I" />
+    <string id="lpbDPuuW" text="{?RULER.GENDER}İmparatoriçe{?}İmparator{\?} {RULER.NAME}" />
+    <string id="lqm9PfF1" text="{?RULER.GENDER}Kraliçe{?}Kral{\?} {RULER.NAME}" />
+    <string id="lqMQ6GXj" text="Artan Erzak" />
+    <string id="lQQPKo02" text="Bizi arkamızdan gelen düşmanlara karşı korumak için harekete geç" />
+    <string id="lRAaUTjs" text="Bırak" />
+    <string id="lrAnY7Fb" text="Eski Görevler" />
+    <string id="LSsFOEQy" text="Bir günden daha kısa" />
+    <string id="LsZEdD2z" text="Surlar" />
+    <string id="lULBZ714" text="Yağ" />
+    <string id="lvc1Xgf8" text="Handa Çalışan Kız" />
+    <string id="LvM8vCxX" text="Turnuva Düzenleyicisi" />
+    <string id="LwfILaRH" text="At" />
+    <string id="lxLTCX5j" text="Meslek:" />
+    <string id="LymKjMLk" text="Adamların birliğine katıldı" />
+    <string id="lZ1IDnpP" text="Hepsini Ver" />
+    <string id="LZhRP3PM" text="Diğer kuşatma aletlerini bekle" />
+    <string id="Lzmtqif5" text="Ordu Büyüklüğü" />
+    <string id="lznqF0oO" text="Dağılıyor" />
+    <string id="M2b5mtAE" text="Yoldaşı" />
+    <string id="m2YKBbdI" text="Merhaba kayıp koyuncuk. Biz dağların kurtlarıyız ve bize biraz zaman ayırmanı istiyoruz..." />
+    <string id="m355tCEk" text="koyun" />
+    <string id="m6A7RLby" text="Sinsi" />
+    <string id="M6tfHhq7" text="Oy verdin ve hükümdar kararı sonuca bağladı." />
+    <string id="m6uSOtE4" text="Yeterli miktarda paran yok." />
+    <string id="M9p0vPad" text="Adını duydum... {COMMENT_STRING_MAIN}" />
+    <string id="m9vD3VlN" text="Bu birlik büyümeyecek veya küçülmeyecek. Olduğu gibi kalmaya çalışacak." />
+    <string id="MaBSSg7I" text="Koçbaşı" />
+    <string id="MacceKIX" text="{NAME}'{.nin} {RELATION_TEXT}{.i}" />
+    <string id="mAxXKaXp" text="Sıfırla" />
+    <string id="mbS0DkUo" text="Baskın" />
+    <string id="mbT1uNPa" text="Hançer" />
+    <string id="Mc8ojOGn" text="Ocaklar" />
+    <string id="MciIqod6" text="Koltuklanmış Kargı" />
+    <string id="mDbaNQay" text="Atını ileri sür ve rakibine vurmaya çalış!" />
+    <string id="MeQmoYb4" text="Bu askeri almaya yetecek kadar ilişkin yok. {newline} Sahip olduğun ilişki {REL1}. Gereken ilişki {REL2}." />
+    <string id="MFLAvq4Z" text="İçeride haydutlar var. Saldırmak istiyor musun?" />
+    <string id="MfnYoLdc" text="Giderler" />
+    <string id="MGv4Uabd" text="Kendi üzerine {BET_AMOUNT} bahis oynadın ama yenildin." />
+    <string id="mGWrSJLE" text="Haritada bir etkinlikte bulunan bir orduyu dağıtamazsın." />
+    <string id="MHJCuM3N" text="Dur! Yabancı ayaklarınla bu kutsal topraklara basman atalarımızı rahatsız ediyor. Bu konuda ne yapacağız?" />
+    <string id="mieKgbp8" text="Günlük Atış Hızı" />
+    <string id="mIt6k9Rs" text="{ATTACKER} {STATE} {DEFENDER} " />
+    <string id="mJB7knQo" text="Geri çekil" />
+    <string id="mJE0o9Zi" text="Garnizonlar" />
+    <string id="MLmHSSg0" text="Zırhlı Süvari" />
+    <string id="MmNF7sW7" text="Piyonları hareket ettirmek sadece rakibinin piyonlarını ele geçirerek mümkündür.{newline}Ele geçirme, 1 veya daha fazla rakip piyonun üzerinden dikey olarak atlayarak gerçekleştirilir." />
+    <string id="Mms9bbhY" text="{DAY_NUM} gün" />
+    <string id="mNr84Xm1" text="Şu anda klan penceresine erişilemiyor!" />
+    <string id="mOlsoKGK" text="tereyağı" />
+    <string id="mountnoun" text="Binek" />
+    <string id="mPaQzgS0" text="Seni burada görmek güzel {PLAYER.LINK}." />
+    <string id="MpDMaBE9" text="Durma, bize meydan oku. Kafatasından içelim!" />
+    <string id="MPZ40lEk" text="Yenidoğanın Adlandırılması" />
+    <string id="MqCH7R4A" text="Güvenlik" />
+    <string id="MqsWixDp" text="Geri Çekil!" />
+    <string id="MRktqZwu" text="Beceri Odağı" />
+    <string id="MrtzlaYt" text="Savaşlar sırasında Alt tuşunu basılı tutmak, düşman ve müttefik formasyonlarının yerini gösterir." />
+    <string id="mSPDO0Fe" text="Düşmanlar tarafından pusuya düşürüldün. Savaşacak durumda değilsin. Teslim olmaktan başka seçeneğin yok." />
+    <string id="MT4b8H9h" text="Bilinmeyen" />
+    <string id="mtndRgOg" text="İmparatorluğa karşı komplo başlattın!" />
+    <string id="mTTWkewD" text="Ver" />
+    <string id="MUCmJaXQ" text="{FACTION}'{.nin} Hükümdarı" />
+    <string id="MW8rlyfL" text="Fırlatma" />
+    <string id="mwegfVKr" text="Akıllı" />
+    <string id="MWGATOoz" text="Turnuva toplu yakın dövüş olacak." />
+    <string id="MwgcfGsr" text="Bir piyon, üzerinde rakip piyon bulunan bir kareye geldiğinde, rakip piyonu ele geçirir. Ele geçirilen piyon, ele geçiren piyonun altında istiflenir.{newline}En üstteki piyon rakibe ait olduğu sürece bir piyon istifi de yeniden ele geçirilebilir.{newline}Bir piyon, ele geçirme yaptığında, bir sonraki turda kendi ana karesine doğru geri döner." />
+    <string id="MxG4217V" text="Köylü" />
+    <string id="MxmOWsHj" text="Ansiklopedi" />
+    <string id="mXxVf2rb" text="Kitap" />
+    <string id="mZR7eYHa" text="Kalkan I" />
+    <string id="N0MCVBXb" text="Unut Gitsin" />
+    <string id="n3cjEB0X" text="Araçlar" />
+    <string id="n3e3g6Rq" text="Bahis" />
+    <string id="N5fmlTza" text="{LEFT}, {RIGHT}" />
+    <string id="N6O2GtTK" text="Arıtma" />
+    <string id="n6Q6vv5t" text="{GOLD} altın yağmaladın." />
+    <string id="N6QTvjMf" text="Tutsaklar" />
+    <string id="N7w6zi0F" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} geri çekiliyor." />
+    <string id="N84HlDaV" text="{NUMBER_OF} {ITEM} ({AMOUNT}{GOLD_ICON})" />
+    <string id="NaAA5kjG" text="Günde {TRIBUTE} haraç alarak barış yapmayı değerlendir. (Destek:% {SUPPORT})" />
+    <string id="nAaT19CC" text="{?RULER.GENDER}Düşes{?}Dük{\?} {RULER.NAME}" />
+    <string id="NaorUInI" text="Yetersiz Birlikler" />
+    <string id="nbBgbwM2" text="Sırada: {NUMBER}" />
+    <string id="NbgeKwVr" text="Atölyeler" />
+    <string id="NBv29XpJ" text="İçinde bulunduğun orduyu dağıtamazsın." />
+    <string id="nDNOn5o2" text="Ekipman" />
+    <string id="NeWvHjCw" text="Ateşli Balista" />
+    <string id="NF627oiX" text="Kuzey İmparatorluğu" />
+    <string id="Nfm5lLWv" text="{CHILD.NAME} ile hemen ilgilenmen gerekiyor!" />
+    <string id="nfQhamAF" text="Savurma Hızı: " />
+    <string id="NgHSyQem" text="Orduda" />
+    <string id="nHGm1wYg" text="Savaş sona erdi. Sonuçları görüntülemek için {leave_key} tuşuna bas" />
+    <string id="nHkQbLDc" text="Bineklerle kullanılamaz" />
+    <string id="nHSVy0ns" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} {#IS_LEFT}{#}soldan{#}farklı yönlerden{\#}{?IS_MIDDLE}ortadan{?}{\?}{?IS_RIGHT}sağdan{?}{\?} taarruz ediyor." />
+    <string id="NiyNgXMe" text="Bu birlik zaten dağılıyor" />
+    <string id="njnMk5P1" text="Bir Politikayı Reddetme" />
+    <string id="nk0bADtq" text="Bir düello çağrısını reddettin. Bu korkaklık ordunun cesaretini kırdı. Birliğin moral kaybetti." />
+    <string id="nKJAalNl" text="hurma" />
+    <string id="nkzKgspT" text="Garnizonu Yönet" />
+    <string id="NLKmdNbt" text="Ara" />
+    <string id="nMcvafHY" text="Aktif" />
+    <string id="nNDdo3I9" text="Tek Elli Kılıç" />
+    <string id="nnr8sANN" text="{PARTY_LIST_TAG}({COUNT} + {WEAK_COUNT}w)" />
+    <string id="nNRKCYpR" text="Yerleşke etrafındaki topraklar" />
+    <string id="NnZ5w9zm" text="{NUM1} ({NUM2})" />
+    <string id="nojcK4ia" text="{?RULER.GENDER}Yüce Prenses{?}Yüce Prens{\?} {RULER.NAME}" />
+    <string id="Nqac5TV3" text="tuz" />
+    <string id="NqarFr4P" text="Ayarlar" />
+    <string id="NQbqtEqP" text="Maliyet: {COUNT}" />
+    <string id="NqSLYe6b" text="Nam:" />
+    <string id="NqtTPVzn" text="Özellikler" />
+    <string id="NRpwZGxI" text="Asker" />
+    <string id="NSSsxBHV" text="Rastgele Seç" />
+    <string id="NvJru5Tz" text="Sadece Erkekler" />
+    <string id="nVKEUvaC" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} kale mazgallarını kullanıyor." />
+    <string id="nvswKHTZ" text="{GOLD_AMOUNT}{GOLD_ICON} ödedin." />
+    <string id="nxQaab9d" text="{SHOPNAME} ({SHOPTYPE})" />
+    <string id="ny32aoLJ" text="At Ekipmanı II" />
+    <string id="nyGRpJT3" text="Sıra" />
+    <string id="NYHinaEh" text="Savaş sırasında envantere erişilemez!" />
+    <string id="nysBXpEO" text="deve" />
+    <string id="o0OQ5omY" text="Planımız savunmada kalmak." />
+    <string id="o1MtbgEi" text="Çözümlenmemiş Sorun" />
+    <string id="o2ce7bhY" text="Akıllıca." />
+    <string id="O3dhjtOS" text="Kafa Zırhı" />
+    <string id="o5ho2Txg" text="Ordu Bütünlüğü" />
+    <string id="O69Vhqxk" text="Bize ne kadar vereceksin?" />
+    <string id="o7I8qayN" text="Ha! Hayatta olduğunu anlamak için midene sağlam bir yumruk yemek gibisi yok, değil mi? Görünüşe bakılırsa, {OPPONENT_COUNT} rakibi alt etmeyi başardın. Fena değil. Ama bununla para ödülü alamazsın. Senin yerinde olsam oraya dönüp herkese neler yapabileceğimi gösterirdim..." />
+    <string id="O8TpGSDA" text="Kadife" />
+    <string id="O9xpd5bn" text="bir barones" />
+    <string id="ObTSCxra" text="Vasal" />
+    <string id="OBXNbvkK" text="Köylüleri sana malzeme vermeleri için zorlamaya çalıştığında, bir kısmı sana karşı koymak için toplanıyor. Onlarla savaşmak {KINGDOM} ile savaşa neden olur." />
+    <string id="OCGaTxac" text="Turnuva Ödülü" />
+    <string id="OdFPHvtE" text="İsyancılar bu yerleşkeye saldırıyor. Müdahale etmek istiyor musun?" />
+    <string id="ODQmOrIw" text="Emeği Geçenler" />
+    <string id="OEax2Y9c" text="Kervanları yağmala. Haydutları topla ve yönet. Gizlice düşman kentlerine gir. Rüşvet ver. Tutsaklıktan kaç." />
+    <string id="oGflu1jV" text="Kale mazgallarını kullan" />
+    <string id="OGjq7rpg" text="Ürünlerimizi {TOWN}'{.de} bulunan pazara götürüyoruz." />
+    <string id="ogtgc69b" text="Sancak taşıma hakkı kazandın. Sancağın konumunu simgeleyecek ve sana onur getirecek. Hangi sancağı seçmek istiyorsun?" />
+    <string id="OGxk0EXC" text="Turnuva sona erdi. {TOURNAMENT_FINAL_PARTICIPANT_A} son turda {TOURNAMENT_FINAL_PARTICIPANT_B}'{.i} yenerek turnuvayı kazandı." />
+    <string id="oHaWR73d" text="Tamam" />
+    <string id="Ohdrbpiw" text="Vlandiyalı" />
+    <string id="OhLXo0gb" text="Suçlu Vali" />
+    <string id="OIBpCGYv" text="Bu birlik küçülecek. Mevcut hedefi {TARGET_SIZE}" />
+    <string id="OiCCv0EL" text="Köy zor günler geçiriyor. Çiftlik aletleri paslı ve kırık. Tarlaların dış kenarlarını çalılar ve otlar kaplamaya başlamış. " />
+    <string id="OikiOJgf" text="Sancağın ikinci parçasını buldun!" />
+    <string id="oiSW6MyB" text="Göğüs Zırhı" />
+    <string id="OJmC1Ckc" text="Kalan Rakip: {REMAINING_OPPONENT_COUNT}" />
+    <string id="okH55fbn" text="Müttefiklere takviye kuvvetler geldi!" />
+    <string id="OKUTPdaa" text="Seviye" />
+    <string id="ol0rBSrb" text="{STR1}{newline}{STR2}" />
+    <string id="OLKGQGHU" text="Ben {TOWNS}'{.nin} lorduyum." />
+    <string id="OLyjbawD" text="[Daha]" />
+    <string id="ONGv27TH" text="Şimdi yıkıl karşımdan korkak köpek!" />
+    <string id="OnttNMRn" text="Kalkan IV" />
+    <string id="Ooqyo9RB" text="Turu Atla" />
+    <string id="OPhlqUVl" text="Konuş" />
+    <string id="OpSGWdrk" text="Çete Üyesi" />
+    <string id="OqCodBZJ" text="Orada dur köpek! Bize elindekileri göster!" />
+    <string id="oqEV14Lm" text="İmparatorluğun düşmanlarına karşı kurulan komployu destekledin!" />
+    <string id="oRaa1yls" text="Tüketim Maddesi" />
+    <string id="OSZUvWbG" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} hazır." />
+    <string id="ot2M62R8" text="Garnizon askerlerine +{BONUS_AMOUNT} tecrübe puanı bonusu" />
+    <string id="oTGDxKW7" text="{FACTION}'{.e} Karşı Savaş İlan Et" />
+    <string id="OtP3heba" text="Rakibini yendin ve oyunu kazandın!" />
+    <string id="ou9asw1a" text="Savurma {SWING_DAMAGE_TYPE} Hasarı: " />
+    <string id="OviaJ1tA" text="Diğer" />
+    <string id="oVSS2Lp5" text="At Ekipmanı III" />
+    <string id="OWCoBElc" text="{PARTY_NAME} tarafından tutsak alındın." />
+    <string id="owg6SqHF" text="bir emir" />
+    <string id="owTlJjJc" text="Kayınbirader" />
+    <string id="oxbRTiw4" text="binek atı" />
+    <string id="OxiaKT0G" text="Sturgiyalı" />
+    <string id="ozYRUrum" text=" Yaralı askerlerin yerleşkelerde iyileşmesine yardım et." />
+    <string id="P2CRzfV7" text="Yerleşkedeki Dükkanlar" />
+    <string id="p2WBSIa7" text="Bütünlük:" />
+    <string id="P3SJla9F" text="Yağmalanan Köyler" />
+    <string id="p4PIzGTP" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} tepede konumlanıyor." />
+    <string id="p5Rad7i2" text="Savaş Birliği" />
+    <string id="p5YIwIes" text="Husnphree" />
+    <string id="p8amfQyz" text="Paralı askerler klanları atamaz." />
+    <string id="P8BxiiKd" text="Yoksulluğa rağmen pek şikayet duymuyorsun, insanlar değişim umudu besleyemeyecek kadar hırpalanmış görünüyorlar." />
+    <string id="P8Z3zQyy" text="Güvenli" />
+    <string id="pa3E7810" text="Kuşatma Hazırlıkları" />
+    <string id="PAa618xe" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} hücuma geçiyor." />
+    <string id="pB5anEQq" text="Başlangıç pozisyonuna git" />
+    <string id="pbdrFqb3" text="Bu orduyu dağılmaya zorla" />
+    <string id="Pc0zpaGa" text="Bakalım karşımızda kimler varmış... Buralardan geçenlerden vergi alırız gezgin, ister paranla öde ister kanınla." />
+    <string id="pcy8IXDf" text="{?RULER.GENDER}Kraliçe{?}Kral{\?} {RULER.NAME}" />
+    <string id="PDdh1sBj" text="İsim" />
+    <string id="PdXqoa2W" text="{SETTLEMENT_NAME}'{.e} gidiyor" />
+    <string id="PE4nuMc7" text="Bu sayfa, Bannerlord'daki oyun kavramlarını açıklar" />
+    <string id="PEKxMxal" text="Artık kaçabilirsin." />
+    <string id="pEm60xEX" text="Rakibin bir piyonu ele geçirdi." />
+    <string id="pERXhX7A" text="Sancağın ilk parçasını buldun!" />
+    <string id="pftVKkgq" text="Sefer haritasında bir yerleşkeyi takip etmek için adının yanındaki daireye bas." />
+    <string id="pgbC8UkU" text="İsyan" />
+    <string id="pgd7Dp78" text="Meskenler" />
+    <string id="PGXitpMN" text="{SETTLEMENT_NAME} - ({COMMON_AREA_NAME})" />
+    <string id="PHkC8Gia" text="Sat" />
+    <string id="PhoKHbhd" text="Savaş kazanıldı. Sonuçları görüntülemek için {leave_key} tuşuna bas" />
+    <string id="Pia30xtc" text="Kendisi şu anda {TOWN_NAME}'{.de}." />
+    <string id="PiHpR4QL" text="Tek Elli" />
+    <string id="PitdvCJI" text="Valiyi Değiştir" />
+    <string id="PJEuE208" text="Milis:" />
+    <string id="PJNW1UWK" text="Esnaf" />
+    <string id="pJR9zz06" text="Yükseltmeye hazır olan askerler özel bir simgeyle işaretlenir.{newline}{newline} Bazı askerler için iki olası yükseltme yolu olabilir." />
+    <string id="pLZeP6L6" text="Surlara{?IS_GENERAL_SIDE}{?}{SIDE_STRING} taraftan{\?} saldır" />
+    <string id="pm0yiOmv" text="Kazanılan: {DENAR_AMOUNT}{GOLD_ICON}" />
+    <string id="pMb8Pe12" text="Gelin" />
+    <string id="PMnSk81U" text="Savaşmak mı istiyorsun küçük koyun? Öyleyse, boynuzlarını göster bakalım." />
+    <string id="PN4Edq9W" text="Yakın Dövüş Silahları III" />
+    <string id="pn9KNMxb" text="Düşmanlar tarafından pusuya düşürüldün. Ne var ki adamların savaşacak durumda değil. Teslim olmaktan başka seçeneğin yok." />
+    <string id="PNZmPprx" text="Çift Elli Kılıç" />
+    <string id="pOCOS8um" text="Çocuk" />
+    <string id="policypropose" text="Teklif et" />
+    <string id="porKAP64" text="Bu politikadan vazgeçmeyi değerlendir (%{SUPPORT})" />
+    <string id="PpPbWYPB" text="Paralı asker olmaya uygun" />
+    <string id="pPRYdrk7" text="Ordu Yönetimi" />
+    <string id="pq48aN8d" text="Moral: {reg1}" />
+    <string id="pQ9Sxily" text="Tebrikler şampiyon! Hafızalarda yer edecek bir dövüş oldu! Ayakta kalan son kişi olarak elbette en büyük ödülü kazandın: {PRIZE}{GOLD_ICON}." />
+    <string id="PqfS5lgq" text="{ABSORBED_AMOUNT} hasar {ARMOR_AMOUNT} zırh tarafından engellendi." />
+    <string id="pqfz386V" text="Klan Lideri" />
+    <string id="prs0jRAy" text="toplam" />
+    <string id="psjAVdkH" text="Simgeyi Sıfırla" />
+    <string id="pSjnd6PX" text="Düelloyu kaybettin. Bu yenilgi ordunun cesaretini kırdı. Birliğin moral kaybetti." />
+    <string id="PSN8IaIg" text="Kalkanlar" />
+    <string id="pSWt8NXH" text="{SETTLEMENT_NAME} yağmalanıyor (%{RAIDING_PROCESS})" />
+    <string id="pSz4xSqO" text="Kahramanın {SKILL_NAME} becerisinin {MIN_SKILL_AMOUNT} veya daha yüksek olması gerekir." />
+    <string id="pT9TZehy" text="Kamp" />
+    <string id="PUjDWe5j" text="Medeniyet" />
+    <string id="puwXJDa9" text="Refah:" />
+    <string id="PVidxUQ8" text="Erzak Stokları" />
+    <string id="PVUeymMR" text="Devam Ediyor" />
+    <string id="pwFp1A5W" text="Sadist" />
+    <string id="PYaUEZzn" text="Savaş ilan etmeyi değerlendir (Destek: %{SUPPORT})" />
+    <string id="PylbJEe5" text="Adamlar #" />
+    <string id="pzfbPbWW" text="Kaya" />
+    <string id="Q0qrw7F5" text="Odak Ekle" />
+    <string id="q1qpwXpb" text="üzüm" />
+    <string id="Q2alNolf" text="akrabam {REFERING_HERO.LINK}" />
+    <string id="Q2JYjFQl" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} geri çekiliyor." />
+    <string id="q2Y2DHiA" text="Atlı Okçular" />
+    <string id="Q3hlcBa4" text="Parçası" />
+    <string id="Q3KrMlLd" text="HÜCUM!" />
+    <string id="q3mOBLFn" text="Beceri Odağı Seçme" />
+    <string id="Q67Wys0i" text="{SETTLEMENT_NAME}'{.de} devriye geziyor" />
+    <string id="Q7ONA10T" text="&lt;b&gt;Trebüşe&lt;/b&gt;{NEWLINE}Biraz isabetsizdir ama surlara karşı çok etkilidir." />
+    <string id="Q8mI3b4K" text="Politika Seçilmedi" />
+    <string id="QA8Gm9PY" text="Sıcak bir gün, değil mi? Savaşarak kendini yorma. İstediğimizi ver de gidelim." />
+    <string id="qaDIU0XC" text="Yüce Batanya Krallığı" />
+    <string id="qaueUlAp" text="Güzel. Dikkatli ol. Dünya hırsızlarla dolu ve hepsi bizim kadar nazik değil.[ib:closed][rb:positive]" />
+    <string id="QAv3upYr" text="Pelerin" />
+    <string id="qb31gnpr" text="Klan Lideri Bonusu" />
+    <string id="QBbBahLv" text="Yolculuğuna devam etmene izin veriyoruz." />
+    <string id="QBPrRdQJ" text="Cerrah" />
+    <string id="qC4OsBt1" text="Köyler (Kuşatma Altında)" />
+    <string id="QdDkviGe" text="Seviye V" />
+    <string id="qDSda1OI" text="{DAY} gün" />
+    <string id="QE1XRyUP" text="Kuşatma aletleri yapım hızına +{BONUS_AMOUNT} bonus" />
+    <string id="qe686AAn" text="Hükümdar sensin. Son karar senindir ve her şeyden üstündür." />
+    <string id="QeeK2rge" text="sen" />
+    <string id="qeKskdiY" text="Tablut" />
+    <string id="QewGND2m" text="Hazırlıklar" />
+    <string id="QFMshJaj" text="{SETTLEMENT} yakınlarında toplanıyor" />
+    <string id="qfzkMuLj" text="Zanaatçı" />
+    <string id="qg0WttZb" text="Bir krallığın parçası olmalısın" />
+    <string id="Qg5suamT" text="{FIGHTER_NAME} üzerine {BET_AMOUNT} bahis oynadın ama yenildi." />
+    <string id="QGaIYQpg" text="Balık" />
+    <string id="qgHblOq4" text="Bir pusu gördün." />
+    <string id="qgL4P2vO" text="Kentte refah hakim. İnsanlar tok ve nispeten rahat görünüyorlar." />
+    <string id="QgUej8DP" text="Aktif Görev Yok" />
+    <string id="qhhLVJAC" text="&lt;b&gt;Hazırlıklar&lt;/b&gt;" />
+    <string id="qIvDX0JR" text="Orta" />
+    <string id="QLM6DWHB" text="Aktif Görev(ler)" />
+    <string id="qlw2LWgu" text="Menzile girin" />
+    <string id="qM8daraD" text="Toplam beceri puanı: {CURRENT_SKILL_POINTS}" />
+    <string id="QmaVRAkx" text="Bütün ücretleri ödeyemedin; birliğin {reg1} moral kaybetti." />
+    <string id="qMhCpq9k" text="Birlik Limiti Aşıldı" />
+    <string id="Qn3DCH3d" text="Toprak Sahibi" />
+    <string id="QndVFTbx" text="Çıkar" />
+    <string id="qnxJYAs7" text="Birlik" />
+    <string id="QOlM6RqO" text="mücevherat" />
+    <string id="qpmpTdla" text="Eşraf" />
+    <string id="QPoA6vvx" text="Gelir" />
+    <string id="qQLh6S2w" text="SP {CURRENTAMOUNT}/{TARGETAMOUNT}" />
+    <string id="qR0s1VvE" text="Fiyatlar, kıtlıklar ve açgözlü tüccarlar hakkında bazı şikayetler duyuyorsun ama normalden fazla değil." />
+    <string id="QrfyFfk0" text="&quot;Saldırgan bir eylemde bulun&quot; seçeneğine tıkla" />
+    <string id="qRqnrtdX" text="Sahip" />
+    <string id="qsh0I4Rm" text="Rakibin {DICE_ROLL} attı." />
+    <string id="qSi4DlT4" text="Erzak" />
+    <string id="QStqxKHz" text="savaş atı" />
+    <string id="qt7WSK15" text="{SETTLEMENT_NAME} (Yağmalandı)" />
+    <string id="QTbZPyha" text="Eşlik Ediyor" />
+    <string id="qtII2HbK" text="Mal Varlığı" />
+    <string id="qtmj7h2r" text="  0" />
+    <string id="qUtYks66" text="{ARMY_LEADER.LINK}'{.nin} ordusu {SETTLEMENT_NAME} yakınlarında toplanıyor." />
+    <string id="QVChn4mG" text="Erzaklar aynı zamanda ticari mallardır. &quot;Diğer&quot; filtresini kullanarak ticari malları kolaylıkla bulabilirsin." />
+    <string id="QvnCL5bl" text="sert kereste" />
+    <string id="QWqvGa1P" text="İnek" />
+    <string id="r312jCKr" text="Barış Teklif Et" />
+    <string id="R4eS65oX" text="Öfkeli köylülerden bazıları aletlerini alıp sana karşı koymaya hazırlanıyor. Devam edersen, kavga çıkacak gibi görünüyor." />
+    <string id="R4Gqskgq" text="Zafer" />
+    <string id="R5IOmwN1" text="Kuşatma Kampı Kurmak" />
+    <string id="R6oKMaZ5" text="{MARRIED_HERO.LINK}, {MARRIED_TO.LINK} ile evlendi." />
+    <string id="r6Plal93" text="Tyal atı" />
+    <string id="R78JkIhb" text="kil" />
+    <string id="R7v2UD8b" text="Bir piyonu hareket ettirdin." />
+    <string id="R9DiQfax" text="Savaş" />
+    <string id="RaAnj4On" text="Savunanlar" />
+    <string id="rangedtroop" text="Menzilli" />
+    <string id="rBieLPA7" text="Asker limitini aştın.{newline}Askerlerini geçici olarak elinde tutmaya devam edeceksin ama bir süre sonra birliğini hızla terk edecekler. Ayrıca yavaşlayacaksın.{newline}Emin misin?" />
+    <string id="rbz1Bwbv" text="Envanter" />
+    <string id="rdbw9TVm" text="Kalkan II" />
+    <string id="rDnWQL87" text="Kını Göster/Gizle" />
+    <string id="RdsbyNE2" text="Günde {TRIBUTE} haraç ödeyerek barış yapmayı değerlendir. (Destek: %{SUPPORT})" />
+    <string id="REdb7vbQ" text="{?RULER.GENDER}Valide Sultan{?}Sultan{\?} {RULER.NAME}" />
+    <string id="redwEIlW" text="İaşeci" />
+    <string id="rFvEZJu7" text="{ITEM_NAME}, {PLAYER.LINK}'{.nin} envanterine eklendi." />
+    <string id="rGNrtXSx" text="Kaleyi saldıranlardan korumak için {SETTLEMENT}'{.e} geldin." />
+    <string id="RGqPxabq" text="Güç" />
+    <string id="rHSjMjWX" text="Karar Ver" />
+    <string id="RiXlbtfl" text="k" />
+    <string id="RiZ9lNAe" text="Sur Seviyesi" />
+    <string id="RjgBIYvH" text="&lt;b&gt;Geliştirilmiş Koçbaşı&lt;/b&gt;{NEWLINE}Kapıları kırmak için kullanılır. Normalinden daha etkilidir." />
+    <string id="RJJ1Pbjk" text="{FACTION}'{.nin} Paralı Askeri" />
+    <string id="RKyiu5MH" text="Belki bir anlaşmaya varabiliriz." />
+    <string id="rmSkXZlp" text="Turnuva sona erdi. {TOURNAMENT_FINAL_OPPONENT} son turda seni yenerek turnuvayı kazandı." />
+    <string id="RNQIG1DS" text="Uğultuyu duyuyor musun? Bu, rüzgarın uğultusu değil - bize meydan okuyanların hayaletleri. Onlara katılmaya hazır ol." />
+    <string id="RO0a71EP" text="Rakibin sana karşı bir bariyer oluşturdu ama eşit miktarda piyonunuz kaldı. Oyun berabere bitti!" />
+    <string id="ROB0VcsI" text="Şampiyonun düelloyu kazandı. Bu zafer orduna cesaret verdi. Birliğin moral kazandı." />
+    <string id="RpfgdR45" text="lordum" />
+    <string id="rPvzZKFk" text="Yetersiz garnizon" />
+    <string id="rQ5On2GL" text="Klandaki her birlik için Fazladan Birlik Büyüklüğü" />
+    <string id="RqnEjYVe" text="+{RECRUIT_AMOUNT} Acemi" />
+    <string id="rqWJL27J" text="Toplam Altın" />
+    <string id="RTmDiT0l" text="Mevcut Birlik Büyüklüğü Bonusu" />
+    <string id="rTuptXLg" text="Saldıranların Sancağı" />
+    <string id="RU6D7hSR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} ilerliyor." />
+    <string id="RUcYGbUH" text="Yeteri kadar puanın yok" />
+    <string id="RvDxHQ73" text="Fiyat: " />
+    <string id="RvKwdXWs" text="Komutan" />
+    <string id="RVPidk5a" text="Nüfuz" />
+    <string id="RXhR7nTh" text="x5 yapmak için [{KEY_NAME}] tuşunu basılı tut" />
+    <string id="rxOK6dn1" text="Vasal olmaya uygun" />
+    <string id="rY23b263" text="Rakibin bir piyonu hareket ettirdi." />
+    <string id="RzjMX0Og" text="Güzel. Şimdi uza bakalım. Bol su içmeyi unutma!" />
+    <string id="rzsRQkXw" text="{CHAR_NAME} zaten {PERK_NAME} getirisine sahip." />
+    <string id="s1NEbhFL" text="Sırada" />
+    <string id="s2vaPUdG" text="Mızrak Savunması" />
+    <string id="S3ymfdwB" text="Değişiklikler yaptın. Değişikliklerin uygulanmasını istiyor musun?" />
+    <string id="s5h0Yarn" text="Ordunu yönet" />
+    <string id="s6ofDDii" text="Barikat" />
+    <string id="s9oED1IR" text="Cidacı" />
+    <string id="SBp4Ja1u" text="Serbest odak puanlarını bireysel becerilerdeki öğrenme limitini yükseltmek için kullanabilirsin. Karakterler, her seviye atladıklarında {FOCUS_PER_LEVEL} odak puanı kazanırlar." />
+    <string id="sbricRaZ" text="Bahislerden Elde Edilen Kazanç: {BET}" />
+    <string id="scSkbXLi" text="demir cevheri" />
+    <string id="SdcpdfaV" text="Hey - baksana. Heybelerinde ne var? Ne taşıyorsun?" />
+    <string id="SdXS4lxN" text="Lider Bonusu" />
+    <string id="SEBZa2Lh" text="Bütünlüğü Arttır" />
+    <string id="SeQ0Q7r6" text="Süregelen Sorun" />
+    <string id="settlementtrack" text="Göster" />
+    <string id="sfcbd6QS" text="Bu ikna girişiminde başarılı olmak için {TARGET_PROGRESS} puan gerekiyordu, sen {CURRENT_PROGRESS} puan aldın." />
+    <string id="SFddKpPz" text="Cimri" />
+    <string id="SFg3xgCM" text="Yakınlarda" />
+    <string id="sFpNAqHs" text="Merhametli" />
+    <string id="siegeevent" text="Kuşatma" />
+    <string id="Sj9Ux8jS" text="Bozguna Uğramış" />
+    <string id="sJLUbnLl" text="Toplam Güç" />
+    <string id="sKnYLPkn" text="kral" />
+    <string id="slKe6Gyc" text="Ordunun toplam erzakı" />
+    <string id="smeltverb" text="Erit" />
+    <string id="smithingverb" text="Demircilik" />
+    <string id="SMws1ws6" text="Büyük Kalkan" />
+    <string id="SNfvAnuV" text="Sur onarım hızına +{BONUS_AMOUNT} bonus" />
+    <string id="snxLc1Wq" text="Her oyuncudan iki piyon tahtada gösterildiği gibi başlar. Oyuncular sırayla diğer piyonlarını orta kare haricindeki boş karelere yerleştirirler." />
+    <string id="snyxby5L" text="Ana Sayfaya Dön" />
+    <string id="SojzHoCa" text="Sadece Kadınlar" />
+    <string id="spIe8wd8" text="Tek Elli Gönderli Silah" />
+    <string id="SrfYbg3x" text="Lider" />
+    <string id="SRYuaoh1" text="Bu bölge kargaşanın pençesinde, ancak insanlar yine de günlük işlerini yapmak zorundalar. Genellikle pazarda fazla oyalanmıyorlar ve göz teması kurmuyorlar. Ancak, taşradaki isyancılara dair fısıltılara kulak misafiri oluyorsun. Kimileri isyancılardan korkuyor gibi görünüyor, kimileriyse durumun bir süreliğine de olsa zengin ve güçlülerin aleyhine dönmesinden gizli bir heyecan duyuyor." />
+    <string id="sstlloLa" text="bozkır atı" />
+    <string id="stS5PBIr" text="Vaiz" />
+    <string id="svArZT0G" text="Detaylar" />
+    <string id="Svem1NiV" text="Rakibin yere serildi ve kazanan sen oldun!" />
+    <string id="Svtb9MQv" text="Düello" />
+    <string id="SyklU5aP" text="Bilgi" />
+    <string id="SYm7rgCX" text="{COMPANION.LINK} birliğinden ayrıldı." />
+    <string id="sZLd6VHi" text="Kuzait" />
+    <string id="T0aULilA" text="&lt;b&gt;Koçbaşı&lt;/b&gt;{NEWLINE}Kapıları kırmak için kullanılır. Merdivenlerden daha iyidir" />
+    <string id="T3JJ7aIV" text="Haritada atla mümkün olduğunca hızlı gezin. At sırtında hız bonusu kazanarak savaş." />
+    <string id="t3tq0eoW" text="Birlikler" />
+    <string id="T592iYI4" text="{DICE_ROLL} attın." />
+    <string id="T5VsEnNE" text="Adam Sayısı" />
+    <string id="t5X1TNBq" text="{?IS_GENERAL_SIDE}{?}{SIDE_STRING} taraftaki{\?} kuşatma aletlerini kullan" />
+    <string id="T64UWv9A" text="Cossian" />
+    <string id="t6DiaDQ3" text="bir hanım" />
+    <string id="t6NXmyoF" text="{.a} {STR}" />
+    <string id="t6xdCj43" text="Yapabiliriz elbet, yapabiliriz. Kesen şişkinse ve hafifletmeye hazırsan tabii.[ib:hip][rb:trivial]" />
+    <string id="t78atYqH" text="Çift Elli" />
+    <string id="taaNCsVZ" text="Son turda {TOURNAMENT_FINAL_OPPONENT}'{.i} yenerek turnuvayı kazandın." />
+    <string id="TCQQRQgI" text="Savaş Düzeni" />
+    <string id="tDA5dhn3" text="imparatoriçe" />
+    <string id="tDDG7gPa" text="Saldıranların Sağlıklı Asker Sayısı" />
+    <string id="TDQId8c9" text="Rakibine karşı bir bariyer oluşturdun ve daha çok piyonun var. Oyunu kazandın!" />
+    <string id="tDy1TfDq" text="Kahramana Dön." />
+    <string id="tdYB3Tzc" text="Yinele" />
+    <string id="tE1VwKTZ" text="Fırlatma Baltası" />
+    <string id="Te4xxzzK" text="Dinar" />
+    <string id="TeWnL9bh" text="kocam {REFERING_HERO.LINK}" />
+    <string id="TgtdcMGS" text="Rahat durmayan ve çırpınan bir böcek - bunun üstesinden gelebiliriz..." />
+    <string id="Th42XRQp" text="Mevcut bir sorunu var" />
+    <string id="Th8q8wC2" text="Ganimet" />
+    <string id="thIebQAR" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} öncü olarak ilerliyor." />
+    <string id="Ti2GeG0U" text="Bu seçenek seçildiğinde, rastgele bir seçeneği engeller." />
+    <string id="ti5FwD4t" text="Bilinmeyen Birlik" />
+    <string id="TlP31w8l" text="Mancınık" />
+    <string id="tMg5AF19" text="Şu anda görevlere erişilemiyor!" />
+    <string id="TmKbTxQy" text="hatun" />
+    <string id="TNLRC4Gf" text="Tek elli kısa bir silahla savaş." />
+    <string id="tnZ7BfO9" text="Barış Teklifi" />
+    <string id="toK51MD4" text="Git" />
+    <string id="tolOqAaP" text="Yaz {DAY}, {YEAR}" />
+    <string id="toQLHG6x" text="Mertlik" />
+    <string id="tpjGRDHP" text="Düello sona erdi. Çıkmak için {leave_key} tuşunu basılı tut." />
+    <string id="Tqa0r78j" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} vur-kaç yapıyor." />
+    <string id="tQDbRfMs" text="Savaşın karmaşasında ayrı düştük" />
+    <string id="tqSODeKW" text="Kendini öldürdün!" />
+    <string id="trRLa9pi" text="{PARTY} ile karşılaştın. Onlarla savaşmak {KINGDOM} ile savaşa neden olur." />
+    <string id="Tsn6bCft" text="Cömert" />
+    <string id="TSw4tD02" text="Gerçekten mi? Bugün ellerimi kirleteceğim demek ki.[ib:aggressive][rb:very_negative]" />
+    <string id="TTWL7RLe" text="Kundaklı Yay" />
+    <string id="Tu46dFyH" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} kuşatma silahlarını kullanıyor." />
+    <string id="TVcqGJ1r" text="Ana kahraman hapsedildi!" />
+    <string id="TvmDFK6o" text="{REWARD}" />
+    <string id="TVQXa0y0" text="Savaş kazanıldı!" />
+    <string id="Txbga7js" text="{ATTACKER} ile {DEFENDER} arasında bir savaşa denk geldin" />
+    <string id="Txbga7jx" text="Savunmacılar, içinde bulunduğun kuşatma kampına hücum ediyor" />
+    <string id="TxeKpK3Y" text="{HERO.NAME} ile ilişkin {MAGNITUDE} artarak {VALUE} seviyesine yükseldi." />
+    <string id="tXl9REtA" text="{SETTLEMENT_NAME} Milisi" />
+    <string id="Tyc4aAdz" text="Önderlik etmeden savaşa katıl." />
+    <string id="u3c9M8vx" text="bir düşes" />
+    <string id="U7er3V9s" text="Eşyalar" />
+    <string id="U7etPQA2" text="{JOB_NAME} {HERO.FIRSTNAME}" />
+    <string id="U7Z7f7ZT" text="Eş" />
+    <string id="U8TPlwW9" text="Memnun oldum {PLAYER.LINK}. Yaptıkların için sana borçluyum. Umarım bir gün borcumu ödemenin bir yolunu bulurum." />
+    <string id="U8VHRdwF" text="Bacak Zırhı: " />
+    <string id="ua15BlYh" text="Hepsini Sıfırla" />
+    <string id="uAL3bCfN" text="Yük{newline}Toplam zırh ve silah ağırlığı.{Newline}Fazla yük, yaya hareket hızını yavaşlatır" />
+    <string id="UaN2lfwi" text="Silah Ustası" />
+    <string id="Uaw5VF3D" text="Rakibin çekilmek istiyor. Galibiyeti kabul ediyor musun? Etmezsen, oynamaya devam edeceksiniz." />
+    <string id="uB245vWg" text="Erzak:" />
+    <string id="UB4sqrWx" text="Anne" />
+    <string id="uBxHeyxy" text="Mertlik:" />
+    <string id="uCikaIoq" text="Harika. Biz zalim insanlar değiliz. Ancak biraz açgözlü olduğumuz inkar edilemez, dolayısıyla cömert olmaya bak.[ib:hip][rb:trivial]" />
+    <string id="UckVajhO" text="Kazanılan Nam: + {RENOWN}" />
+    <string id="ucyy9Sc5" text="{LEFT} / {RIGHT}" />
+    <string id="uFDiRV1Z" text="({PRIMARY_ROLE})" />
+    <string id="ufnnUxKb" text="Deri" />
+    <string id="uFuDwaYp" text="{HOUR} saat" />
+    <string id="ug4LiPbb" text="Menzilli Silahlar IV" />
+    <string id="ugJfuabA" text="Atlı Okçu" />
+    <string id="UgMbCUMO" text="babam {REFERING_HERO.LINK}" />
+    <string id="uGqyPg7g" text="{ITEM_NAME}" />
+    <string id="ugX2RRDY" text="Fidye için kaçırıldım ve alıkonuldum" />
+    <string id="Uh057UUb" text="Puluc" />
+    <string id="uhcIXeba" text="Eşyaları atıyorsun. Emin misin?" />
+    <string id="UI0q8rWw" text="Çiftlik Hayvanları" />
+    <string id="uinDitbl" text="Surları aşmalıyız." />
+    <string id="UIqPXN62" text="Fırlatma silahlarıyla düşmanları vurun." />
+    <string id="UjL7jVYF" text="Moral" />
+    <string id="um1Z5swc" text="Leydi {REFERING_HERO.LINK}" />
+    <string id="Umb8XsZH" text="Delici" />
+    <string id="uN5gwV05" text="Merhum" />
+    <string id="un7poy9x" text="Ön İzleme" />
+    <string id="uOqdr7FM" text="Tebrikler! Rakibine karşı zafer kazandın!" />
+    <string id="uOqfaqbk" text="{PARTY_LIST_TAG}({COUNT} / {MAX_COUNT})" />
+    <string id="UOr4UP47" text="Çok temkinli" />
+    <string id="UP6yVQ7b" text="Destekçisi" />
+    <string id="UqdZmdcf" text="Savaş Atı" />
+    <string id="ur8kO8iM" text="Oyun Tüyoları" />
+    <string id="Uu0wzNj3" text="Klan Seviyesi: {TIER} " />
+    <string id="uUlO8l6M" text="{COMMON_AREA_OWNER} için çalışan bazı insanlarla kavgaya karıştığını duydum. Bu beni ilgilendirmez." />
+    <string id="uuwm0Kga" text="Kapı" />
+    <string id="uvIL0tP9" text="Görüş Menzili" />
+    <string id="uvjOVy5P" text="Ölü" />
+    <string id="uWEUYE1m" text="Düğmeye tıklayarak açık olan getirilerden birini seçebilirsin." />
+    <string id="uwPByaQg" text="Saldırıya Başla" />
+    <string id="UX7reJ3K" text="Düşman parçalamadan kuşatma aletlerimizi korumak için acele etmeliyiz." />
+    <string id="UxacCAuS" text="Askerlerinin bir kısmı artık yükseltme için yeterli tecrübeye sahip.{newline}{newline}Bunu, birlik ekranı düğmesinin üzerindeki küçük bildirimde görebilirsin.{newline}{newline}Askerlerini gözden geçirmek ve yükseltmek için bu düğmeye tıkla." />
+    <string id="UxAl9iyi" text="Kişisel" />
+    <string id="UxD6lPXa" text="{INFLUENCE} nüfuz kazandın. Nüfuzun artık {NEW_INFLUENCE}." />
+    <string id="UxyIkWah" text="Paralı askerler yerleşkeleri istila edemez." />
+    <string id="uYFd4meY" text="Görevi Veren" />
+    <string id="V03gbccF" text="Kendi askerlerinden birine vurdun!" />
+    <string id="V0Kw3O7c" text="Eğitim" />
+    <string id="V0OMMQ1F" text="Etkileyici bir performans {PLAYER.LINK}. Pat! Küt! {OPPONENT_COUNT} tanesini yere serdin. Seyirciler bayıldı. Ayrıca, {PRIZE}{GOLD_ICON} ödül kazandın." />
+    <string id="V1FKcYyi" text="{SETTLEMENT_NAME} (Yağmalandı)" />
+    <string id="v3cY44N1" text="Yönetici bir klanın yerleşkesini istila edemezsin." />
+    <string id="v5bJd6mZ" text="Refah değişimine +{BONUS_AMOUNT} bonus" />
+    <string id="V7ESaOJU" text="Sancağını seç" />
+    <string id="v7HPTy2y" text="Emrinde güçlü bir orduyla bir düşman kalesini veya şehrini fethedebilirsin. Bu, kuşatmak için iyi bir hedef gibi görünüyor." />
+    <string id="v8gFAT88" text="İmparatorluğun düşmanlarına karşı komplo başlattın!" />
+    <string id="Vap6ahft" text="Askerler! {BEHAVIOUR_NAME_BEGIN}!" />
+    <string id="VbeHEAsa" text="Geri Çekil" />
+    <string id="VbL6GFmy" text="Tereyağı" />
+    <string id="Vc9Mx6Jb" text="Görev" />
+    <string id="vdEoBkpr" text="Erzak tedarikine her zaman dikkat etmelisin. Erzakın tükenirse, birliğin moral kaybeder. Askerlerin düşük moral nedeniyle seni terk edebilir.{newline}{newline}Erzak stokunu bilgi çubuğunda görebilirsin. Birliğinin her gün ne kadar erzak tükettiğini görmek için bilgi çubuğunun üzerine gel. Birliğinin erzak ihtiyacı olduğu için, pazar yerine git ve bir miktar erzak satın al." />
+    <string id="vdK5SaJN" text="Hım. Yazık.[ib:aggressive][rb:very_negative]" />
+    <string id="vdKLq8T5" text="Surlar{newline}Seviye {LEVEL}" />
+    <string id="veiFupWz" text="{?RULER.GENDER}Barones{?}Baron{\?} {RULER.NAME}" />
+    <string id="VeOqrmx5" text="{LEFT}{FOCUS_ICON}{RIGHT}" />
+    <string id="VeqwXwYc" text="Düşmanlar kaçıyor. Savaşı kazandın." />
+    <string id="vgXYtMrj" text="Savaştan Sağ Kurtulanlar" />
+    <string id="vhq22OyK" text="Refah" />
+    <string id="VI4gQt8Q" text="Gürz" />
+    <string id="Vi6ojGrk" text="{FACTION_1_NAME}'{.e} karşı {FACTION_2_NAME}" />
+    <string id="vIpFgbU6" text="Hafif Zırh" />
+    <string id="ViYdZUbQ" text="Orduyu Dağıt" />
+    <string id="vJmBi58H" text="Mareşal" />
+    <string id="VJNJsdif" text="{COMPANION.LINK} birliğine katıldı." />
+    <string id="vJOWy1QF" text="Kuzaitler" />
+    <string id="vLU6nNwp" text="{FIGHTER_NAME} üzerine {BET_AMOUNT} bahis oynadın ve {FIGHTER_NAME} dövüşü kazandı. İşte ödülün {REWARD_AMOUNT}{GOLD_ICON}." />
+    <string id="vmMqs3Ck" text="Soylu" />
+    <string id="vn7A8aXV" text="{SETTLEMENT_NAME}'{.nin} dışındasın. Kale kapısının üzerinde senin sancağın dalgalanıyor." />
+    <string id="vnmy8Bjl" text="Toplam Giderler " />
+    <string id="vo867CHX" text="Geçen yıl tamamlanan görevler" />
+    <string id="vOgACpuD" text="Yoldaşlar" />
+    <string id="VoZBLWay" text="{RULER.NAME} {?RULER.GENDER}Hatun{?}Kağan{\?}" />
+    <string id="VpCa9ATa" text="Pekala. Öldün sen.[if:idle_furious][ib:aggressive][rb:very_negative]" />
+    <string id="VpKIzJxz" text="Pekala gezgin. Bu topraklara yeni geldik, yağma ve talan konusunda şansımızın yaver gitmesini umuyorduk ve karşımızda seni bulduk." />
+    <string id="vpx7Pa7v" text="Teklif" />
+    <string id="VPYazFVH" text="Saplama Hızı: " />
+    <string id="vqHDX6hf" text="Yerleşke sadakatine +{BONUS_AMOUNT} artış" />
+    <string id="VqpmXU1m" text="Düşmanlarını kundaklı yayla vur." />
+    <string id="Vqu67a3b" text="Ham İpek" />
+    <string id="VRdy76RQ" text="Çatış" />
+    <string id="VSZGbSEO" text="Eşleşen öğe yok." />
+    <string id="vt1IbBFt" text="Bir düşman ordusu tespit ettin. Dikkatli ol." />
+    <string id="vvabqi2w" text="Kervan" />
+    <string id="Vvo92lyj" text="İmparatorluğun güneyinden" />
+    <string id="VvpPbvpm" text="Lordları sancağının altında toplanmaya çağırabilirsin. Bunu yapmak için, sağ altta vurgulanan ordu simgesine tıkla." />
+    <string id="vvXTnr8i" text="Klandan at" />
+    <string id="vw1bbcww" text="Müttefik {TARGET_FORMATION}{.nin} gerisinde savaş" />
+    <string id="Vw7BUXvw" text="Eli Açık" />
+    <string id="VWahbQGh" text="dostum {REFERING_HERO.LINK}" />
+    <string id="VWQbVKT4" text="Birliği Dağıt" />
+    <string id="vXzJJtYq" text="Planımız menzile girmek ve üzerlerine ok yağdırmak." />
+    <string id="vy8jlHl4" text="h" />
+    <string id="VyJMWO8a" text="{GOLD_AMOUNT}{GOLD_ICON} alındı." />
+    <string id="VyPwh1CT" text="Kahramanı Birliğe Al" />
+    <string id="vZzDCjDr" text="Şu anda bu kentteki hiç kimse askere alınmak istemiyor." />
+    <string id="W1seGc3t" text="Şarjör" />
+    <string id="W2WXkiAh" text="Fidye Simsarı" />
+    <string id="w3v2S03V" text="{HERO_NAME} ile ilişkin &lt;a style=&quot;ArtacakStyle&quot; &gt;&lt;b&gt;artacak&lt;/b&gt;&lt;/a&gt;" />
+    <string id="W4iKIM2s" text="Küçük Kalkan" />
+    <string id="W5gPypVY" text="Silah yapmak, malzeme arıtmak ve eski silahları eritmek için demirciyi kullan." />
+    <string id="w758X31N" text="Eşya" />
+    <string id="w9C43LhX" text="{DECISION_NAME} kararını kesinleştirmek istiyor musun?" />
+    <string id="WBupKtnu" text="Üst çubukta önemli NPC'lerin portrelerini görebilirsin.{newline}{newline}Portreye tıkla ve menüden konuşmayı seç." />
+    <string id="wdsJRYRn" text="Tam zamanında geldin {PLAYER.LINK}. Yardımlarını unutmayacağım." />
+    <string id="Wg2P3acK" text="Ateşli Mancınık" />
+    <string id="WharCvcX" text="Surları savunmalı ve düşmanın içeri girmesine izin vermemeliyiz." />
+    <string id="WHED64rw" text="Bir süre sonra burada yeni bir asker olacak." />
+    <string id="WhuufgY5" text="Eşraf İlişkileri" />
+    <string id="wib91252" text="Meslek: {PROFESSION}" />
+    <string id="wifebrotherinlaw" text="kayınbirader" />
+    <string id="wifefatherinlaw" text="kayınpeder" />
+    <string id="wifemotherinlaw" text="kayınvalide" />
+    <string id="wifesisterinlaw" text="yenge" />
+    <string id="WiNRdfsm" text="Bitti" />
+    <string id="wjb4tZDX" text="Seviye: {LEVEL}" />
+    <string id="wjuieMsE" text="Rakibin vuruş için 1 puan kazandı!" />
+    <string id="wKbafI9r" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} kuşatma kulesinden atış yapıyor." />
+    <string id="wKgpciSx" text="{AMOUNT}{INFLUENCE_ICON}" />
+    <string id="wNjhpOOM" text="Değişimi Uygula" />
+    <string id="wrbea2oa" text="Kundaklı Yay Okları" />
+    <string id="wshehbFu" text="Paralı askerler ordu dağıtamaz." />
+    <string id="WSk5Sibs" text="Peynir" />
+    <string id="WSoZkkqD" text="Gardiyan" />
+    <string id="wtDdqXGW" text="Kadim ve kutsal ayrıcalıklarımıza saygı duyduğuna sevindim." />
+    <string id="wTEYR4kc" text="{KINGDOM_NAME}'{.e} bağlılık yemini etmeyi seçtin!" />
+    <string id="WTR5Lr8W" text="Savunan taraf şahını tahtanın herhangi bir kenarına getirdiğinde kazanır.{newline}Saldıran taraf şahı ele geçirdiğinde veya bütün savunanların hareket etmesini önlediğinde kazanır." />
+    <string id="wTT3Fyzl" text="efendim" />
+    <string id="WusvipsF" text="Yetersiz kaynak!" />
+    <string id="WVAUoXMY" text="{CURRENT_XP} / {LEVEL_MAX_XP} tecrübe puanı" />
+    <string id="WvKKats6" text="Yerleşke İzleniyor" />
+    <string id="WVqaRKUm" text="Yün" />
+    <string id="wwFsxms3" text="Fırtına" />
+    <string id="wWwoTzpG" text="Erkek kardeş" />
+    <string id="wx6DZJ0W" text="Surların dayanıklılığına +{BONUS_AMOUNT} bonus" />
+    <string id="wXNYoJqw" text="Menüden Çık" />
+    <string id="wXQUXa1P" text="Bu beceriye daha fazla odak puanı veremezsin" />
+    <string id="wXwZ778J" text="askerler" />
+    <string id="WYfjyuHj" text="Pekala... Uzun bir yolculuktu, dolayısıyla pamuk eller cebe." />
+    <string id="WzcY3WMe" text="Kamerayı Sıfırla" />
+    <string id="wZnsFoQ6" text="Doğru düzgün tanıştığımızı sanmıyorum dostum. Az önce hayatımı kurtardın ama adını hala bilmiyorum..." />
+    <string id="X1tny9v2" text="Başarılı Baskınlar" />
+    <string id="x2mSJAVa" text="Bir oyuncu, rakibinin sadece bir piyonu kaldığında veya hiç piyonu kalmadığında kazanır.{newline}{newline}Kazanmanın başka bir yolu da, rakip oyuncunun tüm piyonlarını bir tarafta tutan bir bariyer inşa etmektir. Bir bariyer inşa edildiğinde, en çok piyonu kalan oyuncu kazanır." />
+    <string id="X4qO3jBf" text="{?RULER.GENDER}Kontes{?}Kont{\?} {RULER.NAME}" />
+    <string id="XAbeeOQo" text="Köylerini yağmalayarak düşmanı zayıflatabilirsin. Bu, yağmalamak için iyi bir hedef gibi görünüyor." />
+    <string id="XaFXqGhz" text="Mermiler" />
+    <string id="xaHELVnx" text="Kuşatma Kulesi (Seviye 1)" />
+    <string id="xalBJD7W" text="baharat" />
+    <string id="XbdX2AHF" text="asker" />
+    <string id="xbh6Bmhf" text="Krallıktaki mevcut destek" />
+    <string id="XBIPqxA2" text="Boş" />
+    <string id="xCaFvB69" text="Seviye II" />
+    <string id="Xclm7FK4" text="domuz" />
+    <string id="XCz81XYm" text="Girdiler" />
+    <string id="xD9xlbXt" text="prens" />
+    <string id="xEWwbGVK" text="İsabet: " />
+    <string id="XgioIHv6" text="Kararı Kesinleştir" />
+    <string id="xGjug9Sd" text="!" />
+    <string id="xgO3cCgR" text="Fazla Yük Yüklenmiş" />
+    <string id="xgwjHi1p" text="Reddet" />
+    <string id="xHc1xhG8" text="Kalenin içindeki düşmanı yok et." />
+    <string id="XJ6EG3Pa" text="Erzak stoku limitine +{BONUS_AMOUNT} bonus" />
+    <string id="xKa6TwEX" text="{SETTLEMENT_NAME}'{.de} kalıyor" />
+    <string id="XnsAbUE3" text="Gönder" />
+    <string id="xo2zvOir" text="Rakibin hiç hamle yapamıyor. Tur atlanıyor." />
+    <string id="xORASoex" text="10 bütünlük eklemek için &quot;+&quot; düğmesine tıklayabilirsin. Bunu yapmanın bir miktar nüfuza mal olacağını unutma." />
+    <string id="xq62HAIO" text="Müttefik {TARGET_FORMATION} birliğinin {?IS_GENERAL_SIDE}{?} {SIDE_STRING}{\?} kanadını koru" />
+    <string id="xqN16a4k" text="Masa Oyunu" />
+    <string id="XqV3x4i3" text="Bu seçenek seçildiğinde, ikna girişimini bir sonraki aşamaya taşır." />
+    <string id="XseYJYka" text="Yönet" />
+    <string id="xsIU28Za" text="Güzel! Artık sert ve soğuk kayalarda uyuyup cılız sincaplarla beslenmek yok." />
+    <string id="xSjgt7fs" text="İlkbahar {DAY}, {YEAR}" />
+    <string id="xSKFr3Rs" text="Bekle" />
+    <string id="xsu6bPTv" text="Keten" />
+    <string id="xT8955dO" text="Sivil Kıyafet" />
+    <string id="XTubeiTb" text="Kalkan III" />
+    <string id="Xv6knZP8" text="-{PRISONERS_AMOUNT} Tutsak" />
+    <string id="xv8T0Il8" text="Başlayacak oyuncu ve her tur ilerleyebileceğin kare miktarı, dört adet iki renkli çubuk atarak belirlenir." />
+    <string id="xWrzG8EA" text="balık" />
+    <string id="xwWUDia6" text="Bahis" />
+    <string id="Xx9EbSwG" text="Bot" />
+    <string id="XxLCJb0W" text="Dürüst" />
+    <string id="xycMiCIq" text="Son zamanlarda hiç kazançlı bir iş bulamadım." />
+    <string id="xZxbFuDI" text="Demek çakallar bu gece iyi beslenecek." />
+    <string id="Y0GDVFiN" text="Yağmalanan köyler" />
+    <string id="y0MmmV8C" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} menzilli birliklerin etrafında bir savunma halkası oluşturuyor." />
+    <string id="y1uH6Og1" text="At Ekipmanı IV" />
+    <string id="y3OKIfj0" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} piyade koruması altında atış yapıyor." />
+    <string id="Y3Ylqjr2" text="Küçük Grup Karakteri" />
+    <string id="Y4fht2kI" text="Eşraf" />
+    <string id="y4MiEr0H" text="Asker Türleri" />
+    <string id="Y5byltUT" text="sultan" />
+    <string id="y8Catvvn" text="Menzilli Silahlar III" />
+    <string id="Y94H6XnK" text="Kabul Et" />
+    <string id="Y9egTJg0" text="Günlük Değişim" />
+    <string id="yaxwYglT" text="Gönderildi" />
+    <string id="YbabzW3H" text="{NUMBER_OF_DAYS} gündür {SETTLEMENT_NAME} zindanındasın." />
+    <string id="YbB2IpTR" text="{HERO.NAME} ile ilişkin {MAGNITUDE} azalarak {VALUE} oldu." />
+    <string id="yBnwGiuB" text="Lord" />
+    <string id="yCEMiKjB" text="{SELECTION}{.n}{.i} Seç" />
+    <string id="YCYwPPlJ" text="Eğitimi Tamamen Devre Dışı Bırak" />
+    <string id="YDYnuBmC" text="Çok Oyunculu" />
+    <string id="yeEaBV29" text="Öyle olsun bakalım. Yaşayabilirsin. Fikrimi değiştirmeden git.[ib:closed][rb:positive]" />
+    <string id="yenZGMzi" text="İleri Al" />
+    <string id="YevUiidU" text="{CLAN_LEADER} ile ilişkin {MAGNITUDE} azalarak {VALUE} oldu." />
+    <string id="Yf6bHCeW" text="{SETTLEMENT_NAME} (tarife)" />
+    <string id="yfa7tpbK" text="Hepsi" />
+    <string id="yFl9N7wz" text="Al" />
+    <string id="yfNAkFgF" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} bir çarpışma hattı oluşturuyor." />
+    <string id="yG3YUySN" text="Batı İmparatorluğu" />
+    <string id="ygY1oKQD" text="Emrinize amadeyiz. Bize kimin canını yakacağımızı gösterin yeter, gerisini biz hallederiz.[rb:very_positive]" />
+    <string id="YhLweMrP" text="Zırhlar" />
+    <string id="YifFZaG7" text="Birliğin Sahibi" />
+    <string id="Yj0cQVLH" text="Hücum!" />
+    <string id="YJaNtktT" text="Hepsini Al" />
+    <string id="yjXoftYs" text="En son {?IS_TODAY}bugün{?}{DAY_VALUE} gün önce, {SETTLEMENT} {?IS_IN_SETTLEMENT}içinde{?}yakınlarında{\?} görüldü." />
+    <string id="YK3nXtoM" text="Arkadaşlar" />
+    <string id="YkagFP1z" text="annem {REFERING_HERO.LINK}" />
+    <string id="ykZLXKH3" text="Nam: {RENOWN}" />
+    <string id="ylQJwqKH" text="Güçlükle kazanılmış ganimetleri arkanda bırakıyorsun! Emin misin?" />
+    <string id="YNPYmO4g" text="{DAY_PREPARATION_TIME} gün {HOUR_PREPARATION_TIME} saat" />
+    <string id="YO0x7ZAo" text="Sadakat" />
+    <string id="yOJAiSf4" text="Formasyon yok" />
+    <string id="YOSEIvyf" text="Silah Hakimiyeti: " />
+    <string id="yQiDdDPY" text="Hafif At" />
+    <string id="yQTBY9ie" text="Mücevher" />
+    <string id="yrlPHYpa" text="Getiri Yükseltmelerini Seçme" />
+    <string id="yRTV90eN" text="Bir sonuç seçmen gerekiyor." />
+    <string id="yrUo2ZRD" text="Birlikte başka askere yer yok" />
+    <string id="yrvH6Oa1" text="Başlangıç pozisyonunda bekle!" />
+    <string id="ySlVPZyF" text="Eşrafı sana asker vermeye zorladığında, halkın bir kısmı sana karşı koymak için toplanıyor. Onlarla savaşmak {KINGDOM} ile savaşa neden olur." />
+    <string id="YSM0lxns" text="Maliyet" />
+    <string id="ytlsMCCn" text="{DESERTER_COUNT} asker {PARTY}{.den} ayrıldı." />
+    <string id="ytYPOCZ8" text="%{NUMBER} Tamamlandı" />
+    <string id="YukbQgHJ" text="Fırlatma Hızı: " />
+    <string id="yUo269Us" text="Yardımların için teşekkürler yabancı. Henüz doğru düzgün tanışmadık, değil mi? Adın ne?" />
+    <string id="YVGtcLHF" text="Süvari" />
+    <string id="YvwQL9aa" text="Ağırlık: " />
+    <string id="YxKHEUEX" text="Turnuva sona erdi. {TOURNAMENT_FINAL_PARTICIPANT_A} son turda {TOURNAMENT_FINAL_PARTICIPANT_B}'{.i} yenerek turnuvayı kazandı. Sen {TOURNAMENT_ELIMINATED_ROUND} turda elendin." />
+    <string id="YYdPfXEP" text="Tablut, saldıranlara (siyah) karşı savunanların (beyaz) oynadığı bir oyundur.{newline}Saldıranların sayısı savunanlardan fazladır ama savunanların kazanmak için ele geçirmesi gerekmez. Ana hedefleri şahlarını (ortadaki piyonu) korumaktır.{newline}Şah da diğer piyonlarla aynı hareket ve ele geçirme kurallarına tabidir." />
+    <string id="YYkWBkAu" text="Batanya midillisi" />
+    <string id="YYvzM5Dh" text="Hepsini At" />
+    <string id="yzIOcJoK" text="Bir oyuncu eğer rakibi bloke olduysa ve yapabileceği hiçbir hamle kalmadıysa kazanır." />
+    <string id="yZzlItBW" text="bu birlik" />
+    <string id="z0c2pDhZ" text="Barış Halinde" />
+    <string id="z3AvJZMt" text="{SETTLEMENT_NAME}'{.den} şu fiyata satın alınabilir: {BUY_PRICE}" />
+    <string id="Z3yCe1HS" text="{TROOP_NAMES_BEGIN}{?IS_PLURAL} ve {?}{\?}{TROOP_NAMES_END} yeniden bir araya geliyor." />
+    <string id="Z5kGFH7k" text="pc." />
+    <string id="Z5RlxyPJ" text="{NUMBER_OF_DAYS} gün boyunca {PARTY_NAME}'{.nin} tutsağıydın." />
+    <string id="Z6sDPstD" text="Köy tarlaları" />
+    <string id="z716wRaB" text="Bir milis birliğini dağıtamazsın" />
+    <string id="z7vSaa7L" text="Köydeki Üretim" />
+    <string id="Z7zWkAV8" text="Tutsaklarını fidye simsarına satabilirsin.{newline}{newline}Fidye simsarını han bölgesinde bulabilirsin." />
+    <string id="Z8LeI4ho" text="Koruma" />
+    <string id="ZaoZKcx9" text="Kent halkı" />
+    <string id="ZaseErqk" text="Geri çekilemezsin, yakında düşmanlar var!" />
+    <string id="zb9fiIP6" text="Menzilli kuşatma aletleri inşa etmek için kareleri, koçbaşları ve kuşatma kuleleri inşa etmek için yuvarlakları kullanabilirsin." />
+    <string id="ZbsGBv10" text="Domuz" />
+    <string id="zcpXCagL" text="yağ" />
+    <string id="zCQaPTOK" text="Paralı Asker" />
+    <string id="ZdeswYbM" text="Tüccar yeterli paraya sahip değil! Emin misin?" />
+    <string id="zDHbQtm9" text="Başıboş bir at tarafından öldürüldün!" />
+    <string id="ZdqbU2gw" text="Kabul Et" />
+    <string id="zE6OFPRu" text="Yerleşke Vergisi" />
+    <string id="zEbvDH7V" text="Kendi klanını destekleyemezsin." />
+    <string id="zeGAw2IE" text="Öldüren:" />
+    <string id="ZekwaxIg" text="bozkır savaş atı" />
+    <string id="ZEzxHLaH" text="Tutsak kahramanlar birliğe alınamaz" />
+    <string id="zfCoeglY" text="Müzisyen" />
+    <string id="zg0q1aqD" text="Bir garnizon birliğini dağıtamazsın" />
+    <string id="Zg5Zmgui" text="{TOWN} pazarından köyümüze dönüyoruz." />
+    <string id="ZhiB1EOM" text="{SETTLEMENT_NAME}'{.de} tutsak" />
+    <string id="ZlJIpfWg" text="Hız bonusu: %{SPEED_BONUS}." />
+    <string id="ZMdOAbTd" text="Saldıranların Ordusu" />
+    <string id="zMMqgxb1" text="Tür" />
+    <string id="zN9iNaIW" text="Köy Yağmalanıyor" />
+    <string id="zNekjGmR" text="Tutsağı Birliğe Al" />
+    <string id="zNEvBr6R" text="Senin Sıran" />
+    <string id="zNHtgL0S" text="Turnuva bir okçuluk müsabakası olacak." />
+    <string id="znKxunbQ" text="Sonraki Karakter" />
+    <string id="znxbib0f" text="Bu kullanım için istatistikleri göster" />
+    <string id="zo5hQfll" text="Kurtlar tahtadan 5 koyun çıkarabilirlerse kazanırlar.{newline}{newline} Koyunlar, kurtları engelleyip hamle yapamaz hale getirirlerse kazanırlar." />
+    <string id="zpaLDTI4" text="Ödersen geçebilirsin." />
+    <string id="ZPaw3WuO" text="Vlandiyalılar, bağımsız bir krallık kurmadan önce asırlar boyu İmparatorluğun egemenliğinde yaşayan batılı maceraperestlerin soyundan gelirler. İmparatorluğun otoritesinin zayıflamasıyla birlikte, mızraklarıyla ve kargılarıyla at sırtında savaşmayı tercih eden savaşçı soylular sınıfının önderlik ettiği düzenli bir feodal topluma dönüşmüşlerdir." />
+    <string id="zqihwKAs" text="&lt;b&gt;Balista&lt;/b&gt;{NEWLINE}Ölümcül oklar atar. Askerlere karşı etkilidir." />
+    <string id="ZqWOb1jM" text="{SETTLEMENT_NAME} kentinin dışındasın. İçeri giremezsin, çünkü {FACTION_TERM} tarafından aranıyorsun." />
+    <string id="ZR2bAa1p" text="Hafif Düvari" />
+    <string id="ZuLa12aT" text="İşte şöyle... Bizimki gibi bir çeteye gerçekten bulaşmak istemezsin." />
+    <string id="Zuq5mO5e" text="Birlik Lideri ile Konuş" />
+    <string id="ZuRzP6kF" text="Savaştayken ordu toplayamazsın" />
+    <string id="ZV7bt7Il" text="{newline}{PARTY_NAME} : {PARTY_MORALE}" />
+    <string id="ZvoyX6DX" text="Batanyalı" />
+    <string id="Zw60OTJe" text="Artan fiyatlar, haksız gelir dağılımı ve kırsal kesimden gelen göçmenler hakkında bazı şikayetler duysan da, insanlar çoğunlukla halinden memnun." />
+    <string id="zwAjXuEk" text="{TRAIT_NAME} ({TRAIT} {TRAIT_VALUE})" />
+    <string id="Zwb65ufG" text="Kil" />
+    <string id="zWoj91XY" text="BaghChal" />
+    <string id="ZwyPnboN" text="Yerleşke moraline +{BONUS_AMOUNT} bonus" />
+    <string id="zX4C3332" text="Öyleyse öleceksin. Hazır ol." />
+    <string id="ZxcnmaXi" text="{SETTLEMENT}'{.i} yağmalamaya geldin. Herhangi bir direnişle karşılaşmadın. Bu köyü yağmalamak {KINGDOM} ile savaşa neden olur." />
+    <string id="ZXXNrvvg" text="Bir oyuncu, rakibinin elinde veya tahtada mevcut piyonu kalmadığında kazanır." />
+    <string id="zyp2VGt4" text="Bekleyen bir görevi var" />
+    <string id="zzUk6ZaA" text="Çıkılıyor" />
+  </strings>
+</base>

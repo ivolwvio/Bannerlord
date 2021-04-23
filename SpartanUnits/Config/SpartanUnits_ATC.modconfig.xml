@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+
+<!-- STANDARD BANNERLORD KINGDOMS AND TROOPS -->
+
+<!-- Possible values for <MapFaction> 
+    =================================
+	player_faction	->	Player Kingdom (only if you are King of the faction)
+	player_clan		->	Player Clan (applies to companions)
+	aserai			->	Aserai
+	battania		->	Battania
+	empire			-> 	Northern Empire
+	empire_s		->	Southern Empire
+	empire_w		->	Western Empire
+	khuzait			->	Khuzait
+	sturgia			->	Sturgia
+	vlandia			->	Vlandia
+	
+	
+	Possible values for <volunteer>
+	===============================
+	
+	Spartan Units - modded
+	*********************
+	skiritai_recruit 	-> 	Hellenic Recruit 
+	
+	BANNERLORD - standard
+	*********************
+	aserai_recruit				->	Regular Aserai
+	aserai_youth				->	Elite Aserai
+	battania_volunteer			->	Regular Battanian 
+	battanian_highborn_youth	->	Elite Battanian
+	imperial_recruit			-> 	Regular Imperial (for all three kingdoms identical)
+	imperial_vigla_recruit		->	Elite Imperial (for all three kingdoms identical)
+	khuzait_nomad				->	Regular Khuzait
+	khuzait_noble_son			->	Elite Khuzait
+	sturgian_recruit			->	Regular Sturgian
+	sturgian_warrior_son		->	Elite Sturgian
+	vlandian_recruit			->	Regular Vlandian
+	vlandian_squire				->	Elite Vlandian 
+	
+	
+	
+	Possible attributes vor <volunteer>
+	***********************************
+	percent				-> The chance to spawn in a settlement of the given MapFaction
+	playeronly			-> The given recruit is only recruitable by the player
+	clanonly			-> The given recruit is only recruitable by the player and his clan
+	replacewith			-> Only to be used with playeronly or clanonly! Defines a replacement that is spawned for the AI 
+						   instead of the given recruit when it is not part of the player_clan
+-->
+
+
+<ATCConfig>
+	<MapFaction id="player_faction">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="skiritai_recruit" percent="100" />
+			</basicTroops>
+			<!--<eliteTroops>
+				<volunteer id="..." percent="100" />
+			</eliteTroops>-->
+		</Culture>
+	</MapFaction>
+	<MapFaction id="player_clan">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="skiritai_recruit" percent="100" />
+			</basicTroops>
+			<!--<eliteTroops>
+				<volunteer id="..." percent="100" />
+			</eliteTroops>-->
+		</Culture>
+	</MapFaction>
+	<MapFaction id="empire">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="imperial_recruit" percent="50" />
+				<volunteer id="skiritai_recruit" percent="50" clanonly="true" replacewith="imperial_recruit" />
+			</basicTroops>
+			<!--<eliteTroops>
+				<volunteer id="imperial_vigla_recruit" percent="50"/>
+				<volunteer id="..." percent="50" clanonly="true" replacewith="imperial_vigla_recruit" />
+			</eliteTroops>-->
+		</Culture>
+	</MapFaction>
+	<MapFaction id="empire_s">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="imperial_recruit" percent="50" />
+				<volunteer id="skiritai_recruit" percent="50" clanonly="true" replacewith="imperial_recruit" />
+			</basicTroops>
+			<!--<eliteTroops>
+				<volunteer id="imperial_vigla_recruit" percent="50"/>
+				<volunteer id="..." percent="50" clanonly="true" replacewith="imperial_vigla_recruit" />
+			</eliteTroops>-->
+		</Culture>
+	</MapFaction>
+	<MapFaction id="empire_w">
+		<Culture id="default">
+			<basicTroops>
+				<volunteer id="imperial_recruit" percent="50" />
+				<volunteer id="skiritai_recruit" percent="50" clanonly="true" replacewith="imperial_recruit" />
+			</basicTroops>
+			<!--<eliteTroops>
+				<volunteer id="imperial_vigla_recruit" percent="50"/>
+				<volunteer id="..." percent="50" clanonly="true" replacewith="imperial_vigla_recruit" />
+			</eliteTroops>-->
+		</Culture>
+	</MapFaction>
+	
+</ATCConfig>

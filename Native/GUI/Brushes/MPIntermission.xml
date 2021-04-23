@@ -1,0 +1,77 @@
+<Brushes>
+  <Brush Name="MPIntermission.Leave.Button">
+    <Layers>
+      <BrushLayer Name="Default" Sprite="MPIntermission\leave_button" Color="#CD7B3AFF" />
+    </Layers>
+    <Styles>
+      <Style Name="Default">
+        <BrushLayer Name="Default" AlphaFactor="0.7" />
+      </Style>
+      <Style Name="Hovered">
+        <BrushLayer Name="Default" AlphaFactor="1" />
+      </Style>
+      <Style Name="Pressed">
+        <BrushLayer Name="Default" AlphaFactor="0.5" />
+      </Style>
+    </Styles>
+  </Brush>
+  
+  <Brush Name="MPIntermission.Leave.Text" Font="FiraSansExtraCondensed-Regular">
+    <Styles>
+      <Style Name="Default" FontColor="#FFFFFFFF" TextBlur="0" TextOutlineAmount="0" TextGlowRadius="0" FontSize="35" />
+    </Styles>
+  </Brush>
+  
+  <Brush Name="MPIntermission.Players.Label.Text" Font="FiraSansExtraCondensed-Regular">
+    <Styles>
+      <Style Name="Default" FontColor="#CD7B3AFF" TextBlur="0" TextOutlineAmount="0" TextGlowRadius="0" FontSize="60" />
+    </Styles>
+  </Brush>
+
+  <Brush Name="MPIntermission.Players.Separator.Text" Font="FiraSansExtraCondensed-Regular">
+    <Styles>
+      <Style Name="Default" FontColor="#F0A569FF" TextBlur="0" TextOutlineAmount="0" TextGlowRadius="0" FontSize="60" />
+    </Styles>
+  </Brush>
+
+  <Brush Name="MPIntermission.Players.Value.Text" Font="FiraSansExtraCondensed-Regular">
+    <Styles>
+      <Style Name="Default" FontColor="#FFFFFFFF" TextBlur="0" TextOutlineAmount="0" TextGlowRadius="0" FontSize="60" />
+    </Styles>
+  </Brush>
+  
+  <Brush Name="MPIntermission.Label.Text" Font="Galahad">
+    <Styles>
+      <Style Name="Default" FontColor="#CD7B3AFF" TextBlur="0" TextOutlineAmount="0" TextGlowRadius="0" FontSize="42" />
+    </Styles>
+  </Brush>
+
+  <Brush Name="MPIntermission.Value.Text" Font="FiraSansExtraCondensed-Regular">
+    <Styles>
+      <Style Name="Default" FontColor="#FFFFFFFF" TextBlur="0" TextOutlineAmount="0" TextGlowRadius="0" FontSize="26" />
+    </Styles>
+  </Brush>
+
+  <Brush Name="MPIntermission.Banner.Left">
+    <Layers>
+      <BrushLayer Name="Default" Sprite="MPIntermission\banner_left" Color="#FFFFFFFF" />
+    </Layers>
+    <Styles>
+      <Style Name="Default">
+        <BrushLayer Name="Default" />
+      </Style>
+    </Styles>
+  </Brush>
+  
+  <Brush Name="MPIntermission.Banner.Right">
+    <Layers>
+      <BrushLayer Name="Default" Sprite="MPIntermission\banner_right"/>
+    </Layers>
+    <Styles>
+      <Style Name="Default">
+        <BrushLayer Name="Default" />
+      </Style>
+    </Styles>
+  </Brush>
+  
+</Brushes>

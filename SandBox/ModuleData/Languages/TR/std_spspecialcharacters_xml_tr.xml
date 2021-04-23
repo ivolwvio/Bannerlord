@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="1OZBZZCi" text="Yabandomuzu {HERO.FIRSTNAME}" />
+    <string id="2U2Hy2Su" text="Sarışın {HERO.FIRSTNAME}" />
+    <string id="3wzexaA7" text="Dişi Kurt {HERO.FIRSTNAME}" />
+    <string id="4GIoPUen" text="Kılıç Ustası {HERO.FIRSTNAME}" />
+    <string id="6CAbkgS4" text="Tamirci {HERO.FIRSTNAME}" />
+    <string id="7apnGFz7" text="Kara {HERO.FIRSTNAME}" />
+    <string id="7hrmlfxh" text="Lejyondan" />
+    <string id="7lg12a57" text="Cesur {HERO.FIRSTNAME}" />
+    <string id="8o5SDCCJ" text="Köpekbalığı {HERO.FIRSTNAME}" />
+    <string id="aE8abvsQ" text="Şanslı {HERO.FIRSTNAME}" />
+    <string id="agS5lIg7" text="Babasız {HERO.FIRSTNAME}" />
+    <string id="akALDUs0" text="Uzun Bıçak {HERO.FIRSTNAME}" />
+    <string id="azCSz9QH" text="El'den" />
+    <string id="bpw8fOs5" text="Karakuzaitlerden" />
+    <string id="bvjFhiDr" text="Alim {HERO.FIRSTNAME}" />
+    <string id="c5Kjcxsa" text="Gezgin {HERO.FIRSTNAME}" />
+    <string id="CePmep0z" text="Kaçak Avcı" />
+    <string id="cP1o8eUs" text="Jawwal'dan" />
+    <string id="CQOlMayc" text="Kılıksız {HERO.FIRSTNAME}" />
+    <string id="cud22JY1" text="Cerrah {HERO.FIRSTNAME}" />
+    <string id="eobXmmLg" text="Kumpanya'dan" />
+    <string id="fJmGKlaO" text="At Hırsızı {HERO.FIRSTNAME}" />
+    <string id="G8mawcBV" text="Şifacı {HERO.FIRSTNAME}" />
+    <string id="gED0ZMhi" text="Ilay" />
+    <string id="hrMatilh" text="Demirci {HERO.FIRSTNAME}" />
+    <string id="IgOTjF4i" text="Gulamlardan" />
+    <string id="IVnvHF8S" text="Eleftheroi'den" />
+    <string id="Ivx4uJVp" text="Sessiz {HERO.FIRSTNAME}" />
+    <string id="j2nVPqIX" text="Şahin {HERO.FIRSTNAME}" />
+    <string id="jepZ0btT" text="Kendinden Emin Yarışmacı" />
+    <string id="jG3duO7A" text="Seçilmişlerden" />
+    <string id="jKAhAoVb" text="Orman Halkından" />
+    <string id="JL8RBEu3" text="Beni Zilal'den" />
+    <string id="KkStFl12" text="Kurtpostlulardan" />
+    <string id="KnTl4ESh" text="İnek Hırsızı {HERO.FIRSTNAME}" />
+    <string id="KphYbafC" text="Cesur Yarışmacı" />
+    <string id="KTObbG71" text="Mazlum {HERO.FIRSTNAME}" />
+    <string id="KY2zbWkj" text="Hızlı {HERO.FIRSTNAME}" />
+    <string id="LmlL8fVu" text="Kanlı Balta {HERO.FIRSTNAME}" />
+    <string id="mcbREzPt" text="Koruyuculardan" />
+    <string id="mtBA7sfk" text="Güçlü Yarışmacı" />
+    <string id="muC2SGlM" text="Çölden {HERO.FIRSTNAME}" />
+    <string id="nDtjEazo" text="Keskin Nişancı {HERO.FIRSTNAME}" />
+    <string id="nqE62lQW" text="Kara Dişli {HERO.FIRSTNAME}" />
+    <string id="NSaetzNJ" text="Kömür Yutan {HERO.FIRSTNAME}" />
+    <string id="ntkipfCV" text="Gürültücü {HERO.FIRSTNAME}" />
+    <string id="NWuGUi4p" text="Dişi Panter {HERO.FIRSTNAME}" />
+    <string id="OArAImbM" text="Tepelerden {HERO.FIRSTNAME}" />
+    <string id="OFWvD0xe" text="Sırtlan {HERO.FIRSTNAME}" />
+    <string id="OIXub6bS" text="Yalnız {HERO.FIRSTNAME}" />
+    <string id="oJJPZOKf" text="Vikrum" />
+    <string id="OzjuQYGH" text="Skolderbroda'dan" />
+    <string id="pTuZB1Hj" text="Demir Göbekli {HERO.FIRSTNAME}" />
+    <string id="pZSAdyC0" text="Kasap {HERO.FIRSTNAME}" />
+    <string id="q5QjQyde" text="Deli {HERO.FIRSTNAME}" />
+    <string id="qeNv4ftk" text="Simsar {FIRSTNAME}" />
+    <string id="QGcgQDqK" text="Kardeşlikten" />
+    <string id="Qm5cstq3" text="Ulyk" />
+    <string id="qslA0bVb" text="Kızıl {HERO.FIRSTNAME}" />
+    <string id="QWbgE4bw" text="Demir Göz {HERO.FIRSTNAME}" />
+    <string id="QyQPJJ9B" text="Uğursuz {HERO.FIRSTNAME}" />
+    <string id="R0NM6lfm" text="Raekel" />
+    <string id="rgdi5Sxa" text="Prens {HERO.FIRSTNAME}" />
+    <string id="rtsnnL2J" text="Kalkan Kızı {HERO.FIRSTNAME}" />
+    <string id="sdzaip5J" text="Bilgiç {HERO.FIRSTNAME}" />
+    <string id="seS9ZZUW" text="Boz Doğan {HERO.FIRSTNAME}" />
+    <string id="sk64gxdw" text="Haysiyetli Yarışmacı" />
+    <string id="t9e34kgH" text="Soyguncu {HERO.FIRSTNAME}" />
+    <string id="TyxXbqVw" text="Doğan {HERO.FIRSTNAME}" />
+    <string id="VKhh9i1l" text="Lakepike'dan" />
+    <string id="vmwCdada" text="Jihan" />
+    <string id="vtXRptVa" text="Altın {HERO.FIRSTNAME}" />
+    <string id="W7aa22Yl" text="Kafakıran {HERO.FIRSTNAME}" />
+    <string id="WNyWySAH" text="Lakepike'dan" />
+    <string id="WU5GnkvR" text="Balık {HERO.FIRSTNAME}" />
+    <string id="WvwWX4me" text="Fıçı Göğüs {HERO.FIRSTNAME}" />
+    <string id="X2TtXlAq" text="Pericleia" />
+    <string id="XBJtv4mD" text="Baharat Tüccarı {HERO.FIRSTNAME}" />
+    <string id="xTQPfmS9" text="Boğa {HERO.FIRSTNAME}" />
+    <string id="XuxARPTM" text="Acı Yudum {HERO.FIRSTNAME}" />
+    <string id="ykTARD4b" text="Kimsesiz {HERO.FIRSTNAME}" />
+    <string id="yr5pa0hs" text="Söğüt Kabuğu {HERO.FIRSTNAME}" />
+    <string id="ZCc3VFat" text="Kır Saçlı {HERO.FIRSTNAME}" />
+    <string id="zCQaPTOK" text="Paralı Asker" />
+    <string id="zXjdb1zT" text="Kırağı Sakal {HERO.FIRSTNAME}" />
+  </strings>
+</base>

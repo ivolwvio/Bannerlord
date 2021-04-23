@@ -1,0 +1,831 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <!-- #region NPCs -->
+  <!--Culture: Empire-->
+  <!--1.Retainer-->
+  <NPCCharacter id="spartan_bodyguard"
+                default_group="Infantry"
+                level="30"
+                name="Spartan Bodyguard"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="275" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="300" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="175" />
+    </skills>
+    <Traits>
+      <Trait id="HopliteFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+    <EquipmentRoster>
+	  <equipment slot="Item0"
+                 id="Item.imperial_throwing_spear_1_t4" />
+      <equipment slot="Item1"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item2"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Cape"
+                 id="Item.spartan_cape_armor" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_bodyguard_helmet" />
+    </EquipmentRoster>
+	
+    <EquipmentRoster>
+	  <equipment slot="Item0"
+                 id="Item.imperial_throwing_spear_1_t4" />
+      <equipment slot="Item1"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item2"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Cape"
+                 id="Item.spartan_cape_armor" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_bodyguard_helmet2" />
+    </EquipmentRoster>
+    </Equipments>
+    <upgrade_targets></upgrade_targets>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_bodyguard_sword"
+                default_group="Infantry"
+                level="30"
+                name="Spartan Bodyguard Swordsman"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="300" />
+      <skill id="TwoHanded"
+             value="100" />
+      <skill id="Polearm"
+             value="275" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Throwing"
+             value="175" />
+    </skills>
+    <Traits>
+      <Trait id="HopliteFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_throwing_spear_1_t4" />
+      <equipment slot="Item1"
+                 id="Item.xiphos_sparta" />
+      <equipment slot="Item2"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Cape"
+                 id="Item.spartan_cape_armor" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_bodyguard_helmet" />
+    </EquipmentRoster>
+	
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_throwing_spear_1_t4" />
+      <equipment slot="Item1"
+                 id="Item.xiphos_sparta" />
+      <equipment slot="Item2"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Cape"
+                 id="Item.spartan_cape_armor" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_bodyguard_helmet2" />
+    </EquipmentRoster>
+    </Equipments>
+    <upgrade_targets></upgrade_targets>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spartan_hoplite_realistic"
+                default_group="Infantry"
+                level="12"
+                name="Hellenic Hoplite"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="125" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="75" />
+    </skills>
+    <Traits>
+      <Trait id="HopliteFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item1"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.gladius_b" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_helmet" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item1"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.gladius_b" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_helmet" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item1"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.gladius_b" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_bodyguard_helmet" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item1"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.gladius_b" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_bodyguard_helmet2" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item1"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.gladius_b" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_bodyguard_helmet3" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item1"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.gladius_b" />
+      <equipment slot="Body"
+                 id="Item.spartan_cuirass" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_bodyguard_helmet4" />
+    </EquipmentRoster>
+    </Equipments>
+    <upgrade_targets></upgrade_targets>
+  </NPCCharacter>
+  
+  <NPCCharacter id="spartan_hoplite"
+                default_group="Infantry"
+                level="30"
+                name="Spartan Hoplite"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="215" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="250" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="125" />
+    </skills>
+    <Traits>
+      <Trait id="HopliteFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.spear_sparta" />
+      <equipment slot="Item1"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Cape"
+                 id="Item.spartan_cape" />
+      <equipment slot="Body"
+                 id="Item.spartan_torso" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_helmet" />
+    </EquipmentRoster>
+    </Equipments>
+    <upgrade_targets></upgrade_targets>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_hoplite_sword"
+                default_group="Infantry"
+                level="30"
+                name="Spartan Hoplite Swordsman"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="250" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="215" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="125" />
+    </skills>
+    <Traits>
+      <Trait id="HopliteFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.xiphos_sparta" />
+      <equipment slot="Item1"
+                 id="Item.spartan_round_shield" />
+      <equipment slot="Cape"
+                 id="Item.spartan_cape" />
+      <equipment slot="Body"
+                 id="Item.spartan_torso" />
+      <equipment slot="Leg"
+                 id="Item.spartan_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_helmet" />
+    </EquipmentRoster>
+    </Equipments>
+    <upgrade_targets></upgrade_targets>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_peltast"
+                default_group="Ranged"
+                level="20"
+                name="Spartan Peltastes"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="85" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="125" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="215" />
+    </skills>
+    <Traits>
+      <Trait id="HopliteFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_throwing_spear_1_t4" />
+      <equipment slot="Item1"
+                 id="Item.imperial_throwing_spear_1_t4" />
+      <equipment slot="Item2"
+                 id="Item.imperial_throwing_spear_1_t4" />
+      <equipment slot="Item3"
+                 id="Item.xiphos_sparta" />
+      <equipment slot="Body"
+                 id="Item.empire_short_dress" />
+      <equipment slot="Leg"
+                 id="Item.sparta_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_helmet" />
+    </EquipmentRoster>
+    </Equipments>
+    <upgrade_targets></upgrade_targets>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_toxotes"
+                default_group="Ranged"
+                level="20"
+                name="Spartan Toxotes"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_vlandia" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="95" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="75" />
+      <skill id="Bow"
+             value="250" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="150" />
+    </skills>
+    <Traits>
+      <Trait id="HopliteFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.composite_steppe_bow" />
+      <equipment slot="Item1"
+                 id="Item.xiphos_sparta" />
+      <equipment slot="Item2"
+                 id="Item.range_arrows" />
+      <equipment slot="Item3"
+                 id="Item.range_arrows" />
+      <equipment slot="Body"
+                 id="Item.empire_short_dress" />
+      <equipment slot="Leg"
+                 id="Item.sparta_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.northern_brass_bracers" />
+      <equipment slot="Head"
+                 id="Item.spartan_helmet" />
+    </EquipmentRoster>
+    </Equipments>
+    <upgrade_targets></upgrade_targets>
+  </NPCCharacter>
+  
+  <NPCCharacter id="persian_sparabara"
+                default_group="Infantry"
+                level="1"
+                name="Persian Sparabara"
+                occupation="Soldier"
+                is_basic_troop="true"
+                culture="Culture.aserai">
+    <face>
+      <face_key_template value="NPCCharacter.villager_aserai" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="50" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="40" />
+      <skill id="TwoHanded"
+             value="5" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="5" />
+    </skills>
+    <Traits>
+      <Trait id="HopliteFightingSkills" value="5" />
+    </Traits>
+    <Equipments>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.turban" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.turban" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.light tunic" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.turban" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.turban" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.turban" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.light tunic" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.turban" />
+    </EquipmentRoster>
+	
+	
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.closed_head_scarf" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.closed_head_scarf" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.light tunic" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.closed_head_scarf" />
+    </EquipmentRoster>
+	
+	
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.woven_turban" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.woven_turban" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.light tunic" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.woven_turban" />
+    </EquipmentRoster>
+	
+	
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.light tunic" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+	
+	
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.light tunic" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.eastern_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.light tunic" />
+      <equipment slot="Leg"
+                 id="Item.wrapped_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.armwraps" />
+      <equipment slot="Head"
+                 id="Item.cloth_headwrap" />
+    </EquipmentRoster>
+    </Equipments>
+    <upgrade_targets></upgrade_targets>
+  </NPCCharacter>
+
+  
+</NPCCharacters>

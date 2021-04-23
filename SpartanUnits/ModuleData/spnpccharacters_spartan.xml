@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <NPCCharacter id="hoplite_recruit"
+                default_group="Infantry"
+                level="8"
+                name="{=UKyGBjhb}Militia Hoplite"
+                occupation="Soldier"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="30" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="20" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="80" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="5" />
+    </skills>
+	<upgrade_targets>
+	  		<upgrade_target id="NPCCharacter.hoplite_soldier" />
+			<upgrade_target id="NPCCharacter.greek_cavalry" />
+    </upgrade_targets>
+    <Equipments>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_b" />
+		  <equipment slot="Item1"
+					 id="Item.greek_hoplite_spear" />
+		  <equipment slot="Item0"
+					 id="Item.xiphos_a" />
+		  <equipment slot="Body"
+					 id="Item.exomis_b" />
+		  <equipment slot="Gloves"
+					 id="Item.strapped_leather_bracers" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1" />
+		</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+    <NPCCharacter id="hoplite_soldier"
+                default_group="Infantry"
+                level="11"
+                name="{=UKyGBjhc}Hoplite Soldier"
+                occupation="Soldier"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="45" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="40" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="90" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="40" />
+    </skills>
+	<upgrade_targets>
+		<upgrade_target id="NPCCharacter.hoplite_trained_soldier" />
+    </upgrade_targets>
+    <Equipments>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_b" />
+		  <equipment slot="Item0"
+					 id="Item.greek_hoplite_spear" />
+		  <equipment slot="Item1"
+					 id="Item.xiphos_a" />
+		  <equipment slot="Body"
+					 id="Item.chiton_no_sleeves_b" />
+		  <equipment slot="Gloves"
+					 id="Item.strapped_leather_bracers" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1" />
+		</EquipmentRoster>
+		<EquipmentSet id="empire_troop_civilian_template_t1"
+					civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+    <NPCCharacter id="hoplite_trained_soldier"
+                default_group="Infantry"
+                level="16"
+                name="{=UKyGBjhd}Trained Hoplite Soldier"
+                occupation="Soldier"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="85" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="120" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="60" />
+    </skills>
+	<upgrade_targets>
+		<upgrade_target id="NPCCharacter.spartan_youth" />
+    </upgrade_targets>
+    <Equipments>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_b" />
+		  <equipment slot="Item1"
+					 id="Item.greek_hoplite_spear" />
+		  <equipment slot="Item0"
+					 id="Item.xiphos_a" />
+		  <equipment slot="Body"
+					 id="Item.linothorax_3_no_pteryges" />
+		  <equipment slot="Gloves"
+					 id="Item.linothorax_no_sleeves_ua_b" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1" />
+		  <!--<equipment slot="Cape"
+					 id="Item.empire_warrior_padded_armor_shoulder" />-->
+		</EquipmentRoster>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_b" />
+		  <equipment slot="Item1"
+					 id="Item.greek_hoplite_spear" />
+		  <equipment slot="Item0"
+					 id="Item.xiphos_a" />
+		  <equipment slot="Body"
+					 id="Item.linothorax_3_no_pteryges" />
+		  <equipment slot="Gloves"
+					 id="Item.linothorax_no_sleeves_ua_b" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1" />
+		  <equipment slot="Head"
+					 id="Item.pilos_1" />
+		  <!--<equipment slot="Cape"
+					 id="Item.empire_warrior_padded_armor_shoulder" />-->
+		</EquipmentRoster>
+		<EquipmentSet id="empire_troop_civilian_template_t1"
+					civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+      <NPCCharacter id="spartan_youth"
+                default_group="Infantry"
+                level="21"
+                name="{=UKyGBjhe}Spartan Youth"
+                occupation="Soldier"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="120" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="120" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="160" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="80" />
+    </skills>
+	<upgrade_targets>
+        <upgrade_target id="NPCCharacter.spartan_hoplite" />
+		<upgrade_target id="NPCCharacter.armoured_hoplite" />
+    </upgrade_targets>
+    <Equipments>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_a" />
+		  <equipment slot="Item1"
+					 id="Item.greek_hoplite_fine_spear" />
+		  <equipment slot="Item0"
+					 id="Item.xiphos_a" />
+		  <equipment slot="Body"
+					 id="Item.linothorax_3_no_pteryges" />
+		  <equipment slot="Gloves"
+					 id="Item.linothorax_no_sleeves_ua_b" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1_bronze_greaves_left" />
+		  <equipment slot="Head"
+					 id="Item.pilos_1" /> <!-- chalcidian_1 -->
+		 <!-- <equipment slot="Cape"
+					 id="Item.empire_warrior_padded_armor_shoulder" />-->
+	   </EquipmentRoster>
+	   <EquipmentSet id="empire_troop_civilian_template_t1"
+					civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+        <NPCCharacter id="spartan_hoplite"
+                default_group="Infantry"
+                level="26"
+                name="{=UKyGBjhf}Spartan Hoplite"
+                occupation="Soldier"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="150" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="140" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="260" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="100" />
+    </skills>
+	<upgrade_targets>
+		<upgrade_target id="NPCCharacter.royal_spartan_hoplite" />
+    </upgrade_targets>
+    <Equipments>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_lahmda" />
+		  <equipment slot="Item1"
+					 id="Item.greek_hoplite_fine_spear" />
+		  <equipment slot="Item0"
+					 id="Item.300_Sword" />
+		  <equipment slot="Body"
+					 id="Item.linothorax_2_Checker_pattern" />
+		  <equipment slot="Gloves"
+					 id="Item.linothorax_no_sleeves_ua_b" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1_bronze_greaves_dual" />
+		  <equipment slot="Head"
+					 id="Item.corinthian_4_plain" />
+		  <equipment slot="Cape"
+					 id="Item.pauldron_cape_a" />
+		</EquipmentRoster>
+		<EquipmentSet id="empire_troop_civilian_template_t1"
+					civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+        <NPCCharacter id="royal_spartan_hoplite"
+                default_group="Infantry"
+                level="31"
+                name="{=UKyGBjhi}Royal Spartan"
+                occupation="Soldier"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="190" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="190" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="300" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="140" />
+    </skills>
+	      <upgrade_targets></upgrade_targets>
+    <Equipments>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_lahmda" />
+		  <equipment slot="Item1"
+					 id="Item.greek_hoplite_fine_spear" />
+		  <equipment slot="Item0"
+					 id="Item.300_Sword" />
+		  <equipment slot="Body"
+					 id="Item.linothorax_1" />
+		  <equipment slot="Gloves"
+					 id="Item.linothorax_no_sleeves_ua_b" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1_bronze_greaves_dual" />
+		  <equipment slot="Head"
+					 id="Item.corinthian_3_tailed" />
+		  <equipment slot="Cape"
+					 id="Item.pauldron_cape_a" />
+		</EquipmentRoster>
+		<EquipmentSet id="empire_troop_civilian_template_t1"
+					civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+   <NPCCharacter id="armoured_hoplite"
+                default_group="Infantry"
+                level="26"
+                name="{=UKyGBjhf}Armoured Hoplite"
+                occupation="Soldier"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="125" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="180" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="90" />
+    </skills>
+	<upgrade_targets>
+		<upgrade_target id="NPCCharacter.armoured_hoplite_veteran" />
+    </upgrade_targets>
+    <Equipments>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_lahmda" />
+		  <equipment slot="Item1"
+					 id="Item.greek_hoplite_fine_spear_b" />
+		  <equipment slot="Item0"
+					 id="Item.300_Sword" />
+		  <equipment slot="Body"
+					 id="Item.musculata_3" />
+		  <equipment slot="Gloves"
+					 id="Item.linothorax_no_sleeves_ua_b" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1_bronze_greaves_dual" />
+		  <equipment slot="Head"
+					 id="Item.corinthian_4_plain" />
+		  <!--<equipment slot="Cape"
+					 id="Item.empire_warrior_padded_armor_shoulder" />-->
+		</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+    <NPCCharacter id="armoured_hoplite_veteran"
+                default_group="Infantry"
+                level="31"
+                name="{=UKyGBjhf}Armoured Hoplite Veteran"
+                occupation="Soldier"
+                culture="Culture.empire">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="220" />
+      <skill id="Bow"
+             value="0" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="115" />
+    </skills>
+	<!-- imperial_mail_vest -->
+	<upgrade_targets></upgrade_targets>
+    <Equipments>
+		<EquipmentRoster>
+		  <equipment slot="Item2"
+					 id="Item.hoplon_lahmda" />
+		  <equipment slot="Item1"
+					 id="Item.greek_hoplite_fine_spear_b" />
+		  <equipment slot="Item0"
+					 id="Item.300_Sword" />
+		  <equipment slot="Body"
+					 id="Item.musculata_3" />
+		  <equipment slot="Gloves"
+					 id="Item.linothorax_no_sleeves_ua_b" />
+		  <equipment slot="Leg"
+					 id="Item.sandals_1_bronze_greaves_dual" />
+		  <equipment slot="Head"
+					 id="Item.corinthian_3_tailed" />
+		  <equipment slot="Cape"
+					 id="Item.pauldron_cape_a" />
+		  <!--<equipment slot="Cape"
+					 id="Item.studded_imperial_neckguard" />-->
+		</EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

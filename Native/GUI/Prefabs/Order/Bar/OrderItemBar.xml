@@ -1,0 +1,16 @@
+<Prefab>
+  <Constants>
+    <Constant Name="Item.Background.Width" BrushName="Order.Item.Background.Square" BrushLayer="Default" BrushValueType="Width" MultiplyResult="0.75"/>
+    <Constant Name="Item.Background.Height" BrushName="Order.Item.Background.Square" BrushLayer="Default" BrushValueType="Height" MultiplyResult="0.75"/>
+  </Constants>
+  <Window>
+    <OrderItemWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!Item.Background.Width" SuggestedHeight="!Item.Background.Height" SelectionState="@SelectionState" OrderIconID="@OrderIconID" IconWidget="Icon" IsSelected="@IsSelected" UpdateChildrenStates="true" SelectionVisualWidget="SelectionVisualWidget" MarginBottom="8">
+      <Children>
+        <ImageWidget Id="SelectionVisualWidget" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Brush="Order.Item.Background.Square" OverrideDefaultStateSwitchingEnabled="true"/>
+        <Widget Id="Icon" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" />
+        <InputKeyVisualWidget DataSource="{ShortcutKey}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="55" SuggestedHeight="55" HorizontalAlignment="Right" VerticalAlignment="Top" PositionXOffset="25" PositionYOffset="-12" KeyID="@KeyID" HideIfNone="true" />
+        <TextWidget Text="@TooltipText" WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" VerticalAlignment="Bottom" Brush="Order.Item.DescriptionText.Bar"/>
+      </Children>
+    </OrderItemWidget>
+  </Window>
+</Prefab>

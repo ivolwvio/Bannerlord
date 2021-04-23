@@ -1,0 +1,4678 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="cla_tournament_master_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="ArenaMaster"
+                culture="Culture.empire"
+                name="{=IHKXNP9H}Tournament Master"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_empire_duel_preset"
+                default_group="Infantry"
+                level="1"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                name="{=cte0zSCz}Empire Tribesman"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <BodyProperties version="4" age="37.08" weight="0.008" build="0.4325" key="000B000B40000000700000000006080003000000000000080000000008070000000667A406000000000000000000000000000000000000000000000000F00000" />
+      <BodyPropertiesMax version="4" age="77.59" weight="0.5213" build="0.6" key="0010F00FC00033CFFFF88EFFFFF88FFFFFFFFFFFFFF7FFFFFFFFFFFFFFFFFFFF0870878907FFFFFF00000000000000000000000000000000000000006AF09105" />
+    </face>
+    <skills>
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_shield_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_round_shield_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_3_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_spear_3_t3" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_prison_guard_empire"
+                default_group="Infantry"
+                level="21"
+                culture="Culture.empire"
+                occupation="PrisonGuard"
+                name="{=XgjXfmM1}Prison Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level21_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills>
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_brass_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_brass_2" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_iron_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1_j" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_mix_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_cloak" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_brass_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_brass_2" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_iron_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1_j" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_mix_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_cloak" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_guard_empire"
+                default_group="Infantry"
+                level="21"
+                occupation="Soldier"
+                culture="Culture.empire"
+                name="{=guardnoun}Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level21_template_skills"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills>
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <Traits></Traits>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_iron_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_2" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_cloak_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_brass_2" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_brass_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_cloak_2" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_infantry_1" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_mix_cingulum" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_2" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_invisible_armwraps_2" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_cloak_2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_steward_empire"
+                default_group="Infantry"
+                level="21"
+                occupation="Judge"
+                culture="Culture.empire"
+                name="{=ZRkceJx3}Judge">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills>
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_blacksmith_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Blacksmith"
+                culture="Culture.empire"
+                name="{=bNnQt4jN}Blacksmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_weaponsmith_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Weaponsmith"
+                culture="Culture.empire"
+                name="{=UaN2lfwi}Weaponsmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_4" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_elite_1" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_elite_1" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townswoman_infant_empire"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townswoman_child_empire"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.footmans_tunic" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_townswoman_teenager_empire"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.headscarf" />
+      <equipment slot="Body"
+                 id="Item.empire_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.vlandian_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_empire"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=KtqB640w}Empire Peasant"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.vlandian_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.dress_with_overall" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.vlandian_dress" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress_b" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.dress_with_overall" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_infant_empire"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.bandit_leather_water_flask" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_child_empire"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+    
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="cla_village_woman_teenager_empire"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.footmans_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+  
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+    
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_villager_infant_empire"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.bandit_leather_water_flask" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_villager_child_empire"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+    
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.footmans_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_villager_teenager_empire"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+    
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.footmans_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_empire"
+                default_group="Infantry"
+                name="{=muu5cofb}Townsman"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+      <hair_tags>
+        <hair_tag name="Bald" />
+        <hair_tag name="ShortAndThin" />
+        <hair_tag name="Tousled" />
+        <hair_tag name="Short" />
+      </hair_tags>
+      <beard_tags>
+        <beard_tag name="Cleanshaven" />
+        <beard_tag name="LightShortBeard" />
+        <beard_tag name="HeavyShortBeard" />
+        <beard_tag name="Cleanshaven" />
+      </beard_tags>
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_infant_empire"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+    
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_child_empire"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+    
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_teenager_empire"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_ransom_broker_empire"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=W2WXkiAh}Ransom Broker"
+                occupation="RansomBroker"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+          <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gangleader_bodyguard_empire"
+                default_group="Infantry"
+                name="{=LNNXiPyV}Gang Leader Bodyguard"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                level="16">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_2haxe_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.peasant_2haxe_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+    
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Notary -->
+  <NPCCharacter id="cla_merchant_notary_empire"
+                default_group="Infantry"
+                name="{=reoVAtrE}Merchant Notary"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_artisan_notary_empire"
+                default_group="Infantry"
+                name="{=ECxiXTbF}Artisan Notary"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_preacher_notary_empire"
+                default_group="Infantry"
+                name="{=bLMGbLF8}Preacher Notary"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_rural_notable_notary_empire"
+                default_group="Infantry"
+                name="{=AlmaRAib}Rural Notable Notary"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cloth_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.hemp_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.fine_town_tunic" />
+      <equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_shop_worker_empire"
+                default_group="Infantry"
+                name="{=275LD0Gh}Shop Worker"
+                occupation="ShopWorker"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cloth_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.leather_cap" />
+      <equipment slot="Body"
+                 id="Item.half_apron" />
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tavernkeeper_empire"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=CsjtWt1g}Tavern Keeper"
+                occupation="Tavernkeeper"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cloth_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.half_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_taverngamehost_empire"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=twCIejxn}Game Host"
+                occupation="TavernGameHost"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+          <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_musician_empire"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=zfCoeglY}Musician"
+                occupation="Musician"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tavern_wench_empire"
+                default_group="Infantry"
+                name="{=z6RMWTaA}Tavern Maid"
+                is_female="true"
+                is_hero="false"
+                occupation="TavernWench"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <!--<face_key value="00160512c08410019e59c3c61b67a4a95aedc746c7ba8735428988f85749aa9700000854078a69860000000000000000000000000000000000000000017c0140" />-->
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress_with_pouch" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_armorer_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Armorer"
+                culture="Culture.empire"
+                name="{=jx8ohENz}Armorer"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.battania_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.wrapped_headcloth" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      <equipment slot="Gloves"
+                 id="Item.ragged_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_horseMerchant_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="HorseTrader"
+                culture="Culture.empire"
+                name="{=79ElOr2x}Horse Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cloth_apron" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.merchants_fur_coat" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.merchants_fur_coat" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_barber_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                name="{=WH7EGGIg}Barber"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_merchant_empire"
+                default_group="Infantry"
+                is_hero="true"
+                occupation="GoodsTrader"
+                culture="Culture.empire"
+                name="{=thbcgVVO}Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+          <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+
+        <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_beggar_empire"
+                default_group="Infantry"
+                name="{=HZRKBDyB}Slave"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+<BodyProperties version="4" age="22" weight="0.1661" build="0.0462"  key="000004000000100000000000000200100000000000000000000000000000000000077B03000000000000000000000000000000000000000000000000000000C1"  />
+<BodyPropertiesMax version="4" age="74.26" weight="0.6145" build="0.6767"  key="003FFC0FDE003A5CFFFFFFFFFFF9FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF00A77B030AFFFFFF000000000000000000000000000000000000000001488101"  />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.aserai_villager_female_headdress" />
+      <equipment slot="Body"
+                 id="Item.bandit_envelope_dress_v1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.bandit_envelope_dress_v2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_female_beggar_empire"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=HZRKBDyB}Slave"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+<BodyProperties version="4" age="22" weight="0.1661" build="0.0462"  key="000004000000100000000000000200100000000000000000000000000000000000077B03000000000000000000000000000000000000000000000000000000C1"  />
+<BodyPropertiesMax version="4" age="74.26" weight="0.6145" build="0.6767"  key="003FFC0FE1003A55FFFFFFFFFFF9FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF00A77B030AFFFFFF000000000000000000000000000000000000000055488104"  />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.aserai_villager_female_headdress" />
+      <equipment slot="Body"
+                 id="Item.bandit_envelope_dress_v2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_female_dancer_empire"
+                default_group="Infantry"
+                name="{=X3KYysuv}Dancer"
+                is_female="true"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      <equipment slot="Head"
+                 id="Item.head_wrapped" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress_with_pouch" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress_with_pouch" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gear_practice_dummy_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                name="{=!}Empire Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <equipment slot="Gloves"
+                 id="Item.woven_leather_bracers" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.tunic_with_rolled_cloth" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.footmans_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_pugio_1" />
+      <equipment slot="Body"
+                 id="Item.hemp_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      <equipment slot="Gloves"
+                 id="Item.woven_leather_bracers" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_weapon_practice_stage_1_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                name="{=!}Empire Weapon Dummy">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_weapon_practice_stage_2_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                name="{=!}Empire Weapon Dummy">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_weapon_practice_stage_3_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                name="{=!}Empire Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_elite_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_4" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.tournament_arrows" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_elite_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_shield_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_4" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_spear_4_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_round_shield_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_elite_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_oval_shield_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_2" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_shield_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_spatha_2" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_cavalry_shield_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_elite_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_round_shield_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_4" />
+      <equipment slot="Item1"
+                 id="Item.cla_pilum_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_roman_shield_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_elite_1" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      <equipment slot="Item3"
+                 id="Item.cla_roman_shield_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gear_dummy_empire"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Vlandia Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_helm_brass_2" />
+      <equipment slot="Body"
+                 id="Item.imperial_padded_cloth" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_boots_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+<!-- Tournaments -->
+  <NPCCharacter id="cla_tournament_template_empire_one_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_empire_one_participant_set_v1"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_gladiator" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_brass" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_wrapped_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_oval" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic_feather" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_montefortino" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_invisible_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_hex" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_coolus" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_oval" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_left" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_hex" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tournament_template_empire_two_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_empire_two_participant_set_v1"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_gladiator" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_brass" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_wrapped_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_oval" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic_feather" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_montefortino" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_invisible_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_hex" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_coolus" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_oval" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_left" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_hex" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_battania_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tournament_template_empire_two_participant_set_v2"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_empire_two_participant_set_v2"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_gladiator" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_brass" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_wrapped_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_oval" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic_feather" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_montefortino" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_invisible_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_hex" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_coolus" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_left" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tournament_template_empire_two_participant_set_v3"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_empire_two_participant_set_v3"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_gladiator" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_brass" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_wrapped_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_oval" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic_feather" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_montefortino" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_invisible_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_hex" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_coolus" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_left" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tournament_template_empire_four_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_empire_four_participant_set_v1"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_gladiator" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_brass" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_wrapped_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic_feather" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_montefortino" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_invisible_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_coolus" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_left" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tournament_template_empire_four_participant_set_v2"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_empire_four_participant_set_v2"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_gladiator" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_brass" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_wrapped_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic_feather" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_montefortino" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_invisible_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_coolus" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_left" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tournament_template_empire_four_participant_set_v3"
+                default_group="Infantry"
+                level="6"
+                name="{=!}tournament_template_empire_four_participant_set_v3"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_empire" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_gladiator" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_brass" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_scutum" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_wrapped_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_empire_gladius_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_republic_feather" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.cla_empire_tournament_shield_round" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_montefortino" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_invisible_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_coolus" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_1_t3_blunt" />
+      <equipment slot="Horse"
+                 id="Item.empire_horse_tournament" />
+      <equipment slot="HorseHarness"
+                 id="Item.light_harness" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_left" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Item1"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_wolf_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_greaves_left_brass" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_armwraps_right" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_iron" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_sandals" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.glen_ranger_bow" />
+      <equipment slot="Item1"
+                 id="Item.tournament_arrows" />
+      <equipment slot="Item2"
+                 id="Item.empire_sword_1_t2_blunt" />
+      <equipment slot="Head"
+                 id="Item.cla_empire_tournament_helm_bear_galea_brass" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_arena_tunic" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_tournament_boots" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_tournament_manica_full" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>

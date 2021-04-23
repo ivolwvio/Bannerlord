@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<CraftingTemplates>
+	<CraftingTemplate id="SpartanSpear" item_modifier_group="polearm" item_holsters="polearm_back:polearm_back_2:polearm_back_3:polearm_back_4" default_item_holster_position_offset="0,0,-0.30" use_weapon_as_holster_mesh="true">
+		<PieceDatas>
+			<PieceData piece_type="Handle" build_order="0"/>
+			<PieceData piece_type="Guard" build_order="1"/>
+			<PieceData piece_type="Blade" build_order="2"/>
+			<PieceData piece_type="Pommel" build_order="-1"/>
+		</PieceDatas>
+		<WeaponUsageDatas>
+      <WeaponUsageData id="OneHandedPolearm"/>
+      <WeaponUsageData id="TwoHandedPolearm"/>
+      <WeaponUsageData id="TwoHandedPolearm_Couchable"/>
+      <WeaponUsageData id="TwoHandedPolearm_Bracing"/>
+		</WeaponUsageDatas>
+		<StatsData>
+			<StatData stat_type="Weight" max_value="2.0"/>
+			<StatData stat_type="WeaponReach" max_value="350"/>
+			<StatData stat_type="ThrustSpeed" max_value="200"/>
+			<StatData stat_type="SwingSpeed" max_value="200"/>
+			<StatData stat_type="ThrustDamage" max_value="500"/>
+			<StatData stat_type="SwingDamage" max_value="500"/>
+			<StatData stat_type="Handling" max_value="100"/>
+		</StatsData>
+		<UsablePieces>
+			<UsablePiece piece_id="spear_blade_sparta"/>
+			<UsablePiece piece_id="spear_guard_sparta"/>
+			<UsablePiece piece_id="spear_pommel_sparta"/>
+			<UsablePiece piece_id="spear_handle_sparta"/>
+		</UsablePieces>
+	</CraftingTemplate>
+
+</CraftingTemplates>

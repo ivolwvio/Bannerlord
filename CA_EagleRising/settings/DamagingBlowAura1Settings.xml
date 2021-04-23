@@ -1,0 +1,23 @@
+<CA_EagleRising>
+
+<!-- this works but is not fit for a realistic mod, original particle effect is not included in the rome mod -->
+
+<!-- Damage Enemy Over Time -->
+<!-- Poison Look Radius: 4 DMG: 5/2s -->
+	<HasParticle>false</HasParticle>
+	<ParticleToEquippedOnly>false</ParticleToEquippedOnly>
+	<ShoudRepeatParticle>false</ShoudRepeatParticle>
+	<RepeatParticlePeriod>1</RepeatParticlePeriod>
+	<ParticleEffectName>cla_dot_poison</ParticleEffectName>
+	<ParticleBoneIndexes>10,13</ParticleBoneIndexes>
+
+	<HasLight>false</HasLight>
+	<LightBone>0</LightBone>
+	<LightRadius>1.5</LightRadius>
+	<LightIntensity>125</LightIntensity>
+	<LightColor>#ff0000FF</LightColor>
+	
+	<AuraRadius>5</AuraRadius>
+	<BuffAmount>5</BuffAmount>
+	<BuffPeriod>2</BuffPeriod>
+</CA_EagleRising>

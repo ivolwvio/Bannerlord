@@ -1,0 +1,1238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentRosters>
+
+<!-- Wanderer Equipment -->
+  <EquipmentRoster id="cla_npc_wanderer_equipment_empire">
+    <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Head" id="Item.cla_empire_helm_brass_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <Equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Head" id="Item.cla_empire_helm_coolus_1" />
+      <Equipment slot="Body" id="Item.cla_empire_tunic" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Head" id="Item.cla_empire_helm_coolus_2" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <Equipment slot="Leg" id="Item.cla_roman_boots_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Head" id="Item.cla_empire_helm_montefortino_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <Equipment slot="Leg" id="Item.cla_roman_boots_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0" id="Item.cla_pilum_1" />
+      <Equipment slot="Item1" id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Item2" id="Item.cla_roman_shield_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_white" />
+      <Equipment slot="Leg" id="Item.cla_roman_boots_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_empire_tunic" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_yellow" />
+      <Equipment slot="Leg" id="Item.cla_roman_boots_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_dred" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_orange" />
+      <Equipment slot="Leg" id="Item.cla_roman_boots_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_grey" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_green" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_green_light" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_brown" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_olive" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_blue" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0" id="Item.cla_empire_pugio_1" />
+      <Equipment slot="Body" id="Item.cla_roman_tunic_blue_light" />
+      <Equipment slot="Leg" id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_npc_artisan_equipment_empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+        <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+  <EquipmentRoster id="cla_npc_gang_leader_equipment_empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+        <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+  <EquipmentRoster id="cla_npc_preacher_equipment_empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+        <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+  <EquipmentRoster id="cla_npc_merchant_equipment_empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+        <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_npc_gentry_equipment_empire">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+        <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+      <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_left_2" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_blue_light_2" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_gold_both_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_left_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_brown_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_green_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+      <Equipment slot="Gloves" id="Item.cla_empire_bracelet_silver_right_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_grey" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_pugio_2" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_yellow" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+     <EquipmentSet>
+      <Equipment slot="Item0"
+                 id="Item.cla_empire_gladius_1" />
+      <Equipment slot="Body"
+                 id="Item.cla_empire_toga_red_light" />
+      <Equipment slot="Leg"
+                 id="Item.cla_empire_sandals_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+</EquipmentRosters>

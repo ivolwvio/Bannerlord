@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>
+	
+	<!-- KNIFES -->
+	<CraftedItem id="aew_knife_sw01" name="{=AEW_Knife_extDagger_01}Chael Nad'ra Knife" crafting_template="AEW_Knife_extDagger" is_merchandise="false" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_sw01"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_sw01"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_grip_sw01"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_sw01"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>	
+
+	<CraftedItem id="aew_knife_sw02" name="{=AEW_Knife_extDagger_02}Chael Nad'ra Knife" crafting_template="AEW_Knife_extDagger" is_merchandise="false" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_sw02"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_sw02"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_grip_sw02"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_sw02"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>		
+	
+	
+	
+	<!-- LONGBLADES -->
+	<CraftedItem id="aew_sword_lb01" name="{=aew_longblade_01}Chael Nad'ra Longblade" crafting_template="AEW_Two_Handed_Sword_extTwoHandedSword" is_merchandise="true" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_lb01"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_lb01"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_grip_lb01"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_lb01"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>	
+	
+	<CraftedItem id="aew_sword_lb02" name="{=aew_longblade_02}Chael Nad'ra Longblade" crafting_template="AEW_Two_Handed_Sword_extTwoHandedSword" is_merchandise="true" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_lb02"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_lb01"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_grip_lb02"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_lb01"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>		
+	
+	
+	
+	<!-- WARBLADES -->
+	<CraftedItem id="aew_sword_wb01" name="{=aew_warblade_01}Chael Nad'ra Ivory Warblade" crafting_template="AEW_Two_Handed_Sword_extTwoHandedSword" is_merchandise="true" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_wb01"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_wb01"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_grip_wb01"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_wb01"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>	
+	
+	<CraftedItem id="aew_sword_wb02" name="{=aew_warblade_02}Chael Nad'ra Ebony Warblade" crafting_template="AEW_Two_Handed_Sword_extTwoHandedSword" is_merchandise="true" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_wb02"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_wb01"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_grip_wb02"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_wb01"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	
+	<CraftedItem id="aew_sword_wb03" name="{=aew_warblade_03}Chael Nad'ra Silver Warblade" crafting_template="AEW_Two_Handed_Sword_extTwoHandedSword" is_merchandise="true" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_wb03"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_wb01"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_grip_wb03"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_wb01"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+
+	<CraftedItem id="aew_sword_wb04" name="{=aew_warblade_04}Chael Nad'ra Wildwood Warblade" crafting_template="AEW_Two_Handed_Sword_extTwoHandedSword" is_merchandise="true" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_wb04"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_wb01"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_grip_wb04"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_wb01"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>	
+	
+
+	<!-- GLAIVES -->
+	<CraftedItem id="aew_glaive_gl01" name="{=aew_glaive_01}Sacred Thion'na Fain Glaive" crafting_template="AEW_Glaive_extTwoHandedPolearm" is_merchandise="true" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_gl01"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_guard_gl01"		Type="Guard"    scale_factor="100" />
+			<Piece id="aew_handle_gl01"		Type="Handle"   scale_factor="100" />
+			<Piece id="aew_pommel_gl01"		Type="Pommel"   scale_factor="100" />
+		</Pieces>
+	</CraftedItem>
+	
+	
+	<!-- AXES -->
+	<CraftedItem id="aew_axe_ax01" name="{=aew_2haxe_01}Chael Nad'ra Wildwood Glaive" crafting_template="AEW_Two_Handed_Axe_extTwoHandedAxe" is_merchandise="true" culture="Culture.battania">
+		<Pieces>
+			<Piece id="aew_blade_ax01"		Type="Blade"    scale_factor="100" />
+			<Piece id="aew_handle_ax01"		Type="Handle"    scale_factor="100" />
+		</Pieces>
+	</CraftedItem>	
+
+</Items>

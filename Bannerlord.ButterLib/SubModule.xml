@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Module>
+  <Name value="ButterLib" />
+  <Id value="Bannerlord.ButterLib" />
+  <Version value="v1.0.21" />
+  <Official value="false" />
+  <DefaultModule value="false" />
+  <SingleplayerModule value="true" />
+  <MultiplayerModule value="false" />
+  <Url value="https://www.nexusmods.com/mountandblade2bannerlord/mods/2018" />
+  <DependedModules>
+    <DependedModule Id="Bannerlord.Harmony" DependentVersion="v2.0.2" />
+    <!--<DependedModule Id="Bannerlord.ModuleLoader" />-->
+  </DependedModules>
+  <!-- Prototype -->
+  <DependedModuleMetadatas>
+    <DependedModuleMetadata id="Bannerlord.Harmony" order="LoadBeforeThis" version="v2.0.2" />
+    <DependedModuleMetadata id="BetterExceptionWindow" order="LoadBeforeThis" optional="true" />
+    <DependedModuleMetadata id="Bannerlord.ModuleLoader" order="LoadBeforeThis" optional="true" />
+
+    <DependedModuleMetadata id="Native" order="LoadAfterThis" />
+    <DependedModuleMetadata id="SandBoxCore" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="Sandbox" order="LoadAfterThis" optional="true" />
+    <DependedModuleMetadata id="StoryMode" order="LoadAfterThis" />
+    <DependedModuleMetadata id="CustomBattle" order="LoadAfterThis" optional="true" />
+  </DependedModuleMetadatas>
+  <!-- Prototype -->
+  <SubModules>
+    <SubModule>
+      <Name value="ButterLib" />
+      <DLLName value="Bannerlord.ButterLib.dll" />
+      <SubModuleClassType value="Bannerlord.ButterLib.ButterLibSubModule" />
+      <Assemblies>
+        <!--Microsoft Abstractions-->
+        <Assembly value="Microsoft.Extensions.DependencyInjection.Abstractions.dll" />
+        <Assembly value="Microsoft.Extensions.Logging.Abstractions.dll" />
+        <!--Microsoft Implementations-->
+        <Assembly value="Microsoft.Extensions.DependencyInjection.dll" />
+        <Assembly value="Microsoft.Extensions.Logging.dll" />
+        <Assembly value="Microsoft.Extensions.Options.dll" />
+        <Assembly value="Microsoft.Extensions.Primitives.dll" />
+        <!--ILogger Implementation Serilog-->
+        <Assembly value="Serilog.dll" />
+        <Assembly value="Serilog.Extensions.Logging.dll" />
+        <Assembly value="Serilog.Sinks.File.dll" />
+        <!--Helper libraries-->
+        <Assembly value="System.Runtime.CompilerServices.Unsafe.dll" />
+        <Assembly value="Microsoft.Bcl.HashCode.dll" />
+        <Assembly value="System.Reflection.Metadata.dll" />
+        <Assembly value="System.Collections.Immutable.dll" />
+      </Assemblies>
+      <Tags />
+    </SubModule>
+    <SubModule>
+      <Name value="ButterLib Implementation Loader" />
+      <DLLName value="Bannerlord.ButterLib.dll" />
+      <SubModuleClassType value="Bannerlord.ButterLib.ImplementationLoaderSubModule" />
+      <Tags />
+    </SubModule>
+  </SubModules>
+</Module>

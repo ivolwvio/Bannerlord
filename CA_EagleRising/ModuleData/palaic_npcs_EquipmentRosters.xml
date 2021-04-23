@@ -1,0 +1,1983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EquipmentRosters>
+
+  <EquipmentRoster id="cla_mother_char_creation_0_palaic">
+    <EquipmentSet>
+      <Equipment slot="Body"
+        id="Item.northern_dress" />
+      <Equipment slot="Leg"
+        id="Item.ladys_shoe" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_father_char_creation_0_palaic">
+    <EquipmentSet>
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_spc_wanderer_polaic_0">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Item1"
+        id="Item.cla_palaic_standard" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_mask_bear_brass_1_f" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_2" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_rough_bearskin_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_spc_notable_polaic_merch1">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_spc_notable_polaic_merch4">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_vlandia_merch5">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_spc_notable_polaic_1">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_polaic_1b">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_spc_notable_polaic_2">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_notable_polaic_3">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_spc_polaic_gangleader_3">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+    </EquipmentSet>
+  </EquipmentRoster>
+<!-- Companion Templates -->
+  <EquipmentRoster id="cla_npc_companion_equipment_template_palaic">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Item1"
+        id="Item.cla_palaic_shield_hex_2" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Item1"
+        id="Item.cla_palic_shield_oval_a_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Item1"
+        id="Item.cla_palaic_shield_oval_a_bronze_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Item1"
+        id="Item.cla_palaic_shield_oval_b_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Item1"
+        id="Item.cla_palaic_shield_oval_b_bronze_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Item1"
+        id="Item.cla_palaic_shield_oval_c_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Item1"
+        id="Item.cla_palaic_shield_broad_blue_2" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Item1"
+        id="Item.cla_palaic_shield_broad_white_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+<EquipmentRoster id="cla_npc_wanderer_equipment_template_palaic_civilian">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+  <EquipmentRoster id="cla_npc_wanderer_equipment_template_palaic">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_npc_armed_wanderer_equipment_template_palaic">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+<!-- -->
+  <EquipmentRoster id="cla_fighter_palaic">
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet>
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+
+<!-- Troops -->
+  <EquipmentRoster id="cla_palaic_troop_civilian_template_t1">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_palaic_troop_civilian_template_t2">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+  <EquipmentRoster id="cla_palaic_troop_civilian_template_t3">
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_brass_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2hsword_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_2axe_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_iron_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_1ax_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_1" />
+      <Equipment slot="Head"
+        id="Item.cla_palaic_helm_montefortino_copper_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_2" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_t_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_t_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_1" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_tartan_green_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+    <EquipmentSet civilian="true">
+      <Equipment slot="Item0"
+        id="Item.cla_palaic_sword_3" />
+      <Equipment slot="Body"
+        id="Item.cla_palaic_pants_obelix_1" />
+      <Equipment slot="Leg"
+        id="Item.cla_palaic_tribal_shoes_1" />
+      <Equipment slot="Cape"
+        id="Item.cla_palaic_cloak_plain_1" />
+      <Equipment slot="Gloves"
+        id="Item.cla_palaic_bracers_bronze_1" />
+    </EquipmentSet>
+  </EquipmentRoster>
+
+
+</EquipmentRosters>

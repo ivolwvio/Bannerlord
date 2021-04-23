@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Module>
+	<Name value="Adonnay's Exotic Weaponry"/>
+	<Id value="AEW - Adonnays Exotic Weaponry"/>
+	<Version value="v2.0.3"/>
+	<SingleplayerModule value="true"/>
+	<MultiplayerModule value="false"/>
+	<DependedModules>
+		<DependedModule Id="Native"  DependentVersion="e1.5.8"/>
+		<DependedModule Id="SandBoxCore" DependentVersion="e1.5.8"/>
+		<DependedModule Id="Sandbox" DependentVersion="e1.5.8"/>
+		<DependedModule Id="StoryMode" DependentVersion="e1.5.8"/>
+	</DependedModules>
+	<SubModules>
+		<SubModule>
+			<Name value="AEW"/>
+			<DLLName value="AEW.dll"/>
+			<SubModuleClassType value="AEW.SubModule"/>
+			<Tags>
+				<Tag key="DedicatedServerType" value="none" />
+				<Tag key="IsNoRenderModeElement" value="false" />
+			</Tags>
+		</SubModule>
+	</SubModules>
+	<Xmls>
+		<XmlNode>
+			<XmlName id="Items" path="aew_items"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="CraftingPieces" path="aew_crafting_pieces"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+		<XmlNode>
+			<XmlName id="CraftingTemplates" path="aew_crafting_templates"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>	
+	</Xmls>
+</Module>

@@ -1,0 +1,25 @@
+<Prefab>
+  <Constants>
+    <Constant Name="Item.Background.Width" BrushName="Order.Item.Background" BrushLayer="Default" BrushValueType="Width" MultiplyResult="1.25"/>
+    <Constant Name="Item.Background.Height" BrushName="Order.Item.Background" BrushLayer="Default" BrushValueType="Height" MultiplyResult="1.25"/>
+  </Constants>
+  <Window>
+    <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="!Item.Background.Width" SuggestedHeight="!Item.Background.Height" HorizontalAlignment="Center" VerticalAlignment="Center">
+      <Children>
+        <OrderItemRadial DataSource="{TitleOrder}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+        <!--<Widget IsVisible="@ShowOrders" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="30" SuggestedHeight="41" MarginLeft="80" VerticalAlignment="Center" Sprite="StdAssets\arrow_little"/>-->
+        <Widget IsVisible="@ShowOrders" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MarginBottom="115">
+          <Children>
+            <CircleActionSelectorWidget DataSource="{Orders}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="430" SuggestedHeight="400" HorizontalAlignment="Center" VerticalAlignment="Bottom" DistanceFromCenterModifier="130" PositionYOffset="-385" PositionXOffset="-175" DirectionWidget="..\..\DirectionWidget" Sprite="RadialMenu\radial_menu_bg" Color="#00000099" ActivateOnlyWithController="true">
+              <ItemTemplate>
+                <OrderItemRadial />
+              </ItemTemplate>
+            </CircleActionSelectorWidget>
+          </Children>
+        </Widget>
+        <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Center" Text="@SelectedOrderText" MarginBottom="520" MarginRight="15" Brush="Order.Troop.CountText" IsVisible="@ShowOrders"/>
+        <Widget Id="DirectionWidget" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="13" SuggestedHeight="13" HorizontalAlignment="Center" VerticalAlignment="Center" MarginBottom="480" Sprite="BlankWhiteCircle" IsVisible="false"/>
+      </Children>
+    </Widget>
+  </Window>
+</Prefab>

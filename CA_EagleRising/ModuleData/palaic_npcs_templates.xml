@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+<!-- Villager -->
+  <NPCCharacter id="cla_villager_palaic"
+                default_group="Infantry"
+                level="1"
+                name="{=cla_villager_palaic}Palaic Peasant"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+    <BodyProperties version="4" age="24.29" weight="0.162" build="0.3657" key="00000002808809120160000000116151100771100000100021111101800101000057700305111101000000000000000000000000000000000000000000B00005" />
+    <BodyPropertiesMax version="4" age="74.57" weight="0.9954" build="0.9645" key="0002C8080D883A54FF9FEBFFF7ECEEFEF9FF8EFF7F44DFFFFEEFEFEE97FEFFEE00C770030CEEEFEE00000000000000000000000000000000000000001BA09105" />
+    </face>
+    <skills></skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.cla_palaic_recruit" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+    
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townswoman_palaic"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=cla_townswoman_palaic}Palaic Townswoman"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+<BodyProperties version="4" age="22.94" weight="0.3781" build="0.4367"  key="0000040340700007117211111011102041187111111021117110110070222211007776030722221000000000000000000000000000000000000000003EE40004"  />
+<BodyPropertiesMax version="4" age="64.92" weight="0.9491" build="0.9614"  key="000AD808CF883010EF8EEEEEEEFFEEFFEEEEEEFEEFE6EFEEEFEEFFEDF7EE0E5E00D776030DEEFFFE00000000000000000000000000000000000000006BB440C4"  />     
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+    </Equipments>
+  
+  </NPCCharacter>
+
+<!-- Fighters -->
+  <NPCCharacter id="cla_fighter_palaic"
+                default_group="Infantry"
+                level="1"
+                name="{=!}Palaic Fighter"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face>
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentSet id="cla_fighter_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+
+
+<!-- Troops -->
+  <NPCCharacter id="cla_palaic_troop_civilian_template_t1"
+                name="{=!}cla_palaic_troop_civilian_template_t1"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.vlandia"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_troop_civilian_template_t1" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_palaic_troop_civilian_template_t2"
+                name="{=!}cla_palaic_troop_civilian_template_t2"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.vlandia"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_troop_civilian_template_t2" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="battania_troop_civilian_template_t3"
+                name="{=!}battania_troop_civilian_template_t3"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.vlandia"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_troop_civilian_template_t3" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- -->
+  <NPCCharacter id="cla_npc_companion_equipment_template_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}wanderer_equipment"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="cla_npc_companion_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="mother_char_creation_0_vlandia"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic"
+                    civilian="true" />
+      <EquipmentSet id="cla_mother_char_creation_0_palaic" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_0_empire"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_empire"
+                    civilian="true" />
+      <EquipmentSet id="cla_father_char_creation_0_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Lords -->
+  <NPCCharacter id="cla_palaic_bat_template_medium"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_lord_lady_equipment_normal"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsMediumNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_palaic_bat_template_heavy"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_lord_lady_equipment_heavy"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_palaic_bat_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_lord_lady_equipment_flamboyant"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_palaic_bat_template_lady"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_lord_lady_equipment_noncom"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_lady" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- BATTANIA CIV TEMPLATES -->
+  <NPCCharacter id="cla_palaic_civ_template_default"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_unarmored_noble_equipment_normal"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentDefaultTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_civ_template_default" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_palaic_civ_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_unarmored_noble_equipment_flamboyant"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_civ_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_palaic_civ_template_heavy"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_unarmored_noble_equipment_heavy"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_civ_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- Palaic NONCOM TEMPLATES-->
+  <NPCCharacter id="cla_palaic_noncom_template_default"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_unarmored_noble_equipment_normal_lady"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsNoncombatantFemaleEquipmentDefaultTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_noncom_template_default" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_palaic_noncom_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}vlandia_unarmored_noble_equipment_flamboyant_lady"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsNoncombatantFemaleEquipmentDefaultTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_noncom_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>

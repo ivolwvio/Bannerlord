@@ -1,0 +1,37 @@
+<Prefab>
+  <Constants>
+
+  </Constants>
+  <Window>
+    <ListPanel WidthSizePolicy="CoverChildren" HeightSizePolicy="Fixed" SuggestedHeight="42" HorizontalAlignment="Right" >
+      <Children>
+
+        <!--Property Name-->
+        <RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Right" VerticalAlignment="Center" Brush="FaceGen.Property.Text" Text="@ValueName"/>
+
+        <!--Slider-->
+        <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="367" SuggestedHeight="42" HorizontalAlignment="Right" VerticalAlignment="Center" MarginLeft="50">
+          <Children>
+
+            <SliderWidget Id="ScrollBar" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="338" SuggestedHeight="42" VerticalAlignment="Center" Filler="Filler" Handle="SliderHandle" MaxValueFloat="@MaxValue" MinValueFloat="@MinValue" ValueFloat="@CurrentValue" IsDiscrete="false">
+              <Children>
+                <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="362" SuggestedHeight="38" HorizontalAlignment="Center" VerticalAlignment="Center" Sprite="SPOptions\standart_slider_canvas" IsEnabled="false" />
+                <Widget Id="Filler" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="345" SuggestedHeight="35" VerticalAlignment="Center" Sprite="SPOptions\standart_slider_fill" ClipContents="true">
+                  <Children>
+                    <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="345" SuggestedHeight="35" HorizontalAlignment="Left" VerticalAlignment="Center" Sprite="SPOptions\standart_slider_fill" />
+                  </Children>
+                </Widget>
+                <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="400" SuggestedHeight="65" HorizontalAlignment="Center" VerticalAlignment="Center" Sprite="SPOptions\standart_slider_frame" IsEnabled="false" />
+                <ImageWidget Id="SliderHandle" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="14" SuggestedHeight="38" HorizontalAlignment="Left" VerticalAlignment="Center" Brush="SPOptions.Slider.Handle" DoNotAcceptEvents="true"/>
+
+                <RichTextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Left" VerticalAlignment="Center" PositionXOffset="367" Brush="FaceGen.Property.Text" Text="@CurrentValueText"/>
+              </Children>
+            </SliderWidget>
+
+          </Children>
+        </Widget>
+
+      </Children>
+    </ListPanel>
+  </Window>
+</Prefab>

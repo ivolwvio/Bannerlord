@@ -1,0 +1,3217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="cla_tournament_master_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="ArenaMaster"
+                culture="Culture.battania"
+                name="{=IHKXNP9H}Tournament Master"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_dacia_duel_preset"
+                default_group="Infantry"
+                level="1"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                name="{=cla_dacia_duel_preset}Dacia preset"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+<BodyProperties version="4" age="22" weight="0.3" build="0.4"  key="000200020E88038101600000001161511007711000001000211111018E9101000077700307111101000000000000000000000000000000000000000000E80005"  />
+<BodyPropertiesMax version="4" age="50" weight="0.7" build="1"  key="0002C808DA883549FF9FEBFFF7E7EEFEF9F18EFF7F44DF15FEEFEFEE97FE757E00DFB0030DEEEFEE00000000000000000000000000000000000000000DB09105"  />
+    </face>
+    <skills>
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_a_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_blue_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_red_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.northern_spear_3_t4" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_prison_guard_dacia"
+                default_group="Infantry"
+                level="21"
+                culture="Culture.battania"
+                occupation="PrisonGuard"
+                name="{=XgjXfmM1}Prison Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level21_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills>
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal_c" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_shirt" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_a" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_vest_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal_a" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_leather_sleeveless" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_c" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_shirt" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_a" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_vest_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_leather_sleeveless" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_c" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal_c" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_shirt" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_a" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_vest_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal_a" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_leather_sleeveless" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_c" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_shirt" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_a" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_vest_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_leather_sleeveless" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_c" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_guard_dacia"
+                default_group="Infantry"
+                level="21"
+                occupation="Soldier"
+                culture="Culture.battania"
+                name="{=guardnoun}Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level21_template_skills"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills>
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <Traits></Traits>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal_c" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_shirt" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_a" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_vest_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_columna_nazal_a" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_leather_sleeveless" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_c" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_shirt" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_a" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_mail_vest_blue" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.triangluar_spear_t3" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_armor_leather_sleeveless" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_c" />
+      <equipment slot="Gloves"
+                 id="Item.cla_dacia_invisible_bracers_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_steward_dacia"
+                default_group="Infantry"
+                level="21"
+                occupation="Judge"
+                culture="Culture.battania"
+                name="{=ZRkceJx3}Judge">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills>
+      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="50" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Throwing"
+             value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_blacksmith_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Blacksmith"
+                culture="Culture.battania"
+                name="{=bNnQt4jN}Blacksmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+    
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_weaponsmith_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Weaponsmith"
+                culture="Culture.battania"
+                name="{=UaN2lfwi}Weaponsmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_2" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_dacia_sword_3" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_dacia_sword_2" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_dacia_falx_2" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_2" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.cla_dacia_falx_2" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+    
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townswoman_infant_dacia"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townswoman_child_dacia"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.fine_town_tunic" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.footmans_tunic" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_townswoman_teenager_dacia"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Leg"
+                 id="Item.fine_town_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.vlandian_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_dacia"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=cla_village_woman_dacia}Dryatic Peasant"
+                occupation="Villager"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.vlandian_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.dress_with_overall" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.vlandian_dress" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.empire_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.dress_with_overall" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.laced_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_infant_dacia"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.bandit_leather_water_flask" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_child_dacia"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="cla_village_woman_teenager_dacia"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_villager_infant_dacia"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.bandit_leather_water_flask" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_villager_child_dacia"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_villager_teenager_dacia"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_dacia"
+                default_group="Infantry"
+                name="{=muu5cofb}Townsman"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_infant_dacia"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_empire_tunic" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_child_dacia"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_teenager_dacia"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_dacia_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_ransom_broker_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=W2WXkiAh}Ransom Broker"
+                occupation="RansomBroker"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gangleader_bodyguard_dacia"
+                default_group="Infantry"
+                name="{=LNNXiPyV}Gang Leader Bodyguard"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                level="16">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+       <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Notary -->
+  <NPCCharacter id="cla_merchant_notary_dacia"
+                default_group="Infantry"
+                name="{=reoVAtrE}Merchant Notary"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_artisan_notary_dacia"
+                default_group="Infantry"
+                name="{=ECxiXTbF}Artisan Notary"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_preacher_notary_dacia"
+                default_group="Infantry"
+                name="{=bLMGbLF8}Preacher Notary"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_rural_notable_notary_dacia"
+                default_group="Infantry"
+                name="{=AlmaRAib}Rural Notable Notary"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_shop_worker_dacia"
+                default_group="Infantry"
+                name="{=275LD0Gh}Shop Worker"
+                occupation="ShopWorker"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tavernkeeper_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=CsjtWt1g}Tavern Keeper"
+                occupation="Tavernkeeper"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_taverngamehost_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=twCIejxn}Game Host"
+                occupation="TavernGameHost"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_musician_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=zfCoeglY}Musician"
+                occupation="Musician"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tavern_wench_dacia"
+                default_group="Infantry"
+                name="{=z6RMWTaA}Tavern Maid"
+                is_female="true"
+                is_hero="false"
+                occupation="TavernWench"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <!--<face_key value="00160512c08410019e59c3c61b67a4a95aedc746c7ba8735428988f85749aa9700000854078a69860000000000000000000000000000000000000000017c0140" />-->
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress_with_pouch" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_armorer_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Armorer"
+                culture="Culture.battania"
+                name="{=jx8ohENz}Armorer"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_horseMerchant_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="HorseTrader"
+                culture="Culture.battania"
+                name="{=79ElOr2x}Horse Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_barber_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                name="{=WH7EGGIg}Barber"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_merchant_dacia"
+                default_group="Infantry"
+                is_hero="true"
+                occupation="GoodsTrader"
+                culture="Culture.battania"
+                name="{=thbcgVVO}Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_b" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_clop_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_a" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_d" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      <equipment slot="Item0" id="Item.hooked_cleaver" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head" id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body" id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_beggar_dacia"
+                default_group="Infantry"
+                name="{=HZRKBDyB}Slave"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+<BodyProperties version="4" age="22" weight="0.1661" build="0.0462"  key="000004000000100000000000000200100000000000000000000000000000000000077B03000000000000000000000000000000000000000000000000000000C1"  />
+<BodyPropertiesMax version="4" age="74.26" weight="0.6145" build="0.6767"  key="003FFC0FDE003A5CFFFFFFFFFFF9FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF00A77B030AFFFFFF000000000000000000000000000000000000000001488101"  />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.aserai_villager_female_headdress" />
+      <equipment slot="Body"
+                 id="Item.bandit_envelope_dress_v1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.bandit_envelope_dress_v2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_female_beggar_dacia"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=HZRKBDyB}Slave"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+<BodyProperties version="4" age="22" weight="0.1661" build="0.0462"  key="000004000000100000000000000200100000000000000000000000000000000000077B03000000000000000000000000000000000000000000000000000000C1"  />
+<BodyPropertiesMax version="4" age="74.26" weight="0.6145" build="0.6767"  key="003FFC0FE1003A55FFFFFFFFFFF9FFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF00A77B030AFFFFFF000000000000000000000000000000000000000055488104"  />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.aserai_villager_female_headdress" />
+      <equipment slot="Body"
+                 id="Item.bandit_envelope_dress_v2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_female_dancer_dacia"
+                default_group="Infantry"
+                name="{=X3KYysuv}Dancer"
+                is_female="true"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress_with_pouch" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cut_dress_with_pouch" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gear_practice_dummy_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                name="{=!}Empire Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_clothes_camesa_i" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_clothes_camesa_e" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_clothes_camesa" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_clothes_camesa_b" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_weapon_practice_stage_1_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                name="{=!}Dryatic Weapon Dummy">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item2"
+                 id="Item.cla_pilum_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_black_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_red_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_a_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_weapon_practice_stage_2_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                name="{=!}Dryatic Weapon Dummy">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_black_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_red_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_a_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_weapon_practice_stage_3_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                name="{=!}Empire Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_sica_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_3" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Item2"
+                 id="Item.hunting_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_black_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_3" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_red_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.imperial_spear_t2" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_3" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_1" />
+      <equipment slot="Item1"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_sword_sica_1" />
+      <equipment slot="Item1"
+                 id="Item.cla_dacia_shield_a_1" />
+      <equipment slot="Item2"
+                 id="Item.western_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gear_dummy_dacia"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                name="{=!}Vlandia Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_dacia_1ax_2" />
+      <equipment slot="Head"
+                 id="Item.cla_dacia_head_pileus_a" />
+      <equipment slot="Body"
+                 id="Item.cla_dacia_clothes_camesa_h" />
+      <equipment slot="Leg"
+                 id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+<!-- Tournaments -->
+  <NPCCharacter id="cla_tournament_template_dacia_one_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_one_participant_set_v1"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_one_participant_set_v2"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_one_participant_set_v2"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_falx_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_two_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_two_participant_set_v1"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_falx_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_falx_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_two_participant_set_v2"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_two_participant_set_v2"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_two_participant_set_v3"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_two_participant_set_v3"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_falx_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_two_participant_set_v4"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_two_participant_set_v4"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_a_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.tournament_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_two_participant_set_v5"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_two_participant_set_v5"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.tournament_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_red_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_four_participant_set_v1"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_four_participant_set_v1"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_black_3" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_falx_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.tournament_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_four_participant_set_v2"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_four_participant_set_v2"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_falx_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.tournament_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_falx_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.tournament_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_tournament_template_dacia_four_participant_set_v3"
+                default_group="Infantry"
+                level="6"
+                name="{=!}cla_tournament_template_dacia_four_participant_set_v3"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_dacia" />
+    </face>
+    <skills></skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_a_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.tournament_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_1ax_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_red_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.tournament_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_1ax_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia_civilian"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

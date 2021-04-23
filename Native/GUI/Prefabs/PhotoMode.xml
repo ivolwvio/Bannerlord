@@ -1,0 +1,35 @@
+<Prefab>
+  <Constants>
+    <Constant Name ="VerticalMargin" Value ="10"/>
+  </Constants>
+  <Window>
+    <Widget Id="PhotoModeScreen" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" DoNotAcceptEvents="true">
+      <Children>
+        <ListPanel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MinWidth="400" MinHeight="500" MarginTop="25" MarginLeft="25" StackLayout.LayoutMethod = "VerticalBottomToTop">
+          <Children>
+            <Standard.DropdownWithHorizontalControl Id="SelectionOption" HorizontalAlignment="Right" Parameter.SelectorDataSource="{ColorGradeSelector}" />
+
+            <Standard.DropdownWithHorizontalControl Id="SelectionOption" HorizontalAlignment="Right" Parameter.SelectorDataSource="{OverlaySelector}" MarginTop="!VerticalMargin"/>
+
+            <PhotoModeValueOption DataSource="{FocusValueOption}" MarginTop="!VerticalMargin"/>
+            <PhotoModeValueOption DataSource="{FocusStartValueOption}" MarginTop="!VerticalMargin"/>
+            <PhotoModeValueOption DataSource="{FocusEndValueOption}" MarginTop="!VerticalMargin"/>
+            <PhotoModeValueOption DataSource="{ExposureOption}" MarginTop="!VerticalMargin"/>
+
+          </Children>
+        </ListPanel>
+
+        <ListPanel DataSource="{Keys}" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" VerticalAlignment="Bottom" HorizontalAlignment="Right" MarginBottom="0" MarginRight="15" StackLayout.LayoutMethod="HorizontalRightToLeft">
+          <ItemTemplate>
+            <ListPanel WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" MarginLeft="0" MarginRight="0">
+              <Children>
+                <InputKeyVisualWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="50" SuggestedHeight="50" HorizontalAlignment="Center" VerticalAlignment="Center" KeyID="@KeyID"/>
+                <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Center" Text="@KeyName" Brush.FontSize="15"/>
+              </Children>
+            </ListPanel>
+          </ItemTemplate>
+        </ListPanel>
+      </Children>
+    </Widget>
+  </Window>
+</Prefab>

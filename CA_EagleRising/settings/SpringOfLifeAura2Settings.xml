@@ -1,0 +1,19 @@
+<CA_EagleRising>
+<!-- Heal Friendly Health -->
+	<HasParticle>false</HasParticle>
+	<ParticleToEquippedOnly>false</ParticleToEquippedOnly>
+	<ShoudRepeatParticle>false</ShoudRepeatParticle> 
+	<RepeatParticlePeriod>4</RepeatParticlePeriod>
+	<ParticleEffectName>psys_game_metal_metal_coll</ParticleEffectName>
+	<ParticleBoneIndexes>13</ParticleBoneIndexes>
+
+	<HasLight>false</HasLight>
+	<LightBone>0</LightBone>
+	<LightRadius>1.5</LightRadius>
+	<LightIntensity>125</LightIntensity>
+	<LightColor>#ffff99FF</LightColor>
+	
+	<AuraRadius>5</AuraRadius>
+	<BuffAmount>6</BuffAmount>
+	<BuffPeriod>1</BuffPeriod>
+</CA_EagleRising>

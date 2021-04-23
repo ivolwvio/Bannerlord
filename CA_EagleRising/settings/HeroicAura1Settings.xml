@@ -1,0 +1,19 @@
+<CA_EagleRising>
+
+	<HasParticle>false</HasParticle>
+	<ParticleToEquippedOnly>true</ParticleToEquippedOnly>
+	<ShoudRepeatParticle>false</ShoudRepeatParticle> 
+	<RepeatParticlePeriod>1</RepeatParticlePeriod>
+	<ParticleEffectName>psys_game_metal_metal_coll</ParticleEffectName>
+	<ParticleBoneIndexes>13</ParticleBoneIndexes>
+	
+	<HasLight>false</HasLight>
+	<LightBone>0</LightBone>
+	<LightRadius>1.5</LightRadius>
+	<LightIntensity>100</LightIntensity>
+	<LightColor>#ffdf33FF</LightColor>
+	
+	<AuraRadius>5</AuraRadius>
+	<BuffAmount>10</BuffAmount>
+
+</CA_EagleRising>

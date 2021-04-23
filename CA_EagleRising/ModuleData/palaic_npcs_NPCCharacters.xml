@@ -1,0 +1,4317 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="cla_tournament_master_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="ArenaMaster"
+                culture="Culture.vlandia"
+                name="{=IHKXNP9H}Tournament Master"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_sword_3" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_sword_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_t_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_shoulders_torc_boar_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_sword_2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_t_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_green_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cape_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_palaic_duel_preset"
+                default_group="Infantry"
+                level="1"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                name="{=!}Battania preset"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+    <BodyProperties version="4" age="24.29" weight="0.162" build="0.3657" key="00000002808809120160000000116151100771100000100021111101800101000057700305111101000000000000000000000000000000000000000000B00005" />
+    <BodyPropertiesMax version="4" age="74.57" weight="0.9954" build="0.9645" key="0002C8080D883A54FF9FEBFFF7ECEEFEF9FF8EFF7F44DFFFFEEFEFEE97FEFFEE00C770030CEEEFEE00000000000000000000000000000000000000001BA09105" />
+    </face>
+    <skills>
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_palaic_shield_hex_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Item1"
+                   id="Item.cla_palaic_shield_hex_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.northern_spear_3_t4" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_prison_guard_palaic"
+                default_group="Infantry"
+                level="4"
+                culture="Culture.vlandia"
+                occupation="PrisonGuard"
+                name="{=XgjXfmM1}Prison Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_palaic" />
+    </face>
+    <skills>
+      <skill id="OneHanded"
+        value="50" />
+      <skill id="TwoHanded"
+        value="50" />
+      <skill id="Polearm"
+        value="50" />
+      <skill id="Crossbow"
+        value="50" />
+      <skill id="Bow"
+        value="50" />
+      <skill id="Throwing"
+        value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item1"
+                   id="Item.wide_leaf_spear_t4" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_3" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item1"
+                   id="Item.wide_leaf_spear_t4" />
+      <equipment slot="Head"
+                   id="Item.cla_palaic_helm_montefortino_brass_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_3" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item1"
+                   id="Item.wide_leaf_spear_t4" />
+      <equipment slot="Head"
+                   id="Item.cla_palaic_helm_montefortino_iron_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_3" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item1"
+                   id="Item.wide_leaf_spear_t4" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_3" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item1"
+                   id="Item.wide_leaf_spear_t4" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_3" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_guard_palaic"
+                default_group="Infantry"
+                level="4"
+                occupation="Soldier"
+                culture="Culture.vlandia"
+                name="{=guardnoun}Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_palaic" />
+    </face>
+    <skills>
+      <skill id="OneHanded"
+        value="50" />
+      <skill id="TwoHanded"
+        value="50" />
+      <skill id="Polearm"
+        value="50" />
+      <skill id="Crossbow"
+        value="50" />
+      <skill id="Bow"
+        value="50" />
+      <skill id="Throwing"
+        value="50" />
+    </skills>
+    <Traits></Traits>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.northern_spear_2_t3" />
+        <equipment slot="Item1"
+                   id="Item.cla_palaic_shield_hex_2" />
+        <equipment slot="Body"
+                   id="Item.cla_celtic_pants_hamata_sleeveless_tartan_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Head"
+                   id="Item.cla_palaic_helm_montefortino_brass_2" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.northern_spear_2_t3" />
+        <equipment slot="Body"
+                   id="Item.cla_celtic_pants_hamata_2_sleeveless_obelix_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_steward_palaic"
+                default_group="Infantry"
+                level="21"
+                occupation="Judge"
+                culture="Culture.vlandia"
+                name="{=cla_steward_palaic}Judge">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills>
+      <skill id="OneHanded"
+        value="50" />
+      <skill id="TwoHanded"
+        value="50" />
+      <skill id="Polearm"
+        value="50" />
+      <skill id="Crossbow"
+        value="50" />
+      <skill id="Bow"
+        value="50" />
+      <skill id="Throwing"
+        value="50" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+    
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_blacksmith_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Blacksmith"
+                culture="Culture.vlandia"
+                name="{=cla_blacksmith_palaic}Blacksmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_weaponsmith_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Weaponsmith"
+                culture="Culture.vlandia"
+                name="{=cla_weaponsmith_palaic}Weaponsmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+    
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townswoman_infant_palaic"
+                name="{=cla_townswoman_infant_palaic}Infant"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townswoman_child_palaic"
+                name="{=cla_townswoman_child_palaic}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+
+  <NPCCharacter id="cla_townswoman_teenager_palaic"
+                name="{=cla_townswoman_teenager_palaic}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_palaic"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=cla_village_woman_palaic}Palaic Peasant"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_infant_palaic"
+                name="{=cla_village_woman_infant_palaic}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.burlap_waistcoat" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_village_woman_child_palaic"
+                name="{=cla_village_woman_child_palaic}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="cla_village_woman_teenager_palaic"
+                name="{=cla_village_woman_teenager_palaic}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_armed_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_villager_infant_palaic"
+                name="{=cla_villager_infant_palaic}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.burlap_waistcoat" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_villager_child_palaic"
+                name="{=cla_villager_child_palaic}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_villager_teenager_palaic"
+                name="{=cla_villager_teenager_palaic}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_palaic"
+                default_group="Infantry"
+                name="{=cla_townsman_palaic}Townsman"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_infant_palaic"
+                name="{=cla_townsman_infant_palaic}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_child_palaic"
+                name="{=cla_townsman_child_palaic}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_townsman_teenager_palaic"
+                name="{=cla_townsman_teenager_palaic}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_ransom_broker_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=cla_ransom_broker_palaic}Ransom Broker"
+                occupation="RansomBroker"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_3" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gangleader_bodyguard_palaic"
+                default_group="Infantry"
+                name="{=cla_gangleader_bodyguard_palaic}Gang Leader Bodyguard"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                level="16">
+    <face>
+      <face_key_template value="BodyProperty.cla_fighter_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_t_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.battania_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_t_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_green_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.battania_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_t_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.battania_mace_2_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_t_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.battania_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_green_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.battania_mace_2_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_t_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.battania_mace_2_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_t_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.battania_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_t_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_green_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.battania_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_t_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.battania_mace_2_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_t_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.battania_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_green_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.cla_palaic_1ax_1" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.battania_mace_2_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_obelix_t_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_palaic_cloak_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.battania_mace_2_t2" />
+      <equipment slot="Body"
+                 id="Item.cla_palaic_pants_tartan_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Notary -->
+  <NPCCharacter id="cla_merchant_notary_palaic"
+                default_group="Infantry"
+                name="{=cla_merchant_notary_palaic}Merchant Notary"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_artisan_notary_palaic"
+                default_group="Infantry"
+                name="{=ECxiXTbF}Artisan Notary"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_preacher_notary_palaic"
+                default_group="Infantry"
+                name="{=cla_preacher_notary_palaic}Preacher Notary"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_rural_notable_notary_palaic"
+                default_group="Infantry"
+                name="{=cla_rural_notable_notary_palaic}Rural Notable Notary"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_shop_worker_palaic"
+                default_group="Infantry"
+                name="{=cla_shop_worker_palaic}Shop Worker"
+                occupation="ShopWorker"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tavernkeeper_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=cla_tavernkeeper_palaic}Tavern Keeper"
+                occupation="Tavernkeeper"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_taverngamehost_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=cla_taverngamehost_palaic}Game Host"
+                occupation="TavernGameHost"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_musician_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=cla_musician_palaic}Musician"
+                occupation="Musician"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_tavern_wench_palaic"
+                default_group="Infantry"
+                name="{=cla_tavern_wench_palaic}Tavern Maid"
+                is_female="true"
+                is_hero="false"
+                occupation="TavernWench"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_armorer_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Armorer"
+                culture="Culture.vlandia"
+                name="{=cla_armorer_palaic}Armorer"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_horseMerchant_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="HorseTrader"
+                culture="Culture.vlandia"
+                name="{=cla_horseMerchant_palaic}Horse Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_barber_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                name="{=cla_barber_palaic}Barber"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_merchant_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="GoodsTrader"
+                culture="Culture.vlandia"
+                name="{=cla_merchant_palaic}Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.cla_palaic_bracers_bronze_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_hatchet_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.battania_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_b" />
+        <equipment slot="Leg"
+                   id="Item.highland_leg_wrappings" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_civil_c" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.battania_woodland_outfit" />
+        <equipment slot="Leg"
+                   id="Item.battania_woodland_boots" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_plain_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_beggar_palaic"
+                default_group="Infantry"
+                name="{=cla_beggar_palaic}Slave"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+
+        <equipment slot="Body"
+                   id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.bandit_envelope_dress_v1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_female_beggar_palaic"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=cla_female_beggar_palaic}Slave"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_empire" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.plain_dress" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.bandit_envelope_dress_v1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_female_dancer_palaic"
+                default_group="Infantry"
+                name="{=cla_female_dancer_palaic}Dancer"
+                is_female="true"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.vlandia"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_townswoman_palaic" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_boar_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      <equipment slot="Gloves"
+                 id="Item.cla_palaic_bracers_bronze_1" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_green_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_shoulders_torc_light_1" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.cut_dress_with_pouch" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gear_practice_dummy_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Palaic Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.armwraps" />
+        <equipment slot="Cape"
+                   id="Item.cla_palaic_cloak_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_obelix_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.armwraps" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_t_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_weapon_practice_stage_1_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Palaic Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.battania_mace_1_t2" />
+        <equipment slot="Item1"
+                   id="Item.highland_throwing_axe_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.northern_spear_1_t2" />
+        <equipment slot="Item1"
+                   id="Item.cla_palaic_shield_hex_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_1" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+        <equipment slot="Item1"
+                   id="Item.highland_throwing_axe_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_2" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_1" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_weapon_practice_stage_2_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Palaic Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_2" />
+        <equipment slot="Item1"
+                   id="Item.highland_throwing_axe_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Item1"
+                   id="Item.cla_palaic_shield_oval_c" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_2" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Item1"
+                   id="Item.highland_throwing_axe_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_2" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_2" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="cla_weapon_practice_stage_3_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Palaic Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_4" />
+        <equipment slot="Item1"
+                   id="Item.highland_throwing_axe_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.northern_spear_3_t4" />
+        <equipment slot="Item1"
+                   id="Item.cla_palaic_shield_oval_c" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_sword_4" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_2axe_2" />
+        <equipment slot="Item1"
+                   id="Item.highland_throwing_axe_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_3" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.sturgia_2haxe_1_t4" />
+        <equipment slot="Item2"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item3"
+                   id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="cla_gear_dummy_palaic"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.vlandia"
+                name="{=!}Battania Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.cla_palaic_pants_tartan_1" />
+        <equipment slot="Leg"
+                   id="Item.cla_palaic_tribal_shoes_1" />
+        <equipment slot="Gloves"
+                   id="Item.armwraps" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_palaic"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+
+<!-- Tournaments -->
+
+
+</NPCCharacters>

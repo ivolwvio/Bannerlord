@@ -1,0 +1,2887 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <!--Lucon, head of aristocratic faction of empire 1 STEVEDIDFACE -->
+   <NPCCharacter id="lord_1_1" name="{=CLqPbdiZ}Lucon" age="62" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="00005d2b0000034d649a77977876473b743a45888527b857869aa27956b54d3c000465a4653de87c00001105000030a30000001f000000000000000000002000" /-->
+      <BodyProperties version="4" weight="0.2" build="0.7" key="00005C0B4000034D649A7797787A473B743A45888527B857869AA27956B54D3C0007A5A6073DE87C00001105000030A30000001F000000000000000001182000" />
+      <!-- Lucon should be older, over 60, and gaunt, ideally with a stoic's beard and a short Roman-style haircut -->
+      <hair_tags>
+        <hair_tag name="Short" />
+      </hair_tags>
+      <beard_tags>
+        <beard_tag name="LightShortBeard" />
+      </beard_tags>
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_stoic" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Lucon's wife. Traditional matriarch, benevolent-->
+  <NPCCharacter id="lord_1_2" name="{=wbLqHvjE}Zerosica" age="52" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0006eb9700000002996697b5ada9959a78999668743273447ab68778a7569692000a900e059879880000000000000ffe00000000000000000000000000000003" /-->
+      <BodyProperties version="4" weight="0.2" build="0.3" key="0005E80700000002996697B5ADAB959A78999668743273447AB68778A75696920007B008059879880000000000000FFE00000000000000000000000000C80004" />
+    </face>
+    <Traits>
+      <!-- USED TO DERIVE SKILLS-->
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="8" />
+      <!-- PERSONALITY/REPUTATION-->
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_stoic" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_1" name="{=J0QdMsnX}Susada" default_group="Cavalry" age="32" voice="ironic" is_female="true" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="32" weight="0.4" build="0.4" key="00165C000014000EE93966A9966848AA5746E9558867A392654767867CA775120197761309B278C50000000000000000000000000000000000000000593C30C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_2" name="{=zFPc7VEO}Decantia" default_group="Cavalry" age="19" voice="earnest" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0005600E52FC000CC868A17A8CE9A27853775886D8FB72469D46E8B96B48C576013776130362978500000000000000000000000000000000000000004E6C1003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_stoic" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_3" name="{=EdQ0Lp2a}Veneranda" default_group="Cavalry" age="18" voice="ironic" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="001CB80CD300300D7C7664876753888A7577866254C69643C4B647398C95A0370177761307A7497300000000000000000000000000000000000000003AF44003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_4" name="{=JJcFwAUb}Phalarisa" is_female="true" age="32" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="00163C02D22C10034D93999687165386D98A459678E878B95A9A77877ADBD9AA0197761309A7577100000000000000000000000000000000000000001F341083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_5" name="{=VPH7syd9}Presciana" age="22" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="224" weight="0.5" build="0.5" key="00055C0711FC20017C6288996B4ACBD4813C389D5626C55CA7D5D3547CD775340177761307B36B4A000000000000000000000000000000000000000036F41003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_6" name="{=O6NKphJk}Adrichea" default_group="Cavalry" age="19" voice="softspoken" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.4" build="0.4" key="000BD00E5114300B6878558577A4D9D6B75BB77177B8A99D196D3A926446A7A6014776130442689A0000000000000000000000000000000000000000347C1044" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_7" name="{=v6CSTkR4}Hylasiana" default_group="Cavalry" age="46" voice="curt" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="46" weight="0.5" build="0.5" key="000BC80B5214300A7EE465888DC8A65436978A783956D896B377679DB8659936019776130986984800000000000000000000000000000000000000003F342003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_8" name="{=Ybpa7Nbz}Apolytea" age="22" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.5" build="0.5" key="00165C000014000EE93966A9966848AA5746E9558867A392654767867CA775120197761309B278C50000000000000000000000000000000000000000593C30C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_9" name="{=kAbug2ja}Eodisia" age="46" voice="curt" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" age="46" weight="0.5" build="0.5" key="0011980E40B400053A8CBE5B2B965C4467898ACEB6A65CBA147249983692C3950167761306B469D400000000000000000000000000000000000000005AD40083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_10" name="{=DCAa3GOY}Rhoda" default_group="Cavalry" age="21" voice="curt" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.5" build="0.5" key="000BEC0E51143006C8BA78AAC869CA6992CA8461387A78A63736488C67497CC9013776130357449200000000000000000000000000000000000000003C642084" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_11" name="{=MrIvBcNH}Amaliana" default_group="Cavalry" age="20" voice="curt" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="20" weight="0.4" build="0.4" key="0016280B40A0000DB8DDDB4B342988B1C25BA5786832765C997877AB8579697401B776130B78386A00000000000000000000000000000000000000001D7C00C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_15" name="{=jqdpTXYV}Justina" default_group="Cavalry" age="41" voice="softspoken" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="41" weight="0.5" build="0.5" key="0011E002D2B40004973B69A748A57AA68777CAB82AA578B2A64B79C774C69A7A01877613085A472A0000000000000000000000000000000000000000231C2083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_16" name="{=AEA6qavG}Leontia" default_group="Cavalry" age="19" voice="softspoken" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0016580E5100100BABFC977446B5595D886B568C7A7D663D96AC9979897B658A015776130572569300000000000000000000000000000000000000006CAC10C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Manteos Argoros, Patriarch of clan 2, stoic STEVEDIDFACE -->
+  <NPCCharacter id="lord_1_3" name="{=6GC0PsSh}Manteos" age="56" voice="curt" default_group="HorseArcher" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000c63f1807c334db83cd2ed113114608a3c9abb76a6ba5456630141aaa69958000714bfae1d2189000000000000000000000000000000000000000000002183" /-->
+      <BodyProperties version="4" weight="0.3" build="0.5" key="000B6001407C334DB83CD2ED113614608A3C9ABB76A6BA5456630141AAA69958000764BA0E1D2189000000000000000000000000000000000000000001182184" />
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="6" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_stoic" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Phenoria, matriarch of clan 2, -->
+  <NPCCharacter id="lord_1_4" name="{=WrAMfIG1}Phenoria" age="53" voice="curt" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="00064927c03c03804e486a9816653e5454789a77389b757a742b4376be86827c000a5b54ba7956c50000000000000ffe00000000000000000000000000009000" /-->
+      <BodyProperties version="4" weight="0.4491" build="0.4244" key="00054807004403854E486A9816653E5454789A77389B757A742B4376BE86827C07567B78057956C50000000000000FFE00000000000000000000000000989000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_stoic" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Clan 3 patriarch Penton Neretzes is imperial blowhard, part of aristocratic imperial faction -->
+  <NPCCharacter id="lord_1_5" name="{=1cKxsHSh}Penton" age="51" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0011812fc03c000d56c95a399826a7946c65c77675b4c727b9a5987c94b6ba3b000e64740cda898600001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" weight="0.7" build="0.6" key="0011800FC03C000D56C95A39982BA7946C65C77675B4C727B9A5987C94B6BA3B0007B47A0CDA898600001105000030A30000001F000000000000000001B89000" />
+    </face>
+    <Traits>
+      <!-- USED TO DERIVE SKILLS-->
+      <Trait id="KnightFightingSkills" value="7" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Alena, Penton's wife, removed -->
+  <!--
+    <NPCCharacter id="lord_1_6" name="Alena" age="50" voice="curt" is_female="true"   default_group="Cavalry"  is_hero="true"  culture="Culture.empire" occupation="Lord"  face_key value="00039528c000000385665ba94ad2a588a958a75976a461459963a897a75576a800000000985769870000000000000ffe00000000000000000000000000000000"  >
+		<Hero id="lord_1_6"  is_noble="true" spouse="Hero.lord_1_5"  faction="Faction.clan_empire_north_3" faction="Kingdom.empire"/>
+		<skills>
+    </skills>
+		<Traits>
+			<Trait id="Politician" value="7" />
+			<Trait id="Manager" value="5" />
+      <Trait id="Honor" value="1" />
+			<Trait id="Generosity" value="1" />
+		</Traits>
+		<equipmentSet>
+      <equipment slot="Cape" id="Item.wrapped_scarf" />
+			<equipment slot="Body" id="Item.lady_dress" />
+		</equipmentSet>
+		<equipment slot="Horse" id="Item.noble_horse" />
+	</NPCCharacter>
+  -->
+  <NPCCharacter id="lord_1_6" name="{=q186AQHt}Phadon" age="19" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0011812fc03c000d56c95a399826a7946c65c77675b4c727b9a5987c94b6ba3b000e64740cda898600001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" age="30.72" weight="0.4" build="0.4" key="0011800FC03C034E9AC95A39982BA7946C658E785779C5BA8BA878A694B6BA3B0100047A0F39258900001105000030A30000001F000000000000000001B85100" />
+    </face>
+    <Traits>
+      <!-- USED TO DERIVE SKILLS-->
+      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Clan 4 patriarch  Gario Comnos is soldier's solder, head of populist/military imperial faction STEVEDIDFACE. -->
+  <NPCCharacter id="lord_1_7" name="{=I72U5ttG}Garios" age="43" voice="ironic" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="HorseArcher">
+    <face>
+      <!--face_key value="0011714fc0fc028f96938148227287b6674886898a943687452b87978a787594000f26550f889888000000000000000000000000000000000000000001fc8040" /-->
+      <BodyProperties version="4" weight="0.7" build="0.9" key="0011700FC0FC028F96938148227587B6674886898A943687452B87978A7875940007565A0F889888000000000000000000000000000000000000000000F48040" />
+      <!-- Garios should be middle-aged, with a soldier's face - short hair, preferably no beard. -->
+      <hair_tags>
+        <hair_tag name="Short" />
+      </hair_tags>
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- USED TO DERIVE SKILLS-->
+      <Trait id="KnightFightingSkills" value="6" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="7" />
+      <!-- PERSONALITY/REPUTATION-->
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Vendelia, somewhat bitter, feels she is taken for granted by Gario, accepts her marriage as a duty-->
+  <NPCCharacter id="lord_1_8" name="{=VzhbUL60}Vendelia" default_group="Cavalry" age="47" voice="curt" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5507" build="0.5759" key="000BDC0A000020028672362967865369A91887176B723646DCA3773773849A54056986570636A93300000000000000000000000000000000000000004ADC2082" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- USED TO DERIVE SKILLS-->
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="4" />
+      <!-- PERSONALITY/REPUTATION-->
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_stoic" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Apys, Clan 5 patriarch is debauched. Switch with Ascyron?  000c7da440bc300e669e57882766477b8bb7397b87a7a78b85a54998ac6579dc000c586609868975000000000000000000000000000000000000000000045040-->
+  <NPCCharacter id="lord_1_9" name="{=QjJAbaoT}Apys" age="57" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000b7da440bc300e669e57882765477b8bb7397b87a7a78b85a54998ac6579dc000c586609868975000000000000000000000000000000000000000000005040" /-->
+      <BodyProperties version="4" weight="0.95" build="0.5" key="000B7C0440BC300E669E57882765477B8BB7397B87A7A78B85A54998AC6579DC0007086A09868975000000000000000000000000000000000000000000005040" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_10" name="{=WnhPFlON}Melkea" age="45" voice="ironic" is_female="true" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" weight="0.4241" build="0.7095" key="000BAC0A00141004B77326194AC4402599338A6798924403D8C24F3379749A46047B6646071634C300000000000000000000000000000000000000001EF41083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!--NONCOMBATANT FEMALE-->
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="6" />
+      <!-- Melkea, wife of Apys Varros. Equally amoral. -->
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_25" name="{=DH7SnD7L}Eronyx" age="22" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" weight="0.7886" build="0.5725" key="000BAC088000368E94800B923B3A288737AC765AF2D7A91197858F34731640730199C013097777C600000000000000000000000000000000000000005D204000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="2" />
+      <!-- Apys Varros heir - charismatic psychopath -->
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_35" name="{=kwNl4bsS}Amenon" voice="softspoken" age="38" is_female="false" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!-- Face key needs redoing, repurposed from female-->
+      <BodyProperties version="4" weight="0.6154" build="0.6899" key="00057C04400020029673264B47856554EA72881968858A46D9A28774766555770374963507334537000000000000000000000000000000000000000020FC2003" />
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="6" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="3" />
+      <!-- Amenon, Apys's dutiful lieutenant. -->
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_northfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- crotor, patriarch clan 5, akritic border guards />-->
+  <NPCCharacter id="lord_1_11" name="{=acp2IcMs}Crotor" default_group="HorseArcher" age="51" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000bd3058000100d785aa72917c606a54d469cdc9a3683a59a15af927269e22c0001647bc65d7806000000000000000000000000000000000000000000001183" /-->
+      <BodyProperties version="4" weight="0.6" build="0.9" key="000BD0058000100D785AA72917C606A54D469CDC9A3683A59A15AF927269E22C00070478065D7806000000000000000000000000000000000000000000001184" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="6" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_northfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_111" name="{=auMsvXpb}Casinon" age="19" voice="ironic" is_hero="true" culture="Culture.empire" default_group="HorseArcher" occupation="Lord">
+    <face>
+      <!--face_key value="000bd3058000100d785aa72917c606a54d469cdc9a3683a59a15af927269e22c0001647bc65d7806000000000000000000000000000000000000000000001183" /-->
+      <BodyProperties version="4" age="30.7" weight="0.5" build="0.4" key="000BD0058000328878DAE579759C4B844D469CDC9A3683A59A15AF927269E22C01F004780F5D7806000000000000000000000000000000000000000000C01184" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="5" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_northfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Lysica Dionikos, dutiful frontier nobility. Fighter -->
+  <NPCCharacter id="lord_1_12" name="{=dwFZFQ6V}Lysica" age="40" voice="softspoken" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000ca12e00bc2005478d688968868296a6779bb376d6a724d866c7b9a9a97b7d000cc774ad629b660000000000000ffe00000000000000000000000000001080" /-->
+      <BodyProperties version="4" weight="0.4" build="0.5" key="000CA00E40BC2005478D688968868296A6779BB376D6A724D866C7B9A9A97B7D0007077C0D629B660000000000000FFE00000000000000000000000000001080" />
+    </face>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="4" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_northfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Clan 7 consort. Charismatic, energetic but easily offended
+	<NPCCharacter id="lord_1_13" name="Arthon" default_group="Cavalry" age="36" voice="earnest"   is_hero="true" culture="Culture.empire" occupation="Lord"  face_key value="0014712b00001081887b979a55559958597895998b76779679668998956624680000000007d7574700001105000030a30000001f000000000000000000000000"   >
+		<Hero id="lord_1_13" is_noble="true" spouse="Hero.lord_1_14" faction="Faction.clan_empire_south_1" faction="Faction.clan_empire_s_rest"/>
+		<skills>
+		</skills>
+		<Traits>
+			<Trait id="BalancedFightingSkills" value="6" />
+
+			<Trait id="Commander" value="5" />
+			<Trait id="Politician" value="5" />
+			<Trait id="Manager" value="5" />
+			<Trait id="Valor" value="1" />
+			<Trait id="Generosity" value="1" />
+			<Trait id="Calculating" value="-1" />
+		</Traits>
+		<equipmentSet>
+			<equipment slot="Item0" id="Item.long_broad_axe" />
+			<equipment slot="Item2" id="Item.composite_steppe_bow" />
+			<equipment slot="Item3" id="Item.bodkin_arrows_a" />
+			<equipment slot="Body" id="Item.imperial_mail_over_leather" />
+			<equipment slot="Leg" id="Item.strapped_shoes" />
+			<equipment slot="Gloves" id="Item.reinforced_padded_mitten" />
+		</equipmentSet>
+		<equipment slot="Horse" id="Item.noble_horse" />
+		<equipment slot="HorseHarness" id="Item.chain_horse_harness" />
+	</NPCCharacter>
+  -->
+  <!-- Rhagaea, queen of imperial faction #3, head of clan 7 STEVEDIDFACE. Courteous demeanor - softspoken or earnest. -->
+  <NPCCharacter id="lord_1_14" name="{=kadJAjaA}Rhagaea" default_group="Infantry" age="42" voice="earnest" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0000ae3e50fc30045948a3188a41766557598897843a8925a7e38f3985789874000a16580a737521000000000000000000000000000000000000000001fc1040" /-->
+      <BodyProperties version="4" weight="0.1" build="0.3" key="0000AC0E50FC30045948A3188A41766557598897843A8925A7E38F398578987400070656077375210000000000000000000000000000000000000000011C1040" />
+      <!-- Rhagaea needs to be at least in her mid-40s, as she has a grown daughter. She needs to be attractive, with searching eyes. -->
+    </face>
+    <Traits>
+      <!--NONCOMBATANT FEMALE. LEADER-->
+      <Trait id="BalancedFightingSkills" value="0" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="10" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Self-consciously old-fashioned nobleman, but sided with the least conservative of any faction on his son's advice. Based on Don Fabrizio in The Leopard STEVEDIDFACE -->
+  <NPCCharacter id="lord_1_15" name="{=48bvCvb2}Pharon" age="62" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016cd2cc0000340640b69b8656667865969a5977d6878675667688679664368000000000769896600001105000030a30000001f000000000000000000040000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.6" key="0016CC0CC000034D640B69B8656667865969A5977D6878675667688679664368000000080769896600001105000030A30000001F000000000000000000A40000" />
+      <hair_tags>
+        <hair_tag name="Short" />
+      </hair_tags>
+      <beard_tags>
+        <beard_tag name="LightShortBeard" />
+      </beard_tags>
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentRoster civilian="true" />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_155" name="{=UTFGUeVQ}Zeno" age="18" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--Placeholder face-->
+      <BodyProperties version="4" age="30.7" weight="0.5" build="0.4" key="0016CC0CC000034D640B69B8656667865969A5977D6878675667688679664368000000080769896600001105000030A30000001F000000000000000000A40000" />
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="Commander" value="1" />
+      <Trait id="Politician" value="1" />
+      <Trait id="Manager" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentRoster civilian="true" />
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_southfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Martira, sister of Destor, somewhat withdrawn -->
+  <NPCCharacter id="lord_1_16" name="{=2fYYfHUI}Martira" age="50" voice="softspoken" is_hero="true" default_group="Cavalry" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0000a128800000049a6a869356785374d67695669a8482546e75a699765777b5000000000668a9880000000000000ffe00000000000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.4" key="0000A008800000049A6A869356765374D67695669A8482546E75A699765777B50006600A0668A9880000000000000FFE00000000000000000000000000280000" />
+    </face>
+    <Traits>
+      <!--NONCOMBATANT FEMALE-->
+      <Trait id="Politician" value="1" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Oros Patriarch of Mestrikaros, clan 9, a lord who nurses his grievances -->
+  <NPCCharacter id="lord_1_17" name="{=JFVseSa3}Oros" age="50" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011ad2700000008975d98b886669678796aa5a76a87677859779a888658234a000000040797967900001105000030a30000001f000000000000000000040000" /-->
+      <BodyProperties version="4" weight="0.8" build="0.5" key="0011AC0700000008975D98B886639678796AA5A76A87677859779A888658234A000430090497967900001105000030A30000001F000000000000000000A40000" />
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <!---Opportunist -->
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_177" name="{=I2gnhOc2}Honoratus" age="19" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0011ad2700000008975d98b886669678796aa5a76a87677859779a888658234a000000040797967900001105000030a30000001f000000000000000000040000" /-->
+      <BodyProperties version="4" age="30.7" weight="0.6" build="0.6" key="0011CC0700000002755D98B886639678761559B8B7C879465D6A74A99895786C01E000090EA91E5500001105000030A30000001F0000000000000000009C2000" />
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <!---Opportunist -->
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_southfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Hythea, wealthy and somewhat garish />-->
+  <NPCCharacter id="lord_1_18" name="{=OMkSgsV2}Jathea" age="48" voice="curt" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0004892fc00005ce98aa77b76970a46a77e739675a3862468b759958865696bd00000004058788780000000000000ffe00000000000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.75" build="0.5" key="0005880FC000000E98AA77B76970A46A77E739675A3862468B759958865696BD00040008058788780000000000000FFE00000000000000000000000000000000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- NONCOMBATANT -->
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_southfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Lords 1-20 are clan patriarchs and their wives/>-->
+  <!--Lords 21-30 are marriageable heirs/>-->
+  <!-- Ascyron, Lucon's heir, Sulla type. More enthusiastic than father. Switch with Apys? -->
+  <NPCCharacter id="lord_1_21" name="{=rGuYLmez}Ascyron" age="28" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000b312cc000300da4a56a443fb6aa9674a624797769aaa8d879575b59b825b9000367440645277900001105000030a30000001f000000000000000000003000" /-->
+      <BodyProperties version="4" weight="0.2" build="0.6" key="000B300CC000300DA4A56A443FB7AA9674A624797769AAA8D879575B59B825B9000777450745277900001105000030A30000001F000000000000000001403000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="6" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Andros. Heir clan 2. Generally benevolent -->
+  <NPCCharacter id="lord_1_22" name="{=uTFjknE2}Andros" age="23" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0000ed2fd47c0001f6dc47ab897187b66caa59a1e2e0a735dc984294be4e6657000b1b8408ac733400001105000030a30000001f000000000000000000005100" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000EC0FD47C0001F6DC47AB897687B66CAA59A1E2E0A735DC984294BE4E665700066B8706AC733400001105000030A30000001F000000000000000000C85100" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Heir clan 3, Neretzes. Shallow like his father, good voice though -->
+  <NPCCharacter id="lord_1_23" name="{=XkNnlSwA}Jastion" age="26" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0000b122c000300deb67d938447c61a7658b5985a9a6594e143d5345aae756a7000bc2540898d94800001105000030a30000001f000000000000000000007000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.7" key="0000B002C000300DEB67D938447261A7658B5985A9A6594E143D5345AAE756A7000522540598D94800001105000030A30000001F000000000000000000787000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- garios's son or nephew, traits not set. younger than father. Switch face with someone else -->
+  <NPCCharacter id="lord_1_24" name="{=PjSQYAaR}Tadeos" default_group="Cavalry" age="21" voice="ironic" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016f12640fc334d7b57826ca4c57ca67949e6aca88b3acd7a45da9768858686000259a40573767b00001105000030a30000001f000000000000000000006000" /-->
+      <BodyProperties version="4" weight="0.6" build="0.5" key="0016F00580FC334D7B57826CA4C27CA67949E6ACA88B3ACD7A45DA9768858686000329A20373767B00001105000030A30000001F000000000000000000A06000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_75" name="{=LiAefNmE}Thephilos" age="20" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0016f12640fc334d7b57826ca4c57ca67949e6aca88b3acd7a45da9768858686000259a40573767b00001105000030a30000001f000000000000000000006000" /-->
+      <BodyProperties version="4" age="20" weight="0.5" build="0.5" key="0011700FC0FC030896938148227587B669B586898A943687321998859647875401F0065A0F9DB435000000000000000000000000000000000000000000B48042" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="4" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Dionicos heir - border lords, also cautious tactician -->
+  <NPCCharacter id="lord_1_26" name="{=tTuaiLS6}Meritor" age="20" voice="softspoken" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="HorseArcher">
+    <face>
+      <!--face_key value="0016052e400003c67a776955ea791e79989c4b679a8c5255a77376d888c8d688000c9db4055c7ba600001105000030a30000001f000000000000000000048000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.6" key="0016040E400003C67A776955EA791E79989C4B679A8C5255A77376D888C8D68800000DB2055C7BA600001105000030A30000001F000000000000000000048000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="5" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Patyr. Old emperor's nephew. Heir by blood if Ira is overlooked 000b6d22c0bc100679d8455aa9684859888735557c6493786867627857b28958000d8894038735d900001105000030a30000001f000000000000000000046000 -->
+  <NPCCharacter id="lord_1_27" name="{=waQPRCaT}Patyr" age="37" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000b6d22c0bc100679d8455aa9684859888735557c6493786867627857b28958000d8894038735d900001105000030a30000001f000000000000000000006000" /-->
+      <BodyProperties version="4" weight="0.6" build="0.3" key="000B6C02C0BC100679D8455AA9684859888735557C6493786867627857B2895800058893058735D900001105000030A30000001F000000000000000001686000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="6" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_27_1" name="{=d6aTWH9m}Verina" age="37" is_female="true" voice="softspoken" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000b6d22c0bc100679d8455aa9684859888735557c6493786867627857b28958000d8894038735d900001105000030a30000001f000000000000000000006000" /-->
+      <BodyProperties version="4" age="25.84" weight="0.2" build="0.2" key="0005B8071070000A987877861A2999B848987C68EA6BB7869423371443C8EA4801377613036AB66200000000000000000000000000000000000000005A6C3003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_27_2" name="{=zaHnL2It}Eutropios" age="18" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000b6d22c0bc100679d8455aa9684859888735557c6493786867627857b28958000d8894038735d900001105000030a30000001f000000000000000000006000" /-->
+      <BodyProperties version="4" age="30.7" weight="0.4" build="0.4" key="000B8802C0BC1005B9D8455AA96848594597AD77996A54B899D967BA74979778010008930FBA9A7900001105000030A30000001F000000000000000001683100" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="4" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="1" />
+      <Trait id="Manager" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_27_3" name="{=lGrQRXKt}Vasilia" is_female="true" age="18" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000b6d22c0bc100679d8455aa9684859888735557c6493786867627857b28958000d8894038735d900001105000030a30000001f000000000000000000006000" /-->
+      <BodyProperties version="4" age="30.7" weight="0.2" build="0.3" key="000B8802C0BC1005B9D8455AA96848594597AD77996A54B899D967BA74979778010008930FBA9A7900001105000030A30000001F000000000000000001683100" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="2" />
+      <!-- Patyr's younger daughter -->
+      <Trait id="Politician" value="1" />
+      <Trait id="Manager" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Leonipardes heir. Cunning, aggressive, somewhat devious -->
+  <NPCCharacter id="lord_1_28" name="{=HGBWqbhQ}Temion" age="25" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0011500700fc0008697797684ab7518ca479a943769585b39599b4916b7ba668000b7e700797a98d000000000000000000000000000000000000000000043001" /-->
+      <BodyProperties version="4" weight="0.3" build="0.3" key="0011500700FC0008697797684AB4518CA479A943769585B39599B4916B7BA66800054E740597A98D0000000000000000000000000000000000000000011C0001" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="9" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Sanion - heir to clan 9. Knight-errant type-->
+  <NPCCharacter id="lord_1_29" name="{=5eTb2xr7}Sanion" age="23" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000ba12b40001008a43a8ab8557488874a6a94868b767788988844778a69247900000004079777a800001105000030a30000001f000000000000000000040000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.6" key="000BA00B40001008A43A8AB8557888874A6A94868B767788988844778A69247900058005079777A800001105000030A30000001F000000000000000000CC0000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="8" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Lords 31-40 are marriageable daughters
+  Combatants are:	Ira, Rhagaea's daughter -->
+  <!--Lucon's daughter, conventional aristocratic maiden STEVEDIDFACE -->
+  <NPCCharacter id="lord_1_31" name="{=AccBcEIt}Zoana" age="20" voice="earnest" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0006512fc0bc200486c64a72893b945971883d46c8a8a49b869a54a87478b784000876b4dc4458ac0000000000000ffe00000000000000000000000000006000" /-->
+      <BodyProperties version="4" weight="0.3" build="0.6" key="0005500FC0BC000486C64A728933945971883D46C8A8A49B869A54A87478B784000536B30C4458AC0000000000000FFE00000000000000000000000000780000" />
+    </face>
+    <skills>
+      <!--NONCOMBATANT FEMALE-->
+    </skills>
+    <Traits>
+      <!--NONCOMBATANT FEMALE-->
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Sora, Matthis' daughter. Honorable, a bit moralistic, conscientious ruler -->
+  <NPCCharacter id="lord_1_32" name="{=V1QLbhRl}Sora" voice="softspoken" age="21" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000cb99b00001003963657a49e526d58a75688678546525569688969855687d60007d006049779870000000000000ffe00000000000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.3" key="000BB80B40001003963657A49E536D58A75688678546525569688969855687D600043005049779870000000000000FFE00000000000000000000000000500000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!--NONCOMBATANT FEMALE-->
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_stoic" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Chalia, Neretzes' daughter. Clan 3 daughter. Much more astute than her parents. -->
+  <NPCCharacter id="lord_1_33" voice="ironic" age="22" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" name="{=AdK4Ilzw}Chalia">
+    <face>
+      <!--face_key value="0006652b4000000287b86998a4136688bc87b56726542344956c8b7576556786000000006697a6680000000000000ffe00000000000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.2" build="0.3" key="0005640B4000000287B86998A4156688BC87B56726542344956C8B7576556786000350040397A6680000000000000FFE00000000000000000000000000F00000" />
+    </face>
+    <skills>
+      <!--NONCOMBATANT FEMALE-->
+    </skills>
+    <Traits>
+      <!--NONCOMBATANT FEMALE-->
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Maurentios, younger son of Neretzes -->
+  <NPCCharacter id="lord_1_422" name="{=LQYkBOsU}Maurentios" default_group="HorseArcher" age="17" voice="softspoken" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.14" weight="0.5" build="0.5" key="00114C0CC000330F65371862C8DAA796D74B88E35876439552595B748B7AB667010006890F77A68B000000000000000000000000000000000000000001547104" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_34" name="{=uLjRHv9p}Nadea" age="24" voice="earnest" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0005f92980000005a8979a79968745886bc878557396513466647967965548a70000000097889b670000000000000ffe00000000000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0005F80A00000005A8979A79968B45886BC878557396513466647967965548A7000EB0070E889B670000000000000FFE00000000000000000000000001180000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="6" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <!-- Nadea, Gario's daughter. Huntress.-->
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Phaea. Dionikos daughter. Mother is also combatant -->
+  <NPCCharacter id="lord_1_36" name="{=FUT6eXfw}Phaea" age="20" voice="ironic" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <BodyProperties version="4" weight="0.5664" build="0.7577" key="0011900A12142006A87321448876B529E920889893905436D8C49E55747A584504BB86450B3756930000000000000000000000000000000000000000716C3041" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- COMBATANT -->
+      <Trait id="HorseArcherFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_northfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- rhagaea's daughter, impetuous. Ira must be very young, as her mother is 40 -->
+  <NPCCharacter id="lord_1_37" name="{=HSlPLC4m}Ira" age="21" voice="ironic" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="001cf40e40fc10076c63396b58a66c7159da89aadd789458b79bde7778360676000f0760088be39b000000000000000000000000000000000000000000001180" /-->
+      <BodyProperties version="4" weight="0.2" build="0.4" key="001CF40E40FC10076C63396B58A46C7159DA89AADD789458B79BDE7778360676000C47660C8BE39B000000000000000000000000000000000000000001681180" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="CavalryFightingSkills" value="6" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- leonipardes's daughter -->
+  <NPCCharacter id="lord_1_38" name="{=6YiMWxVM}Helea" age="17" voice="softspoken" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0002bd2e00000003aa8679a465a81478883ab7777b55214664489a69975696a5000000008788a7860000000000000ffe00000000000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.3" build="0.3" key="0000BC0E00000003AA8679A465A51478883AB7777B55214664489A69975696A5000550070588A7860000000000000FFE00000000000000000000000000A00000" />
+    </face>
+    <skills>
+      <!--NONCOMBATANT FEMALE-->
+    </skills>
+    <Traits>
+      <!--NONCOMBATANT FEMALE-->
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- clan 9 daughter. Debana Mestrikaros. Conventional but a bit off />-->
+  <NPCCharacter id="lord_1_39" name="{=YBGCXSEx}Debana" age="20" voice="ironic" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.3025" build="0.5377" key="0005F00CC02810048774371C48B5C916EA6489378A81A846D9926C347476669603A856350A065B26000000000000000000000000000000000000000061441002" />
+    </face>
+    <Traits>
+      <!--NONCOMBATANT FEMALE-->
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Lords 41-50 lieutenants, uncles and others of the clans-->
+  <!-- clan 1 lieutenant. Lucon's cousin. Far more ruthless than the clan leader -->
+  <NPCCharacter id="lord_1_41" name="{=O75XlydW}Arcor" default_group="Cavalry" age="50" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0022752000003385b478815ce898cb34ac8a23954c63417d77a7894b7d57b497000d869406b6674800001105000030a30000001f000000000000000000045000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.4" key="0022740000003385B478815CE898CB34AC8A23954C63417D77A7894B7D57B4970000069306B6674800001105000030A30000001F000000000000000000045000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Honor" value="+1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_411" name="{=W1uwgvAQ}Arion" default_group="Cavalry" age="19" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0022752000003385b478815ce898cb34ac8a23954c63417d77a7894b7d57b497000d869406b6674800001105000030a30000001f000000000000000000045000" /-->
+      <BodyProperties version="4" age="30.14" weight="0.6" build="0.7" key="002254000000318B8A78815CE898CB34AC8AAA56A7E9BAAD7751A8627D57B49701F006930FA4644100001105000030A30000001F000000000000000000C42140" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Honor" value="+1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- clan 2 lieutenant. Mathhis cousin. Ferocious, dedicated to the clan. One eyed -->
+  <NPCCharacter id="lord_1_42" name="{=10urvYUQ}Belithor" default_group="HorseArcher" age="37" voice="softspoken" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0006ad2b19bc0346c8647b87d6874a728a687b9aa7686e39e2e25ba8b8e8c7b5000a7b5406a87e7800001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.9" build="0.9" key="0005AC0B59BC0346C8647B87D6824A728A687B9AA7686E39E2E25BA8B8E8C7B500022B5302A87E7800001105000030A30000001F000000000000000001180000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="8" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Chason. clan 3 lieutenant. Foul tempered -->
+  <NPCCharacter id="lord_1_43" name="{=Dsclf61p}Chason" voice="curt" default_group="Cavalry" age="48" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011cd4597bc034694a8c26585aaa93992d5a78776779c82329b657437695d350005a5a50de9ba6200001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.4" key="0011CC0597BC034694A8C26585AAA93992D5A78776779C82329B657437695D35000005A60DE9BA6200001105000030A30000001F000000000000000000000000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Nemos. clan 4 lieutenant for gario. dedicated to gario. stern -->
+  <NPCCharacter id="lord_1_44" name="{=u1lTJoPO}Nemos" voice="curt" default_group="Cavalry" age="38" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000ccf5c80004008776c57c967305779596a85ab79877778859898977677345b0009000d07a9688700001105000030a30000001f000000000000000000000002" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000BCC0CC0004008776C57C967305779596A85AB79877778859898977677345B0000000507A9688700001105000030A30000001F000000000000000000000003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- clan 7 lieutenant. ulbos, rhagaea ally, fanatic partisan -->
+  <NPCCharacter id="lord_1_47" name="{=xViSxONn}Ulbos" default_group="Cavalry" age="45" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011b52597bc038e94a8c26585aaa93992d5a78776779c82329b657437695d350005a5a40de9ba6200001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011B40597BC038E94A8C26585AAA93992D5A78776779C82329B657437695D35000005A80DE9BA6200001105000030A30000001F000000000000000000000000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="6" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_47_1" name="{=QvfUqzpF}Mina" age="38" is_female="true" voice="earnest" is_hero="true" culture="Culture.empire" default_group="Cavalry" occupation="Lord">
+    <face>
+      <!--face_key value="0011b52597bc038e94a8c26585aaa93992d5a78776779c82329b657437695d350005a5a40de9ba6200001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="001CD00FD114000AE46398467C698988876DB2B863D57A6D87B96C58967BE7660187761308364A49000000000000000000000000000000000000000019142003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_47_2" name="{=ysrWE08a}Casyrea" default_group="Cavalry" age="14" is_female="true" voice="softspoken" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011b52597bc038e94a8c26585aaa93992d5a78776779c82329b657437695d350005a5a40de9ba6200001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="001C880A111400012857DAA3C88BD254869B9BB7C7796796A6987253285773960137761303A670BD00000000000000000000000000000000000000005A741083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- TEENAGER, NO TRAITS OR SKILLS FOR UNDER-18s -->
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_47_3" name="{=KwNdjleW}Colambea" default_group="Cavalry" age="17" is_female="true" voice="softspoken" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011b52597bc038e94a8c26585aaa93992d5a78776779c82329b657437695d350005a5a40de9ba6200001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00115C0A13702007997A77A685B88487865116663789A798A6A897926887369901A776130A8B49B500000000000000000000000000000000000000001F543083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- TEENAGER, NO TRAITS OR SKILLS FOR UNDER-18s -->
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- clan 9 lieutenant. Oros cousin. Selfish and narrow-minded, timid -->
+  <NPCCharacter id="lord_1_49" name="{=QGIAbglw}Obron" default_group="Cavalry" age="51" voice="softspoken" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0011BC0CCE000102A5508899487841954B4F9A57D5C7D811C889B5068C4A7666012776130268769500000000000000000000000000000000000000003C4480C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="2" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_49_1" name="{=BosCJ3Rb}Tristania" is_female="true" age="37" default_group="Cavalry" voice="ironic" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000200FD170300DB38B674C24E68B77237687A658475B47BC78592D78C593BB01C776130C2C8799000000000000000000000000000000000000000031840003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="bat_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_49_2" name="{=mpgkzY0Y}Gordiana" is_female="true" default_group="Cavalry" age="17" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0011B00CD2A03006743ADC795BA745B786DABD951B876537A8C6AA5B96B893590167761306485E6600000000000000000000000000000000000000004ACC00C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- TEENAGER -->
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Impestores, Lucon's faction. Different personalities but fanatic oligarchs -->
+  <NPCCharacter id="lord_1_20" name="{=rUvnbDi2}Encurion" age="28" voice="softspoken" default_group="HorseArcher" is_hero="true" is_female="false" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0000f52640000005a65878789bb045948b55d5787db57345a7eb59688555658400000004088779a60000000000000ffe00000000000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000F40580000005A65878789BB045948B55D5787DB57345A7EB59688555658400000003088779A60000000000000FFE00000000000000000000000000000000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="4" />
+      <!-- Leader of Impestores. Ruthless aristocrat -->
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="+1" />
+      <Trait id="Oligarchic" value="+1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_12" name="{=vlpRh9ZB}Epipheria" default_group="Cavalry" age="22" voice="curt" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="19" weight="0.5" build="0.5" key="000B600440E4100289989588AC8A337984A876A61A98466778D755B2B5B813830177761307695AB1000000000000000000000000000000000000000042F40083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="2" />
+      <!-- Encurion's cousin -->
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Oligarchic" value="+1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Miron, eccentric stoic. Lucon -->
+  <NPCCharacter id="lord_1_64" name="{=6ZTCwKfD}Miron" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000bf52580fc334e8489486c8926e456a760cc57355354dbc67e4315618a3cab000665e40977a7b900001105000030a30000001f000000000000000000002000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000BF40580FC334E8489486C8926E456A760CC57355354DBC67E4315618A3CAB000005E60977A7B900001105000030A30000001F000000000000000000002000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_13" name="{=lGrQRXKt}Vasilia" default_group="Cavalry" age="24" voice="softspoken" is_hero="true" is_female="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="001CC80CD1B41013643897B2827643568D94ABE893A368C16B875A4A986EC85D01A776130AB815A8000000000000000000000000000000000000000051540043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Gyphor. Calm, lucon's faction -->
+  <NPCCharacter id="lord_1_50" name="{=jQjouVRk}Gyphor" age="33" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="00001922c07c300d85b59a65aa3c9b459c37c864689775ac5549d695b8aade8e0006c9a4014627c300001105000030a30000001f000000000000000000002000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00001802C07C300D85B59A65AA3C9B459C37C864689775AC5549D695B8AADE8E000009A3014627C300001105000030A30000001F000000000000000000002000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="7" />
+      <!-- Gyphor. Calm, lucon's faction -->
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_66" name="{=YWJUZlzt}Lantanor" default_group="HorseArcher" age="33" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000dad2014bc300dcac3b86636658da2496c32aa369d8da659d498889759587c000a54240ba9c63700001105000030a30000001f000000000000000000007000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000DAC0014BC300DCAC3B86636658DA2496C32AA369D8DA659D498889759587C000004230BA9C63700001105000030A30000001F000000000000000000007000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <!-- Lantanor, opportunist. Somewhat like Primus. Gyphor's more aggressive cousin -->
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="+1" />
+      <Trait id="Calculating" value="+1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_14" name="{=Bo6IZGAN}Tyliana" age="25" voice="softspoken" is_female="true" is_hero="true" default_group="Cavalry" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25" weight="0.3" build="0.4" key="0016AC0A1100000E923C3CC26AD6C61669788947438E9864A5439BCB447C584A0167761306C8B9A5000000000000000000000000000000000000000036C44003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_1_17" name="{=y881d2ER}Variasis" is_female="false" age="31" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!-- Placeholder face key -->
+      <BodyProperties version="4" age="31" weight="0.3" build="0.4" key="0016AC0A1100000E923C3CC26AD6C61669788947438E9864A5439BCB447C584A0167761306C8B9A5000000000000000000000000000000000000000036C44003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <!-- Unreliable, rather unpleasant member of the clan -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Nicasor. Gruff but very competent fanatic, lucon's faction. One eyed -->
+  <NPCCharacter id="lord_1_51" name="{=3qr3bhL6}Nicasor" age="36" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="00056921507c1404c37b6d89a64664b96727852b496b67a19757a65adaa79924000368a40945845600001105000030a30000001f000000000000000000006000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.7" key="00056801507C1404C37B6D89A64664B96727852B496B67A19757A65ADAA79924000008A20945845600001105000030A30000001F000000000000000000006000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="9" />
+      <Trait id="Commander" value="9" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Tasynor, Lucon's faction. Smug, privileged, self-righteous -->
+  <NPCCharacter id="lord_1_58" name="{=MaeS2r7p}Tasynor" age="26" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016b52cc0bc334056a4c39ba7b77ccd78918637473d7c8cd5e5a4648b7dbc3a000874740c774e6800001105000030a30000001f000000000000000000001000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0016B40CC0BC334056A4C39BA7B77CCD78918637473D7C8CD5E5A4648B7DBC3A000004730C774E6800001105000030A30000001F000000000000000000001000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="+1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Panalea, Heiress. Husband a general for Garios, he spoke up for her. Senate vote did not recognize her right to inherit -->
+  <NPCCharacter id="lord_1_70" name="{=cjuYkvlX}Panalea" voice="earnest" is_female="true" age="34" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0000d52e0000228bed6277444258c875446a17b9ed8932923b61997568a479eb000b8474c3395e480000000000000ffe00000000000000000000000000004000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.4" key="0000D40E4000228BED6277444258C875446A17B9ED8932923B61997568A479EB0000047303395E480000000000000FFE00000000000000000000000000004000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Nesthys, quiet strategist-->
+  <NPCCharacter id="lord_NE7_u" name="{=rhSlO9g3}Nesthys" voice="softspoken" is_female="false" default_group="HorseArcher" age="41" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!-- PLACEHOLDER FACE KEY /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000D40E4000228BED6277444258C875446A17B9ED8932923B61997568A479EB0000047303395E480000000000000FFE00000000000000000000000000004000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Olypos, older. Genuine republican, military-oriented Cicero -->
+  <NPCCharacter id="lord_1_67" name="{=eTS0B8NB}Olypos" default_group="HorseArcher" age="43" voice="ironic" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016e01b40003348980b78896749797b4978a57a8a77777657799579775624670006900007877a8900001105000030a30000001f000000000000000000000002" /-->
+      <BodyProperties version="4" weight="0.6" build="0.4" key="0016E00B40003348980B78896749797B4978A57A8A77777657799579775624670000000607877A8900001105000030A30000001F000000000000000000000003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Mercy" value="+1" />
+      <Trait id="Generosity" value="+1" />
+      <Trait id="Calculating" value="+1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Tynops Enaches. Goodnatured, garios faction. -->
+  <NPCCharacter id="lord_1_40" name="{=kfNW01y5}Tynops" voice="softspoken" is_female="false" default_group="Cavalry" age="35" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000e812b4000234d875c989a8860996a1879956888677896699a8679a86723690000000407a6889600001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000B800B4000000D875C989A8860996A1879956888677896699A8679A86723690000000307A6889600001105000030A30000001F000000000000000000000000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_40_1" name="{=BxABzWjH}Catella" voice="earnest" is_female="True" default_group="Cavalry" age="33" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000e812b4000234d875c989a8860996a1879956888677896699a8679a86723690000000407a6889600001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.4" key="000BAC089200100DB976648E6774B835537D86629511323BDCB177278A84F667017776130748B49500000000000000000000000000000000000000003EFC4003" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="6" />
+      <!-- Tynops's wife.-->
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- clanless empire lords -->
+  <NPCCharacter id="lord_1_46" name="{=qqW5n5Ox}Milos" age="38" voice="softspoken" is_hero="true" default_group="Cavalry" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016b92980003205954c59997345585a4969b5769b85789865677b96475832690000000007a7968800001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0016B80A00003205954C59997345585A4969B5769B85789865677B96475832690000000307A7968800001105000030A30000001F000000000000000000000000" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="4" />
+      <!-- Moralist -->
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_46_1" name="{=PopVsatN}Seorgys" voice="ironic" age="19" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000e812b4000234d875c989a8860996a1879956888677896699a8679a86723690000000407a6889600001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.5" key="000B500A1114300BB69199998669E37568754C66A53693B2BA7A9855C96751D601677613062B368C000000000000000000000000000000000000000040CC4083" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="2" />
+      <!-- Young populist, had ambitions but also genuinely compassionate-->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Lonalion clan, backs Lucon. Fierce, rather cruel warriors. -->
+  <NPCCharacter id="lord_1_45" name="{=7nVZgjmn}Desporion" age="38" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0005800000FC000F66A89964658D25876585D896796876769A8899A987A7AB750000065703C578EB000000000000000000000000000000000000000000F46140" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="5" />
+      <!-- Desporion - Ibn tughluq type. honorable, but easily infuriated. Formerly clan 5 uncle. Garios-->
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_45_1" name="{=27fMB4Ri}Agnala" age="38" voice="earnest" is_female="True" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0016500CD1A00010945948899A9B8C7844DAC78467D87565AB5466784889A58501A776130A83B7BA00000000000000000000000000000000000000004B5C1003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_45_2" name="{=nfvgHpn5}Phostor" age="19" voice="earnest" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
+      <BodyProperties version="4" weight="0.6" build="0.5" key="000B100E51E4200F267B493B89C9477584CA4556433D5492B5979E75A8899A5501577613054347D4000000000000000000000000000000000000000058AC3083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_45_3" name="{=Upt1X9HN}Nereida" age="18" voice="softspoken" is_female="True" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000583c000fc000f66a89964658d25876585d896796876769a8899a987a7ab750003d65e03c578eb000000000000000000000000000000000000000000946140" /-->
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="000B500E518830018883625946BD4C74CD2A878665347B498B83461C3686D569012776130286C8B500000000000000000000000000000000000000004A442003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="1" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Altenos. Younger enthusiast, less thoughtful than others. Garios faction -->
+  <NPCCharacter id="lord_1_57" name="{=EJFY3KdF}Altenos" voice="earnest" is_female="false" default_group="Cavalry" age="25" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016d52e407c334e269c3c75a7974761a6ae8c7b19959cab9cb685d9565bb66a00047bb4067385ab00001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0016D40E407C334E269C3C75A7984761A6AE8C7B19959CAB9CB685D9565BB66A00058BB2057385AB00001105000030A30000001F000000000000000001409000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_57_1" name="{=CwK8l7IX}Sophalia" voice="curt" is_female="true" age="24" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016d52e407c334e269c3c75a7974761a6ae8c7b19959cab9cb685d9565bb66a00047bb4067385ab00001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000BD80B5114300AC8832858A669275A3AB4CAA26D66686547C4969575DA72990177761307A39755000000000000000000000000000000000000000042E40003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_57_2" name="{=p4vC5oBc}Jephalia" age="2" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016d52e407c334e269c3c75a7974761a6ae8c7b19959cab9cb685d9565bb66a00047bb4067385ab00001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00003C02D0CC200FCECB7755385C79B87764EA7A87439E635759266A4A5A653B01177613012CB56100000000000000000000000000000000000000004A344043" />
+    </face>
+    <skills>
+      <!-- TWO-YEAR OLD -->
+    </skills>
+    <Traits></Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Saratis. Clever, but does not like to fight. Garios -->
+  <NPCCharacter id="lord_1_52" name="{=6TphQddp}Saratis" age="36" voice="ironic" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000ba52cc03c300d658918a66a565a686aaab3a57a485991a57a63282749b75400056aa402ae984800001105000030a30000001f000000000000000000001000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000BA40CC03C300D658918A66A565A686AAAB3A57A485991A57A63282749B75400034AA302AE984800001105000030A30000001F000000000000000000281000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_52_1" name="{=Ggj9PWIU}Minarvina" age="35" is_female="true" voice="ironic" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000ba52cc03c300d658918a66a565a686aaab3a57a485991a57a63282749b75400056aa402ae984800001105000030a30000001f000000000000000000001000" /-->
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="00056C0A00CC30073B51C45964889976393B877A45A83B7956B9AD56897A9DD201C776130CC7976A0000000000000000000000000000000000000000318410C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_52_2" name="{=o5C0LbdP}Megarita" age="16" is_female="true" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000ba52cc03c300d658918a66a565a686aaab3a57a485991a57a63282749b75400056aa402ae984800001105000030a30000001f000000000000000000001000" /-->
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="001C24045314100A97B9169795F83BA9A7A5747A763847665496582A27C55A950177761307529A8900000000000000000000000000000000000000004CEC00C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- TEENAGER -->
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Achios. A talent for dealing with common soldiers, but ruthless. Napoleon/Trotsky type. Garios faction -->
+  <NPCCharacter id="lord_1_53" name="{=3C8F07SL}Achios" voice="ironic" is_female="false" default_group="HorseArcher" age="25" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0012b23940fc1005a6cd68b7aa637b86a8739883b3a5c468d2828372b567a3a3000b34b98a7db34800001105000030a30000001f000000000000000000009002" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011B00880FC1005A6CD68B7AA637B86A8739883B3A5C468D2828372B567A3A3000304B20A7DB34800001105000030A30000001F000000000000000000009002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Maneolis clan, West 8. Vipon. Cruel. Ambitious -->
+  <NPCCharacter id="lord_1_71" name="{=qJJ8nXFN}Vipon" age="32" voice="softspoken" default_group="HorseArcher" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0005592b0000400da55b8899724689763869956b7b86578578658a96886733790000000007b8789800001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0005580B4000300DA55B8899724689763869956B7B86578578658A96886733790003000203B8789800001105000030A30000001F000000000000000000000000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_WE8_c" name="{=GFV7bzME}Icratia" age="29" voice="softspoken" is_female="true" default_group="HorseArcher" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0005592b0000400da55b8899724689763869956b7b86578578658a96886733790000000007b8789800001105000030a30000001f000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0005580B4000300DA55B8899724689763869956B7B86578578658A96886733790003000203B8789800001105000030A30000001F000000000000000000000000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_WE8_u" name="{=JEfh8gHY}Varmyros" age="35" voice="earnest" is_female="false" default_group="HorseArcher" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!-- Placeholder face-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000A80034014168D54C4BC37777515B7D845A4BA65A0A9BB59628895AB9747530077760307872A4A000000000000000000000000000000000000000052DC30C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_flamboyant" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_73" name="{=HQaqg40g}Ovagos" voice="softspoken" is_female="false" age="32" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011B40B403C10088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000008840B7247A6000000000000000000000000000000000000000000003101" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_73_1" name="{=fepOjbsV}Popilia" voice="softspoken" is_female="true" age="31" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0022CC0580CC100B5867B786DC6B9968B4367A58547AB48D79EAB69452B75745016776130655B895000000000000000000000000000000000000000030C40083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Sejaron. Outward veneer of professionalism, ruthless ambition beneath. Garios -->
+  <NPCCharacter id="lord_1_62" name="{=fb0F6jKI}Sejaron" voice="earnest" is_female="false" age="35" is_hero="true" culture="Culture.empire" occupation="Lord" default_group="Cavalry">
+    <face>
+      <!--face_key value="000cb12e400003884897d665a3c5435c87d42767b77897c8637a678695873a87000954b4077b64b500001105000030a30000001f000000000000000000001000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.8" key="000BB00E400003884897D665A3CD435C87D42767B77897C8637A678695873A870005D4B2077B64B500001105000030A30000001F000000000000000000281000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_62_1" name="{=dbe79bvU}Arytha" age="35" voice="softspoken" is_female="True" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000ba52cc03c300d658918a66a565a686aaab3a57a485991a57a63282749b75400056aa402ae984800001105000030a30000001f000000000000000000001000" /-->
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0011AC071100300FA554C37EA53BA67A8B6E7AA94D9BAE666B76EB5953835CAB01977613097C478900000000000000000000000000000000000000004D243043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="3" />
+      <!-- Sejaron's wife. Gracious but equally devious -->
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_northfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- turiados, devious but means well. Rhagaea -->
+  <NPCCharacter id="lord_1_30" name="{=P7iNhhPl}Turiados" voice="earnest" age="24" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016c92e0000200dbc4597a5256457a995879939bbeca7a766c7893aa68945570006435409b1876400001105000030a30000001f000000000000000000002000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.5" key="0016C80E0000200DBC4597A5256457A995879939BBECA7A766C7893AA68945570005435309B1876400001105000030A30000001F000000000000000000A02000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_30_1" name="{=jqdpTXYV}Justina" voice="curt" age="23" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016c92e0000200dbc4597a5256457a995879939bbeca7a766c7893aa68945570006435409b1876400001105000030a30000001f000000000000000000002000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011A40CC0B4300AA943DB689A336188B8984B56679A5AB8497A4CB9D8A6232501877613088C45970000000000000000000000000000000000000000350C1003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="3" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_30_2" name="{=fGp76I0G}Callinia" voice="softspoken" age="3" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016c92e0000200dbc4597a5256457a995879939bbeca7a766c7893aa68945570006435409b1876400001105000030a30000001f000000000000000000002000" /-->
+      <BodyProperties version="4" age="25.84" weight="0.2" build="0.3" key="00117C0E50CC200D73C3265E79C3998BBE65798569D73495C6D87BD3AA57B6D501C776130CD465380000000000000000000000000000000000000000358C20C3" />
+    </face>
+    <skills></skills>
+    <Traits></Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_30_3" name="{=PQoWbtKo}Synesios" voice="softspoken" age="2" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016c92e0000200dbc4597a5256457a995879939bbeca7a766c7893aa68945570006435409b1876400001105000030a30000001f000000000000000000002000" /-->
+      <BodyProperties version="4" age="25.84" weight="0.4" build="0.3" key="00117C0E50CC200D73C3265E79C3998BBE65798569D73495C6D87BD3AA57B6D501C776130CD465380000000000000000000000000000000000000000358C20C3" />
+    </face>
+    <skills></skills>
+    <Traits></Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Leonipardes lieutenant. brave, good-natured, not especially thoughtful. -->
+  <NPCCharacter id="lord_1_48" name="{=katzUyMI}Joron" default_group="Cavalry" age="39" voice="earnest" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="001C880580001008A66A975E5784799294576EAA3A3954B6774485A4155ABB6D000546D40DD3989700001105000030A30000001F000000000000000001189000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_48_1" name="{=ozpbN30B}Alympia" default_group="Cavalry" is_female="true" age="31" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00054407142C000E374577A56CC36C89499569775CC59876759685188978C5270147761304DAD76800000000000000000000000000000000000000002A942003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_48_2" name="{=YDy8meZp}Anea" default_group="Cavalry" is_female="true" age="9" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00054407142C000E374577A56CC36C89499569775CC59876759685188978C5270147761304DAD76800000000000000000000000000000000000000002A942003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_48_3" name="{=yROMCMB3}Nonesos" default_group="Cavalry" age="11" voice="curt" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="001c892580001008a66a975e578a799294576eaa3a3954b6774485a4155abb6d0000a6d40dd3989700001105000030a30000001f000000000000000000009000" /-->
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0000940B404420038B65576759259988AA78D997567B167678CBA478D65688B30177761307666874000000000000000000000000000000000000000000E41043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- sichanis, rather quiet schemer.  rhagaea. Cruel -->
+  <NPCCharacter id="lord_1_54" name="{=sZebVgCp}Sichanis" voice="ironic" age="28" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0005a14140bc100da85b899c8a71e497a32461b62479196c55058e7245674416000d16550c356542000000000000000000000000000000000000000000004180" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0005A00140BC100DA85B899C8A71E497A32461B62479196C55058E7245674416000506530C356542000000000000000000000000000000000000000000004180" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_54_1" name="{=K2UUjntt}Constalia" voice="curt" age="26" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0005a14140bc100da85b899c8a71e497a32461b62479196c55058e7245674416000d16550c356542000000000000000000000000000000000000000000004180" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000780450B40005274C088C838671B78588B5549A7B79D979386C9D75A83863016776130698556700000000000000000000000000000000000000003ACC4083" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Serandon, humanitarian.  rhagaea -->
+  <NPCCharacter id="lord_1_55" name="{=OymqpgTX}Serandon" voice="softspoken" age="28" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011BC0CCE000102A5508899487841954B4F9A57D5C7D811C889B5068C4A7666012776130268769500000000000000000000000000000000000000003C4480C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_55_1" name="{=VIs6y29A}Megethia" voice="softspoken" is_female="true" age="26" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000B5C070058300454262B4CA6A899758988B348E4A3854B7B2BD7728796946401A776130A3359560000000000000000000000000000000000000000375410C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_southfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Baranor. former guard captain for the emperor. rhagaea. Head of clan 5 -->
+  <NPCCharacter id="lord_1_63" name="{=AWDNxFbh}Baranor" voice="curt" age="33" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
+      <BodyProperties version="4" weight="0.9" build="0.9" key="00065C08807C000D88566B74DA8577A325C64A9B6AA35AD26A5B2DB39752565500065BA20657885E00001105000030A30000001F000000000000000000F03000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_63_1" name="{=AVEDQNvr}Valaria" voice="curt" age="32" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
+      <BodyProperties version="4" weight="0.7" build="0.8" key="001C700CC0CC30106C969C364498D4369D8A57A9A772768983E88354BB2B1BCE0167761306D7CD8B000000000000000000000000000000000000000050DC4083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_63_2" name="{=tRAl9AW2}Comatasa" voice="curt" age="12" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="001C580892B400107792D84678A387599DAA67447A8C77C9D7D366699576C7CB0167761306D83BB700000000000000000000000000000000000000005CDC0003" />
+    </face>
+    <skills></skills>
+    <Traits></Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_63_3" name="{=L2SmutOy}Elidilea" voice="curt" age="9" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="00065d28807c000d88566b74da8577a325c64a9b6aa35ad26a5b2db397525655000a5ba40b57885e00001105000030a30000001f000000000000000000003000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00168C0CD3E4300B746DA4A836974259CA53A496D7AA6425822AA1429A5CACCA01677613063C365E00000000000000000000000000000000000000003CC42043" />
+    </face>
+    <skills></skills>
+    <Traits></Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_56" name="{=MADTaSFV}Seranor" voice="curt" age="41" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0005c9258000100e63727ac8926a687a1a85878578987c9b437e6347545abcb7000aa894057768c900001105000030a30000001f000000000000000000004000" /-->
+      <BodyProperties version="4" weight="0.4" build="0.8" key="0005C8058000100E63727AC8926A687A1A85878578987C9B437E6347545ABCB7000C0892057768C900001105000030A30000001F000000000000000000004000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_56_1" name="{=2T4CbYRn}Germana" is_female="true" voice="curt" age="37" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0005c9258000100e63727ac8926a687a1a85878578987c9b437e6347545abcb7000aa894057768c900001105000030a30000001f000000000000000000004000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0005240892FC1005B69C29549444BE8759679A7778478C8D78BA785C77A5C7880177761307D8873D000000000000000000000000000000000000000054F40083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_56_2" name="{=MBKTyzXQ}Rustica" is_female="true" voice="softspoken" age="17" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0005c9258000100e63727ac8926a687a1a85878578987c9b437e6347545abcb7000aa894057768c900001105000030a30000001f000000000000000000004000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011440CD000000F85883C187A9326A926589A94B9889854776498DB88864ED701877613084688A80000000000000000000000000000000000000000411410C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Commander" value="1" />
+      <Trait id="Politician" value="1" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Dynon. Humorless altruist. -->
+  <!-- Tharos. Rather vicious, unsubtle  -->
+  <NPCCharacter id="lord_1_68" name="{=9xyXdX4I}Tharos" voice="curt" age="33" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000bb12598fc00059a75657577a39a87b3d89a8e9774bd7677a867a97d3a634d00033c540767c68700001105000030a30000001f000000000000000000007000" /-->
+      <BodyProperties version="4" weight="0.7" build="0.9" key="000BB00598FC00059A75657577A39A87B3D89A8E9774BD7677A867A97D3A634D00060C520767C68700001105000030A30000001F000000000000000000287000" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_68_1" name="{=bujI7g96}Silvina" voice="curt" age="23" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="000bb12598fc00059a75657577a39a87b3d89a8e9774bd7677a867a97d3a634d00033c540767c68700001105000030a30000001f000000000000000000007000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00115C0890B42010C486966CA6A39396395EBC15947764737B762A7963D6584201A776130A5A596B00000000000000000000000000000000000000005B544003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="3" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Niphon. Attentive, political, deceptive -->
+  <NPCCharacter id="lord_1_69" name="{=4YOoGhpK}Niphon" voice="softspoken" age="33" default_group="Infantry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016c64e403c1408e436c9a4849915c6909e955997c1bd57cb837c9596548c1500059b890b71da76000000000000000000000000000000000000000000003141" /-->
+      <BodyProperties version="4" weight="0.3" build="0.4" key="0016C40E403C1408E436C9A4849415C6909E955997C1BD57CB837C9596548C15000E4B820E71DA76000000000000000000000000000000000000000000003141" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_69_1" name="{=b10NS3yK}Areliana" voice="earnest" is_female="true" age="28" default_group="Infantry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016c64e403c1408e436c9a4849915c6909e955997c1bd57cb837c9596548c1500059b890b71da76000000000000000000000000000000000000000000003141" /-->
+      <BodyProperties version="4" weight="0.3" build="0.4" key="000BBC0FC0143010E1789C45A6A4429352B8238BB9B683DBAB95A8778B89BAC501977613097656360000000000000000000000000000000000000000372410C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_69_2" name="{=4YOld4FR}Dorathila" voice="softspoken" is_female="true" age="7" default_group="Infantry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0016c64e403c1408e436c9a4849915c6909e955997c1bd57cb837c9596548c1500059b890b71da76000000000000000000000000000000000000000000003141" /-->
+      <BodyProperties version="4" weight="0.3" build="0.4" key="0000900A10143006685D493BBC780A4686D18674A5379AA596B62D5A727BC485017776130799B93A000000000000000000000000000000000000000068FC4083" />
+    </face>
+    <skills></skills>
+    <Traits></Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Abalytos. Loves to campaign -->
+  <NPCCharacter id="lord_1_72" name="{=RYksq67N}Abalytos" voice="softspoken" age="33" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
+      <BodyProperties version="4" weight="0.6" build="0.6" key="0011B40B402410088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000E08830B7247A6000000000000000000000000000000000000000000003101" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_72_1" name="{=IbgH3J03}Viviana" is_female="true" voice="softspoken" age="31" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00055C0E40CC3010AB37736CB777CA594C4C561A72B5767D2385A776BA71778B015776130579877A00000000000000000000000000000000000000003CAC40C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_SE8_c" name="{=QuGKE0wg}Itaria" is_female="true" voice="earnest" age="19" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
+      <BodyProperties version="4" weight="0.5" build="0.7" key="0011B40B402410088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000E08830B7247A6000000000000000000000000000000000000000000003101" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="3" />
+      <!-- eager warrior -->
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_southfrontier" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_74" name="{=26W8jFm9}Zachanis" voice="softspoken" age="30" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011B40B402410088733440E80468F1FFF4F9274C862B448941B5637963E5D3E000E08840B7247A6000000000000000000000000000000000000000000003101" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_1_74_1" name="{=7DJgows0}Zena" voice="curt" is_female="true" age="30" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!--face_key value="0011b45b402410088733440e80468f1fff4f9274c862b448941b5637963e5d3e000a68810b7247a6000000000000000000000000000000000000000000003101" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00115C0FD1A0000E3A7C7A85CC64D75ABE9B4974647554498CAA97499766E5860147761304B85D0800000000000000000000000000000000000000005C943003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="2" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Vatatzes clan. Non-ideological but served with Lucon -->
+  <NPCCharacter id="lord_NE8_l" name="{=9Pw7LDXY}Maritzios" age="46" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6" build="0.5" key="00009C0FC0CC3286677834B57545557BA665A4BB733C359B45DA64699C84577801377613034C439C00000000000000000000000000000000000000006A644002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="+1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_NE8_s" name="{=1yJZWqhG}Pradentia" age="38" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.4" build="0.5" key="0000200FD0CC200E978EB857E594B2FE6929595C8998514499BBA261B3BB76B201377613037A459900000000000000000000000000000000000000006A6400C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_NE8_c1" name="{=gSR6ObvN}Theavisos" age="19" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000D40FC0CC12C897B8079E76258849839B767CB9CA744999BBA2614817BB7801377613037A459900000000000000000000000000000000000000006A642102" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="2" />
+      <!-- Theavisos, dissolute heir. (I like to have these as commented lines separating skill traits from personality traits) -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_NE8_c2" name="{=stjahQvD}Lucala" age="16" voice="softspoken" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000D40FD0CC100497B8079E76258849839B767CB9CA744999BBA2614817BB7801377613037A459900000000000000000000000000000000000000006A6420C3" />
+    </face>
+    <Traits></Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Serapides, latter-day Scipios. Angry that moment of glory has passed -->
+  <NPCCharacter id="lord_NE9_l" name="{=2XKnC45z}Porphalios" age="51" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="51" weight="0.9" build="0.5" key="000AAC080000165AB989A184241CB80B537D86629511323BDCB177278A49B6A7007776030748B49500000000000000000000000000000000000000003EFC5002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_flamboyant" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Silasos, wishes to rebuild the clan -->
+  <NPCCharacter id="lord_NE9_s" name="{=GJhRw7qb}Aesos" age="24" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="24" weight="0.5" build="0.5" key="000AAC0800001001B957635424174307567986659534566BDCB5774788493637008776030848B59500000000000000000000000000000000000000003F0C5002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_NE9_d" name="{=lLNkm48w}Vamina" age="22" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22" weight="0.6" build="0.5" key="00009C0FC0CC3286677834B57545557BA665A4BB733C359B45DA64699C84577801377613034C439C00000000000000000000000000000000000000006A644002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_medium" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Vincantios, somewhat dull clan leader and his much sharper sister -->
+  <NPCCharacter id="lord_WE9_l" name="{=xfSKiKl1}Vincantios" age="24" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!-- Placeholder face value -->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011840B40CC12CBB7B2B8C953C76674299A5DC93264A4A938C659683379847901777613077D5972000000000000000000000000000000000000000040E42102" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <!-- Leader of the clan -->
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_WE9_u" name="{=hjcwElSM}Euresa" age="26" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000AC001170000E68844A7B5955A69256989B97A185847C36C937ABA3698C8C01977613097BD71A000000000000000000000000000000000000000061341003" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="5" />
+      <!-- Political driver of the clan, genuine populist -->
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_WE9_u2" name="{=juzJA5Tw}Torvasis" age="37" voice="curt" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <!-- Placeholder face key -->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000AC001170000E68844A7B5955A69256989B97A185847C36C937ABA3698C8C01977613097BD71A000000000000000000000000000000000000000061341003" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <!-- husband of Euresa, much older, honest but not much else -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_heavy" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_SE9_l" name="{=txyVEr0U}Satros" age="58" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000B700CC02C39548B215CB4D9779D947BAB797D3835786895799C1A6DB7C35E01677613068C895800000000000000000000000000000000000000002AD46042" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="6" />
+      <!-- somewhat bitter child of a traitor, rehabilitated and loyal to Rhagaea -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_stoic" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_SE9_s" name="{=4WiAzdHf}Jonna" age="46" voice="ironic" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000080FD0FC100D4776686376266B93426B9C989782C82458739F1CB876963401577613051867C8000000000000000000000000000000000000000022A420C3" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_SE9_c1" name="{=rf8KHRSP}Pagarios" age="26" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000B700E402C325968215CB4D9779D947BABE1EA12D7B9649975B5856DB7C355016776130655A58500000000000000000000000000000000000000002AD42042" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="4" />
+      <!-- anxious to rehabilitate the family name -->
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_southfrontier" />
+      <EquipmentSet id="cla_roman_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_SE9_c2" name="{=Y0I9T9pe}Diasca" age="24" is_female="true" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.empire" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.4" build="0.3" key="0000080FCEFC290B4756896A6356B7D0C06B9C989782C82458739F1C6A48C62501877613081867C80000000000000000000000000000000000000000370C2102" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="4" />
+      <!-- Diasca, genuine monarchist. I like to have these as commented lines separating skill traits from personality traits  -->
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Authoritarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_roman_bat_template_lady" />
+      <EquipmentSet id="emp_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>

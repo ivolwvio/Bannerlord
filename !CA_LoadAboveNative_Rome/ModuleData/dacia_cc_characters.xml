@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+<!-- Face templates -->
+  <NPCCharacter id="player_char_creation_battania"
+                name="{=!}with two-handed swords"
+                default_group="General"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.empire"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+<BodyProperties version="4" age="22" weight="0.7" build="1"  key="0002C808DA883549FF9FEBFFF7E7EEFEF9F18EFF7F44DF15FEEFEFEE97FE757E00DFB0030DEEEFEE00000000000000000000000000000000000000000DB09105"  />
+    </face>
+    <skills>
+      <skill id="OneHanded"
+             value="5" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="10" />
+      <skill id="Bow"
+             value="25" />
+      <skill id="Crossbow"
+             value="0" />
+      <skill id="Throwing"
+             value="10" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="Athletics"
+             value="20" />
+      <skill id="Trade"
+             value="5" />
+      <skill id="Scouting"
+             value="5" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_i" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_clop_a" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+<!-- THE PARENTS -->
+ 
+<!-- Actual -->
+  <!--Culture: vlandia -->
+  <NPCCharacter id="mother_char_creation_0_battania"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="father_char_creation_0_battania"
+                name="{=!}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_i" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_clop_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+
+
+  
+  <!--1.Hearthguard-->
+  <NPCCharacter id="mother_char_creation_1_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_dress_a" />
+        <equipment slot="Leg"
+                   id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_1_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Head"
+                 id="Item.cla_dacia_helm_tall_ridge_brass" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_vest_blue" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_greaves" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_chain" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--2.Healer-->
+  <NPCCharacter id="mother_char_creation_2_battnia"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_2_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_b" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_caciula_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--3.Tribespeople-->
+  <NPCCharacter id="mother_char_creation_3_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.wrapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_3_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--4.Smiths-->
+  <NPCCharacter id="mother_char_creation_4_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_4_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_d" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_caciula_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--5.Forester-->
+  <NPCCharacter id="mother_char_creation_5_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_female_civil_a" />
+        <equipment slot="Leg"
+                   id="Item.highland_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_5_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_sleeveless" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--6.Bard-->
+  <NPCCharacter id="mother_char_creation_6_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.battania_dress_c" />
+        <equipment slot="Leg"
+                   id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="father_char_creation_6_battania"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Player Character -->
+  <!--Hearthguard -->
+  <NPCCharacter id="player_char_creation_childhood_age_battania_1_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_1_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_childhood_age_battania_1_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_1_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Healer -->
+  <NPCCharacter id="player_char_creation_childhood_age_battania_2_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_2_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_childhood_age_battania_2_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_2_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Tribespeople -->
+  <NPCCharacter id="player_char_creation_childhood_age_battania_3_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_3_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_childhood_age_battania_3_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_3_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Smiths -->
+  <NPCCharacter id="player_char_creation_childhood_age_battania_4_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_4_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_childhood_age_battania_4_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_4_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+          <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Forester -->
+  <NPCCharacter id="player_char_creation_childhood_age_battania_5_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_5_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_childhood_age_battania_5_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_5_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Bard -->
+  <NPCCharacter id="player_char_creation_childhood_age_battania_6_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_battania_6_m"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_childhood_age_battania_6_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_education_age_vlandia_6_f"
+                name="{=KqpiU4tH}with two-handed swords"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.cla_villager_dacia" />
+    </face>
+    <skills></skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+      </EquipmentRoster>
+      <EquipmentSet id="cla_npc_wanderer_equipment_template_dacia"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+<!-- Equipment -->
+  <!--STARTING EQUIPMENT SETS BEGIN (Only change the equipment sets, other fields except the id are ignored.-->
+  <!--Special Situations-->
+  <!--were a chieftain's servant=> Battania and Khuzait Only, Parents Are Retainers-->
+  <NPCCharacter id="player_char_creation_battania_10_m"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_shield_red_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal_a" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1_m" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_steppe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_caciula_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_b" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_battania_10_f"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_shield_red_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal_a" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_steppe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_caciula_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_b" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--trained with hearth guard=> Battania and Sturgia Only, Parents Are Retainers-->
+
+  <NPCCharacter id="player_char_creation_battania_9_m"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_shield_a_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item2"
+                   id="Item.western_spear_1_t2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_i" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_cloak" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_steppe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_cloak" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_battania_9_f"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_shield_a_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item2"
+                   id="Item.western_spear_1_t2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_i" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_cloak" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_steppe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_cloak" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--stood guard with the garrisons-->
+
+  <NPCCharacter id="player_char_creation_battania_1_m"
+                name="{=3lNtvh9W}Bounty Hunter"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_shield_gray_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_clop_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_i" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_cloak" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_cloak" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <!--stood guard with the garrisons-->
+  <NPCCharacter id="player_char_creation_battania_1_f"
+                is_female="true"
+                name="{=3lNtvh9W}Bounty Hunter"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_shield_gray_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_clop_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_i" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_cloak" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_cloak" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <!--rode with the scouts-->
+  <NPCCharacter id="player_char_creation_battania_2_m"
+                name="{=PCZ23wvW}Engineer"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.default_arrows" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_battania_2_f"
+                is_female="true"
+                name="{=UaN2lfwi}Weaponsmith"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.mountain_hunting_bow" />
+        <equipment slot="Item1"
+                   id="Item.default_arrows" />
+        <equipment slot="Item2"
+                   id="Item.default_arrows" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+  </NPCCharacter>
+  <!--trained with the infantry-->
+  <NPCCharacter id="player_char_creation_battania_3_m"
+                name="{=GopVkA1q}Outlaw"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.northern_spear_1_t2" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_shield_blue_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_sleeveless" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_battania_3_f"
+                is_female="true"
+                name="{=GopVkA1q}Outlaw"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.northern_spear_1_t2" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_shield_blue_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_sleeveless" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <!--joined the skirmishers-->
+  <NPCCharacter id="player_char_creation_battania_4_m"
+                name="{=3lNtvh9W}Bounty Hunter"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Item1"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_2axe_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_clop_b" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Cape"
+                   id="Item.wolf_shoulder" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_battania_4_f"
+                is_female="true"
+                name="{=3lNtvh9W}Bounty Hunter"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Item1"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Item2"
+                   id="Item.cla_dacia_2axe_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_clop_b" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Cape"
+                   id="Item.wolf_shoulder" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <!--marched with the camp followers-->
+  <NPCCharacter id="player_char_creation_battania_5_m"
+                name="{=UaN2lfwi}Weaponsmith"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_falx_1" />
+        <equipment slot="Item1"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_clop_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_b" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <!--marched with the camp followers-->
+  <NPCCharacter id="player_char_creation_battania_5_f"
+                is_female="true"
+                name="{=UaN2lfwi}Weaponsmith"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_falx_1" />
+        <equipment slot="Item1"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_tarabostes_clop_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_b" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!--Joined the Kern=> Battania ONLY-->
+  <NPCCharacter id="player_char_creation_battania_8_m"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_shield_white_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item2"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_steppe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="player_char_creation_battania_8_f"
+                name="{=jxNe8lH2}Caravan Guard"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_shield_white_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_sword_1" />
+        <equipment slot="Item2"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_steppe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+
+  <NPCCharacter id="brother_char_creation_battania"
+                is_female="false"
+                name="{=!}Minstrel"
+                default_group="General"
+                is_hero="false"
+                culture="Culture.battania"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_blue_2" />
+        <equipment slot="Item2"
+                   id="Item.western_javelin_1_t2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_tall_ridge_brass" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_vest_blue" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_chain" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_greaves" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_bracelet_gold_both_m" />
+        <equipment slot="Horse"
+                   id="Item.sumpter_horse" />
+        <equipment slot="HorseHarness"
+                   id="Item.bandit_saddle_highland" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_1ax_1" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_head_pileus_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>

@@ -1,0 +1,14 @@
+<!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
+<Items>
+  
+  <CraftedItem id="300_Sword" name="Kopis" crafting_template="spartan_sword" culture="Culture.battania">
+    <Pieces>
+      <Piece id="blade_300" Type="Blade" scale_factor="100" />
+      <Piece id="guard_300" Type="Guard" scale_factor="100" />
+      <Piece id="handle_300" Type="Handle" scale_factor="100" />
+      <Piece id="pommel_300" Type="Pommel" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+</Items>
+

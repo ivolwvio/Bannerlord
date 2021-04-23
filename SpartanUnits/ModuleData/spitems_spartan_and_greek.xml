@@ -1,0 +1,587 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Items>	
+
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+<!-- ARMOUR -->
+
+  <Item id="greek_tunic"
+        name="{=sr78dSDd}Hellenic Short Tunic"
+        mesh="empire_short_dress"
+        culture="Culture.empire"
+        weight="1.0"
+        difficulty="0"
+        appearance="0.1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="15"
+             leg_armor="5"
+             has_gender_variations="true"
+             covers_body="false"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true"
+           DoesNotHideChest="true"
+           UseTeamColor="true" />
+  </Item>
+
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+<!-- SHIELDS -->
+
+	  
+  <Item id="spartan_leather_round_shield"
+        name="{=WYFDXE82}Large Round Shield"
+        body_name="bo_cap_sturgia_shield_a"
+        shield_body_name="bo_sturgia_shield_b"
+        recalculate_body="false"
+        mesh="sturgia_shield_b"
+        culture="Culture.sturgia"
+        using_tableau="true"
+        weight="6.9"
+        difficulty="0"
+        appearance="1"
+        Type="Shield"
+        item_holsters="shield_round:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="0,0,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="7"
+              thrust_speed="89"
+              thrust_damage="5"
+              thrust_damage_type="Blunt"
+              speed_rating="89"
+              physics_material="wood_shield"
+              item_usage="hand_shield"
+              position="-0.02, 0.0, 0.0"
+              rotation="-15.0,-90.0,12.0"
+              weapon_length="70"
+              center_of_mass="0, 0.15, 0"
+              hit_points="480">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           ForceAttachOffHandPrimaryItemBone="true"
+           HeldInOffHand="true"
+		   UseTeamColor="false" />
+  </Item>
+  <Item id="greek_decorated_steppe_shield_a"
+        name="{=iE9JNuZI}Round Steppe Shield"
+        body_name="bo_cap_shield_khuzait_cavalary_b"
+        shield_body_name="bo_shield_khuzait_cavalary_b"
+        recalculate_body="false"
+        mesh="shield_khuzait_cavalary_b"
+        using_tableau="true"
+        weight="4.7"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield_kite:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.1,-0.05,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="8"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="60"
+              center_of_mass="-0.0,0.075,0.05"
+              hit_points="480">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+    <Item id="greek_decorated_steppe_shield_b"
+        name="{=iE9JNuZI}Round Steppe Shield"
+        body_name="bo_cap_shield_khuzait_cavalary_b"
+        shield_body_name="bo_shield_khuzait_cavalary_b"
+        recalculate_body="false"
+        mesh="shield_khuzait_cavalary_b"
+        using_tableau="true"
+        weight="4.7"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield_kite:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.1,-0.05,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="13"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="60"
+              center_of_mass="-0.0,0.075,0.05"
+              hit_points="480">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="greek_curved_round_shield_a"
+        name="{=hE8s9bpP}Curved Round Shield"
+        using_tableau="true"
+        body_name="bo_cap_aserai_shields_e"
+        shield_body_name="bo_aserai_shields_e"
+        recalculate_body="false"
+        mesh="aserai_shields_e"
+        culture="Culture.aserai"
+        weight="7.3"
+        appearance="1"
+        Type="Shield"
+        item_holsters="shield:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.07,-0.1,-0.0">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="36"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="66"
+              center_of_mass="-0.0, 0.1, 0.1"
+              hit_points="780">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+    <Item id="greek_curved_round_shield_b"
+        name="{=hE8s9bpP}Curved Round Shield"
+        using_tableau="true"
+        body_name="bo_cap_aserai_shields_e"
+        shield_body_name="bo_aserai_shields_e"
+        recalculate_body="false"
+        mesh="aserai_shields_e"
+        culture="Culture.aserai"
+        weight="7.3"
+        appearance="1"
+        Type="Shield"
+        item_holsters="shield:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.07,-0.1,-0.0">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="40"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="66"
+              center_of_mass="-0.0, 0.1, 0.1"
+              hit_points="780">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  <Item id="greek_steppe_guardian_shield_a"
+        name="{=8UMQ8ocB}Eastern Cavalry Shield"
+        body_name="bo_cap_shield_khuzait_cavalary_d"
+        shield_body_name="bo_shield_khuzait_cavalary_d"
+        recalculate_body="false"
+        mesh="shield_khuzait_cavalary_d"
+        using_tableau="true"
+        weight="2.7"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield_kite:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.1,-0.05,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="17"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="60"
+              center_of_mass="-0.0,0.075,0.05"
+              hit_points="640">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+    <Item id="greek_steppe_guardian_shield_b"
+        name="{=8UMQ8ocB}Eastern Cavalry Shield"
+        body_name="bo_cap_shield_khuzait_cavalary_d"
+        shield_body_name="bo_shield_khuzait_cavalary_d"
+        recalculate_body="false"
+        mesh="shield_khuzait_cavalary_d"
+        using_tableau="true"
+        weight="2.7"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield_kite:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.1,-0.05,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="34"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="60"
+              center_of_mass="-0.0,0.075,0.05"
+              hit_points="640">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+    <Item id="greek_armoured_shield"
+        name="{=3TAnl7hb}Decorated Eastern Shield"
+        body_name="bo_cap_shield_khuzait_cavalary_c"
+        shield_body_name="bo_shield_khuzait_cavalary_c"
+        recalculate_body="false"
+        mesh="shield_khuzait_cavalary_c"
+        using_tableau="true"
+        weight="4.7"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield_kite:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.1,-0.05,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="23"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="metal_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="60"
+              center_of_mass="-0.0,0.075,0.05"
+              hit_points="640">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+    <Item id="greek_steel_round_shield"
+        name="{=FktkkUMK}Steel Round Shield"
+        body_name="bo_cap_aserai_shields_g"
+        shield_body_name="bo_aserai_shields_g"
+        recalculate_body="false"
+        mesh="aserai_shields_g"
+        culture="Culture.khuzait"
+        weight="4"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.1,-0.07,-0.05">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="8"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="metal_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="60"
+              center_of_mass="0.01, 0.07, 0.1"
+              hit_points="980">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+  
+  	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+	<!-- WEAPONS -->
+  
+    <CraftedItem id="gladius_b"
+             name="{=AOZbTGOS}Xiphos"
+             crafting_template="Dagger"
+             culture="Culture.empire">
+      <Pieces>
+        <Piece id="dagger_blade_11"
+               Type="Blade"
+               scale_factor="165" />
+        <Piece id="aserai_dagger_guard_1"
+               Type="Guard"
+               scale_factor="110" />
+        <Piece id="sturgian_grip_4"
+               Type="Handle" />
+        <Piece id="battania_pommel_7"
+               Type="Pommel"
+               scale_factor="90" />
+      </Pieces>
+      <!-- Length: 68 Weight: 0.92 SwingSpeed: 122 ThrustSpeed: 104 SwingDamage: 7B, 33S ThrustDamage: 10B, 31S -->
+    </CraftedItem>
+	<!-- eastern_throwing_spear_2_t4 -->
+	
+	  <CraftedItem id="eastern_throwing_spear_2_t4"
+               name="{=kJzIZMBR}Triangular Throwing Spear"
+               crafting_template="TwoHandedPolearmGreek"
+               culture="Culture.khuzait">
+	<Pieces>
+      <Piece id="spear_blade_13"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="spear_guard_7"
+             Type="Guard"
+             scale_factor="90" />
+      <Piece id="spear_handle_14"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+    <CraftedItem id="greek_hoplite_spear"
+               name="{=EgrNdBct}Hellenic Hoplite Spear"
+               crafting_template="TwoHandedPolearmGreek"
+               culture="Culture.khuzait">
+    <Pieces>
+      <Piece id="greek_spear_blade_1"
+             Type="Blade"
+             scale_factor="100" />
+      <Piece id="greek_spear_handle_1"
+             Type="Handle"
+             scale_factor="90" />
+	  <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+	<!-- eastern_throwing_spear_2_t4 -->
+	  <CraftedItem id="greek_hoplite_fine_spear"
+               name="{=sr78dSDc}Fine Hellenic Hoplite Spear"
+               crafting_template="TwoHandedPolearmGreek"
+               culture="Culture.khuzait">
+	<Pieces>
+      <Piece id="greek_spear_blade_2"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="spear_guard_7"
+             Type="Guard"
+             scale_factor="90" />
+      <Piece id="greek_spear_handle_1"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  
+  <!-- WEAKER VERSION FOR ARMOURED HOPLITE -->
+  
+  	  <CraftedItem id="greek_hoplite_fine_spear_b"
+               name="{=sr78dSDc}Fine Hellenic Hoplite Spear"
+               crafting_template="TwoHandedPolearmGreek"
+               culture="Culture.khuzait">
+	<Pieces>
+      <Piece id="greek_spear_blade_3"
+             Type="Blade"
+             scale_factor="90" />
+      <Piece id="spear_guard_7"
+             Type="Guard"
+             scale_factor="90" />
+      <Piece id="greek_spear_handle_1"
+             Type="Handle"
+             scale_factor="100" />
+      <Piece id="default_polearm_pommel"
+             Type="Pommel"
+             scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+			   
+<!-- OBSELETE, BUT MUST STAY IN ORDER FOR SAVE GAMES TO STILL WORK WITH FUTURE UPDATES -->
+<!-- OBSELETE, BUT MUST STAY IN ORDER FOR SAVE GAMES TO STILL WORK WITH FUTURE UPDATES -->
+<!-- OBSELETE, BUT MUST STAY IN ORDER FOR SAVE GAMES TO STILL WORK WITH FUTURE UPDATES -->
+<!-- OBSELETE, BUT MUST STAY IN ORDER FOR SAVE GAMES TO STILL WORK WITH FUTURE UPDATES -->
+<!-- OBSELETE, BUT MUST STAY IN ORDER FOR SAVE GAMES TO STILL WORK WITH FUTURE UPDATES -->
+																				   
+    <Item id="greek_steppe_guardian_shield"
+        name="{=8UMQ8ocB}Eastern Cavalry Shield"
+        body_name="bo_cap_shield_khuzait_cavalary_d"
+        shield_body_name="bo_shield_khuzait_cavalary_d"
+        recalculate_body="false"
+        mesh="shield_khuzait_cavalary_d"
+        using_tableau="true"
+        weight="2.7"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield_kite:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.1,-0.05,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="13"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="60"
+              center_of_mass="-0.0,0.075,0.05"
+              hit_points="640">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+      <Item id="greek_decorated_steppe_shield"
+        name="{=iE9JNuZI}Round Steppe Shield"
+        body_name="bo_cap_shield_khuzait_cavalary_b"
+        shield_body_name="bo_shield_khuzait_cavalary_b"
+        recalculate_body="false"
+        mesh="shield_khuzait_cavalary_b"
+        using_tableau="true"
+        weight="4.7"
+        appearance="0.9"
+        Type="Shield"
+        item_holsters="shield_kite:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.1,-0.05,0.01">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="4"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="60"
+              center_of_mass="-0.0,0.075,0.05"
+              hit_points="480">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+      <Item id="greek_curved_round_shield"
+        name="{=hE8s9bpP}Curved Round Shield"
+        using_tableau="true"
+        body_name="bo_cap_aserai_shields_e"
+        shield_body_name="bo_aserai_shields_e"
+        recalculate_body="false"
+        mesh="aserai_shields_e"
+        culture="Culture.aserai"
+        weight="7.3"
+        appearance="1"
+        Type="Shield"
+        item_holsters="shield:shield_2:shield_3:shield_4"
+        has_lower_holster_priority="true"
+        holster_position_shift="-0.07,-0.1,-0.0">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="32"
+              thrust_speed="82"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              physics_material="wood_shield"
+              item_usage="shield"
+              position="0.0, 0.00, 0.00"
+              rotation="0.0,10.0,40.00"
+              weapon_length="66"
+              center_of_mass="-0.0, 0.1, 0.1"
+              hit_points="780">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+</Items>

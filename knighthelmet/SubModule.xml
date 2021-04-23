@@ -1,0 +1,27 @@
+<Module>
+  <Name value="knighthelmet"/>
+  <Id value="knighthelmet"/>
+  <Version value="v1.5.4"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <Official value="false" />
+  <DependedModules>
+    <DependedModule Id="Native" />
+    <DependedModule Id="SandBoxCore" />
+    <DependedModule Id="Sandbox" />
+    <DependedModule Id="CustomBattle" />
+    <DependedModule Id="StoryMode" />
+  </DependedModules>
+<SubModules>
+</SubModules>
+  <Xmls>
+		<XmlNode>
+			<XmlName id="Items" path="sp_items"/>
+			<IncludedGameTypes>
+				<GameType value="Campaign"/>
+				<GameType value="CampaignStoryMode"/>
+				<GameType value="CustomGame"/>
+			</IncludedGameTypes>
+		</XmlNode>
+  </Xmls>
+</Module>

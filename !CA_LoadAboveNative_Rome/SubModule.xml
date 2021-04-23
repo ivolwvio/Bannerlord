@@ -1,0 +1,45 @@
+<Module>
+  <Name value="*CA* Important - Load At Top Above Native - Rome"/>
+  <Id value="!CA_LoadAboveNative_Rome"/>
+  <Version value="v2.2.8"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <Official value="false" />
+  <DependedModules />
+<SubModules>
+</SubModules>
+  <Xmls>
+    <XmlNode>                
+			<XmlName id="Kingdoms" path="ca_kingdoms"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+	</XmlNode>
+   <XmlNode>                
+			<XmlName id="NPCCharacters" path="empire_cc_characters"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+	  </XmlNode>
+   <XmlNode>                
+			<XmlName id="NPCCharacters" path="palaic_cc_characters"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+	  </XmlNode>
+   <XmlNode>                
+			<XmlName id="NPCCharacters" path="dacia_cc_characters"/>
+			<IncludedGameTypes>
+				<GameType value = "Campaign"/>
+				<GameType value = "CampaignStoryMode"/>
+				<GameType value = "CustomGame"/>
+			</IncludedGameTypes>
+	  </XmlNode>
+  </Xmls>
+</Module>

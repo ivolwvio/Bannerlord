@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+
+<!-- If you want more item variety to test with, copy and paste from here: \Mount & Blade II Bannerlord\Modules\SandBoxCore\ModuleData\spitems -->
+<!-- If changing meshes, replace mesh with your custom mesh. To see in game, make sure to enable cheats in docs > BL > engine_config > enable cheats should be 1
+Then head in game and open your inventory, all items in game will be on the left side -->
+
+<!-- Helm -->
+  <Item id="knighthelmet"
+        name="Knight Helmet"
+        mesh="knighthelmet"
+        culture="Culture.vlandia"
+        subtype="head_armor"
+        weight="3.2"
+        difficulty="0"
+        appearance="3"
+        Type="headArmor">
+    <ItemComponent>
+      <Armor head_armor="52"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             beard_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags />
+  </Item>
+
+</Items>

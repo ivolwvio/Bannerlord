@@ -1,0 +1,21 @@
+<CA_EagleRising>
+<!-- this works but is not fit for a realistic mod, original particle effect is not included in the rome mod -->
+<!-- Lightning -->
+<!-- Radius: 4 DMG: 4/1s -->
+	<HasParticle>false</HasParticle>
+	<ParticleToEquippedOnly>false</ParticleToEquippedOnly>
+	<ShoudRepeatParticle>false</ShoudRepeatParticle>
+	<RepeatParticlePeriod>1</RepeatParticlePeriod>
+	<ParticleEffectName>cla_dot_lightning</ParticleEffectName>
+	<ParticleBoneIndexes>6,10,13,21</ParticleBoneIndexes>
+
+	<HasLight>false</HasLight>
+	<LightBone>0</LightBone>
+	<LightRadius>1.5</LightRadius>
+	<LightIntensity>125</LightIntensity>
+	<LightColor>#ffd700FF</LightColor>
+	
+	<AuraRadius>4</AuraRadius>
+	<BuffAmount>4</BuffAmount>
+	<BuffPeriod>1</BuffPeriod>
+</CA_EagleRising>

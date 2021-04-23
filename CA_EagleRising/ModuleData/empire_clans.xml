@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Factions>
+
+<!-- Empire North -->
+  <!-- Aristocratic starting kingdom -->
+  <Faction id="clan_empire_north_1"
+           name="{=fXENjJJL}Junii"
+           tier="6"
+           owner="Hero.lord_1_1"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.529.5.0.152.152.882.879.0.0.0.419.5.0.510.510.772.767.0.0.0.526.5.0.152.152.664.876.0.0.0.527.5.0.152.152.659.658.0.0.0.528.5.0.152.152.879.657.0.0.0" />
+  <Faction id="clan_empire_north_2"
+           name="{=UW8BjPXR}Tarpeii"
+           tier="5"
+           owner="Hero.lord_1_3"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.142.5.0.502.502.754.693.0.0.1.142.5.0.502.502.772.869.0.0.179" />
+  <Faction id="clan_empire_north_3"
+           name="{=txCNVmSV}Sulpicii"
+           tier="5"
+           owner="Hero.lord_1_5"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.4345.4345.776.777.1.0.0.302.5.0.423.423.814.711.0.0.327.302.5.0.423.423.720.712.0.0.32.202.5.0.424.424.882.908.0.0.47.202.5.0.430.443.665.914.0.1.316.320.5.0.365.365.772.796.0.0.0" />
+  <Faction id="clan_empire_north_4"
+           name="{=tA3IRBgv}Curiatii"
+           tier="5"
+           owner="Hero.lord_1_20"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.4345.4345.774.771.1.0.0.304.5.0.426.426.921.755.0.0.0.443.5.0.510.510.774.762.0.0.0.304.5.0.426.426.622.759.0.0.0" />
+  <Faction id="clan_empire_north_5"
+           name="{=4rr3d8hY}Antonii"
+           tier="5"
+           owner="Hero.lord_1_50"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.8690.8690.590.796.1.0.0.202.5.0.400.400.868.877.0.0.55.202.5.0.402.423.669.874.0.1.303.331.5.0.400.400.765.716.0.0.0" />
+  <Faction id="clan_empire_north_6"
+           name="{=9ORFG9l4}Postumii"
+           tier="2"
+           owner="Hero.lord_1_51"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.4345.4345.776.777.1.0.0.320.5.0.487.487.767.815.0.0.0.302.5.0.423.423.758.681.0.0.0" />
+  <Faction id="clan_empire_north_7"
+           name="{=CibaXzG8}Numicii"
+           tier="1"
+           owner="Hero.lord_1_58"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.4345.4345.776.777.1.0.0.423.5.0.506.506.772.774.0.0.0.418.5.0.362.362.780.774.0.0.0" />
+  <Faction id="clan_empire_north_8"
+           name="{=SCTf5cay}Minucii"
+           tier="4"
+           owner="Hero.lord_NE8_l"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.8690.8690.590.796.1.0.0.401.5.0.335.335.769.775.0.0.15.401.5.0.170.170.769.775.0.0.29.503.5.0.59.57.769.775.0.0.15.423.5.0.500.511.767.784.0.0.0" />
+  <Faction id="clan_empire_north_9"
+           name="{=nclQqoam}Serapides"
+           tier="2"
+           owner="Hero.lord_NE9_l"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire"
+           banner_key="11.71.4.8690.8690.590.796.1.0.0.401.5.0.335.335.769.775.0.0.15.401.5.0.170.170.769.775.0.0.29.503.5.0.59.57.769.775.0.0.15.423.5.0.500.511.767.784.0.0.0" /> 
+
+<!-- Empire West -->
+  <!-- Populist starting kingdom - WEST-->
+  <Faction id="clan_empire_west_1"
+           name="{=OVQoC9fn}Julii"
+           tier="6"
+           owner="Hero.lord_1_7"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.202.5.0.389.353.849.863.0.0.41.202.5.0.397.397.699.861.0.1.319.323.5.0.442.442.758.728.0.0.0" />
+  <Faction id="clan_empire_west_2"
+           name="{=a4GxTbPD}Nautii"
+           tier="5"
+           owner="Hero.lord_1_9"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.337.5.0.454.454.759.690.0.0.0.301.5.0.322.322.768.889.0.0.90.301.5.0.322.322.767.954.0.0.270" />
+  <Faction id="clan_empire_west_3"
+           name="{=tdGvElSy}Manlii"
+           tier="5"
+           owner="Hero.lord_1_11"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.103.5.0.477.477.753.758.0.0.358" />
+  <Faction id="clan_empire_west_4"
+           name="{=xqkKtWqa}Verginii"
+           tier="5"
+           owner="Hero.lord_1_40"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.201.5.0.393.393.904.775.0.0.180.201.5.0.508.508.778.768.0.0.0.201.5.0.393.393.617.781.0.0.180" />
+  <Faction id="clan_empire_west_5"
+           name="{=cd0yDTM1}Romilii"
+           tier="5"
+           owner="Hero.lord_1_45"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.418.5.0.299.299.762.774.0.0.0.500.5.0.503.503.750.783.0.0.0.500.5.0.423.423.752.783.0.0.0" />
+  <Faction id="clan_empire_west_6"
+           name="{=ApJrV7bA}Valerii"
+           tier="2"
+           owner="Hero.lord_1_52"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.336.5.0.486.486.761.813.0.0.0.340.5.0.279.279.763.566.0.0.0" />
+  <Faction id="clan_empire_west_7"
+           name="{=bjemmmcF}Menenii"
+           tier="2"
+           owner="Hero.lord_1_53"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.423.5.0.486.486.762.760.0.0.1.340.5.0.393.393.765.739.0.0.0" />
+  <Faction id="clan_empire_west_8"
+           name="{=pdz4YsEf}Pollii"
+           tier="1"
+           owner="Hero.lord_1_71"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.419.5.0.503.503.770.775.0.0.0.335.5.0.143.143.878.652.0.0.325.335.5.0.143.143.654.657.0.0.42.335.5.0.143.143.656.892.0.0.134.335.5.0.143.143.875.892.0.0.214" />
+  <Faction id="clan_empire_west_9"
+           name="{=LTWTTQ71}Servilii"
+           tier="4"
+           owner="Hero.lord_WE9_l"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_w"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.343.5.0.436.362.772.877.0.0.0.457.5.0.122.204.636.780.0.0.90.457.5.0.122.204.894.780.0.0.270.106.5.0.439.427.763.641.0.0.0" />
+
+<!-- Empire South -->
+ <!-- Monarchist starting kingdom -->
+  <Faction id="clan_empire_south_1"
+           name="{=hrWQWgaM}Cornelii"
+           tier="6"
+           owner="Hero.lord_1_14"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.200.5.0.353.353.650.862.0.0.0.200.5.0.368.353.886.863.0.1.0.326.5.0.345.331.763.697.0.1.0" />
+  <!--
+	Head of clan - Queen, niece of the emperor, raised abroad, blood of the Padishah as well
+	Queen's consort - of imperial birth, charismatic but vindictive,
+	Queen's lieutenant - 
+	Queen's younger brother and sister - goodnatured
+	-->
+  <Faction id="clan_empire_south_2"
+           name="{=UQHUu2bj}Claudii"
+           tier="5"
+           owner="Hero.lord_1_15"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.214.5.0.463.463.758.758.0.0.0" />
+  <!--	
+	Mixed - Plutocratic
+	Patriarch #15 - Old-school aristocrat, doing something he finds distasteful to maintain his family's position
+	Cunning, pragmatist heir
+		"The empire is beset on all sides, it defeat its foes, it must absorb them."
+	-->
+  <Faction id="clan_empire_south_3"
+           name="{=h7ujXmDx}Lucretii"
+           tier="5"
+           owner="Hero.lord_1_17"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.108.5.0.485.485.760.650.0.0.0.325.5.0.501.501.756.818.0.0.0" />
+  <!--
+	Patriarch - #17 Long list of grievances against other large families, sided with Pathros by default
+	Uncle - Cunning, frustrated
+	-->
+  <Faction id="clan_empire_south_4"
+           name="{=4Dbwdjbe}Veturii"
+           tier="3"
+           owner="Hero.lord_1_30"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.418.5.0.183.183.601.864.0.0.0.107.5.0.501.501.773.770.0.0.0.418.5.0.183.183.921.870.0.0.0" />
+  <Faction id="clan_empire_south_5"
+           name="{=6OEQJV6k}Mucii"
+           tier="3"
+           owner="Hero.lord_1_48"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.119.5.0.398.398.766.706.0.0.0.217.5.0.351.351.769.855.0.0.0.512.5.0.156.156.934.866.0.0.0.512.5.0.156.156.603.864.0.0.0" />
+  <Faction id="clan_empire_south_6"
+           name="{=BxCRDt5m}Tarquinii"
+           tier="2"
+           owner="Hero.lord_1_54"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.435.5.0.508.508.767.759.0.0.0.423.5.0.507.507.754.718.0.0.0" />
+  <Faction id="clan_empire_south_7"
+           name="{=Ds2vQVwr}Marcii"
+           tier="2"
+           owner="Hero.lord_1_55"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.510.5.0.507.55.761.987.0.0.0.459.5.0.507.507.761.750.0.0.0.510.5.0.507.171.762.959.0.0.0.510.5.0.507.171.758.584.0.0.0.510.5.0.507.55.758.553.0.0.0" />
+  <Faction id="clan_empire_south_8"
+           name="{=8Wi66Sp2}Cominii"
+           tier="1"
+           owner="Hero.lord_1_72"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.147.5.0.456.456.767.765.0.0.0" />
+  <Faction id="clan_empire_south_9"
+           name="{=xbkYPXCt}Vitellii"
+           tier="4"
+           owner="Hero.lord_SE9_l"
+           culture="Culture.empire"
+           super_faction="Kingdom.empire_s"
+           banner_key="11.71.4.4922.4922.776.777.1.0.0.505.5.0.460.50.764.764.0.0.0.459.5.0.150.150.659.658.0.0.0.459.5.0.150.150.870.658.0.0.0.459.5.0.150.150.870.870.0.0.0.459.5.0.150.150.659.870.0.0.0.505.5.0.460.50.764.764.0.0.90" />
+
+</Factions>

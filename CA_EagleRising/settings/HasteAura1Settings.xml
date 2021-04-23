@@ -1,0 +1,19 @@
+<CA_EagleRising>
+
+	<HasParticle>false</HasParticle>
+	<ParticleToEquippedOnly>true</ParticleToEquippedOnly>
+	<ShoudRepeatParticle>false</ShoudRepeatParticle>
+	<RepeatParticlePeriod>1</RepeatParticlePeriod>
+	<ParticleEffectName>psys_game_burning_agent</ParticleEffectName>
+	<ParticleBoneIndexes>19,20,26,27</ParticleBoneIndexes>
+	
+	<HasLight>true</HasLight>
+	<LightBone>0</LightBone>
+	<LightRadius>10</LightRadius>
+	<LightIntensity>125</LightIntensity>
+	<LightColor>#03AC13FF</LightColor>
+
+	<AuraRadius>5</AuraRadius>
+	<BuffAmount>2</BuffAmount>
+		
+</CA_EagleRising>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Deutsch" />
+    <tag under_development="true" />
+  </tags>
+  <strings>
+    <string id="2ApU6iCB" text="I'll hunt down {TOTAL_COUNT} groups of {der(BRIGAND_TYPE)} {BRIGAND_TYPE} for you." />
+  </strings>
+</base>

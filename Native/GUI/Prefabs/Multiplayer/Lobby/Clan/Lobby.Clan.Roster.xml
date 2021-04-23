@@ -1,0 +1,139 @@
+<Prefab>
+  <Constants>
+    <Constant Name="FriendsPanel.SlotButton.Width" BrushName="MPLobby.FriendsPanel.SlotButton" BrushLayer="Default" BrushValueType="Width"/>
+    <Constant Name="FriendsPanel.SlotButton.Height" BrushName="MPLobby.FriendsPanel.SlotButton" BrushLayer="Default" BrushValueType="Height"/>
+  </Constants>
+  <Window>
+    <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" IsVisible="@IsSelected">
+      <Children>
+        <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginLeft="250" MarginRight="250" StackLayout.LayoutMethod="VerticalBottomToTop">
+          <Children>
+            <!--Name-->
+            <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" MarginBottom="25" Brush="MPLobby.Clan.Title.Text" Text="@RosterText" />
+
+            <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" StackLayout.LayoutMethod="VerticalBottomToTop">
+              <Children>
+
+                <!--Headers-->
+                <ListPanel DoNotAcceptEvents="true" DoNotPassEventsToChildren="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" MarginLeft="125" MarginBottom="15" StackLayout.LayoutMethod="HorizontalLeftToRight">
+                  <Children>
+                    <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" Brush="MPLobby.Clan.Sort.Button.Text" Text="@NameText" />
+                    <TextWidget WidthSizePolicy="Fixed" HeightSizePolicy="CoverChildren" SuggestedWidth="60" MarginRight="95" Brush="MPLobby.Clan.Sort.Button.Text" Text="@BadgeText" />
+                    <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" Brush="MPLobby.Clan.Sort.Button.Text" Brush.TextHorizontalAlignment="Center" Text="@StatusText" />
+                  </Children>
+                </ListPanel>
+
+                <!--Separator-->
+                <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="2" HorizontalAlignment="Center" MarginTop="5" Sprite="GradientDivider" Color="#F4E1C4FF" AlphaFactor="0.4" />            
+
+                <!--Members List-->
+                <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="400">
+                  <Children>
+
+                    <ScrollablePanel Id="ClanMembersScrollablePanel" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginRight="25" AutoHideScrollBars="true" ClipRect="ClanMembersRect" InnerPanel="ClanMembersRect\ClanMembersListPanel" MouseScrollAxis="Vertical" VerticalScrollbar="..\ClanMembersScrollbar">
+                      <Children>
+                        <Widget Id="ClanMembersRect" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" ClipContents="true">
+                          <Children>
+                            <ListPanel Id="ClanMembersListPanel" DataSource="{MembersList}" WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" StackLayout.LayoutMethod="VerticalBottomToTop">
+                              <ItemTemplate>
+                                <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="CoverChildren" >
+                                  <Children>
+
+                                    <MultiplayerLobbyClanMemberRankVisualWidget DoNotAcceptEvents="true" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="54" SuggestedHeight="50" HorizontalAlignment="Left" MarginLeft="0" VerticalAlignment="Center" Type="@Rank" Brush="MPLobby.Clan.Member.Rank.Image">
+                                      <Children>
+                                        <HintWidget DataSource="{RankHint}" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Command.HoverBegin="ExecuteBeginHint" Command.HoverEnd="ExecuteEndHint" />
+                                      </Children>
+                                    </MultiplayerLobbyClanMemberRankVisualWidget>
+
+                                    <!--Single Member Item-->
+                                    <ButtonWidget DoNotPassEventsToChildren="true" UpdateChildrenStates="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="50" MarginLeft="50" MarginRight="0" MarginTop="15" MarginBottom="15" Command.Click="ExecuteSelection" >
+                                      <Children>
+                                        <ButtonWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="53" HorizontalAlignment="Right" VerticalAlignment="Center" Brush="MPLobby.Clan.Roster.ListMemberItemBg" IsHidden="@IsClanLeader" />
+                                        <ButtonWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="53" HorizontalAlignment="Right" VerticalAlignment="Center" Brush="MPLobby.Clan.Roster.ListLeaderItemBg" IsVisible="@IsClanLeader" />
+                                        <Widget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="5" SuggestedHeight="60" VerticalAlignment="Center">
+                                          <Children>
+
+                                            <!--Red Line For Offline Player-->
+                                            <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" IsHidden="@IsOnline" Sprite="BlankWhiteSquare_9" Color="#8E3025FF" />
+                                            
+                                            <!--Green Line For Online Player-->
+                                            <Widget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" IsVisible="@IsOnline" Sprite="BlankWhiteSquare_9" Color="#76962FFF" />                                        
+
+                                          </Children>
+                                        </Widget> 
+
+                                        <ListPanel WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" StackLayout.LayoutMethod="HorizontalLeftToRight">
+                                          <Children>
+                                            <!--Avatar-->
+                                            <ImageIdentifierWidget DataSource="{Avatar}" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="60" SuggestedHeight="60" HorizontalAlignment="Left" VerticalAlignment="Center" MarginLeft="5" ImageId="@Id" AdditionalArgs="@AdditionalArgs" ImageTypeCode="@ImageTypeCode" />
+                                            <!--Name-->
+                                            <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" MarginLeft="20" Brush="MPLobby.Clan.Name.Text" Brush.TextHorizontalAlignment="Left" Text="@Name" />
+                                            <!--Badge-->
+                                            <MultiplayerPlayerBadgeVisualWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="60" MarginRight="65" SuggestedHeight="43" BadgeId="@SelectedBadgeID" />
+                                            <!--State-->
+                                            <TextWidget WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Brush="MPLobby.Clan.Name.Text" Brush.TextHorizontalAlignment="Center" MarginLeft="20" Text="@StateText" />
+                                          </Children>
+                                        </ListPanel>
+                                      </Children>
+                                    </ButtonWidget>
+
+                                  </Children>
+                                </Widget>
+                                
+                              </ItemTemplate>
+                            </ListPanel>
+                          </Children>
+                        </Widget>
+                      </Children>
+                    </ScrollablePanel>
+
+                    <ScrollbarWidget Id="ClanMembersScrollbar" WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" SuggestedWidth="8" HorizontalAlignment="Right" VerticalAlignment="Top" MarginTop="6" MarginBottom="10" PositionXOffset="0" AlignmentAxis="Vertical" Handle="VerticalScrollbarHandle" MaxValue="100" MinValue="0" >
+                      <Children>
+                        <Widget WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" SuggestedWidth="4" HorizontalAlignment="Center" Sprite="BlankWhiteSquare_9" Color="#5A4033FF" AlphaFactor="0.2" />
+                        <ImageWidget Id="VerticalScrollbarHandle" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedHeight="10" SuggestedWidth="8" HorizontalAlignment="Center" Brush="FaceGen.Scrollbar.Handle" />
+                      </Children>
+                    </ScrollbarWidget>
+
+                  </Children>
+                </ListPanel>
+              </Children>
+            </ListPanel>            
+
+            <!--Separator-->
+            <Widget DoNotAcceptEvents="true" WidthSizePolicy="StretchToParent" HeightSizePolicy="Fixed" SuggestedHeight="2" HorizontalAlignment="Center" MarginTop="5" Sprite="GradientDivider" Color="#F4E1C4FF" AlphaFactor="0.4" />
+
+            <!--Invite Button-->
+            <ButtonWidget WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="100" SuggestedHeight="100" Brush="InviteToClanButton.Flat" HorizontalAlignment="Center" Command.Click="ExecuteOpenInviteClanMemberPopup" UpdateChildrenStates="true" IsVisible="@IsPrivilegedMember">
+              <Children>
+                <TextWidget WidthSizePolich="CoverChildren" HeightSizePolicy="CoverChildren" HorizontalAlignment="Center" VerticalAlignment="Bottom" PositionYOffset="26" Brush="MPLobby.Matchmaking.CircleButtonText" Text="@InviteText" />
+              </Children>
+            </ButtonWidget>
+
+          </Children>
+        </ListPanel>
+
+        <ContextMenuWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" IsActivated="@IsMemberActionsActive" IsVisible="false" ActionListPanel="ActionListPanel" Brush="Scoreboard.ContextMenu.Background" UpdateChildrenStates="true">
+          <Children>
+            <ListPanel Id="ActionListPanel" DataSource="{MemberActionsList}" WidthSizePolicy="CoverChildren" HeightSizePolicy="CoverChildren" StackLayout.LayoutMethod="VerticalBottomToTop" MarginLeft="5" MarginRight="5" MarginTop="5" MarginBottom="5" UpdateChildrenStates="true">
+              <ItemTemplate>
+                <ContextMenuItemWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="Fixed" SuggestedHeight="35" TypeIconWidget="TypeIconWidget" ActionButtonWidget="ButtonDimensionsSyncWidget\ActionButtonWidget" TypeIconState="@Value" CanBeUsed="@IsEnabled">
+                  <Children>
+                    <BrushWidget Id="TypeIconWidget" WidthSizePolicy="Fixed" HeightSizePolicy="Fixed" SuggestedWidth="23" SuggestedHeight="23" Brush="Scoreboard.ContextMenu.Icon" VerticalAlignment="Center" MarginLeft="2"/>
+                    <TextWidget WidthSizePolicy="CoverChildren" HeightSizePolicy="StretchToParent" Text="@Definition" Brush="Scoreboard.ContextMenu.ItemText" VerticalAlignment="Center" MarginTop="10" MarginLeft="30" MarginRight="10" />
+                    <DimensionSyncWidget Id="ButtonDimensionsSyncWidget" DoNotAcceptEvents="true" WidthSizePolicy="Fixed" HeightSizePolicy="StretchToParent" HorizontalAlignment="Center" DimensionToSync="Horizontal" WidgetToCopyHeightFrom="..\..\..\ActionListPanel" UpdateChildrenStates="true">
+                      <Children>
+                        <HintWidget DoNotAcceptEvents="@IsEnabled" DataSource="{Hint}" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" Command.HoverBegin="ExecuteBeginHint" Command.HoverEnd="ExecuteEndHint" />
+                        <ButtonWidget CanAcceptEvents="@IsEnabled" Id="ActionButtonWidget" WidthSizePolicy="StretchToParent" HeightSizePolicy="StretchToParent" HorizontalAlignment="Left" Command.Click="ExecuteAction" DoNotPassEventsToChildren="true" UpdateChildrenStates="true" Brush="MPLobby.Matchmaking.Region.DropdownItem"/>
+                      </Children>
+                    </DimensionSyncWidget>
+                  </Children>
+                </ContextMenuItemWidget>
+              </ItemTemplate>
+            </ListPanel>
+          </Children>
+        </ContextMenuWidget>
+
+      </Children>
+    </Widget>
+  </Window>
+</Prefab>

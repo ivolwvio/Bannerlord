@@ -1,0 +1,1018 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <!-- Vlandians -->
+  <!-- Derthert, weary king -->
+  <NPCCharacter id="lord_4_1" name="{=Vergentorix}Vergentorix" age="48" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.6204" key="000A2804DA001483449D9A54B2B97B4783CA5662C51132058CB177278A847669017246350C98B4259700000000030000000000000000003C000000003F847002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="9" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="4" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Philenora - benevolent -->
+  <NPCCharacter id="lord_4_2" name="{=Adnamita}Adnamita" age="47" voice="ironic" is_female="true" culture="Culture.vlandia" is_hero="true" default_group="Cavalry" occupation="Lord">
+    <face>
+      <BodyProperties version="4" key="00004004C000000B6398BA904ABB7878947D8763968867CDB5983AB9647AB88700777603073661D800000000000000000000000000000000000000003CFC2043" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Aldric, patriarch of clan 2. Weak, not especially cruel -->
+  <NPCCharacter id="lord_4_3" name="{=Acedilu}Acedilu" age="45" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.8019" build="0.6096" key="0000180207001453A8886554B97589B68A4DBD6C39A89C8528556982A73166790077760307B7AAB700000000000000000000000000000000000000003CFC0102" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="2" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_3_1" name="{=Agisilia}Agisilia" age="22" voice="ironic" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0011A407144400062897A829649497DB8C988BB9BCD4B379A5868D485A689A9A0167761306297985000000000000000000000000000000000000000038D42003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Elthild, more astute than husband, but equally unscrupulous -->
+  <NPCCharacter id="lord_4_4" name="{=Anderina}Anderina" age="45" voice="earnest" is_hero="true" default_group="Infantry" is_female="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.4706" build="0.6001" key="000524000000200B6265557482247478989A5987443278786CA5A544572777550077760307B8418700000000000000000000000000000000000000004ADC0083" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Clan 3, headed by Calatild -->
+  <!-- Unthery, Younger brother of the countess (currently cousin) -->
+  <NPCCharacter id="lord_4_5" name="{=Annamoris}Annamoris" age="44" voice="earnest" culture="Culture.vlandia" is_hero="true" default_group="Cavalry" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5517" build="0.5949" key="00002402918829CA6265557482247478989A5987443278786CA5A544572777550077760307B8418700000000000000000000000000000000000000004ADC0002" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Countess Calatild, leader of clan 3. Rigid -->
+  <NPCCharacter id="lord_4_6" name="{=Matona}Matona" age="45" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.3517" build="0.5988" key="0005840AC0001007484455ACA6AE88D8657E5C3979C57B75B6B9C4A452875DA8007776030797494300000000000000000000000000000000000000004ADC30C3" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="0" />
+      <!-- NONCOMBATANT LEADER -->
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_6_1" name="{=Genna}Genna" age="22" voice="curt" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0005380D00000015637885587C744DB62677BD764B56A7E84836947B99498468007776030747457300000000000000000000000000000000000000004ADC00C3" />
+    </face>
+    <Traits>
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="3" />
+      <!-- Arrogant, but does have authority -->
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Alary, heir to Vlandian clan 1. Skilled and driven, but unimaginative -->
+  <NPCCharacter id="lord_4_7" name="{=Taurio}Taurio" age="26" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6932" build="0.7221" key="0000600ACCFC1812D0A5C98859A859C9B3698482572A7638E4D1B2A7474784E6007776030784B37300000000000000000000000000000000000000004ADC1142" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Furnhard, as debauched as his father-->
+  <NPCCharacter id="lord_4_8" name="{=Virico}Virico" age="26" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="00006d528000000977a84702762098cb27ad8d4d54c9895378c97b1e27408574000000000f88276b000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000A40154001784562B7C9A5C6B4953B2B3994BC88524B36A678D7749CA95790077760307E7643300000000000000000000000000000000000000004ADC70C2" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Thomund, heir to clan 3. Hotheaded but loyal to his friends -->
+  <NPCCharacter id="lord_4_9" name="{=Samio}Samio" age="23" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.8124" build="0.6943" key="0002300607001480A3B5398AC7BDBA2788B89765B4C2173B2725E59AA679BA7B00777603074859B300000000000000000000000000000000000000004ADC0102" />
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="9" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Elys, Heiress for clan 1. Decent and thoughtful, a better ruler than her brother -->
+  <NPCCharacter id="lord_4_10" name="{=Cassia}Cassia" age="22" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="000080000000000b67874369563b575737063939bc84896c773744465293778c000000000f97cdd9000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="0000A8020000100E762973B78698641798744255B65273ABA9A999D42BA96A3800777603072A88E900000000000000000000000000000000000000004ADC4043" />
+    </face>
+    <Traits>
+      <!-- NONCOMBATANT FEMALE -->
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Liena, Heiress for clan 2. Saving grace of her family -->
+  <NPCCharacter id="lord_4_11" name="{=Lituccia}Lituccia" age="24" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="00127cf4803c3004b7d8465988d18c845a24288fad8ab786279b9caa78aa48b500098a44a39aa965000000000000000000000000000000000000000000002000" /-->
+      <BodyProperties version="4" key="0000E00E400020053BB557B89965C597D56964764A1816D849627A7BD399DAA6007776030786D93800000000000000000000000000000000000000004ADC0003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- COMBATANT FEMALE -->
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <!--  <equipment slot="Horse" id="Item.noble_horse" />
+    <equipment slot="HorseHarness" id="Item.chain_horse_harness" />  -->
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Silvind, daughter of clan 3 led by the Countess -->
+  <NPCCharacter id="lord_4_12" name="{=Ricua}Ricua" age="24" voice="ironic" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.4524" build="0.5804" key="000ABC08C000300D3B875A9B79491687A49558C689535A6D8A74D772435766570077760307433D7700000000000000000000000000000000000000004ADC3083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- COMBATANT FEMALE -->
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_121" name="{=Sollouico}Sollouico" age="19" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="0003a0048084038958d4b272715091678097f276629a809f777927adb757c82200000000065c7c52000000000000000000000000000000000000000000000080" /-->
+      <BodyProperties version="4" age="22.82" weight="0.5" build="0.5" key="0000600607FC28128319A87B33595652778DD946648C0A3A39A4778224897778007776030757BA7900000000000000000000000000000000000000004ADC0142" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Vlandian lieutenants
+
+  debauched face - 000513fcc0001004849544d3a93c84919499bb4ca9744a74336aca68aa64abb6000dc69f02a60a69000000000000000000000000000000000000000000008000  formerly endurand
+    -->
+  <!-- Romund, blunt and conventional -->
+  <NPCCharacter id="lord_4_13" name="{=Vindicatus}Vindicatus" age="35" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6404" build="0.6682" key="0000D4099A0023C7376B6525EE3473B9BB8269666A65777D76C697A2657D356500777603077A7BA600000000000000000000000000000000000000004ADC3142" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="6" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Morcon, cautious and icy. Honest, but takes every advantage in combat -->
+  <NPCCharacter id="lord_4_14" name="{=Vecius}Vecius" age="28" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.7525" build="0.6973" key="00024006184404446D04EAAB8274476C9A8C887851414367369B7EA483784B4800777603078E44B800000000000000000000000000000000000000004ADC8002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_141" name="{=Diorix}Diorix" age="18" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6561" build="0.7254" key="00058C020CFC34D3645534AB8B485CC6674EB925737A98D8A8B2A5897B16627400B776030BA9AAAE00000000000000000000000000000000000000004B649142" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Endurand, brave but bad-tempered -->
+  <NPCCharacter id="lord_4_15" name="{=Esumagius}Esumagius" age="27" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6214" build="0.5381" key="000DA40817002154B977A6B6B5965849698B4D9946A5B96AA8666AD778C5968800B776030BA88AA800000000000000000000000000000000000000004B6460C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Lords 16-20 - Clan 4, settlements  -->
+  <!-- Ingalther, William character -->
+  <NPCCharacter id="lord_4_16" name="{=Illiomarus}Illiomarus" age="42" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6333" build="0.6651" key="0002B408D2001484A77554A9B6579468686D646E6A519396DDD6B7BC9A36A89A00B776030B59C48A00000000000000000000000000000000000000004B643142" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Ingalther's daughter -->
+  <NPCCharacter id="lord_4_16_1" name="{=Betudaca}Betudaca" age="18" voice="softspoken" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000098078000100485775565B8AB62166698A425A6B6C3878E248288887955980097760309918C9500000000000000000000000000000000000000004B3C2043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Elbet, matriarch, warmer, but still devoted to aggrandizenment of the clan -->
+  <NPCCharacter id="lord_4_17" name="{=Exouna}Exouna" age="45" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6956" build="0.6722" key="00088407800000101A8B459162D66C8C799899A87D42C47B948BB675355C2B86009776030945889100000000000000000000000000000000000000004B3C4003" />
+    </face>
+    <Traits>
+      <!-- NONCOMBATANT FEMALE -->
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Amalgun, heir, sadistic, takes things very personally -->
+  <NPCCharacter id="lord_4_18" name="{=Dercillos}Dercillos" age="21" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="00055c4880bc0245678789a8c8b5c2728588854b98886843b5dcd6c879c68937000a576109844933000000000000000000000000000000000000000000008000" /-->
+      <BodyProperties version="4" key="000060040C00080464778A41688787BACE4B565D8987857237995635A5C67757009776030958589D00000000000000000000000000000000000000004B3C6082" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_181" name="{=Megaravico}Megaravico" age="19" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="00055c4880bc0245678789a8c8b5c2728588854b98886843b5dcd6c879c68937000a576109844933000000000000000000000000000000000000000000008000" /-->
+      <BodyProperties version="4" key="00009408D40027D2DBA8872B252769A69789A73896B65B69B5353DD9367982A6009776030986954400000000000000000000000000000000000000004B3C4042" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Heiress, Asela -->
+  <NPCCharacter id="lord_4_19" name="{=Aulricmara}Aulricmara" age="22" voice="earnest" default_group="Cavalry" is_hero="true" is_female="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6483" build="0.7136" key="0000940200000004DBA8872B252769A69789A73896B65B69B5353DD9367982A6009776030986954400000000000000000000000000000000000000004B3C4003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <!-- NONCOMBATANT FEMALE -->
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Varmund, Lieutenant, ruthless and dutiful. Stunningly ugly -->
+  <NPCCharacter id="lord_4_20" name="{=Trogimarus}Trogimarus" age="33" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6056" build="0.6666" key="0000A00354001A07A18C93E86729BDAAC399B42A7868816D3758449969A4668C009776030976CA2400000000000000000000000000000000000000004B3C3142" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_20_1" name="{=Moriena}Moriena" is_female="true" age="22" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0005A00B80000001A18C93E86729BDAAC399B42A7868816D3758449969A4668C008776030876CA240000000000000000000000000000000000000000431C4003" />
+    </face>
+    <Traits>
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Ospir, conventionally martial -->
+  <NPCCharacter id="lord_4_21" name="{=Ripcicnus}Ripcicnus" age="30" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="00057bfb513c12425eb3a9aa48b3487295c668767888682ddb89a87662a4415a000536af057746e8000000000000000000000000000000000000000000002000" /-->
+      <BodyProperties version="4" key="000074040CFC2482367A66596A6BCC84B94A566448953638B796B68859D6E44300877603083678AA0000000000000000000000000000000000000000431C9102" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="7" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Servic, charming but dangerous -->
+  <NPCCharacter id="lord_4_22" name="{=Gennalo}Gennalo" age="29" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="000ce3f30000220e72233a57c8668b97395b684b174bd5d7474584799d857bdd0004656f89ada5a9000000000000000000000000000000000000000000004000" /-->
+      <BodyProperties version="4" key="0000880417FC0A549686A36265937976493A38198165CB5859348DAB867965B5009776030993B5A5000000000000000000000000000000000000000043246042" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_22_1" name="{=Namidia}Namidia" is_female="true" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0000AC0A4000100698DD6B5159C35C7B85D47846AA5C7A4E9E57D8D9537838A70097760309DC4696000000000000000000000000000000000000000043243083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Commander" value="1" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="+1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Belgir, bad-tempered -->
+  <NPCCharacter id="lord_4_23" name="{=Vicixtillus}Vicixtillus" age="44" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.7299" build="0.7299" key="0000B0009E0011539DA8637E76C743384A87B94798789A854B316D638E7795B50097760309687845000000000000000000000000000000000000000043248082" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Belgir's daughter -->
+  <NPCCharacter id="lord_4_23_1" name="{=Bileseton}Bileseton" age="24" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0002AC0AC000000A8879D96B48ACD8687A78663528397DBE9965C69335B9EB850097760309467C490000000000000000000000000000000000000000293C2083" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Belgir's other daughter -->
+  <NPCCharacter id="lord_4_23_2" name="{=Bussugnata}Bussugnata" age="22" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0002C00AC000000BC5337D6759E96EC57A7852345449638CA267614A35B9EB850097760309A746850000000000000000000000000000000000000000293C4003" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="3" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Belgir's son -->
+  <NPCCharacter id="lord_4_23_3" name="{=Triti}Triti" age="19" voice="curt" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="00005C041E002787A9E6562C5444386C718653746AB69A87ADBB84988C29423900A776030AA758C20000000000000000000000000000000000000000294470C2" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Hecard, martial. Attentive to his men but ruthless -->
+  <NPCCharacter id="lord_4_24" name="{=Nertomaros}Nertomaros" age="47" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6293" build="0.5378" key="00088408DE00054A48296DD7881C89A9A7A69A96AA6CEF97629739AE882888A600A776030A829348000000000000000000000000000000000000000029445082" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_1" name="{=Mata}Mata" age="45" is_female="true" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000084054000001548296DD7881C89A9A7A69A96AA6CEF97629739AE882888A600A776030A829348000000000000000000000000000000000000000029444003" />
+    </face>
+    <Traits>
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_2" name="{=Solimara}Solimara" age="22" is_female="true" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000E80AC0000005A85AE664326799D3AA79373BA84636E52D95523868A9882300A776030A2699770000000000000000000000000000000000000000294400C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="3" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_3" name="{=Teolugnia}Teolugnia" age="20" is_female="true" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000DC0AC0001002BAB97A158D9A49783B777B7499C3C64D9A45A88488AD867B00A776030A9ECA560000000000000000000000000000000000000000294400C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_4" name="{=Venixema}Venixema" age="17" is_female="true" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000070078000200E8357B8658764848D0459537A4DC8674A81F7D474CBA68A1600A776030A96576A000000000000000000000000000000000000000029442043" />
+    </face>
+    <Traits>
+      <!-- TEENAGER, NO SKILLS OR TRAITS -->
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Lucand, gallant. One-eyed -->
+  <NPCCharacter id="lord_4_25" name="{=Maccis}Maccis" age="27" voice="earnest" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.6867" build="0.7269" key="0000900816000787836927698A8846B7745E39815C5B267B8637797E7954631600A776030A7B5175000000000000000000000000000000000000000029446042" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Valor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_25_1" name="{=Andoca}Andoca" age="22" voice="earnest" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="000090020000200E836927698A8846B7745E39815C5B267B8637797E7954631600A776030A7B5175000000000000000000000000000000000000000029442043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Peric, decent but not very directed   000013fe16bc020dc66f69a052662c57d98458caa8ca55c96b66bb47acb9c854000866bf8b886647000000000000000000000000000000000000000000002000-->
+  <NPCCharacter id="lord_4_26" name="{=Iatinius}Iatinius" age="27" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="000b4bf58ffc300578e42aab88c5a5bd924b6988339398973d8ea8676aa76865000d5d2f07336c86000000000000000000000000000000000000000000001000" /-->
+      <BodyProperties version="4" key="000090034C0023C08B8497A85A74D63F663A8A75E2CC5A3E7A35753CA6A8BD7C00A776030A7E2D1C000000000000000000000000000000000000000029442002" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!--lord_4_26_1 exists in "Delete Later" region-->
+  <!-- Clan 9, Dey Jelind. Vartin, debauched. -->
+  <NPCCharacter id="lord_4_27" name="{=Grimiggni}Grimiggni" age="27" voice="ironic" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!--face_key value="000c73f31a0003cd33bd62c7862c39599c824998719e7eb543b588b88b13688b0007c2af855a1122000000000000000000000000000000000000000000000000" /-->
+      <BodyProperties version="4" key="0002380200A014D2CA386682C36A7699989D8A7684C7B76A4DC5AC96AA5B8A7900A776030A6A477A0000000000000000000000000000000000000000294490C2" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_27_1" name="{=Veduleia}Veduleia" age="23" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000380B8000200ECA386682C36A7699989D8A7684C7B76A4DC5AC96AA5B8A7900A776030A6A477A000000000000000000000000000000000000000029442043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Manager" value="3" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_V9_u" name="{=Urundaxis}Urundaxis" age="47" voice="softspoken" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!-- PLACEHOLDER FACE KEY-->
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000E408C0002142DAB74B92954998D683A647964EC67528A4C8868DCEA3C84900A776030AB68755000000000000000000000000000000000000000029445002" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="8" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- Ecarand, rigid but kind. -->
+  <NPCCharacter id="lord_4_28" name="{=Ecaraxis}Ecaraxis" age="40" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5664" build="0.6713" key="0000480340002153D8B99475B37A84D593654A3C415321DCD2379BC65A78939500A776030A789D29000000000000000000000000000000000000000029447042" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="7" />
+      <Trait id="Commander" value="7" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_28_1" name="{=Adala}Adala" age="20" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0000480980002007D8B99475B37A84D593654A3C415321DCD2379BC65A78939500A776030A789D29000000000000000000000000000000000000000029442043" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_heavy" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_28_2" name="{=Mauriana}Mauriana" age="18" voice="curt" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <BodyProperties version="4" weight="0.5" build="0.5" key="0000DC080000200464B88758D6588A678AB6624B3DA877786795536A5958365A00A776030A7295C50000000000000000000000000000000000000000294400C3" />
+    </face>
+    <skills></skills>
+    <Traits>
+      <Trait id="Commander" value="2" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="3" />
+      <!-- ambitious and good at it -->
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_V11_l" name="{=Bericus}Bericus" age="48" voice="curt" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!-- PLACEHOLDER FACE KEY -->
+      <BodyProperties version="4" weight="0.7" build="0.4" key="0000A00554001785B0AD486496ADA8A7917695941BC7589AC581DD676C5B274500A776030A824C66000000000000000000000000000000000000000029447142" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <!-- Impulsive, generous at times, not especially warlike. -->
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Oligarchic" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_V11_u" name="{=Volerix}Volerix" age="46" voice="curt" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!-- PLACEHOLDER FACE KEY -->
+      <BodyProperties version="4" weight="0.7" build="0.7" key="000578055D00214437579B5882847E99B59BA5342A5BB5574399B6C9B36334B800A776030A29C5360000000000000000000000000000000000000000294410C2" />
+    </face>
+    <Traits>
+      <Trait id="KnightFightingSkills" value="5" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <!-- His younger brother. Better fighter but somewhat unpleasant -->
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_V11_c1" name="{=Elendara}Elendara" age="22" voice="ironic" is_female="true" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!-- Placeholder face key -->
+      <BodyProperties version="4" weight="0.4" build="0.5" key="000078034000200F37579B5882847E99B59BA5342A5BB5574399B6C9B36334B800A776030A29C5360000000000000000000000000000000000000000294400C3" />
+    </face>
+    <Traits>
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="3" />
+      <!--Daughter of the clan. Somewhat unsatisfied in her current circumstances -->
+      <Trait id="Mercy" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_noncom_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_V11_c2" name="{=Dagunix}Dagunix" age="19" voice="earnest" is_female="false" default_group="Cavalry" is_hero="true" culture="Culture.vlandia" occupation="Lord">
+    <face>
+      <!-- Placeholder face key -->
+      <BodyProperties version="4" weight="0.4" build="0.5" key="00009400000000D4B3BC4D1483087C936AD87C86C94EB9E76686D3774496548900A776030A78B93C000000000000000000000000000000000000000029444102" />
+    </face>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="3" />
+      <Trait id="Manager" value="3" />
+      <!-- Heir -->
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="cla_palaic_bat_template_medium" />
+      <EquipmentSet id="cla_palaic_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+</NPCCharacters>

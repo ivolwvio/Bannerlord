@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-16"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Türkçe" />
+  </tags>
+  <strings>
+    <string id="5Saniypu" text="Devam Et" />
+    <string id="9NuttOBC" text="Yükle" />
+    <string id="AbEh2y8o" text="Kaydet ve Çık" />
+    <string id="bV75iwKa" text="Kaydet" />
+    <string id="e0KdfaNe" text="Farklı Kaydet" />
+    <string id="NqarFr4P" text="Ayarlar" />
+    <string id="PXT6aA4J" text="Sefer Ayarları" />
+    <string id="RamV6yLM" text="Ana Menüye Dön" />
+    <string id="Rvr1bcu8" text="Sonraki" />
+    <string id="sf_menu_storymode_new_game" text="Yeni Sefer" />
+    <string id="WXAaWZVf" text="Önceki" />
+  </strings>
+</base>

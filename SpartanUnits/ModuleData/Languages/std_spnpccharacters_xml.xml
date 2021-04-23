@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="English" />
+  </tags>
+  <strings>
+    <string id="UKyGBjhb" text="Militia Hoplite" />	
+    <string id="UKyGBjhc" text="Hoplite Soldier" />
+    <string id="UKyGBjhd" text="Trained Hoplite Soldier" />
+    <string id="UKyGBjhe" text="Spartan Youth" />
+    <string id="UKyGBjhf" text="Spartan Hoplite" />
+    <string id="UKyGBjhi" text="Royal Spartan" />
+    <string id="UKyGBjhj" text="Skiritai Recruit" />
+	<string id="UKyGBjhk" text="Peltastes" />
+	<string id="UKyGBjhl" text="Trained Peltastes" />
+	<string id="UKyGBjhm" text="Thrakikos Peltastes" />
+	<string id="UKyGBjhn" text="Toxotes" />
+	<string id="UKyGBjho" text="Kritikos Toxotes" />
+	<string id="UKyGBjhp" text="Citizen Hippeus" />
+	<string id="UKyGBjhq" text="Thessalikos Hippeus" />
+  </strings>
+</base>

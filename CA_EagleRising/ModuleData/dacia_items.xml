@@ -1,0 +1,1514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Items>
+
+<!-- Weapons -->
+<CraftedItem id="cla_dacia_1ax_1"
+name="{=cla_dacia_1ax_1}[Dryatic]Iron Axe"
+crafting_template="OneHandedAxe" culture="Culture.battania">
+<Pieces>
+<Piece id="axe_craft_23_head"
+Type="Blade"/>
+<Piece id="axe_craft_5_handle"
+Type="Handle"
+scale_factor="90"/>
+</Pieces>
+</CraftedItem>
+
+<CraftedItem id="cla_dacia_1ax_2"
+name="{=cla_dacia_1ax_2}[Dryatic]Steel Axe"
+crafting_template="OneHandedAxe" culture="Culture.battania">
+<Pieces>
+<Piece id="axe_craft_23_head"
+Type="Blade"/>
+<Piece id="axe_craft_26_handle"
+Type="Handle"
+scale_factor="90"/>
+</Pieces>
+</CraftedItem>
+
+<CraftedItem id="cla_dacia_1ax_3"
+name="{=cla_dacia_1ax_3}[Dryatic]Fine Steel Axe"
+crafting_template="OneHandedAxe" culture="Culture.battania">
+<Pieces>
+<Piece id="axe_craft_23_head"
+Type="Blade"/>
+<Piece id="axe_craft_27_handle"
+Type="Handle"/>
+</Pieces>
+</CraftedItem>
+
+<!-- 2h axe -->
+<CraftedItem id="cla_dacia_2axe_1"
+name="{=cla_dacia_2axe_1}[Dryatic]Great Axe"
+crafting_template="TwoHandedAxe" culture="Culture.battania">
+<Pieces>
+<Piece id="axe_craft_5_head"
+Type="Blade"/>
+<Piece id="axe_craft_9_handle"
+Type="Handle"
+scale_factor="90"/>
+</Pieces>
+<!-- Length: 104 Weight: 1.12 -->
+</CraftedItem>
+<!-- t2 -->
+<CraftedItem id="cla_dacia_2axe_2"
+name="{=cla_dacia_2axe_2}[Dryatic]Steel Great Axe"
+crafting_template="TwoHandedAxe" culture="Culture.battania">
+<Pieces>
+<Piece id="axe_craft_5_head"
+Type="Blade"/>
+<Piece id="axe_craft_30_handle"
+Type="Handle"/>
+</Pieces>
+<!-- Length: 100 Weight: 1.22 -->
+</CraftedItem>
+
+<!-- t3 -->
+<CraftedItem id="cla_dacia_2axe_3"
+name="{=cla_dacia_2axe_3}[Dryatic]Fine Great Axe"
+crafting_template="TwoHandedAxe" culture="Culture.battania">
+<Pieces>
+<Piece id="axe_craft_5_head"
+Type="Blade"/>
+<Piece id="axe_craft_8_handle"
+Type="Handle"/>
+</Pieces>
+<!-- Length: 82 Weight: 1.2 -->
+</CraftedItem>
+
+
+<!-- Sica -->
+<!-- T3 -->
+<CraftedItem id="cla_dacia_sword_sica_1" name="{=cla_dacia_sword_sica_1}[Dryatic]Sica" crafting_template="OneHandedSword" culture="Culture.battania">
+<Pieces>
+<Piece id="battania_blade_6"
+Type="Blade"
+scale_factor="70"/>
+<Piece id="khuzait_guard_6"
+Type="Guard"
+scale_factor="40"/>
+<Piece id="vlandian_grip_18"
+Type="Handle"
+scale_factor="80"/>
+<Piece id="aserai_pommel_3"
+Type="Pommel"
+scale_factor="90"/>
+</Pieces>
+</CraftedItem>
+<!-- T4 -->
+<CraftedItem id="cla_dacia_sword_sica_2" name="{=cla_dacia_sword_sica_2}[Dryatic]Fine Sica" crafting_template="OneHandedSword" culture="Culture.battania">
+<Pieces>
+<Piece id="battania_blade_6"
+Type="Blade"
+scale_factor="80"/>
+<Piece id="khuzait_guard_6"
+Type="Guard"
+scale_factor="40"/>
+<Piece id="sturgian_grip_21"
+Type="Handle"
+scale_factor="90"/>
+<Piece id="cleaver_pommel_4"
+Type="Pommel"/>
+</Pieces>
+</CraftedItem>
+<!-- T5 -->
+<CraftedItem id="cla_dacia_sword_sica_3" name="{=cla_dacia_sword_sica_3}[Dryatic]Decorated Sica" crafting_template="OneHandedSword" culture="Culture.battania">
+<Pieces>
+<Piece id="battania_blade_6"
+Type="Blade"
+scale_factor="90"/>
+<Piece id="khuzait_guard_6"
+Type="Guard"
+scale_factor="40"/>
+<Piece id="battania_grip_6"
+Type="Handle"
+scale_factor="90"/>
+<Piece id="cleaver_pommel_4"
+Type="Pommel"/>
+</Pieces>
+</CraftedItem>
+
+<!-- Falx -->
+<CraftedItem id="cla_dacia_falx_1" name="{=cla_dacia_falx_1}[Dryatic]Iron Falx" crafting_template="TwoHandedSword" culture="Culture.battania">
+<Pieces>
+<Piece id="battania_blade_6"
+Type="Blade"
+scale_factor="96"/>
+<Piece id="khuzait_guard_9"
+Type="Guard"
+scale_factor="50"/>
+<Piece id="sturgian_grip_23"
+Type="Handle"/>
+<Piece id="empire_pommel_1"
+Type="Pommel"
+scale_factor="90"/>
+</Pieces>
+</CraftedItem>
+
+<CraftedItem id="cla_dacia_falx_2" name="{=cla_dacia_falx_2}[Dryatic]Steel Falx" crafting_template="TwoHandedSword" culture="Culture.battania" >
+<Pieces>
+<Piece id="battania_blade_6"
+Type="Blade"
+scale_factor="101"/>
+<Piece id="khuzait_guard_9"
+Type="Guard"
+scale_factor="50"/>
+<Piece id="sturgian_grip_26"
+Type="Handle"
+scale_factor="110"/>
+<Piece id="cleaver_pommel_4"
+Type="Pommel"/>
+</Pieces>
+</CraftedItem>
+
+<CraftedItem id="cla_dacia_falx_3" name="{=cla_dacia_falx_3}[Dryatic]Fine Steel Falx" crafting_template="TwoHandedSword" culture="Culture.battania">
+<Pieces>
+<Piece id="battania_blade_6"
+Type="Blade"
+scale_factor="102"/>
+<Piece id="khuzait_guard_9"
+Type="Guard"
+scale_factor="50"/>
+<Piece id="vlandian_grip_18"
+Type="Handle"
+scale_factor="110"/>
+<Piece id="khuzait_pommel_5"
+Type="Pommel"
+scale_factor="90"/>
+</Pieces>
+</CraftedItem>
+
+<!-- Cavalry Sword -->
+
+<!-- T1 -->
+ <CraftedItem id="cla_dacia_sword_1"
+name="{=cla_dacia_sword_1}[Dryatic]Iron Shortsword"
+crafting_template="OneHandedSword"
+culture="Culture.battania"
+is_merchandise="true">
+<Pieces>
+<Piece id="battania_blade_4"
+Type="Blade"
+scale_factor="110"/>
+<Piece id="battania_guard_5"
+Type="Guard"/>
+<Piece id="sturgian_grip_4"
+Type="Handle"
+scale_factor="80"/>
+<Piece id="battania_pommel_7"
+Type="Pommel"
+scale_factor="90"/>
+</Pieces>
+</CraftedItem>
+<!-- T2 -->
+<CraftedItem id="cla_dacia_sword_2"
+name="{=cla_dacia_sword_2}[Dryatic]Iron Broadsword"
+crafting_template="OneHandedSword"
+culture="Culture.battania" is_merchandise="true">
+<Pieces>
+<Piece id="battania_blade_3_iron"
+Type="Blade"
+scale_factor="110"/>
+<Piece id="battania_guard_6"
+Type="Guard"
+scale_factor="90"/>
+<Piece id="sturgian_grip_10"
+Type="Handle"
+scale_factor="80"/>
+<Piece id="battania_pommel_6"
+Type="Pommel"
+scale_factor="80"/>
+</Pieces>
+</CraftedItem>
+<!-- T3 -->
+<CraftedItem id="cla_dacia_sword_3"
+name="{=cla_dacia_sword_3}[Dryatic]Bronze Broadsword"
+crafting_template="OneHandedSword"
+culture="Culture.battania" is_merchandise="true">
+<Pieces>
+<Piece id="battania_blade_3_steel"
+Type="Blade"
+scale_factor="108"/>
+<Piece id="battania_guard_1"
+Type="Guard"
+scale_factor="90"/>
+<Piece id="battania_grip_1"
+Type="Handle"
+scale_factor="80"/>
+<Piece id="battania_pommel_2"
+Type="Pommel"
+scale_factor="110"/>
+</Pieces>
+</CraftedItem>
+<!-- T4 -->
+<CraftedItem id="cla_dacia_sword_4"
+name="{=cla_dacia_sword_4}[Dryatic]Fine Longsword"
+crafting_template="OneHandedSword"
+culture="Culture.battania" is_merchandise="true">
+<Pieces>
+<Piece id="battania_blade_3_fine_steel"
+Type="Blade"
+scale_factor="110"/>
+<Piece id="battania_guard_8"
+Type="Guard"/>
+<Piece id="battania_grip_1"
+Type="Handle"
+scale_factor="90"/>
+<Piece id="battania_pommel_8"
+Type="Pommel"/>
+</Pieces>
+</CraftedItem>
+<!-- T5 -->
+<CraftedItem id="cla_dacia_sword_5"
+name="{=cla_dacia_sword_5}[Dryatic]Cavary Longsword"
+crafting_template="OneHandedSword"
+culture="Culture.battania" is_merchandise="true">
+<Pieces>
+<Piece id="battania_blade_1"
+Type="Blade"/>
+<Piece id="battania_guard_3"
+Type="Guard"/>
+<Piece id="vlandian_grip_1"
+Type="Handle"
+scale_factor="90"/>
+<Piece id="battania_pommel_3"
+Type="Pommel"/>
+</Pieces>
+</CraftedItem>
+
+
+<!-- Gloves -->
+  <Item id="cla_dacia_invisible_bracers_1" name="{=cla_dacia_invisible_bracers_1}[Dryatic]Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="500" weight="0.5" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="8" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_invisible_bracers_2" name="{=cla_dacia_invisible_bracers_2}[Dryatic]Sturdy Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="1000" weight="0.5" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="15" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_invisible_bracers_3" name="{=cla_dacia_invisible_bracers_3}[Dryatic]Reinforced Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="5000" weight="0.5" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="20" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_bracelet_silver_right" name="{=cla_dacia_bracelet_silver_right}[Dryatic]Silver Right Bracelet" mesh="cla_empire_bracelet_silver_right_1" culture="Culture.battania" is_merchandise="true" value="500" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_bracelet_silver_left" name="{=cla_dacia_bracelet_silver_left}[Dryatic]Silver Left Bracelet" mesh="cla_empire_bracelet_silver_left_1" culture="Culture.battania" is_merchandise="true" value="1000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_bracelet_silver_both" name="{=cla_dacia_bracelet_silver_both}[Dryatic]Silver Bracelets" mesh="cla_empire_bracelet_silver_both_1" culture="Culture.battania" is_merchandise="true" value="5000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_bracelet_gold_both" name="{=cla_dacia_bracelet_gold_both}[Dryatic]Gold Bracelets" mesh="cla_empire_bracelet_gold_both_1" culture="Culture.battania" is_merchandise="true" value="500" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="20" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_bracelet_gold_both_2" name="{=cla_dacia_bracelet_gold_both_2}[Dryatic]Gold Double-Bracelets" mesh="cla_empire_bracelet_gold_both_2" culture="Culture.battania" is_merchandise="true" value="1000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="20" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_bracelet_gold_left" name="{=cla_dacia_bracelet_gold_left}[Dryatic]Gold Left Bracelet" mesh="cla_empire_bracelet_gold_left_1" culture="Culture.battania" is_merchandise="true" value="5000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="20" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+<!-- Tunics-->
+  <Item id="cla_dacia_clothes_camesa_h"
+        name="{=cla_dacia_clothes_camesa_h}[Dryatic]Plain Camesa"
+        mesh="camesa_h"
+        culture="Culture.battania"
+        subtype="body_armor"
+        weight="0.6"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="10"
+             leg_armor="2"
+             arm_armor="1"
+             covers_body="true"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_clothes_camesa_i"
+        name="{=cla_dacia_clothes_camesa_i}[Dryatic]Brown Camesa"
+        mesh="camesa_i"
+        culture="Culture.battania"
+        subtype="body_armor"
+        weight="0.6"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="10"
+             leg_armor="2"
+             arm_armor="1"
+             covers_body="true"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_clothes_camesa_e"
+        name="{=cla_dacia_clothes_camesa_e}[Dryatic]Decorated Camesa"
+        mesh="camesa_e"
+        culture="Culture.battania"
+        subtype="body_armor"
+        weight="0.6"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="10"
+             leg_armor="2"
+             arm_armor="1"
+             covers_body="true"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_clothes_camesa"
+        name="{=cla_dacia_clothes_camesa}[Dryatic]Decorated Black Camesa"
+        mesh="camesa"
+        culture="Culture.battania"
+        subtype="body_armor"
+        weight="0.6"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="10"
+             leg_armor="2"
+             arm_armor="1"
+             covers_body="true"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_clothes_camesa_b"
+        name="{=cla_dacia_clothes_camesa_b}[Dryatic]Expensive Red Camesa"
+        mesh="camesa_b"
+        culture="Culture.battania"
+        subtype="body_armor"
+        weight="0.6"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="10"
+             leg_armor="2"
+             arm_armor="1"
+             covers_body="true"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_clothes_camesa_a"
+        name="{=cla_dacia_clothes_camesa_a}[Dryatic]Expensive White Camesa"
+        mesh="camesa_a"
+        culture="Culture.battania"
+        subtype="body_armor"
+        weight="0.6"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="10"
+             leg_armor="2"
+             arm_armor="1"
+             covers_body="true"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_clothes_camesa_d"
+        name="{=cla_dacia_clothes_camesa_d}[Dryatic]Expensive Blue Camesa"
+        mesh="camesa_D"
+        culture="Culture.battania"
+        subtype="body_armor"
+        weight="0.6"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="10"
+             leg_armor="2"
+             arm_armor="1"
+             covers_body="true"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+<!-- Armor -->
+  <Item id="cla_dacia_armor_leather_sleeveless"
+        name="{=cla_dacia_armor_leather_sleeveless}[Dryatic]Leather Vest over Camesa"
+        mesh="dac_leather_noslevs"
+        culture="Culture.battania"
+        weight="2.8"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="25"
+             leg_armor="8"
+             arm_armor="6"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_armor_leather_laminata"
+        name="{=cla_dacia_armor_leather_laminata}[Dryatic]Long Sleeve Leather Laminata"
+        mesh="dac_leather_Laminata"
+        culture="Culture.battania"
+        weight="4.5"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="32"
+             leg_armor="8"
+             arm_armor="2"
+             has_gender_variations="false"
+             covers_body="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+<!-- Mail -->
+  <Item id="cla_dacia_armor_mail_shirt"
+        name="{=cla_dacia_armor_mail_shirt}[Dryatic]Mail Shirt over Long Sleeve Camesa"
+        subtype="body_armor"
+        mesh="dac_mail_slev"
+        culture="Culture.battania"
+        weight="10"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="34"
+             leg_armor="12"
+             arm_armor="12"
+             has_gender_variations="false"
+             covers_body="true"
+             modifier_group="chain"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_armor_mail_vest_blue"
+        name="{=cla_dacia_armor_mail_vest_blue}[Dryatic]Mail Vest over Blue Camesa"
+        mesh="dac_mail_twoslevs"
+        subtype="body_armor"
+        culture="Culture.battania"
+        weight="12"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="42"
+             leg_armor="16"
+             arm_armor="14"
+             covers_body="true"
+             modifier_group="chain"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_armor_mail_long_green"
+        name="{=cla_dacia_armor_mail_long_green}[Dryatic]Long Sleeve Mail over Green Camesa"
+        mesh="dac_mail_longslevs"
+        subtype="body_armor"
+        culture="Culture.battania"
+        weight="12"
+        difficulty="0"
+        appearance="1"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="50"
+             leg_armor="16"
+             arm_armor="14"
+             covers_body="true"
+             modifier_group="chain"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+<!-- Scale -->
+  <Item id="cla_dacia_armor_scale_sleeveless_white"
+        name="{=cla_dacia_armor_scale_sleeveless}[Dryatic]Scale Vest over White Camesa"
+        subtype="body_armor"
+        mesh="dac_scalemail_noslevs"
+        culture="Culture.battania"
+        weight="15"
+        difficulty="0"
+        appearance="3"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="44"
+             leg_armor="15"
+             arm_armor="12"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+
+  <Item id="cla_dacia_armor_scale_sleeveless_white_2"
+        name="{=cla_dacia_armor_scale_sleeveless_white_2}[Dryatic]Scale Vest over White Camesa"
+        subtype="body_armor"
+        mesh="dac_scalemail_noslevs"
+        culture="Culture.battania"
+        weight="15"
+        difficulty="0"
+        appearance="3"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="52"
+             leg_armor="23"
+             arm_armor="16"
+             has_gender_variations="true"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_armor_scale_longsleeve_red"
+        name="{=cla_dacia_armor_scale_longsleeve_red}[Dryatic]Long sleeve Scalemail over Red Camesa"
+        mesh="dac_scalemail_longslevs"
+        subtype="body_armor"
+        culture="Culture.empire"
+        weight="15"
+        difficulty="0"
+        appearance="3"
+        Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="57"
+             leg_armor="20"
+             arm_armor="16"
+             covers_body="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true" />
+  </Item>
+
+<!-- Legs -->
+  <Item id="cla_dacia_legs_pantaloni_a"
+        name="{=cla_dacia_legs_pantaloni_a}[Dryatic]White Trousers"
+        mesh="pantaloni_a"
+        culture="Culture.battania"
+        weight="1.0"
+        difficulty="0"
+        appearance="1"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="8"
+             covers_legs="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true"/>
+  </Item>
+
+  <Item id="cla_dacia_legs_pantaloni_b"
+        name="{=cla_dacia_legs_pantaloni_b}[Dryatic]Black Trousers"
+        mesh="pantaloni_b"
+        culture="Culture.battania"
+        weight="1.0"
+        difficulty="0"
+        appearance="1"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="8"
+             covers_legs="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true"/>
+  </Item>
+
+  <Item id="cla_dacia_legs_pantaloni_c"
+        name="{=cla_dacia_legs_pantaloni_c}[Dryatic]Brown Trousers"
+        mesh="pantaloni_c"
+        culture="Culture.battania"
+        weight="1.0"
+        difficulty="0"
+        appearance="1"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="8"
+             covers_legs="true"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true"/>
+  </Item>
+
+  <Item id="cla_dacia_legs_pantaloni_greaves"
+        name="{=cla_dacia_legs_pantaloni_greaves}[Dryatic]Greaves over Trousers"
+        mesh="pantaloni_graves_a"
+        culture="Culture.battania"
+        weight="1.0"
+        difficulty="0"
+        appearance="1"
+        Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="20"
+             covers_legs="true"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="false"
+           Civilian="true"/>
+  </Item>
+
+<!-- Shoulder Armor -->
+  <Item id="cla_dacia_cloak" name="{=cla_dacia_cloak}[Dryatic]Short Cloak" mesh="cla_plain_cloak" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="8" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+  <Item id="cla_dacia_cloak_2" name="{=cla_dacia_cloak_2}[Dryatic]Sturdy Short Cloak" mesh="cla_plain_cloak" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="15" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+  <Item id="cla_dacia_cloak_3" name="{=cla_dacia_cloak_3}[Dryatic]Reinforced Short Cloak" mesh="cla_plain_cloak" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="20" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+
+
+  <Item id="cla_dacia_shoulder_leather"
+        name="{=cla_dacia_shoulder_leather}[Dryatic]Leather Shoulder Guard"
+        subtype="body_armor"
+        mesh="dac_umar_d"
+        culture="Culture.battania"
+        weight="0.5"
+        difficulty="0"
+        appearance="1"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="10"
+             modifier_group="leather"
+             material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_shoulder_chain"
+        name="{=cla_dacia_shoulder_chain}[Dryatic]Chain Shoulder Guard"
+        subtype="body_armor"
+        mesh="dac_umar_e"
+        culture="Culture.battania"
+        weight="4"
+        difficulty="0"
+        appearance="1"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="15"
+             modifier_group="chain"
+             material_type="Chainmail" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_shoulder_scale"
+        name="{=cla_dacia_shoulder_scale}[Dryatic]Scale Shoulder Guard"
+        subtype="body_armor"
+        mesh="dac_umar_c"
+        culture="Culture.battania"
+        weight="4"
+        difficulty="0"
+        appearance="1"
+        Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="20"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_shoulder_cape_1" name="{=cla_dacia_shoulder_cape_1}[Dryatic]Shoulder Cape" mesh="cla_empire_shoulder_cape_team" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="15" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+  <Item id="cla_dacia_cape_tartan_1" name="{=cla_dacia_cape_tartan_1}[Dryatic]Tartan Cape" mesh="cla_celtic_shoulder_cape" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="15" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+  <Item id="cla_dacia_cape_tartan_2" name="{=cla_dacia_cape_tartan_2}[Dryatic]Rich Tartan Cape" mesh="cla_celtic_shoulder_cape" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="22" arm_armor="8" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+
+<!-- Head -->
+  <Item id="cla_dacia_head_pileus"
+        name="{=cla_dacia_head_pileus}[Dryatic]White Pileus"
+        subtype="head_armor"
+        mesh="pileus"
+        culture="Culture.battania"
+        weight="0.2"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="8"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true"
+           UseTeamColor="false" />
+  </Item>
+
+  <Item id="cla_dacia_head_pileus_a"
+        name="{=cla_dacia_head_pileus_a}[Dryatic]Blue Pileus"
+        subtype="head_armor"
+        mesh="pileus_a"
+        culture="Culture.battania"
+        weight="0.2"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="8"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true"
+           UseTeamColor="false" />
+  </Item>
+
+
+
+  <Item id="cla_dacia_head_tarabostes_caciula_a"
+        name="{=cla_dacia_head_tarabostes_caciula_a}[Dryatic]Tarabostes Black Pileus"
+        subtype="head_armor"
+        mesh="tarabostes_caciula_a"
+        culture="Culture.battania"
+        weight="0.2"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="8"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true"
+           UseTeamColor="false" />
+  </Item>
+  <Item id="cla_dacia_head_tarabostes_caciula_b"
+        name="{=cla_dacia_head_tarabostes_caciula_b}[Dryatic]Tarabostes White Pileus"
+        subtype="head_armor"
+        mesh="tarabostes_caciula_b"
+        culture="Culture.battania"
+        weight="0.2"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="8"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true"
+           UseTeamColor="false" />
+  </Item>
+
+  <Item id="cla_dacia_head_tarabostes_clop_a"
+        name="{=cla_dacia_head_tarabostes_clop_a}[Dryatic]Tarabostes Red Pileus"
+        subtype="head_armor"
+        mesh="tarabostes_clop_a"
+        culture="Culture.battania"
+        weight="0.2"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="8"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true"
+           UseTeamColor="false" />
+  </Item>
+
+  <Item id="cla_dacia_head_tarabostes_clop_b"
+        name="{=cla_dacia_head_tarabostes_clop_b}[Dryatic]Tarabostes Green Pileus"
+        subtype="head_armor"
+        mesh="tarabostes_clop_b"
+        culture="Culture.battania"
+        weight="0.2"
+        difficulty="0"
+        appearance="1"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="8"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="cloth_unarmoured"
+             material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true"
+           UseTeamColor="false" />
+  </Item>
+
+<!-- Armor Helms -->
+  <Item id="cla_dacia_helm_columna_nazal"
+        name="{=cla_dacia_helm_columna_nazal}[Dryatic]Iron Helmet"
+        subtype="head_armor"
+        mesh="columna_nazal"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="34"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_columna_nazal_a"
+        name="{=cla_dacia_helm_columna_nazal_a}[Dryatic]Iron Helmet"
+        subtype="head_armor"
+        mesh="columna_nazal_a"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="34"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_columna_nazal_b"
+        name="{=cla_dacia_helm_columna_nazal_b}[Dryatic]Iron Helmet"
+        subtype="head_armor"
+        mesh="columna_nazal_b"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="34"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_columna_nazal_c"
+        name="{=cla_dacia_helm_columna_nazal_c}[Dryatic]Iron Helmet"
+        subtype="head_armor"
+        mesh="columna_nazal_c"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="34"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_obraz_lana"
+        name="{=cla_dacia_helm_obraz_lana}[Dryatic]Iron Helmet"
+        subtype="head_armor"
+        mesh="obraz_lana"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="34"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+<!-- Elite Helms -->
+  <Item id="cla_dacia_helm_tall_engraved_trim"
+        name="{=cla_dacia_helm_tall_engraved}[Dryatic]Warlords Brass-Trimmed Engraved Helmet"
+        mesh="dacian_coif_a"
+        culture="Culture.battania"
+        subtype="head_armor"
+        weight="3.1"
+        difficulty="0"
+        appearance="3"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="50"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_tall_engraved_iron"
+        name="{=cla_dacia_helm_tall_engraved_iron}[Dryatic]Warlords Iron Engraved Helmet"
+        mesh="dacian_coif_b"
+        culture="Culture.battania"
+        subtype="head_armor"
+        weight="3.1"
+        difficulty="0"
+        appearance="3"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="50"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_tall_ridge_frunza"
+        name="{=cla_dacia_helm_tall_ridge_frunza}[Dryatic]Leaf Engraved Tall Ridge Helmet"
+        mesh="coif_frunza"
+        culture="Culture.battania"
+        subtype="head_armor"
+        weight="3.2"
+        difficulty="0"
+        appearance="3"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_tall_ridge_griffin"
+        name="{=cla_dacia_helm_tall_ridge_griffin}[Dryatic]Griffin Engraved Tall Ridge Helmet"
+        mesh="coif_griffin"
+        culture="Culture.battania"
+        subtype="head_armor"
+        weight="3.2"
+        difficulty="0"
+        appearance="3"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_tall_ridge_trim"
+        name="{=cla_dacia_helm_tall_ridge_trim}[Dryatic]Engraved Tall Ridge Helmet"
+        mesh="coif_griffin"
+        culture="Culture.battania"
+        subtype="head_armor"
+        weight="3.2"
+        difficulty="0"
+        appearance="3"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_tall_ridge_brass"
+        name="{=cla_dacia_helm_tall_ridge_brass}[Dryatic]Brass Tall Ridge Helmet"
+        mesh="cla_dacian_helm_iron"
+        culture="Culture.battania"
+        subtype="head_armor"
+        weight="3.2"
+        difficulty="0"
+        appearance="3"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+<!-- Flags -->
+  <Item id="cla_dacia_standard"
+        name="{=cla_dacia_standard}[Dryatic][Banner]Dacian Draco Standard"
+	    	is_merchandise="true"
+        value="5000"
+        culture="Culture.battania"
+        body_name="bo_spear_b"
+        shield_body_name="bo_kite_shield_a"
+        recalculate_body="false"
+        mesh="dacian_flag_a"
+        using_tableau="true"
+        weight="4"
+        appearance="0.3"
+        Type="Shield"
+        item_holsters="polearm_back:polearm_back_2"
+        has_lower_holster_priority="true">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="3"
+              thrust_speed="86"
+			        thrust_damage="5"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              item_usage="shield"
+              physics_material="wood_shield"
+			        position="0, 0, 0"
+              rotation="0,0,0"
+              weapon_length="180"
+              center_of_mass="0,0,0"
+              hit_points="200">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandPrimaryItemBone="true"
+		       HasToBeHeldUp="true" />
+  </Item>
+  
+  <Item id="cla_dacia_standard_2"
+        name="{=cla_dacia_standard_2}[Dryatic][Banner]Dacian Battle Standard"
+	    	is_merchandise="true"
+        value="5000"
+        culture="Culture.battania"
+        body_name="bo_spear_b"
+        shield_body_name="bo_kite_shield_a"
+        recalculate_body="false"
+        mesh="dacian_flag_b"
+        using_tableau="true"
+        weight="4"
+        appearance="0.3"
+        Type="Shield"
+        item_holsters="polearm_back:polearm_back_2"
+        has_lower_holster_priority="true">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="3"
+              thrust_speed="86"
+			        thrust_damage="5"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              item_usage="shield"
+              physics_material="wood_shield"
+			        position="0, 0, 0"
+              rotation="0,0,0"
+              weapon_length="288"
+              center_of_mass="0,0,0"
+              hit_points="400">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandPrimaryItemBone="true"
+		       HasToBeHeldUp="true" />
+  </Item>
+  
+  <Item id="cla_dacia_standard_3"
+        name="{=cla_dacia_standard_3}[Dryatic][Banner]Dacian War Standard"
+	    	is_merchandise="true"
+        value="5000"
+        culture="Culture.battania"
+        body_name="bo_spear_b"
+        shield_body_name="bo_kite_shield_a"
+        recalculate_body="false"
+        mesh="dacian_flag_c"
+        using_tableau="true"
+        weight="4"
+        appearance="0.3"
+        Type="Shield"
+        item_holsters="polearm_back:polearm_back_2"
+        has_lower_holster_priority="true">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield"
+              body_armor="3"
+              thrust_speed="86"
+			        thrust_damage="5"
+              thrust_damage_type="Blunt"
+              speed_rating="82"
+              item_usage="shield"
+              physics_material="wood_shield"
+			        position="0, 0, 0"
+              rotation="0,0,0"
+              weapon_length="291"
+              center_of_mass="0,0,0"
+              hit_points="600">
+        <WeaponFlags CanBlockRanged="true"
+                     HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true"
+           HeldInOffHand="true"
+           ForceAttachOffHandPrimaryItemBone="true"
+		       HasToBeHeldUp="true" />
+  </Item>
+
+<!-- Shields -->
+   <Item id="cla_dacia_shield_a_1" name="{=cla_dacia_shield_a_1}[Dryatic]Getic Shield" 
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_a" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_red_1" name="{=cla_dacia_shield_red_1}[Dryatic]Getic Red Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_b" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_black_1" name="{=cla_dacia_shield_black_1}[Dryatic]Getic Black Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_c" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_blue_1" name="{=cla_dacian_shield_blue_1}[Dryatic]Getic Blue Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_d" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_gray_1" name="{=cla_dacia_shield_gray_1}[Dryatic]Getic Gray Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_e" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_white_1" name="{=cla_dacia_shield_white_1}[Dryatic]Getic White Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_f" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+
+<!--2-->
+   <Item id="cla_dacia_shield_a_2" name="{=cla_dacia_shield_a_2}[Dryatic]Getic Sturdy Shield" 
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_a" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_red_2" name="{=cla_dacia_shield_red_2}[Dryatic]Getic Sturdy Red Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_b" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_black_2" name="{=cla_dacia_shield_black_2}[Dryatic]Getic Sturdy Black Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_c" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_blue_2" name="{=cla_dacia_shield_blue_2}[Dryatic]Getic Sturdy Blue Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_d" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_gray_2" name="{=cla_dacia_shield_gray_2}[Dryatic]Getic Sturdy Gray Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_e" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_white_2" name="{=cla_dacia_shield_white_2}[Dryatic]Getic Sturdy White Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_f" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+
+<!--3-->
+   <Item id="cla_dacia_shield_a_3" name="{=cla_dacia_shield_a_3}[Dryatic]Getic Reinforced Shield" 
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_a" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_red_3" name="{=cla_dacia_shield_red_3}[Dryatic]Getic Reinforced Red Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_b" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_black_3" name="{=cla_dacia_shield_black_3}[Dryatic]Getic Reinforced Black Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_c" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_blue_3" name="{=cla_dacia_shield_blue_3}[Dryatic]Getic Reinforced Blue Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_d" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_gray_3" name="{=cla_dacia_shield_gray_3}[Dryatic]Getic Reinforced Gray Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_e" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+   <Item id="cla_dacia_shield_white_3" name="{=cla_dacia_shield_white_3}[Dryatic]Getic Reinforced White Shield"
+  body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_f" 
+  using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+
+
+<!-- Aura -->
+  <Item id="cla_dacia_invisible_bracers_1_m" name="{=cla_dacia_invisible_bracers_1_m}[Dryatic][Morale:+5]Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="1000" weight="0.5" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="8" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_invisible_bracers_2_m" name="{=cla_dacia_invisible_bracers_2_m}[Dryatic][Morale:+10]Sturdy Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="5000" weight="0.5" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="15" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_invisible_bracers_3_m" name="{=cla_dacia_invisible_bracers_3_m}[Dryatic][Morale:+15]Reinforced Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="9000" weight="0.5" appearance="1" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="20" covers_hands="false" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_bracelet_silver_both_m" name="{=cla_dacia_bracelet_silver_both_m}[Dryatic][Morale:+10]Silver Bracelets" mesh="cla_empire_bracelet_silver_both_1" culture="Culture.battania" is_merchandise="true" value="5000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_bracelet_gold_both_m" name="{=cla_dacia_bracelet_gold_both_m}[Dryatic][Morale:+15]Gold Bracelets" mesh="cla_empire_bracelet_gold_both_1" culture="Culture.battania" is_merchandise="true" value="9000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="20" covers_hands="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+
+
+</Items>

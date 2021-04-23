@@ -1,0 +1,27 @@
+﻿<Module>
+  <Name value="RealisticShieldUsage"/>
+  <Id value="RealisticShieldUsage"/>
+  <Version value="v1.1.3"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <DependedModules>
+    <DependedModule Id="Native"/>
+    <DependedModule Id="SandBoxCore"/>
+    <DependedModule Id="Sandbox"/>
+	<DependedModule Id="CustomBattle"/>
+    <DependedModule Id="StoryMode" />
+  </DependedModules>
+  <SubModules>
+    <SubModule>
+      <Name value="RealisticShieldUsage"/>
+      <DLLName value="RealisticShieldUsage.dll"/>
+      <SubModuleClassType value="RealisticShieldUsage.Main"/>
+      <Tags>
+        <Tag key="DedicatedServerType" value="none" />
+        <Tag key="IsNoRenderModeElement" value="false" />
+      </Tags>
+    </SubModule>
+  </SubModules>
+  <Xmls>
+  </Xmls>
+</Module>
