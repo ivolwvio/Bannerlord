@@ -2,7 +2,7 @@
 <partyTemplates>
     <MBPartyTemplate id="atc_party_template_dummy" >
       <stacks>
-        <PartyTemplateStack min_value="10" max_value="10" troop="NPCCharacter.imperial_recruit" />
+        <PartyTemplateStack min_value="100" max_value="10000" troop="NPCCharacter.imperial_recruit" />
       </stacks>
     </MBPartyTemplate>
 </partyTemplates>
