@@ -1,0 +1,54 @@
+
+Infantry
+Ranged
+Cavalry
+HorseArcher
+Skirmisher
+HeavyInfantry
+LightCavalry
+HeavyCavalry
+
+I       - Infantry
+II      - Ranged
+III     - Cavalry
+IV      - HorseArcher
+V       - Skirmisher
+VI      - HeavyInfantry
+VII     - LightCavalry
+VIII    - HeavyCavalry
+
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+
+Iron Ore
+Crude Iron
+Wrought Iron
+Iron
+Steel
+Fine Steel
+Thamaskene Steel
+Hardwood
+Charocal
