@@ -1,0 +1,39 @@
+Bannerlord.Harmony
+Bannerlord.ButterLib
+Bannerlord.UIExtenderEx
+Bannerlord.MBOptionScreen
+!CA_LoadAboveNative_Rome
+Native
+SandBoxCore
+CustomBattle
+Sandbox
+StoryMode
+CA_EagleRising
+AdonnaysTroopChanger
+AEW - Adonnays Exotic Weaponry
+AutoBlocker
+BannerPaste
+BetterSurvival
+Collisionfix
+CorinthianHelmet
+DaytimeHideouts
+EquipmentXMLPrint
+FightToTheEndBoiZoiBasic
+FriendlyTroopBannerHotkeys
+German_Sallet_David_Grotewold
+HorseCaparisons
+knighthelmet
+RealisticShieldUsage
+RTSCamera
+RTSCamera.CommandSystem
+SpartanUnits
+swadian armoury
+vlandian armoury
+Fire Arrow Enabler
+Sparta
+
+#Additional mods that are not displayed above:
+
+Intro Remover
+Remove flora
+BUTRLoader
