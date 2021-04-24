@@ -1189,7 +1189,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_wanderer_khuzait_2" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!--<Trait id="IsTemplate" value="1" />-->
       <Trait id="WandererEquipment" value="1" />
@@ -1210,7 +1229,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_wanderer_khuzait_3" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!--<Trait id="IsTemplate" value="1" />-->
       <Trait id="WandererEquipment" value="1" />
@@ -1270,7 +1308,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_wanderer_khuzait_6" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!--<Trait id="IsTemplate" value="1" />-->
       <Trait id="HorseArcherFightingSkills" value="3" />
@@ -1290,7 +1347,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_khuzait" />
     </face>
     <!--<Hero id="spc_wanderer_khuzait_7" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!--<Trait id="IsTemplate" value="1" />-->
       <Trait id="WandererEquipment" value="1" />
@@ -1331,7 +1407,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_khuzait" />
     </face>
     <!--<Hero id="spc_wanderer_khuzait_9" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!--<Trait id="IsTemplate" value="1" />-->
       <Trait id="ArcherFIghtingSkills" value="3" />
@@ -1352,7 +1447,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_wanderer_karakhuzaits_10" faction="Faction.karakhuzaits" clan="Clan.karakhuzaits"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!--<Trait id="IsTemplate" value="1" />-->
       <!--<Trait id="SpawnAsPrisoner" value="1" />-->
@@ -2872,7 +2986,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_0" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="GentryEquipment" value="1" />
       <Trait id="RomanHair" value="1" />
@@ -2889,7 +3022,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_0b" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="GentryEquipment" value="1" />
       <Trait id="RomanHair" value="1" />
@@ -3047,7 +3199,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_6" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
       <Trait id="Honor" value="1" />
@@ -3093,7 +3264,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_9" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
       <Trait id="Generosity" value="1" />
@@ -3109,7 +3299,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_10" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
       <Trait id="RomanHair" value="1" />
@@ -3127,7 +3336,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_10" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
       <Trait id="RomanHair" value="1" />
@@ -3145,7 +3373,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_11" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
       <Trait id="RomanHair" value="1" />
@@ -3163,7 +3410,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_11" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
       <Trait id="RomanHair" value="1" />
@@ -3292,7 +3558,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -3308,7 +3593,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -3324,7 +3628,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
       <Trait id="Calculating" value="1" />
@@ -3341,7 +3664,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_0" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -3358,7 +3700,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_0b" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Commander" value="2" />
@@ -3376,7 +3737,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_1" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Generosity" value="-1" />
@@ -3445,7 +3825,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_3" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -3462,7 +3861,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_3b" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Commander" value="1" />
@@ -3480,7 +3898,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_4" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Generosity" value="1" />
@@ -3497,7 +3934,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_5" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Generosity" value="-1" />
@@ -3514,7 +3970,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_6" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Generosity" value="0" />
@@ -3531,7 +4006,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_7" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -3565,7 +4059,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_9" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Generosity" value="-1" />
@@ -3659,7 +4172,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_4" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -3675,7 +4207,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_4" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -3691,7 +4242,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <!--<Hero id="spc_notable_aserai_4" faction="Kingdom.aserai" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="ArabianHair" value="1" />
       <Trait id="Calculating" value="1" />
@@ -3708,7 +4278,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_0" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RusHair" value="1" />
       <!-- Add skill groups -->
@@ -3726,7 +4315,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_0b" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RusHair" value="1" />
       <!-- Add skill groups -->
@@ -3745,7 +4353,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_1" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RusHair" value="1" />
       <!-- Add skill groups -->
@@ -3764,7 +4391,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_2" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- TEMPLATE INFO -->
       <Trait id="RusHair" value="1" />
@@ -3784,7 +4430,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_2b" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RusHair" value="1" />
       <!-- Add skill groups -->
@@ -3870,7 +4535,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_5" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RusHair" value="1" />
       <Trait id="Honor" value="1" />
@@ -3902,7 +4586,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_7" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RusHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -3997,7 +4700,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RusHair" value="1" />
       <Trait id="BalancedFightingSkills" value="5" />
@@ -4014,7 +4736,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="4" />
       <Trait id="RusHair" value="1" />
@@ -4031,7 +4772,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <!--<Hero id="spc_notable_sturgia_4" faction="Kingdom.sturgia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="RusHair" value="1" />
       <Trait id="BalancedFightingSkills" value="3" />
@@ -4096,7 +4856,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_merch4" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
@@ -4114,7 +4893,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_merch5" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
@@ -4132,7 +4930,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_1" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Valor" value="-1" />
@@ -4149,7 +4966,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_1b" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
@@ -4167,7 +5003,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_2" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Generosity" value="-1" />
@@ -4184,7 +5039,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_3" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Generosity" value="1" />
@@ -4338,7 +5212,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_4" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="FrankishHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -4354,7 +5247,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_4" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="FrankishHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -4370,7 +5282,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <!--<Hero id="spc_notable_vlandia_4" faction="Kingdom.vlandia" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="FrankishHair" value="1" />
       <Trait id="Calculating" value="1" />
@@ -4387,7 +5318,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_merchant_1" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
       <Trait id="Valor" value="-1" />
@@ -4403,7 +5353,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_0b" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
@@ -4421,7 +5390,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_0c" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
@@ -4439,7 +5427,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_0d" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
@@ -4457,7 +5464,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_0e" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
@@ -4475,7 +5501,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_1" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Valor" value="-1" />
@@ -4492,7 +5537,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_1b" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="1" />
@@ -4510,7 +5574,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_2" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Honor" value="1" />
@@ -4526,7 +5609,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_3" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Honor" value="1" />
@@ -4542,7 +5644,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Valor" value="1" />
@@ -4559,7 +5680,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_5" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Valor" value="1" />
@@ -4635,7 +5775,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -4651,7 +5810,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -4667,7 +5845,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
       <Trait id="Calculating" value="1" />
@@ -4683,7 +5880,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -4699,7 +5915,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -4715,7 +5950,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
       <Trait id="Calculating" value="1" />
@@ -4764,7 +6018,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_1" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Valor" value="-1" />
@@ -4782,7 +6055,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_1b" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="2" />
@@ -4801,7 +6093,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_1c" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="2" />
@@ -4820,7 +6131,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_2" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Valor" value="-1" />
@@ -4837,7 +6167,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_2b" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Commander" value="2" />
@@ -4855,7 +6204,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_3" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Honor" value="1" />
@@ -4871,7 +6239,26 @@ FEMALE:
       <face_key_template value="BodyProperty.townswoman_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <!-- Add skill groups -->
       <Trait id="Honor" value="1" />
@@ -4995,7 +6382,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="SteppeHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -5011,7 +6417,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="SteppeHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -5027,7 +6452,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="SteppeHair" value="1" />
       <Trait id="Calculating" value="1" />
@@ -5043,7 +6487,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="SteppeHair" value="1" />
       <Trait id="Valor" value="1" />
@@ -5059,7 +6522,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="SteppeHair" value="1" />
       <Trait id="Valor" value="-1" />
@@ -5075,7 +6557,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_notable_khuzait_4" faction="Kingdom.khuzait" />-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="SteppeHair" value="1" />
       <Trait id="Calculating" value="1" />
@@ -5136,7 +6637,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_skolderbrotva_leader_0" faction="Faction.skolderbrotva" clan="Clan.skolderbrotva"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Honor" value="1" />
       <Trait id="Valor" value="1" />
@@ -5155,7 +6675,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_skolderbrotva_leader_1" faction="Faction.skolderbrotva" clan="Clan.skolderbrotva"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5170,7 +6709,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_skolderbrotva_leader_2" faction="Faction.skolderbrotva" clan="Clan.skolderbrotva"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5185,7 +6743,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_skolderbrotva_leader_3" faction="Faction.skolderbrotva" clan="Clan.skolderbrotva"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5201,7 +6778,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <!--<Hero id="spc_ghilman_leader_0" faction="Faction.ghilman" clan="Clan.ghilman"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Valor" value="1" />
       <Trait id="Generosity" value="1" />
@@ -5218,7 +6814,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <!--<Hero id="spc_ghilman_leader_1" faction="Faction.ghilman" clan="Clan.ghilman"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Honor" value="-1" />
       <Trait id="Calculating" value="1" />
@@ -5235,7 +6850,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <!--<Hero id="spc_ghilman_leader_2" faction="Faction.ghilman" clan="Clan.ghilman"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Honor" value="-1" />
       <Trait id="Calculating" value="1" />
@@ -5252,7 +6886,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <!--<Hero id="spc_ghilman_leader_3" faction="Faction.ghilman" clan="Clan.ghilman"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Honor" value="-1" />
       <Trait id="Calculating" value="1" />
@@ -5269,7 +6922,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_legion_of_the_betrayed_leader_0" faction="Faction.legion_of_the_betrayed" clan="Clan.legion_of_the_betrayed"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Valor" value="+1" />
       <Trait id="Mercy" value="-1" />
@@ -5288,7 +6960,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_legion_of_the_betrayed_leader_1" faction="Faction.legion_of_the_betrayed" clan="Clan.legion_of_the_betrayed"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Valor" value="+1" />
       <Trait id="Mercy" value="-1" />
@@ -5308,7 +6999,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_legion_of_the_betrayed_leader_2" faction="Faction.legion_of_the_betrayed" clan="Clan.legion_of_the_betrayed"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5343,7 +7053,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <!--<Hero id="spc_company_of_the_boar_leader_0" faction="Faction.company_of_the_boar" clan="Clan.company_of_the_boar"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Calculating" value="1" />
@@ -5361,7 +7090,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <!--<Hero id="spc_company_of_the_boar_leader_1" faction="Faction.company_of_the_boar" clan="Clan.company_of_the_boar"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Valor" value="1" />
       <Trait id="Mercy" value="-1" />
@@ -5379,7 +7127,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <!--<Hero id="spc_company_of_the_boar_leader_2" faction="Faction.company_of_the_boar" clan="Clan.company_of_the_boar"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Honor" value="-1" />
@@ -5397,7 +7164,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <!--<Hero id="spc_company_of_the_boar_leader_3" faction="Faction.company_of_the_boar" clan="Clan.company_of_the_boar"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Valor" value="1" />
       <Trait id="Honor" value="1" />
@@ -5416,7 +7202,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_battania" />
     </face>
     <!--<Hero id="spc_wolfskins_leader_0" faction="Faction.wolfskins" clan="Clan.wolfskins"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Valor" value="1" />
       <Trait id="Mercy" value="-1" />
@@ -5433,7 +7238,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_battania" />
     </face>
     <!--<Hero id="spc_wolfskins_leader_1" faction="Faction.wolfskins" clan="Clan.wolfskins"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5448,7 +7272,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_battania" />
     </face>
     <!--<Hero id="spc_wolfskins_leader_2" faction="Faction.wolfskins" clan="Clan.wolfskins"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5463,7 +7306,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_battania" />
     </face>
     <!--<Hero id="spc_wolfskins_leader_3" faction="Faction.wolfskins" clan="Clan.wolfskins"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5479,7 +7341,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <!--<Hero id="spc_beni_zilal_leader_0" faction="Faction.beni_zilal" clan="Clan.beni_zilal"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Valor" value="1" />
       <Trait id="Mercy" value="-1" />
@@ -5497,7 +7378,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <!--<Hero id="spc_beni_zilal_leader_1" faction="Faction.beni_zilal" clan="Clan.beni_zilal"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5513,7 +7413,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <!--<Hero id="spc_beni_zilal_leader_2" faction="Faction.beni_zilal" clan="Clan.beni_zilal"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5529,7 +7448,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_aserai" />
     </face>
     <!-- <Hero id="spc_beni_zilal_leader_3" faction="Faction.beni_zilal" clan="Clan.beni_zilal" /> -->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5546,7 +7484,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <!--<Hero id="spc_brotherhood_of_woods_leader_0" faction="Faction.brotherhood_of_woods" clan="Clan.brotherhood_of_woods"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5563,7 +7520,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <!--<Hero id="spc_brotherhood_of_woods_leader_1" faction="Faction.brotherhood_of_woods" clan="Clan.brotherhood_of_woods"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5580,7 +7556,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <!--<Hero id="spc_brotherhood_of_woods_leader_2" faction="Faction.brotherhood_of_woods" clan="Clan.brotherhood_of_woods"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5597,7 +7592,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <!--<Hero id="spc_brotherhood_of_woods_leader_3" faction="Faction.brotherhood_of_woods" clan="Clan.brotherhood_of_woods"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5615,7 +7629,26 @@ FEMALE:
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <!--<Hero id="spc_chosen_of_the_sky_leader_0" faction="Faction.chosen_of_the_sky" clan="Clan.chosen_of_the_sky"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5634,7 +7667,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_chosen_of_the_sky_leader_1" faction="Faction.chosen_of_the_sky" clan="Clan.chosen_of_the_sky"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5653,7 +7705,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_chosen_of_the_sky_leader_2" faction="Faction.chosen_of_the_sky" clan="Clan.chosen_of_the_sky"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5672,7 +7743,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_chosen_of_the_sky_leader_3" faction="Faction.chosen_of_the_sky" clan="Clan.chosen_of_the_sky"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5692,7 +7782,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_lakepike_leader_0" faction="Faction.lakepike" clan="Clan.lakepike"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5710,7 +7819,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_lakepike_leader_1" faction="Faction.lakepike" clan="Clan.lakepike"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5727,7 +7855,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_lakepike_leader_2" faction="Faction.lakepike" clan="Clan.lakepike"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5744,7 +7891,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_lakepike_leader_3" faction="Faction.lakepike" clan="Clan.lakepike"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5762,7 +7928,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_hidden_hand_leader_0" faction="Faction.hidden_hand" clan="Clan.hidden_hand"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5780,7 +7965,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_hidden_hand_leader_1" faction="Faction.hidden_hand" clan="Clan.hidden_hand"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5798,7 +8002,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_hidden_hand_leader_2" faction="Faction.hidden_hand" clan="Clan.hidden_hand"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5816,7 +8039,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_hidden_hand_leader_3" faction="Faction.hidden_hand" clan="Clan.hidden_hand"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5835,7 +8077,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_embers_of_flame_leader_0" faction="Faction.embers_of_flame" clan="Clan.embers_of_flame"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5853,7 +8114,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_embers_of_flame_leader_1" faction="Faction.embers_of_flame" clan="Clan.embers_of_flame"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5871,7 +8151,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_embers_of_flame_leader_2" faction="Faction.embers_of_flame" clan="Clan.embers_of_flame"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5889,7 +8188,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_embers_of_flame_leader_3" faction="Faction.embers_of_flame" clan="Clan.embers_of_flame"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -5909,7 +8227,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_jawwal" />
     </face>
     <!--<Hero id="spc_jawwal_leader_0" faction="Faction.jawwal" clan="Clan.jawwal"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Honor" value="1" />
       <Trait id="Valor" value="1" />
@@ -5929,7 +8266,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_jawwal" />
     </face>
     <!--<Hero id="spc_jawwal_leader_1" faction="Faction.jawwal" clan="Clan.jawwal"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5945,7 +8301,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_jawwal" />
     </face>
     <!--<Hero id="spc_jawwal_leader_2" faction="Faction.jawwal" clan="Clan.jawwal"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5961,7 +8336,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_jawwal" />
     </face>
     <!--<Hero id="spc_jawwal_leader_3" faction="Faction.jawwal" clan="Clan.jawwal"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -5978,7 +8372,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_karakhuzaits_leader_0" faction="Faction.karakhuzaits" clan="Clan.karakhuzaits"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Honor" value="1" />
       <Trait id="Valor" value="1" />
@@ -5997,7 +8410,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_karakhuzaits_leader_1" faction="Faction.karakhuzaits" clan="Clan.karakhuzaits"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -6016,7 +8448,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_karakhuzaits_leader_2" faction="Faction.karakhuzaits" clan="Clan.karakhuzaits"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -6035,7 +8486,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_khuzait" />
     </face>
     <!--<Hero id="spc_karakhuzaits_leader_3" faction="Faction.karakhuzaits" clan="Clan.karakhuzaits"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Mercy" value="-1" />
       <Trait id="Generosity" value="1" />
@@ -6055,7 +8525,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_forest_people_leader_0" faction="Faction.forest_people" clan="Clan.forest_people"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Valor" value="1" />
       <Trait id="Mercy" value="-1" />
@@ -6072,7 +8561,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_forest_people_leader_1" faction="Faction.forest_people" clan="Clan.forest_people"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -6087,7 +8595,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_forest_people_leader_2" faction="Faction.forest_people" clan="Clan.forest_people"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -6102,7 +8629,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_sturgia" />
     </face>
     <!--<Hero id="spc_forest_people_leader_3" faction="Faction.forest_people" clan="Clan.forest_people"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -6148,7 +8694,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_eleftheroi_leader_2" faction="Faction.eleftheroi" clan="Clan.eleftheroi"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -6163,7 +8728,26 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <!--<Hero id="spc_eleftheroi_leader_3" faction="Faction.eleftheroi" clan="Clan.eleftheroi"/>-->
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="Calculating" value="1" />
       <Trait id="Commander" value="6" />
@@ -6179,13 +8763,24 @@ FEMALE:
     </face>
     <!--<Hero id="spc_e3_character_1" faction="Kingdom.aserai" banner_key="3.2.5.4345.4345.768.768.1.0.0.325.9.0.480.480.768.876.0.0.0.305.9.0.473.473.770.567.0.0.271" />-->
     <skills>
-      <skill id="Riding" value="60" />
-      <skill id="OneHanded" value="230" />
-      <skill id="TwoHanded" value="45" />
-      <skill id="Polearm" value="45" />
-      <skill id="Crossbow" value="30" />
-      <skill id="Bow" value="30" />
-      <skill id="Throwing" value="30" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="3" />
@@ -6217,14 +8812,24 @@ FEMALE:
     </face>
     <!--<Hero id="spc_e3_character_2" faction="Kingdom.battania" banner_key="3.2.5.4345.4345.768.768.1.0.0.325.9.0.480.480.768.876.0.0.0.305.9.0.473.473.770.567.0.0.271" />-->
     <skills>
-      <!--<skill id="Athletics" value="130" /> #OLD_SKILL# -->
-      <skill id="Riding" value="60" />
-      <skill id="OneHanded" value="150" />
-      <skill id="TwoHanded" value="45" />
-      <skill id="Polearm" value="240" />
-      <skill id="Crossbow" value="30" />
-      <skill id="Bow" value="30" />
-      <skill id="Throwing" value="30" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -6257,14 +8862,24 @@ FEMALE:
     </face>
     <!--<Hero id="spc_e3_character_3" faction="Kingdom.khuzait" banner_key="3.2.5.4345.4345.768.768.1.0.0.325.9.0.480.480.768.876.0.0.0.305.9.0.473.473.770.567.0.0.271" />-->
     <skills>
-      <!--<skill id="Athletics" value="130" /> #OLD_SKILL# -->
-      <skill id="Riding" value="60" />
-      <skill id="OneHanded" value="210" />
-      <skill id="TwoHanded" value="45" />
-      <skill id="Polearm" value="45" />
-      <skill id="Crossbow" value="30" />
-      <skill id="Bow" value="30" />
-      <skill id="Throwing" value="30" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -6298,14 +8913,24 @@ FEMALE:
     </face>
     <!--<Hero id="spc_e3_character_4" faction="Kingdom.khuzait" />-->
     <skills>
-      <!--<skill id="Athletics" value="130" /> #OLD_SKILL# -->
-      <skill id="Riding" value="60" />
-      <skill id="OneHanded" value="205" />
-      <skill id="TwoHanded" value="45" />
-      <skill id="Polearm" value="45" />
-      <skill id="Crossbow" value="30" />
-      <skill id="Bow" value="30" />
-      <skill id="Throwing" value="30" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -6337,14 +8962,24 @@ FEMALE:
     </face>
     <!--<Hero id="spc_e3_character_5" faction="Kingdom.empire" />-->
     <skills>
-      <!--<skill id="Athletics" value="130" /> #OLD_SKILL# -->
-      <skill id="Riding" value="60" />
-      <skill id="OneHanded" value="235" />
-      <skill id="TwoHanded" value="45" />
-      <skill id="Polearm" value="45" />
-      <skill id="Crossbow" value="30" />
-      <skill id="Bow" value="30" />
-      <skill id="Throwing" value="30" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -6377,14 +9012,24 @@ FEMALE:
     </face>
     <!--<Hero id="spc_e3_character_6" faction="Kingdom.battania" />-->
     <skills>
-      <!--<skill id="Athletics" value="130" /> #OLD_SKILL# -->
-      <skill id="Riding" value="60" />
-      <skill id="OneHanded" value="215" />
-      <skill id="TwoHanded" value="45" />
-      <skill id="Polearm" value="45" />
-      <skill id="Crossbow" value="30" />
-      <skill id="Bow" value="30" />
-      <skill id="Throwing" value="30" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -6676,7 +9321,26 @@ FEMALE:
     <face>
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -6714,14 +9378,24 @@ FEMALE:
       <face_key_template value="BodyProperty.fighter_empire" />
     </face>
     <skills>
-      <skill id="Athletics" value="75" />
-      <skill id="Bow" value="0" />
-      <skill id="OneHanded" value="100" />
-      <skill id="Polearm" value="100" />
-      <skill id="Riding" value="50" />
-      <skill id="Scouting" value="50" />
-      <skill id="Throwing" value="50" />
-      <skill id="TwoHanded" value="100" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -6741,7 +9415,26 @@ FEMALE:
       <BodyProperties version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
       <BodyPropertiesMax version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -6773,7 +9466,26 @@ FEMALE:
       <BodyProperties version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
       <BodyPropertiesMax version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -6805,7 +9517,26 @@ FEMALE:
       <BodyProperties version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
       <BodyPropertiesMax version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -6837,7 +9568,26 @@ FEMALE:
       <BodyProperties version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
       <BodyPropertiesMax version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -6870,7 +9620,26 @@ FEMALE:
       <BodyProperties version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
       <BodyPropertiesMax version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -6902,7 +9671,26 @@ FEMALE:
       <BodyProperties version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
       <BodyPropertiesMax version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -6934,7 +9722,26 @@ FEMALE:
       <BodyProperties version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
       <BodyPropertiesMax version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -6966,7 +9773,26 @@ FEMALE:
       <BodyProperties version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
       <BodyPropertiesMax version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -6999,7 +9825,26 @@ FEMALE:
       <BodyProperties version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
       <BodyPropertiesMax version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -7031,7 +9876,26 @@ FEMALE:
       <BodyProperties version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
       <BodyPropertiesMax version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -7063,7 +9927,26 @@ FEMALE:
       <BodyProperties version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
       <BodyPropertiesMax version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -7095,7 +9978,26 @@ FEMALE:
       <BodyProperties version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
       <BodyPropertiesMax version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -7128,7 +10030,26 @@ FEMALE:
       <BodyProperties version="4" age="30" weight="0.2016" build="0.5" key="0005C002C00009005D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
       <BodyPropertiesMax version="4" age="30" weight="0.2016" build="0.5" key="0005C002C00009005D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -7160,13 +10081,24 @@ FEMALE:
       <BodyPropertiesMax version="4" age="30" weight="0.2016" build="0.5" key="0005C002C00009005D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
     <skills>
-      <skill id="Athletics" value="90" />
-      <skill id="Bow" value="90" />
-      <skill id="OneHanded" value="90" />
-      <skill id="Polearm" value="90" />
-      <skill id="Riding" value="90" />
-      <skill id="Throwing" value="90" />
-      <skill id="TwoHanded" value="90" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -7199,13 +10131,24 @@ FEMALE:
       <BodyPropertiesMax version="4" age="30" weight="0.2016" build="0.5" key="0005C002C00009005D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
     <skills>
-      <skill id="Athletics" value="90" />
-      <skill id="Bow" value="90" />
-      <skill id="OneHanded" value="90" />
-      <skill id="Polearm" value="90" />
-      <skill id="Riding" value="90" />
-      <skill id="Throwing" value="90" />
-      <skill id="TwoHanded" value="90" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -7238,13 +10181,24 @@ FEMALE:
       <BodyPropertiesMax version="4" age="30" weight="0.2016" build="0.5" key="0005C002C00009005D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
     <skills>
-      <skill id="Athletics" value="90" />
-      <skill id="Bow" value="90" />
-      <skill id="OneHanded" value="90" />
-      <skill id="Polearm" value="90" />
-      <skill id="Riding" value="90" />
-      <skill id="Throwing" value="90" />
-      <skill id="TwoHanded" value="90" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -7278,13 +10232,24 @@ FEMALE:
       <BodyPropertiesMax version="4" age="32" weight="0.2415" build="0.2948" key="0005C00FC000000F5D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
     <skills>
-      <skill id="Athletics" value="90" />
-      <skill id="Bow" value="90" />
-      <skill id="OneHanded" value="90" />
-      <skill id="Polearm" value="90" />
-      <skill id="Riding" value="90" />
-      <skill id="Throwing" value="90" />
-      <skill id="TwoHanded" value="90" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -7318,13 +10283,24 @@ FEMALE:
       <BodyPropertiesMax version="4" age="50" weight="0.2016" build="0.5" key="0016B40A06FC244396755869794078B38322A5A7B9676A787D8EAA688B99B36401A00614FA3CC2A5000000000000000000000000000000000000000001543145" />
     </face>
     <skills>
-      <skill id="Athletics" value="90" />
-      <skill id="Bow" value="90" />
-      <skill id="OneHanded" value="90" />
-      <skill id="Polearm" value="90" />
-      <skill id="Riding" value="90" />
-      <skill id="Throwing" value="90" />
-      <skill id="TwoHanded" value="90" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -7358,13 +10334,24 @@ FEMALE:
       <BodyPropertiesMax version="4" age="30.87" weight="0" build="0" key="002D000FC0FC359997B7BD8BA820B77798D95B7AA827F9787D8EAA686777579A01400614043CC2A50000000000000000000000000000000000000000007C2145" />
     </face>
     <skills>
-      <skill id="Athletics" value="90" />
-      <skill id="Bow" value="90" />
-      <skill id="OneHanded" value="90" />
-      <skill id="Polearm" value="90" />
-      <skill id="Riding" value="90" />
-      <skill id="Throwing" value="90" />
-      <skill id="TwoHanded" value="90" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -7398,13 +10385,24 @@ FEMALE:
       <BodyPropertiesMax version="4" age="30" weight="0.2016" build="0.5" key="0005C002C00009005D1EECC2AC8071348894884B1977499893998C797E69979501B006140BEB54490000000000000000000000000000000000000000017C8045" />
     </face>
     <skills>
-      <skill id="Athletics" value="90" />
-      <skill id="Bow" value="90" />
-      <skill id="OneHanded" value="90" />
-      <skill id="Polearm" value="90" />
-      <skill id="Riding" value="90" />
-      <skill id="Throwing" value="90" />
-      <skill id="TwoHanded" value="90" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />

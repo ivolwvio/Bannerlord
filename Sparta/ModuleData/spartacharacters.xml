@@ -14,22 +14,24 @@
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="100" />
-      <skill id="Riding"
-             value="5" />
-      <skill id="OneHanded"
-             value="275" />
-      <skill id="TwoHanded"
-             value="10" />
-      <skill id="Polearm"
-             value="300" />
-      <skill id="Bow"
-             value="0" />
-      <skill id="Crossbow"
-             value="10" />
-      <skill id="Throwing"
-             value="175" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -86,22 +88,24 @@
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="100" />
-      <skill id="Riding"
-             value="5" />
-      <skill id="OneHanded"
-             value="300" />
-      <skill id="TwoHanded"
-             value="100" />
-      <skill id="Polearm"
-             value="275" />
-      <skill id="Bow"
-             value="50" />
-      <skill id="Crossbow"
-             value="50" />
-      <skill id="Throwing"
-             value="175" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -159,22 +163,24 @@
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="70" />
-      <skill id="Riding"
-             value="5" />
-      <skill id="OneHanded"
-             value="125" />
-      <skill id="TwoHanded"
-             value="10" />
-      <skill id="Polearm"
-             value="150" />
-      <skill id="Bow"
-             value="0" />
-      <skill id="Crossbow"
-             value="10" />
-      <skill id="Throwing"
-             value="75" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -291,22 +297,24 @@
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="100" />
-      <skill id="Riding"
-             value="5" />
-      <skill id="OneHanded"
-             value="215" />
-      <skill id="TwoHanded"
-             value="10" />
-      <skill id="Polearm"
-             value="250" />
-      <skill id="Bow"
-             value="0" />
-      <skill id="Crossbow"
-             value="10" />
-      <skill id="Throwing"
-             value="125" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -342,22 +350,24 @@
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="100" />
-      <skill id="Riding"
-             value="5" />
-      <skill id="OneHanded"
-             value="250" />
-      <skill id="TwoHanded"
-             value="10" />
-      <skill id="Polearm"
-             value="215" />
-      <skill id="Bow"
-             value="0" />
-      <skill id="Crossbow"
-             value="10" />
-      <skill id="Throwing"
-             value="125" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -393,22 +403,24 @@
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="85" />
-      <skill id="Riding"
-             value="5" />
-      <skill id="OneHanded"
-             value="150" />
-      <skill id="TwoHanded"
-             value="50" />
-      <skill id="Polearm"
-             value="125" />
-      <skill id="Bow"
-             value="0" />
-      <skill id="Crossbow"
-             value="10" />
-      <skill id="Throwing"
-             value="215" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -446,22 +458,24 @@
       <face_key_template value="BodyProperty.fighter_vlandia" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="95" />
-      <skill id="Riding"
-             value="5" />
-      <skill id="OneHanded"
-             value="150" />
-      <skill id="TwoHanded"
-             value="10" />
-      <skill id="Polearm"
-             value="75" />
-      <skill id="Bow"
-             value="250" />
-      <skill id="Crossbow"
-             value="10" />
-      <skill id="Throwing"
-             value="150" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -500,22 +514,24 @@
       <face_key_template value="NPCCharacter.villager_aserai" />
     </face>
     <skills>
-      <skill id="Athletics"
-             value="50" />
-      <skill id="Riding"
-             value="5" />
-      <skill id="OneHanded"
-             value="40" />
-      <skill id="TwoHanded"
-             value="5" />
-      <skill id="Polearm"
-             value="40" />
-      <skill id="Bow"
-             value="0" />
-      <skill id="Crossbow"
-             value="5" />
-      <skill id="Throwing"
-             value="5" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />

@@ -28,13 +28,24 @@
       <Companion id="companion_comp_0" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="30" />
-      <skill id="TwoHanded" value="35" />
-      <skill id="Polearm" value="30" />
-      <skill id="Bow" value="75" />
-      <skill id="Crossbow" value="60" />
-      <skill id="Throwing" value="55" />
-      <!--<skill id="ArcherCommand" value="65" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -55,15 +66,24 @@
       <Companion id="companion_comp_1" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="65" />
-      <skill id="TwoHanded" value="50" />
-      <skill id="Polearm" value="65" />
-      <skill id="Bow" value="35" />
-      <skill id="Crossbow" value="30" />
-      <skill id="Throwing" value="45" />
-      <!--<skill id="Athletics" value="70" /> #OLD_SKILL# -->
-      <skill id="Riding" value="65" />
-      <!--<skill id="InfantryCommand" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -84,12 +104,24 @@
       <Companion id="companion_comp_2" />
     </Components>
     <skills>
-      <skill id="Bow" value="65" />
-      <skill id="Crossbow" value="75" />
-      <skill id="Throwing" value="70" />
-      <!--<skill id="Athletics" value="60" /> #OLD_SKILL# -->
-      <skill id="Riding" value="59" />
-      <!--<skill id="ArcherCommand" value="71" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -112,12 +144,24 @@
       <Companion id="companion_comp_3" />
     </Components>
     <skills>
-      <!--<skill id="Commander" value="65" />-->
-      <skill id="Tactics" value="75" />
-      <skill id="OneHanded" value="40" />
-      <!--<skill id="Diplomacy" value="60" /> #OLD_SKILL# -->
-      <skill id="TwoHanded" value="32" />
-      <!--<skill id="Logistics" value="71" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -137,10 +181,24 @@
       <Companion id="companion_comp_4" />
     </Components>
     <skills>
-      <skill id="Bow" value="45" />
-      <skill id="Crossbow" value="75" />
-      <skill id="OneHanded" value="50" />
-      <skill id="Polearm" value="40" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <equipmentSet>
       <equipment slot="Item0" id="Item.short_sword_t3" />
@@ -159,10 +217,24 @@
       <Companion id="companion_comp_5" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="55" />
-      <skill id="TwoHanded" value="35" />
-      <skill id="Riding" value="60" />
-      <!--<skill id="CavalryCommand" value="55" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -183,10 +255,24 @@
       <Companion id="companion_comp_6" />
     </Components>
     <skills>
-      <!--<skill id="Commander" value="65" />-->
-      <skill id="Tactics" value="55" />
-      <!--<skill id="Reign" value="60" /> #OLD_SKILL# -->
-      <!--<skill id="Logistics" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -207,12 +293,24 @@
       <Companion id="companion_comp_7" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="65" />
-      <skill id="TwoHanded" value="55" />
-      <skill id="Polearm" value="60" />
-      <!--<skill id="InfantryCommand" value="75" /> #OLD_SKILL# -->
-      <!--<skill id="Commander" value="60" />-->
-      <skill id="Riding" value="55" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -233,12 +331,24 @@
       <Companion id="companion_comp_8" />
     </Components>
     <skills>
-      <skill id="Bow" value="65" />
-      <skill id="Crossbow" value="55" />
-      <skill id="Throwing" value="60" />
-      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
-      <!--<skill id="ArcherCommand" value="60" /> #OLD_SKILL# -->
-      <!--<skill id="Logistics" value="55" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -259,10 +369,24 @@
       <Companion id="companion_comp_9" />
     </Components>
     <skills>
-      <!--<skill id="CavalryCommand" value="75" /> #OLD_SKILL# -->
-      <skill id="Riding" value="65" />
-      <skill id="OneHanded" value="40" />
-      <!--<skill id="Athletics" value="45" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -284,11 +408,24 @@
       <Companion id="companion_comp_10" />
     </Components>
     <skills>
-      <skill id="Tactics" value="60" />
-      <!--<skill id="Siegecraft" value="45" /> #OLD_SKILL# -->
-      <skill id="Trade" value="60" />
-      <!--<skill id="Diplomacy" value="70" /> #OLD_SKILL# -->
-      <skill id="OneHanded" value="35" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -309,11 +446,24 @@
       <Companion id="companion_comp_11" />
     </Components>
     <skills>
-      <skill id="TwoHanded" value="50" />
-      <!--<skill id="Athletics" value="45" /> #OLD_SKILL# -->
-      <!--<skill id="InfantryCommand" value="60" /> #OLD_SKILL# -->
-      <!--<skill id="Diplomacy" value="45" /> #OLD_SKILL# -->
-      <skill id="OneHanded" value="50" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -334,9 +484,24 @@
       <Companion id="companion_comp_12" />
     </Components>
     <skills>
-      <skill id="Bow" value="90" />
-      <skill id="Crossbow" value="70" />
-      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -357,9 +522,24 @@
       <Companion id="companion_comp_13" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="90" />
-      <skill id="TwoHanded" value="70" />
-      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -380,11 +560,24 @@
       <Companion id="companion_comp_14" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="55" />
-      <skill id="TwoHanded" value="45" />
-      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
-      <!--<skill id="Diplomacy" value="60" /> #OLD_SKILL# -->
-      <!--<skill id="Logistics" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -405,12 +598,24 @@
       <Companion id="companion_comp_15" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="60" />
-      <skill id="TwoHanded" value="70" />
-      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
-      <!--<skill id="Diplomacy" value="65" /> #OLD_SKILL# -->
-      <!--<skill id="Logistics" value="80" /> #OLD_SKILL# -->
-      <!--<skill id="Reign" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -432,12 +637,24 @@
       <Companion id="companion_comp_16" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="60" />
-      <skill id="TwoHanded" value="70" />
-      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
-      <!--<skill id="Diplomacy" value="65" /> #OLD_SKILL# -->
-      <!--<skill id="Logistics" value="80" /> #OLD_SKILL# -->
-      <!--<skill id="Reign" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -459,11 +676,24 @@
       <Companion id="companion_comp_17" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="55" />
-      <skill id="TwoHanded" value="45" />
-      <!--<skill id="Athletics" value="50" /> #OLD_SKILL# -->
-      <!--<skill id="Diplomacy" value="60" /> #OLD_SKILL# -->
-      <!--<skill id="Logistics" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -484,12 +714,24 @@
       <Companion id="companion_comp_18" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="60" />
-      <skill id="TwoHanded" value="70" />
-      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
-      <!--<skill id="Diplomacy" value="65" /> #OLD_SKILL# -->
-      <!--<skill id="Logistics" value="80" /> #OLD_SKILL# -->
-      <!--<skill id="Reign" value="75" /> #OLD_SKILL# -->
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -535,10 +777,24 @@
       <Companion id="companion_comp_20" />
     </Components>
     <skills>
-      <skill id="OneHanded" value="60" />
-      <skill id="TwoHanded" value="70" />
-      <!--<skill id="Athletics" value="75" /> #OLD_SKILL# -->
-      <skill id="Riding" value="85" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>

@@ -24,7 +24,7 @@ PARTY SIZES
 ALL UNITS MAX LEVEL
 #Put ! in scope to exclude it from the global search
 
-<skills>((.|\n)*?)<\/skills>
+<skills>(?:(?:.|\n)*?)<\/skills>
 
 <skills>
       <skill id="OneHanded" value="1023" />
