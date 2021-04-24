@@ -11121,9 +11121,12 @@ voice="Male, northern accent, older, authoritative and competent"-->
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <!-- Girls -->
+
   <NPCCharacter id="lord_4_24_1"
-                name="{=XSfDaaFp}Adaltrud"
-                age="45"
+                name="{=XSfDaaFp}Isabel"
+                age="21"
                 is_female="true"
                 voice="softspoken"
                 default_group="Cavalry"
@@ -11153,8 +11156,8 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="lord_4_24_2"
-                name="{=UQg7UijR}Gudonhelda"
-                age="22"
+                name="{=UQg7UijR}Eva"
+                age="21"
                 is_female="true"
                 voice="softspoken"
                 default_group="Cavalry"
@@ -11166,7 +11169,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
       <BodyProperties version="4"
                       weight="0.5"
                       build="0.5"
-                      key="00052C089314100B599B39385A8372459867775D8A397A98773789A84B355847019776130946854400000000000000000000000000000000000000003F1C3044" />
+                      key="0005500E530030067783887287863448F0A9863BE6DD6656B226AF159ABF486401877614084354080000000000000000000000000000000000000000791C1003" />
     </face>
     <skills></skills>
     <Traits>
@@ -11185,8 +11188,8 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="lord_4_24_3"
-                name="{=it6GDDPw}Ingunde"
-                age="20"
+                name="{=it6GDDPw}Polina"
+                age="21"
                 is_female="true"
                 voice="softspoken"
                 default_group="Cavalry"
@@ -11198,7 +11201,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
       <BodyProperties version="4"
                       weight="0.5"
                       build="0.5"
-                      key="00052C089314100B599B39385A8372459867775D8A397A98773789A84B355847019776130946854400000000000000000000000000000000000000003F1C3044" />
+                      key="00056802D314300B7C85565766536767C17786A6A48A7343CBA68B418A9EA035018776140895357300000000000000000000000000000000000000007B1C4003" />
     </face>
     <skills></skills>
     <Traits>
@@ -11217,8 +11220,8 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="lord_4_24_4"
-                name="{=k7vF5gWy}Irmgard"
-                age="17"
+                name="{=k7vF5gWy}Lolita"
+                age="21"
                 is_female="true"
                 voice="softspoken"
                 default_group="Cavalry"
@@ -11230,7 +11233,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
       <BodyProperties version="4"
                       weight="0.5"
                       build="0.5"
-                      key="00052C089314100B599B39385A8372459867775D8A397A98773789A84B355847019776130946854400000000000000000000000000000000000000003F1C3044" />
+                      key="00056C059300200498868A3266629726C05B7489548A1717769ACB537CAE1779018776140854736600000000000000000000000000000000000000003F1C2003" />
     </face>
     <Traits>
       <!-- TEENAGER, NO SKILLS OR TRAITS -->
@@ -11242,6 +11245,9 @@ voice="Male, northern accent, older, authoritative and competent"-->
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <!-- Girls -->
+
   <!-- Lucand, gallant. One-eyed -->
   <NPCCharacter id="lord_4_25"
                 name="{=l1Ac8s1T}Lucand"

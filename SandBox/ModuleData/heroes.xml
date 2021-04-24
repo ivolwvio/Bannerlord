@@ -343,11 +343,15 @@
   <Hero id="lord_4_23_2" is_noble="true" father="Hero.lord_4_23" faction="Faction.clan_vlandia_7" />
   <Hero id="lord_4_23_3" is_noble="true" father="Hero.lord_4_23" faction="Faction.clan_vlandia_7" />
   <!-- dey Molarn -->
-  <Hero id="lord_4_24" is_noble="true" spouse="Hero.lord_4_24_1" faction="Faction.clan_vlandia_8" />
-  <Hero id="lord_4_24_1" is_noble="true" spouse="Hero.lord_4_24" faction="Faction.clan_vlandia_8" />
-  <Hero id="lord_4_24_2" is_noble="true" father="Hero.lord_4_24" mother="Hero.lord_4_24_1" faction="Faction.clan_vlandia_8" />
-  <Hero id="lord_4_24_3" is_noble="true" father="Hero.lord_4_24" mother="Hero.lord_4_24_1" faction="Faction.clan_vlandia_8" />
-  <Hero id="lord_4_24_4" is_noble="true" father="Hero.lord_4_24" mother="Hero.lord_4_24_1" faction="Faction.clan_vlandia_8" />
+  <Hero id="lord_4_24" is_noble="true" faction="Faction.clan_vlandia_8" />
+
+  <!-- Girls-->
+  <Hero id="lord_4_24_1" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_2" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_3" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_4" is_noble="true" faction="Faction.player_faction" />
+  <!-- Girls -->
+
   <Hero id="lord_4_26" is_noble="true" faction="Faction.clan_vlandia_8" />
   <Hero id="lord_4_26_1" is_noble="true" faction="Faction.clan_vlandia_8" />
   <!-- Dey Jelind -->
