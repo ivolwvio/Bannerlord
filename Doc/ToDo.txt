@@ -22,8 +22,8 @@ PARTY SIZES
 ============================================================================================================================================
 
 ALL UNITS MAX LEVEL
-#Put ! in scope to exclude it from the global search
 
+# Don't forget when global serach/replace to exclude this file
 <skills>(?:(?:.|\n)*?)<\/skills>
 
 <skills>
@@ -48,6 +48,10 @@ ALL UNITS MAX LEVEL
     </skills>
 
 <skills></skills>
+
+============================================================================================================================================
+
+ALL UNITS MAX LEVEL (OLD CODE)
 
 // i will use regex for faster search and replace.
 <skill id="(.*?)" value="[+-]?([0-9]*[.])?[0-9]+" \/>
