@@ -37,3 +37,4 @@ Sparta
 Intro Remover
 Remove flora
 BUTRLoader
+Bannerlord mod louncher
