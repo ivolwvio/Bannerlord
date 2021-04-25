@@ -1,0 +1,149 @@
+
+
+
+<BodyProperties version="4" age="25.57" weight="0" build="0.2485"  key="000720088000000D0070030006001E03063300110010200000000001819050000047700304010000000000000000000000000000000000000000000010880000"  />
+<BodyPropertiesMax version="4" age="69.94" weight="0" build="0.7052"  key="0010F80FC000300FFFFFA9AFBAEBFF7EEEFFFFFFFEF7EFFEFFFFFFFF7EFF8EAF00A770030AFFFF59000000000000000000000000000000000000000047589102"  />
+
+
+
+<skills>((.|\n)*?)<\/skills>
+<skills>((.|\n)*?)<\/skills>
+
+
+
+<\/face>(?:(?:.|\n)*?)<Traits>
+
+</face>(?=\n)
+</face>(?=((.|\n)*?)<skill)
+</face>(?=\n )
+
+
+</face>(?!\n    <skills>)((.|\n)*?)<Traits>
+
+</face>(?!\n\s<skills>)((.|\n)*?)<Traits>
+
+(.|\n)*?
+
+<\/face>\n    <!--((.|\n)*?)<Traits>
+
+
+(?!<\/face>(?:(?:.|\n)*?))<skills>)(<\/face>(?:(?:.|\n)*?)<Traits>)
+(?:<\/face>(?:(?:.|\n)*?)<Traits>)(?!<\/face>(?:(?:.|\n)*?)<skills>)
+
+(?!<\/face>(\n    )<skills>)(<\/face>\n(.*?)\n    <Traits>)
+(?!<\/face>(\n    )<skills>)(<\/face>\n(.*?)\n    <Traits>)
+(?!<\/face>(\n.*?)<skills>)(<\/face>\n(.*?)\n.*?<Traits>)
+
+
+<\/face>((.|\n)*?)<Traits>
+(?!(?:<\/face>(?:\n(?:.)*?)<skills>)|(?:<\/face>(?:\n(?:.)*?\n(?:.)*?)<skills>))((?:<\/face>(?:\n(?:.)*?)<Traits>)|(?:<\/face>(?:\n(?:.)*?\n(?:.)*?)<Traits>))
+
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+
+    </face>
+    <skills>
+
+    </face>
+    <!--<Hero id="spc_wanderer_khuzait_3" faction="Kingdom.khuzait" />-->
+    <skills>
+
+
+((.|\n)*?)<skills>
+
+# Complete
+</face>(?!((.|\n)*?)</!--)
+</face>(?!((.|\n)*?)<skills>)
+
+</face>(?!((.|\n)*?)<skills>)
+<\/face>(?:(?:.|\n)*?)<Traits>
+
+</face>\n(.*?)\n(.*?)<skills>
+
+
+</face>
+
+    </face>
+      <!--<Hero id="spc_wanderer_empire_0" faction="Kingdom.empire"  is_template="true" />-->
+      <!--<Hero id="spc_wanderer_empire_1" faction="Kingdom.empire"  is_template="true" />-->
+      <!--<Hero id="spc_wanderer_empire_2" faction="Kingdom.empire"  is_template="true" />-->
+    <Traits>
+
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+
+</face><!skills></skills><Traits>
+</face>(?:(?:^<skill|.|\n)*?)<Traits>
+</face>(?:(?:(?:!<skill)|.|\n)*?)<Traits>
+
+</face>((.|\n)*?)<skills>
+
+    </face>
+    <!--<Hero id="spc_notable_empire_10" faction="Kingdom.empire" />-->
+    <skills>
+
+    </face>
+    <skills>

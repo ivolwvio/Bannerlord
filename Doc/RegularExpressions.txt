@@ -1,0 +1,499 @@
+
+######################################################################
+    PCRE
+######################################################################
+
+/a/
+
+----------------------------------------------------------------------
+
+a
+
+----------------------------------------------------------------------
+
+b;lkjfjkdlsa;lkjdfwi -> a
+
+----------------------------------------------------------------------
+
+for 0..str.length-1 -> startpos {
+    matchpos = startpos;
+    try {
+        str[matchpos] == 'a' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    }
+}
+
+return FALSE;
+
+######################################################################
+
+/abc/
+
+----------------------------------------------------------------------
+
+abc
+
+----------------------------------------------------------------------
+
+"12ababc"
+
+----------------------------------------------------------------------
+
+for 0..str.length-1 -> startpos {
+    matchpos = startpos;
+    try {
+        str[matchpos] == 'a' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'b' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'c' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    }
+}
+
+return FALSE;
+
+######################################################################
+
+/abc|abx/
+
+----------------------------------------------------------------------
+
+abc
+abx
+
+----------------------------------------------------------------------
+
+"abbabcbabaabxba" -> abc
+"abbabbcbabxbabc" -> abx
+"abba bcbabx abc" -> abx
+
+----------------------------------------------------------------------
+
+for 0..str.length-1 -> startpos {
+    matchpos = startpos;
+    try {
+        str[matchpos] == 'a' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'b' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'c' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } else try {
+        str[matchpos] == 'a' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'b' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'x' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    }
+}
+
+return FALSE;
+
+######################################################################
+
+/abc|ab(s(t|e)|su)/
+
+----------------------------------------------------------------------
+
+abc
+abst
+abse
+absu
+
+----------------------------------------------------------------------
+
+"absurd" -> absu
+
+----------------------------------------------------------------------
+
+for 0..str.length-1 -> startpos {
+    matchpos = startpos;
+    try {
+        str[matchpos] == 'a' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'b' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'c' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } else try {
+        str[matchpos] == 'a' or throw Backtracking;
+        matchpos++;
+
+        str[matchpos] == 'b' or throw Backtracking;
+        matchpos++;
+
+        try {
+            str[matchpos] == 's' or throw Backtracking;
+            matchpos++;
+
+            try {
+                str[matchpos] == 't' or throw Backtracking;
+                matchpos++;
+
+                return TRUE;
+            } else try {
+                str[matchpos] == 'e' or throw Backtracking;
+                matchpos++;
+
+                return TRUE;
+            }
+        } else try {
+            str[matchpos] == 's' or throw Backtracking;
+            matchpos++;
+
+            str[matchpos] == 'u' or throw Backtracking;
+            matchpos++;
+
+            return TRUE;
+        }
+
+        return FALSE;
+    }
+}
+
+return FALSE;
+
+######################################################################
+
+/anteater|antelope|ant/
+
+----------------------------------------------------------------------
+
+anteater
+antelope
+ant
+
+----------------------------------------------------------------------
+
+"An ant encountered an anteater" -> ant
+
+######################################################################
+
+/\*\*\*\*\$999\.99/
+
+----------------------------------------------------------------------
+
+****$999.99
+
+######################################################################
+
+/H 2 O/
+
+----------------------------------------------------------------------
+
+asd fH 2 Oas df -> H 2 O
+
+######################################################################
+
+/x|y|z/
+
+# Use character set
+
+/[xyz]/
+
+----------------------------------------------------------------------
+
+abcdyazbx
+
+----------------------------------------------------------------------
+
+/x|y|z/
+
+for 0..str.length-1 -> startpos {
+    matchpos = startpos;
+    try {
+        str[matchpos] == 'x' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } else try {
+        str[matchpos] == 'y' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } else try {
+        str[matchpos] == 'z' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    }
+}
+
+return FALSE;
+
+----------------------------------------------------------------------
+
+/[xyz]/
+
+for 0..str.length-1 -> startpos {
+    matchpos = startpos;
+    try {
+        str[matchpos] is in {'x', 'y', 'z'} or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } 
+}
+
+return FALSE;
+
+######################################################################
+
+/[a-zA-Z]/
+#Everything exept this caracters
+/[^aeiou]/
+/[a-zA-Z0-9 ]/
+[^aeiou\.4-9 ]
+
+\d          [0-9]
+\D          [^0-9]
+\w          [a-zA-Z0-9_]
+\W          [^a-zA-Z0-9_]
+\s          [ \t\n\v\r\f]
+\S          [^ \t\n\v\r\f]
+
+/[^\W\d]/
+/....-....-....-7001/
+/f..k/
+
+----------------------------------------------------------------------
+
+. 6a9e384fA24aZfASkdflkj1(*&3$%^/\[])
+1234-1234-1234-7001
+
+######################################################################
+
+/x|y/
+
+| -> OR
+
+----------------------------------------------------------------------
+
+for 0..str.length-1 -> startpos {
+    matchpos = startpos;
+    try {
+        str[matchpos] == 'x' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } else try {
+        str[matchpos] == 'y' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    }
+}
+
+return FALSE;
+
+######################################################################
+
+/[aeiou]|bye|\.|\d\d/
+
+----------------------------------------------------------------------
+
+for 0..str.length-1 -> startpos {
+    matchpos = startpos;
+    try {
+        str[matchpos] is in {'a', 'e', 'i', 'o', 'u'} or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } else try {
+        str[matchpos] == 'b' or throw Backtracking;
+        matchpos++;
+        str[matchpos] == 'y' or throw Backtracking;
+        matchpos++;
+        str[matchpos] == 'e' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } else try {
+        str[matchpos] == '.' or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    } else try {
+        str[matchpos] is in {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'}
+            or throw Backtracking;
+        matchpos++;
+        str[matchpos] is in {'0', '1', '2', '3', '4', '5', '6', '7', '8', '9'}
+            or throw Backtracking;
+        matchpos++;
+
+        return TRUE;
+    }
+}
+
+return FALSE;
+
+######################################################################
+
+/^quit|exit|done$/
+
+!Alternatives always in parens
+
+/^(quit|exit|done)$/
+
+######################################################################
+
+* -> loop
++ -> one or more loop
+? -> zero or one loop
+*? -> minimal loop
++? -> minimal loop
+?? -> minimal loop
+
+/X{3,7}/
+
+/.*/
+/X*/
+/[abc]*/
+/(nom)*/ -> nom nom nom ...
+
+/X+/
+/[abc]+/
+/.+/
+
+/X?/
+/[abc]?/
+/.?/
+
+/X*?/
+/X+?/
+/X??/
+
+----------------------------------------------------------------------
+
+maxreps = infinity;
+loop {
+    repcount = 0;
+    for 1..maxreps {
+        str[matchpos] == 'X' or exit for;
+        matchpos++;
+        repcount++;
+    }
+    try {
+        // the rest of regex's commands here
+    } catch Backtracking {
+        maxreps = repcount - 1;
+        maxreps >= 0 or throw Backtracking;
+        next loop;
+    } else {
+        exit loop;
+    }
+}
+
+######################################################################
+
+/>\w*\d\d/
+
+">A777"
+
+/'.*'/
+
+'Anything'
+
+"You say 'tomayto'...but I say 'tomahto'."
+"You say 'tomayto'...but I say otherwise."
+
+/'.*?'/
+
+"You say 'tomayto'...but I say 'tomahto'."
+
+######################################################################
+
+/cp\s+\w+\s+\w+/
+/(cp|mv|ln)\s+\w+\s+\w+/
+/(cp|mv|ln)\s+(\w+)\s+(\w+)/
+
+######################################################################
+
+
+^:*([a-z]*)^:*([0-9]*)\$_\2:\1_
+
+# (sed) "::::::foo::::123:::::" --> "_123:foo_"
+
+/<(\w*)>/
+/^(quit|exit|done)$/
+
+# Capturing perentecies
+/(...)/
+
+# Non capturing perentecies
+/(?:...)/
+
+/^(?:quit|exit|done)$/
+
+######################################################################
+
+Would next characters match /A*CT*/?
+
+/(?=A*CT*)/
+
+Would next characters NOT match /A*CT*/?
+
+/(?!A*CT*)/
+
+Were previous characters "for" or "while"
+
+/(?<=for|while)/
+
+/(?<!for|while)/
+
+######################################################################
+
+look ahead
+
+/end/
+/end(?!while)/
+/end(?!while|if|for)
+/end(?!\w)
+/end\b/
+
+look behind
+
+/(?<!end)while/
+/(?<!\w)while/
+/\bwhile/
+
+/\b/
+
+"I own books from Addison-Wesley and O`Rilly"
+
+/(?<=\s)(?=\S)|(?<=\S)(?=\s)/
+
+######################################################################
+
+~1234
+~~~1234
+~~~~~1234
+~~~~~~~1234
+
+/(?<=\A~(?:~~)*)\d+/
+
+Best shortcuts:
+
+
+
+(?:(?:.|\n)*?)              ->Pass through

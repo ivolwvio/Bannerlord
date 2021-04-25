@@ -1,13 +1,4 @@
 
-Infantry
-Ranged
-Cavalry
-HorseArcher
-Skirmisher
-HeavyInfantry
-LightCavalry
-HeavyCavalry
-
 I       - Infantry
 II      - Ranged
 III     - Cavalry
@@ -16,6 +7,15 @@ V       - Skirmisher
 VI      - HeavyInfantry
 VII     - LightCavalry
 VIII    - HeavyCavalry
+
+Infantry
+Ranged
+Cavalry
+HorseArcher
+Skirmisher
+HeavyInfantry
+LightCavalry
+HeavyCavalry
 
     <skills>
       <skill id="OneHanded" value="1023" />
