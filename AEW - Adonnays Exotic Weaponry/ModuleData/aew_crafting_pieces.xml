@@ -7,8 +7,8 @@
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="7" />
 		<BladeData physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="aew_knife1_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -47,8 +47,8 @@
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-2.4" />
 		<BladeData physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="aew_knife2_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -88,8 +88,8 @@
 	<CraftingPiece id="aew_blade_lb01" name="{=aew_blade_lb01}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_lb1_blade" culture="Culture.battania" length="113" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_lb1_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -126,8 +126,8 @@
 	<CraftingPiece id="aew_blade_lb02" name="{=aew_blade_lb02}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_lb2_blade" culture="Culture.battania" length="113" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_lb2_scab" > 
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -154,8 +154,8 @@
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-0.55" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_wb1_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -194,8 +194,8 @@
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-0.55" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_wb2_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -219,8 +219,8 @@
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-0.55" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_wb3_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -244,8 +244,8 @@
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-0.55" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_wb4_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -270,8 +270,8 @@
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="0" />
 		<BladeData physics_material="wood_weapon" body_name="bo_spear_b">
-			<Thrust damage_type="Pierce" damage_factor="1" />
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Thrust damage_type="Pierce" damage_factor="0.7" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Materials>
 			<Material id="Iron6" count="2" />
@@ -308,7 +308,7 @@
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="0" />
 		<BladeData stack_amount="3" blade_length="100" blade_width="17" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-			<Swing damage_type="Cut" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="0.7" />
 		</BladeData>
 		<Flags> 
 			<Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />

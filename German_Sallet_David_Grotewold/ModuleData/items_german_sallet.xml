@@ -3,21 +3,21 @@
 
   <Item id="german_sallet_dg" name="German Sallet" subtype="head_armor" mesh="germa_sallet" culture="Culture.vlandia" weight="2.7" difficulty="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="medieval_helmet_big" name="Medieval Helmet Big" subtype="head_armor" mesh="medieval_helmet_1" culture="Culture.vlandia" weight="2.7" difficulty="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="medieval_helmet_regular" name="Medieval Helmet Regular" subtype="head_armor" mesh="medieval_helmet_1_regular" culture="Culture.vlandia" weight="2.7" difficulty="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
+      <Armor head_armor="35" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" beard_cover_type="all" />
     </ItemComponent>
     <Flags />
   </Item>    

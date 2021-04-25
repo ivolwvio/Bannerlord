@@ -14,7 +14,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -35,7 +35,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -56,7 +56,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -77,7 +77,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -99,7 +99,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -120,7 +120,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -133,19 +133,19 @@
 <!-- Horse -->
   <Item multiplayer_item="false" id="cla_empire_striped_horse_harness_1" name="{=cla_empire_striped_horse_harness_1}[Empire]Striped Leather Harness" mesh="horse_harness_imperial_a_clotest" subtype="body_armor" is_merchandise="true" culture="Culture.empire" weight="7" difficulty="0" appearance="1" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="30" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
+      <Armor body_armor="35" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item multiplayer_item="false" id="cla_empire_striped_horse_harness_2" name="{=cla_empire_striped_horse_harness_1}[Empire]Equites Striped Leather Harness" mesh="horse_harness_imperial_a_clotest" subtype="body_armor" is_merchandise="true" culture="Culture.empire" weight="7" difficulty="0" appearance="1" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="30" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
+      <Armor body_armor="35" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item multiplayer_item="false" id="cla_empire_striped_horse_harness_3" name="{=cla_empire_striped_horse_harness_3}[Empire]Praetorian Striped Leather Harness" mesh="horse_harness_imperial_a_clotest" subtype="body_armor" is_merchandise="true" culture="Culture.empire" weight="7" difficulty="0" appearance="1" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="30" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
+      <Armor body_armor="35" mane_cover_type="none" family_type="1" modifier_group="leather" reins_mesh="horse_harness_imperial_a_rein" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -728,13 +728,13 @@
 <!-- Lords -->
   <Item id="cla_empire_toga_senate" name="{=cla_empire_toga_senate}[Empire]Senator's Expensive Toga" mesh="cla_roman_robe_toga_rich" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_empire_toga_rich" name="{=cla_empire_toga_rich}[Empire]Expensive Toga" mesh="cla_roman_robe_toga_rich" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
@@ -742,91 +742,91 @@
 <!-- Notables, merchants, etc -->
   <Item id="cla_empire_toga" name="{=cla_empire_toga}[Empire]Toga" mesh="cla_roman_robe_toga_white" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_blue" name="{=cla_empire_toga_blue}[Empire]Toga" mesh="cla_roman_robe_toga_blue" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_blue_2" name="{=cla_empire_toga_blue_2}[Empire]Toga" mesh="cla_roman_robe_toga_blue_2" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_blue_light" name="{=cla_empire_toga_blue_light}[Empire]Toga" mesh="cla_roman_robe_toga_blue_light" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_blue_light_2" name="{=cla_empire_toga_blue_light_2}[Empire]Toga" mesh="cla_roman_robe_toga_blue_light_2" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_brown" name="{=cla_empire_toga_brown}[Empire]Toga" mesh="cla_roman_robe_toga_brown" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
   
   <Item id="cla_empire_toga_brown_light" name="{=cla_empire_toga_brown_light}[Empire]Toga" mesh="cla_roman_robe_toga_brown_light" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_green" name="{=cla_empire_toga_green}[Empire]Toga" mesh="cla_roman_robe_toga_green" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_green_light" name="{=cla_empire_toga_green_light}[Empire]Toga" mesh="cla_roman_robe_toga_green_light" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_grey" name="{=cla_empire_toga_grey}[Empire]Toga" mesh="cla_roman_robe_toga_grey" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_yellow" name="{=cla_empire_toga_yellow}[Empire]Toga" mesh="cla_roman_robe_toga_yellow" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_red" name="{=cla_empire_toga_red}[Empire]Toga" mesh="cla_roman_robe_toga_red" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_toga_red_light" name="{=cla_empire_toga_red_light}[Empire]Toga" mesh="cla_roman_robe_toga_red_light" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
@@ -834,77 +834,77 @@
 <!-- Tunics -->
   <Item id="cla_roman_tunic_white" name="{=cla_roman_tunic_white}[Empire]Tunic" mesh="cla_roman_tunic_white" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_roman_tunic_yellow" name="{=cla_roman_tunic_yellow}[Empire]Tunic" mesh="cla_roman_tunic_yellow" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_roman_tunic_dred" name="{=cla_roman_tunic_dred}[Empire]Tunic" mesh="cla_roman_tunic_dred" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_roman_tunic_orange" name="{=cla_roman_tunic_orange}[Empire]Tunic" mesh="cla_roman_tunic_orange" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_roman_tunic_grey" name="{=cla_roman_tunic_grey}[Empire]Tunic" mesh="cla_roman_tunic_grey" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_roman_tunic_green" name="{=cla_roman_tunic_green}[Empire]Tunic" mesh="cla_roman_tunic_green" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
     <Item id="cla_roman_tunic_green_light" name="{=cla_roman_tunic_green_light}[Empire]Tunic" mesh="cla_roman_tunic_green_light" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
     <Item id="cla_roman_tunic_brown" name="{=cla_roman_tunic_brown}[Empire]Tunic" mesh="cla_roman_tunic_brown" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
     <Item id="cla_roman_tunic_olive" name="{=cla_roman_tunic_olive}[Empire]Tunic" mesh="cla_roman_tunic_olive" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
     <Item id="cla_roman_tunic_blue" name="{=cla_roman_tunic_blue}[Empire]Tunic" mesh="cla_roman_tunic_blue" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
     <Item id="cla_roman_tunic_blue_light" name="{=cla_roman_tunic_blue_light}[Empire]Tunic" mesh="cla_roman_tunic_blue_light" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -912,25 +912,25 @@
 <!-- Soldier Tunic -->
   <Item id="cla_empire_tunic" name="{=cla_empire_tunic}[Empire]Soldier's Tunic" mesh="cla_roman_tunic_white" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
     <Item id="cla_empire_tunic_2" name="{=cla_empire_tunic_2}[Empire]Sturdy Soldier's Tunic" mesh="cla_roman_tunic_white" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
     <Item id="cla_empire_tunic_3" name="{=cla_empire_tunic_3}[Empire]High-Quality Soldier's Tunic" mesh="cla_roman_tunic_white" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
     <Item id="cla_empire_tunic_4" name="{=cla_empire_tunic_4}[Empire]Refined Soldier's Tunic" mesh="cla_roman_tunic_white" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
@@ -938,19 +938,19 @@
 <!-- HBO Tunic for Thrash -->
   <Item id="cla_empire_tunic_eagle" name="{=cla_empire_tunic_eagle}[Empire]Lost Legion's Tunic" mesh="cla_roman_tunic_white_eagle" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" DoesNotHideChest="true" UseTeamColor="true" />
   </Item>
     <Item id="cla_empire_tunic_eagle_2" name="{=cla_empire_tunic_eagle_2}[Empire]Sturdy Lost Legion's Tunic" mesh="cla_roman_tunic_white_eagle" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" DoesNotHideChest="true" UseTeamColor="true" />
   </Item>
     <Item id="cla_empire_tunic_eagle_3" name="{=cla_empire_tunic_eagle_3}[Empire]High-Quality Lost Legion's Tunic" mesh="cla_roman_tunic_white_eagle" culture="Culture.empire" is_merchandise="true" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" DoesNotHideChest="true" UseTeamColor="true" />
   </Item>
@@ -959,37 +959,37 @@
 
   <Item id="cla_roman_hamata_brass" name="{=cla_roman_hamata_brass}[Empire]Lorica Hamata with Brass Buckles" mesh="cla_roman_hamata_brass" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_iron" name="{=cla_roman_hamata_iron}[Empire]Lorica Hamata with Iron Buckles" mesh="cla_roman_hamata_iron" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_mix" name="{=cla_roman_hamata_mix}[Empire]Lorica Hamata" mesh="cla_roman_hamata_mix" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_brass" name="{=cla_roman_hamata_trousers_brass}[Empire]Lorica Hamata with Brass Buckles over Trousers" mesh="cla_roman_hamata_trousers_brass" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_iron" name="{=cla_roman_hamata_trousers_iron}[Empire]Lorica Hamata with Iron Buckles over Trousers" mesh="cla_roman_hamata_trousers_iron" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_mix" name="{=cla_roman_hamata_trousers_mix}[Empire]Lorica Hamata over Trousers" mesh="cla_roman_hamata_trousers_mix" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -998,49 +998,49 @@
 <!-- Tier 3-->
   <Item id="cla_roman_hamata_brass_cingulum" name="{=cla_roman_hamata_brass_cingulum}[Empire]Legionary's Lorica Hamata with Brass Buckles" mesh="cla_roman_hamata_brass_cingulum" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_iron_cingulum" name="{=cla_roman_hamata_iron_cingulum}[Empire]Legionary's Lorica Hamata with Iron Buckles" mesh="cla_roman_hamata_iron_cingulum" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_mix_cingulum" name="{=cla_roman_hamata_mix_cingulum}[Empire]Legionary's Lorica Hamata" mesh="cla_roman_hamata_mix_cingulum" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_brass_cingulum" name="{=cla_roman_hamata_trousers_brass_cingulum}[Empire]Legionary's Lorica Hamata with Brass Buckles over Trousers" mesh="cla_roman_hamata_trousers_brass_cingulum" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_iron_cingulum" name="{=cla_roman_hamata_trousers_iron_cingulum}[Empire]Legionary's Lorica Hamata with Iron Buckles over Trousers" mesh="cla_roman_hamata_trousers_iron_cingulum" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_mix_cingulum" name="{=cla_roman_hamata_trousers_mix_cingulum}[Empire]Legionary's Lorica Hamata over Trousers" mesh="cla_roman_hamata_trousers_mix_cingulum" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
     <Item id="cla_empire_segmentata_skirt_0" name="{=cla_empire_segmentata_skirt_0}[Empire]Heirloom Lorica Segmentata" mesh="cla_roman_segmentata_1_skirt" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
     <Item id="cla_empire_segmentata_0" name="{=cla_empire_segmentata_0}[Empire]Heirloom Lorica Segmentata with Trousers" mesh="cla_roman_segmentata_1_trousers" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -1049,50 +1049,50 @@
 <!-- Tier 4-->
   <Item id="cla_roman_hamata_brass_cingulum_2" name="{=cla_roman_hamata_brass_cingulum_2}[Empire]Veteran's Lorica Hamata with Brass Buckles" mesh="cla_roman_hamata_brass_cingulum_2" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_iron_cingulum_2" name="{=cla_roman_hamata_iron_cingulum_2}[Empire]Veteran's Lorica Hamata with Iron Buckles" mesh="cla_roman_hamata_iron_cingulum_2" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_mix_cingulum_2" name="{=cla_roman_hamata_mix_cingulum_2}[Empire]Veteran's Lorica Hamata" mesh="cla_roman_hamata_mix_cingulum_2" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_brass_cingulum_2" name="{=cla_roman_hamata_trousers_brass_cingulum_2}[Empire]Veteran's Lorica Hamata with Brass Buckles over Trousers" mesh="cla_roman_hamata_trousers_brass_cingulum_2" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_iron_cingulum_2" name="{=cla_roman_hamata_trousers_iron_cingulum_2}[Empire]Veteran's Lorica Hamata with Iron Buckles over Trousers" mesh="cla_roman_hamata_trousers_iron_cingulum_2" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_mix_cingulum_2" name="{=cla_roman_hamata_trousers_mix_cingulum_2}[Empire]Veteran's Lorica Hamata over Trousers" mesh="cla_roman_hamata_trousers_mix_cingulum_2" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_segmentata_skirt_1" name="{=cla_empire_segmentata_skirt_1}[Empire]Lorica Segmentata" mesh="cla_roman_segmentata_1_skirt" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="30000" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_1" name="{=cla_empire_segmentata_1}[Empire]Lorica Segmentata with Trousers" mesh="cla_roman_segmentata_1_trousers" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="30000" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -1101,49 +1101,49 @@
 <!-- Tier 5-->
   <Item id="cla_empire_segmentata_skirt_2" name="{=cla_empire_segmentata_skirt_2}[Empire]Brass-Trimmed Lorica Segmentata" mesh="cla_roman_segmentata_rich_skirt" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_2" name="{=cla_empire_segmentata_2}[Empire]Brass-Trimmed Lorica Segmentata with Trousers" mesh="cla_roman_segmentata_rich_trousers" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_brass_cingulum_3" name="{=cla_roman_hamata_brass_cingulum_3}[Empire]First Cohort Lorica Hamata with Brass Buckles" mesh="cla_roman_hamata_brass_cingulum_3" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_iron_cingulum_3" name="{=cla_roman_hamata_iron_cingulum_3}[Empire]First Cohort Lorica Hamata with Iron Buckles" mesh="cla_roman_hamata_iron_cingulum_3" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_mix_cingulum_3" name="{=cla_roman_hamata_mix_cingulum_3}[Empire]First Cohort Lorica Hamata" mesh="cla_roman_hamata_mix_cingulum_3" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_brass_cingulum_3" name="{=cla_roman_hamata_trousers_brass_cingulum_3}[Empire]First Cohort Lorica Hamata with Brass Buckles over Trousers" mesh="cla_roman_hamata_trousers_brass_cingulum_3" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_iron_cingulum_3" name="{=cla_roman_hamata_trousers_iron_cingulum_3}[Empire]First Cohort Lorica Hamata with Iron Buckles over Trousers" mesh="cla_roman_hamata_trousers_iron_cingulum_3" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_mix_cingulum_3" name="{=cla_roman_hamata_trousers_mix_cingulum_3}[Empire]First Cohort Lorica Hamata over Trousers" mesh="cla_roman_hamata_trousers_mix_cingulum_3" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -1157,13 +1157,13 @@
 
   <Item id="cla_empire_segmentata_skirt_praetorian_2" name="{=cla_empire_segmentata_skirt_praetorian_2}[Empire]Praetorian Lorica Segmentata" mesh="cla_roman_segmentata_praetorian_skirt" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_praetorian_2" name="{=cla_empire_segmentata_praetorian_2}[Empire]Praetorian Lorica Segmentata with Trousers" mesh="cla_roman_segmentata_praetorian_trousers" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -1171,25 +1171,25 @@
 
   <Item id="cla_empire_segmentata_skirt_3" name="{=cla_empire_segmentata_skirt_3}[Empire]Praetorian Reinforced Lorica Segmentata" mesh="cla_roman_segmentata_praetorian_elite_skirt" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_3" name="{=cla_empire_segmentata_3}[Empire]Praetorian Reinforced Lorica Segmentata with Trousers" mesh="cla_roman_segmentata_praetorian_elite_trousers" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_mix_cingulum_4" name="{=cla_roman_hamata_mix_cingulum_4}[Empire]Praetorian Lorica Hamata" mesh="cla_roman_hamata_mix_cingulum_3" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_roman_hamata_trousers_mix_cingulum_4" name="{=cla_roman_hamata_trousers_mix_cingulum_4}[Empire]Praetorian Lorica Hamata over Trousers" mesh="cla_roman_hamata_trousers_mix_cingulum_3" culture="Culture.empire" is_merchandise="true" weight="8.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="false" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -1208,7 +1208,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1232,7 +1232,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1253,7 +1253,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1275,7 +1275,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1296,7 +1296,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1319,7 +1319,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1342,7 +1342,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1363,7 +1363,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1385,7 +1385,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1408,7 +1408,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1429,7 +1429,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1451,7 +1451,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1473,7 +1473,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1486,89 +1486,89 @@
 <!--test-->
   <Item id="cla_invisible_shoulders_1" name="{=cla_invisible_shoulders_1}[Empire]Invisible Shoulders" mesh="fakemesh" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
   <Item id="cla_invisible_shoulders_2" name="{=cla_invisible_shoulders_2}[Empire]Invisible Shoulders T2" mesh="fakemesh" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_segmentata_shoulders_1" name="{=cla_empire_segmentata_shoulders_1}[Empire]Segmentata Shoulder Plate" mesh="cla_roman_shoulders_segmentata_1" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_shoulders_praetorian_1" name="{=cla_empire_segmentata_shoulders_praetorian_1}[Empire]Praetorian Shoulder Plate" mesh="cla_roman_shoulders_segmentata_praetorian" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_shoulders_rich" name="{=cla_empire_segmentata_shoulders_rich}[Empire]Rich Segmentata Shoulder Plate" mesh="cla_roman_shoulders_segmentata_rich" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_segmentata_shoulders_cape" name="{=cla_empire_segmentata_shoulders_cape}[Empire]Segmentata Shoulder Plate with Cape" mesh="cla_roman_shoulders_segmentata_cape" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_shoulders_praetorian_cape" name="{=cla_empire_segmentata_shoulders_praetorian_cape}[Empire]Praetorian Shoulder Plate with Cape" mesh="cla_roman_shoulders_segmentata_praetorian_cape" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_shoulders_rich_cape" name="{=cla_empire_segmentata_shoulders_rich_cape}[Empire]Rich Segmentata Shoulder Plate with Cape" mesh="cla_roman_shoulders_segmentata_rich_cape" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_segmentata_shoulders_wolf" name="{=cla_empire_segmentata_shoulders_wolf}[Empire]Wolf Fur Covered Segmentata Shoulders" mesh="cla_roman_shoulders_segmentata_wolf" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_shoulders_praetorian_wolf" name="{=cla_empire_segmentata_shoulders_praetorian_wolf}[Empire]Wolf Fur Covered Segmentata Shoulders" mesh="cla_roman_shoulders_segmentata_wolf" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_shoulders_rich_wolf" name="{=cla_empire_segmentata_shoulders_rich_wolf}[Empire]Wolf Fur Covered Rich Segmentata Shoulders" mesh="cla_roman_shoulders_segmentata_rich_wolf" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_segmentata_shoulders_wolf_cape" name="{=cla_empire_segmentata_shoulders_wolf_cape}[Empire]Wolf Fur Covered Segmentata Shoulders with Cape" mesh="cla_roman_shoulders_segmentata_wolf_cape" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_shoulders_praetorian_wolf_cape" name="{=cla_empire_segmentata_shoulders_praetorian_wolf_cape}[Empire]Wolfskin Praetorian Shoulders with Cape" mesh="cla_roman_shoulders_segmentata_praetorian_wolf_cape" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_segmentata_shoulders_rich_wolf_cape" name="{=cla_empire_segmentata_shoulders_wolf_cape}[Empire]Wolf Fur Covered Rich Segmentata Shoulders with Cape" mesh="cla_roman_shoulders_segmentata_rich_wolf_cape" culture="Culture.empire" weight="5.0" appearance="2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -1587,7 +1587,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1608,7 +1608,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1629,7 +1629,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1650,7 +1650,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1671,7 +1671,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1694,7 +1694,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1715,7 +1715,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1736,7 +1736,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1757,7 +1757,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1778,7 +1778,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1801,7 +1801,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1822,7 +1822,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1843,7 +1843,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1864,7 +1864,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1885,7 +1885,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1908,7 +1908,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1929,7 +1929,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1950,7 +1950,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1971,7 +1971,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1992,7 +1992,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2015,7 +2015,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2036,7 +2036,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2057,7 +2057,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2078,7 +2078,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2099,7 +2099,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2122,7 +2122,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="none"
@@ -2143,7 +2143,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="none"
@@ -2155,7 +2155,7 @@
 
   <Item id="cla_roman_shoulder_cape_elite_1" name="{=cla_roman_shoulder_cape_elite_1}[Empire]Lord's Cloak" mesh="cla_empire_shoulder_cape_elite" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -2164,19 +2164,19 @@
 <!-- Centurion / Signifier -->
   <Item id="cla_empire_centurion_squamata_brass_1" name="{=cla_empire_centurion_squamata_brass_1}[Empire]Centurion Brass Squamata" mesh="cla_centurion_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_centurion_squamata_iron_1" name="{=cla_empire_centurion_squamata_iron_1}[Empire]Centurion Iron Squamata" mesh="cla_centurion_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_centurion_hamata_1" name="{=cla_empire_centurion_hamata_1}[Empire]Centurion Hamata" mesh="cla_centurion_hamata" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2184,7 +2184,7 @@
 <!-- T6 -->
   <Item id="cla_empire_centurion_hamata_gold_1" name="{=cla_empire_centurion_hamata_gold_1}[Empire]Pilus Prior Hamata" mesh="cla_centurion_hamata_gold" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2192,113 +2192,113 @@
 <!-- Syrian Archer Squamata -->
   <Item id="cla_empire_squamata_dress_brass_1" name="{=cla_empire_squamata_dress_brass_1}[Empire]Brass Auxilia Squamata" mesh="cla_roman_squamata_dress_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_dress_iron_1" name="{=cla_empire_squamata_dress_iron_1}[Empire]Iron Auxilia Squamata" mesh="cla_roman_squamata_dress_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_dress_mix_1" name="{=cla_empire_squamata_dress_mix_1}[Empire]Mixed Auxilia Squamata" mesh="cla_roman_squamata_dress_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_squamata_dress_brass_2" name="{=cla_empire_squamata_dress_brass_2}[Empire]Brass Improved Auxilia Squamata" mesh="cla_roman_squamata_dress_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_dress_iron_2" name="{=cla_empire_squamata_dress_iron_2}[Empire]Iron Improved Auxilia Squamata" mesh="cla_roman_squamata_dress_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_dress_mix_2" name="{=cla_empire_squamata_dress_mix_2}[Empire]Mixed Improved Auxilia Squamata" mesh="cla_roman_squamata_dress_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_squamata_skirt_brass_1" name="{=cla_empire_squamata_skirt_brass_1}[Empire]Brass Squamata with Cingulum" mesh="cla_roman_squamata_skirt_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_skirt_iron_1" name="{=cla_empire_squamata_skirt_iron_1}[Empire]Iron Squamata with Cingulum" mesh="cla_roman_squamata_skirt_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_skirt_mix_1" name="{=cla_empire_squamata_skirt_mix_1}[Empire]Mixed Squamata with Cingulum" mesh="cla_roman_squamata_skirt_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_squamata_brass_1" name="{=cla_empire_squamata_brass_1}[Empire]Brass Squamata with Trousers and Cingulum" mesh="cla_roman_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_iron_1" name="{=cla_empire_squamata_iron_1}[Empire]Iron Squamata with Trousers and Cingulum" mesh="cla_roman_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_mix_1" name="{=cla_empire_squamata_mix_1}[Empire]Mixed Squamata with Trousers and Cingulum" mesh="cla_roman_squamata_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_squamata_skirt_brass_2" name="{=cla_empire_squamata_skirt_brass_2}[Empire]Sturdy Brass Squamata with Cingulum" mesh="cla_roman_squamata_skirt_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_skirt_iron_2" name="{=cla_empire_squamata_iron_2}[Empire]Sturdy Iron Squamata with Cingulum" mesh="cla_roman_squamata_skirt_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_skirt_mix_2" name="{=cla_empire_squamata_skirt_mix_2}[Empire]Sturdy Mixed Squamata with Cingulum" mesh="cla_roman_squamata_skirt_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_brass_2" name="{=cla_empire_squamata_brass_2}[Empire]Sturdy Brass Squamata with Trousers and Cingulum" mesh="cla_roman_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_iron_2" name="{=cla_empire_squamata_iron_2}[Empire]Sturdy Iron Squamata with Trousers and Cingulum" mesh="cla_roman_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_mix_2" name="{=cla_empire_squamata_mix_2}[Empire]Sturdy Mixed Squamata with Cingulum" mesh="cla_roman_squamata_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2307,37 +2307,37 @@
 <!-- Lord or Praetorian -->
   <Item id="cla_empire_squamata_skirt_brass_3" name="{=cla_empire_squamata_skirt_brass_3}[Empire]Reinforced Brass Squamata with Cingulum" mesh="cla_roman_squamata_skirt_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_skirt_iron_3" name="{=cla_empire_squamata_skirt_iron_3}[Empire]Reinforced Iron Squamata with Cingulum" mesh="cla_roman_squamata_skirt_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_skirt_mix_3" name="{=cla_empire_squamata_skirt_mix_3}[Empire]Reinforced Mixed Squamata with Cingulum" mesh="cla_roman_squamata_skirt_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_brass_3" name="{=cla_empire_squamata_brass_3}[Empire]Reinforced Brass Squamata with Trousers and Cingulum" mesh="cla_roman_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_iron_3" name="{=cla_empire_squamata_iron_3}[Empire]Reinforced Iron Squamata with Trousers and Cingulum" mesh="cla_roman_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_mix_3" name="{=cla_empire_squamata_mix_3}[Empire]Reinforced Mixed Squamata with Trousers and Cingulum" mesh="cla_roman_squamata_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2345,57 +2345,57 @@
 <!-- Elite -->
   <Item id="cla_empire_elite_squamata_brass_1" name="{=cla_empire_elite_squamata_brass_1}[Empire]Brass Squamata with Pteryges" mesh="cla_roman_elite_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_elite_squamata_iron_1" name="{=cla_empire_elite_squamata_iron_1}[Empire]Iron Squamata with Pteryges" mesh="cla_roman_elite_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_elite_hamata_1" name="{=cla_empire_centurion_hamata_1}[Empire]Rich Hamata" mesh="cla_roman_elite_hamata" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_elite_squamata_brass_2" name="{=cla_empire_elite_squamata_brass_2}[Empire]Sturdy Brass Squamata with Pteryges" mesh="cla_roman_elite_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_elite_squamata_iron_2" name="{=cla_empire_elite_squamata_iron_2}[Empire]Sturdy Iron Squamata with Pteryges" mesh="cla_roman_elite_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_elite_hamata_2" name="{=cla_empire_elite_hamata_2}[Empire]Sturdy Rich Hamata" mesh="cla_roman_elite_hamata" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_elite_squamata_brass_3" name="{=cla_empire_elite_squamata_brass_3}[Empire]Reinforced Brass Squamata with Pteryges" mesh="cla_roman_elite_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_elite_squamata_iron_3" name="{=cla_empire_elite_squamata_iron_3}[Empire]Reinforced Iron Squamata with Pteryges" mesh="cla_roman_elite_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_elite_hamata_3" name="{=cla_empire_elite_hamata_3}[Empire]Reinforced Rich Hamata" mesh="cla_roman_elite_hamata" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2403,7 +2403,7 @@
 <!-- Delete-->
   <Item id="cla_empire_musculata_leather_strip_1" name="000000DELETEINGSOONSELLTHIS" mesh="cla_roman_musculata_leather_strip" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2415,13 +2415,13 @@
 <!-- Leather Musculata -->
   <Item id="cla_empire_musculata_leather_plain_1" name="{=cla_empire_musculata_leather_plain_1}[Empire]Leather Musculata" mesh="cla_roman_musculata_basic_leather" value="35000" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_musculata_leather_1" name="{=cla_empire_musculata_leather_1}[Empire]Leather Musculata with Pteryges" mesh="cla_roman_musculata_basic_leather_pteryges" value="35000" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2430,26 +2430,26 @@
 
   <Item id="cla_empire_musculata_praetorian_plain_1" name="{=cla_empire_musculata_praetorian_plain_1}[Empire]Praetorian Musculata" mesh="cla_roman_musculata_basic_praetorian" value="60000" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_musculata_praetorian_1" name="{=cla_empire_musculata_praetorian_1}[Empire]Praetorian Musculata with Pteryges" mesh="cla_roman_musculata_basic_praetorian_pteryges" subtype="body_armor" culture="Culture.empire" value="50000" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_musculata_praetorian_plain_2" name="{=cla_empire_musculata_praetorian_plain_2}[Empire]Praetorian Griffon Musculata" mesh="cla_roman_musculata_griffon_praetorian" value="60000" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_musculata_praetorian_strip_1" name="{=cla_empire_musculata_praetorian_strip_1}[Empire]Praetorian Griffon Musculata with Pteryges" mesh="cla_roman_musculata_griffon_praetorian_pteryges" value="60000" subtype="body_armor" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2458,26 +2458,26 @@
 <!-- Brass Musculata -->
   <Item id="cla_empire_musculata_brass_plain_1" name="{=cla_empire_musculata_brass_plain_1}[Empire]Brass Musculata" mesh="cla_roman_musculata_basic_brass" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_musculata_brass_1" name="{=cla_empire_musculata_brass_1}[Empire]Brass Musculata with Pteryges" mesh="cla_roman_musculata_basic_brass_pteryges" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_musculata_griffon_brass" name="{=cla_empire_musculata_griffon_brass}[Empire]Brass Griffon Musculata" mesh="cla_roman_musculata_griffon_brass" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_musculata_brass_strip_1" name="{=cla_empire_musculata_brass_strip_1}[Empire]Brass Griffon Musculata with Pteryges" mesh="cla_roman_musculata_griffon_brass_pteryges" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2485,26 +2485,26 @@
 <!-- Iron Musculata -->
   <Item id="cla_empire_musculata_iron_plain_1" name="{=cla_empire_musculata_iron_plain_1}[Empire]Iron Musculata" mesh="cla_roman_musculata_basic_iron" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
     <Item id="cla_empire_musculata_iron_1" name="{=cla_empire_musculata_iron_1}[Empire]Iron Musculata with Pteryges" mesh="cla_roman_musculata_basic_iron_pteryges" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_musculata_griffon_iron" name="{=cla_empire_musculata_griffon_iron}[Empire]Iron Griffon Musculata" mesh="cla_roman_musculata_griffon_iron" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_musculata_iron_strip_1" name="{=cla_empire_musculata_iron_strip_1}[Empire]Iron Griffon Musculata with Pteryges" mesh="cla_roman_musculata_griffon_iron_pteryges" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2512,26 +2512,26 @@
 <!-- Lord / Brass Trimmed Iron Musculata -->
   <Item id="cla_empire_musculata_lord_plain_1" name="{=cla_empire_musculata_lord_plain_1}[Empire]Brass Trimmed Iron Musculata" mesh="cla_roman_musculata_basic_lord" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_musculata_lord_1" name="{=cla_empire_musculata_lord_1}[Empire]Brass Trimmed Iron Musculata with Pteryges" mesh="cla_roman_musculata_basic_lord_pteryges" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
 
   <Item id="cla_empire_musculata_griffon_lord" name="{=cla_empire_musculata_griffon_lord}[Empire]Lord's Musculata" mesh="cla_roman_musculata_griffon_lord" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_musculata_lord_strip_1" name="{=cla_empire_musculata_lord_strip_1}[Empire]Lord's Musculata with Pteryges" mesh="cla_roman_musculata_griffon_lord_pteryges" subtype="body_armor" value="60000" culture="Culture.empire" is_merchandise="true" weight="22.1" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -2634,50 +2634,50 @@
 <!-- Shoulders -->
   <Item id="cla_roman_squamata_shoulders_iron" name="{=cla_roman_squamata_shoulders_iron}[Empire]Iron Scale Shoulders" mesh="cla_roman_squamata_shoulders_iron" culture="Culture.empire" weight="4" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_roman_squamata_shoulders_brass" name="{=cla_roman_squamata_shoulders_brass}[Empire]Brass Scale Shoulders" mesh="cla_roman_squamata_shoulders_brass" culture="Culture.empire" weight="4" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_roman_squamata_shoulders_mix" name="{=cla_roman_squamata_shoulders_mix}[Empire]Mixed Scale Shoulders" mesh="cla_roman_squamata_shoulders_mix" culture="Culture.empire" weight="4" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_roman_squamata_shoulders_iron_2" name="{=cla_roman_squamata_shoulders_iron_2}[Empire]Iron Reinforced Scale Shoulders" mesh="cla_roman_squamata_shoulders_iron" culture="Culture.empire" weight="4" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_roman_squamata_shoulders_brass_2" name="{=cla_roman_squamata_shoulders_brass_2}[Empire]Brass Reinforced Scale Shoulders" mesh="cla_roman_squamata_shoulders_brass" culture="Culture.empire" weight="4" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_roman_squamata_shoulders_mix_2" name="{=cla_roman_squamata_shoulders_mix_2}[Empire]Mixed Reinforced Scale Shoulders" mesh="cla_roman_squamata_shoulders_mix" culture="Culture.empire" weight="4" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_roman_shoulder_cape_1" name="{=cla_roman_shoulder_cape_1}[Empire]Shoulder Cape" mesh="cla_empire_shoulder_cape_team" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_roman_shoulder_cape_2" name="{=cla_roman_shoulder_cape_2}[Empire]Rich Shoulder Cape" mesh="cla_empire_shoulder_cape_team" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
@@ -2685,19 +2685,19 @@
 
   <Item id="cla_roman_cloak" name="{=cla_roman_cloak}[Empire]Imperial Short Cloak" mesh="cla_plain_cloak" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_roman_cloak_2" name="{=cla_roman_cloak_2}[Empire]Sturdy Imperial Short Cloak" mesh="cla_plain_cloak" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_roman_cloak_3" name="{=cla_roman_cloak_3}[Empire]Reinforced Imperial Short Cloak" mesh="cla_plain_cloak" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
@@ -2705,57 +2705,57 @@
 
   <Item id="cla_roman_focale_1" name="{=cla_roman_focale_1}[Empire]Cheap Focale" mesh="cla_roman_focale_1" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_roman_focale_2" name="{=cla_roman_focale_2}[Empire]Focale" mesh="cla_roman_focale_1" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_roman_focale_3" name="{=cla_roman_focale_3}[Empire]Well-Made Focale" mesh="cla_roman_focale_1" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
 
   <Item id="cla_roman_fur_cape_1" name="{=cla_roman_fur_cape_1}[Empire]Fur Cape" subtype="body_armor" mesh="battania_civil_cape" culture="Culture.empire" is_merchandise="true" weight="4.5" difficulty="0" appearance="1.5" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_roman_fur_cape_2" name="{=cla_roman_fur_cape_2}[Empire]Veteran's Fur Cape" subtype="body_armor" mesh="battania_civil_cape" culture="Culture.empire" is_merchandise="true" weight="4.5" difficulty="0" appearance="1.5" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_roman_fur_cape_3" name="{=cla_roman_fur_cape_3}[Empire]Praetorians's Fur Cape" subtype="body_armor" mesh="battania_civil_cape" culture="Culture.empire" is_merchandise="true" weight="4.5" difficulty="0" appearance="1.5" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="cloth" material_type="Cloth" />
+      <Armor body_armor="35" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_bolted_leather_strips_1" name="{=cla_bolted_leather_strips_1}[Empire]Leather Aged Strips" mesh="cla_roman_strip_shoulders_1" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="leather" material_type="Leather" />
+      <Armor body_armor="35" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_bolted_leather_strips_2" name="{=cla_bolted_leather_strips_2}[Empire]Leather Bolted Strips" mesh="cla_roman_strip_shoulders_1" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="leather" material_type="Leather" />
+      <Armor body_armor="35" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_bolted_leather_strips_3" name="{=cla_bolted_leather_strips_1}[Empire]Leather Reinforced Strips" mesh="cla_roman_strip_shoulders_1" culture="Culture.empire" is_merchandise="true" weight="0.5" appearance="1" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="30" modifier_group="leather" material_type="Leather" />
+      <Armor body_armor="35" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -2777,7 +2777,7 @@
         has_lower_holster_priority="true">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="86"
 			        thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -2815,7 +2815,7 @@
         has_lower_holster_priority="true">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="86"
 			        thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -2851,7 +2851,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2873,7 +2873,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2895,7 +2895,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2919,7 +2919,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2941,7 +2941,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2963,7 +2963,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -2986,7 +2986,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3008,7 +3008,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3030,7 +3030,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3053,7 +3053,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3075,7 +3075,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3097,7 +3097,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3118,7 +3118,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3139,7 +3139,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3160,7 +3160,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3183,7 +3183,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3204,7 +3204,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3225,7 +3225,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3247,7 +3247,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3267,7 +3267,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3287,7 +3287,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3309,7 +3309,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3329,7 +3329,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3349,7 +3349,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3369,7 +3369,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3389,7 +3389,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3409,7 +3409,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3431,7 +3431,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3451,7 +3451,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3472,7 +3472,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type2"
@@ -3492,7 +3492,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type2"
@@ -3513,7 +3513,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type2"
@@ -3533,7 +3533,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type2"
@@ -3554,7 +3554,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type2"
@@ -3574,7 +3574,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type2"
@@ -3597,7 +3597,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3618,7 +3618,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3639,7 +3639,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3662,7 +3662,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3683,7 +3683,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3704,7 +3704,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3725,7 +3725,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3746,7 +3746,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3767,7 +3767,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3789,7 +3789,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3810,7 +3810,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3831,7 +3831,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3855,7 +3855,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3876,7 +3876,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3898,7 +3898,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3919,7 +3919,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3943,8 +3943,8 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
-             body_armor="30"
+      <Armor head_armor="35"
+             body_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3965,8 +3965,8 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
-             body_armor="30"
+      <Armor head_armor="35"
+             body_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3987,8 +3987,8 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
-             body_armor="30"
+      <Armor head_armor="35"
+             body_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4009,8 +4009,8 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
-             body_armor="30"
+      <Armor head_armor="35"
+             body_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4031,8 +4031,8 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
-             body_armor="30"
+      <Armor head_armor="35"
+             body_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4053,8 +4053,8 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
-             body_armor="30"
+      <Armor head_armor="35"
+             body_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4079,8 +4079,8 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
-             body_armor="30"
+      <Armor head_armor="35"
+             body_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4101,8 +4101,8 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
-             body_armor="30"
+      <Armor head_armor="35"
+             body_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4117,25 +4117,25 @@
 <!-- Helmless -->
   <Item id="cla_cape_wolf_brown" name="{=cla_cape_wolf_brown}[Empire]Brown Wolfskin" subtype="head_armor" mesh="cla_cape_wolf_brown" culture="Culture.empire" is_merchandise="true" weight="1.3" difficulty="0" appearance="1.5" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30" body_armor="30" has_gender_variations="false" hair_cover_type="none" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
+      <Armor head_armor="35" body_armor="35" has_gender_variations="false" hair_cover_type="none" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags  Civilian="true"/>
   </Item>
   <Item id="cla_cape_wolf_gray" name="{=cla_cape_wolf_gray}[Empire]Gray Wolfskin" subtype="head_armor" mesh="cla_cape_wolf_gray" culture="Culture.empire" is_merchandise="true" weight="1.3" difficulty="0" appearance="1.5" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30" body_armor="30" has_gender_variations="false" hair_cover_type="none" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
+      <Armor head_armor="35" body_armor="35" has_gender_variations="false" hair_cover_type="none" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags  Civilian="true"/>
   </Item>
   <Item id="cla_cape_wolf_black" name="{=cla_cape_wolf_black}[Empire]Black Wolfskin" subtype="head_armor" mesh="cla_cape_wolf_black" culture="Culture.empire" is_merchandise="true" weight="1.3" difficulty="0" appearance="1.5" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30" body_armor="30" has_gender_variations="false" hair_cover_type="none" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
+      <Armor head_armor="35" body_armor="35" has_gender_variations="false" hair_cover_type="none" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags  Civilian="true"/>
   </Item>
   <Item id="cla_cape_bear" name="{=cla_cape_bear}[Empire]Bearskin" subtype="head_armor" mesh="cla_cape_bear" culture="Culture.empire" is_merchandise="true" weight="1.3" difficulty="0" appearance="1.5" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30" body_armor="30" has_gender_variations="false" hair_cover_type="none" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
+      <Armor head_armor="35" body_armor="35" has_gender_variations="false" hair_cover_type="none" beard_cover_type="none" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags  Civilian="true"/>
   </Item>
@@ -4149,7 +4149,7 @@
 <!-- Round Shields -->
   <Item id="cla_roman_round_shield_1" name="{=cla_roman_round_shield_1}[Empire]Round Shield" using_tableau="true" body_name="bo_cap_aserai_shields_c" shield_body_name="bo_aserai_shields_d" recalculate_body="false" mesh="aserai_shields_d" culture="Culture.empire" is_merchandise="true" weight="7.3" appearance="1" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.12,-0.15,-0.025">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="30" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="60" center_of_mass="-0.0, 0.1, 0.1" hit_points="245">
+      <Weapon weapon_class="LargeShield" body_armor="35" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="60" center_of_mass="-0.0, 0.1, 0.1" hit_points="245">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
     </ItemComponent>
@@ -4157,7 +4157,7 @@
   </Item>
   <Item id="cla_roman_round_shield_2" name="{=cla_roman_round_shield_2}[Empire]Sturdy Round Shield" using_tableau="true" body_name="bo_cap_aserai_shields_c" shield_body_name="bo_aserai_shields_d" recalculate_body="false" mesh="aserai_shields_d" culture="Culture.empire" is_merchandise="true" weight="7.3" appearance="1" Type="Shield" item_holsters="shield:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.12,-0.15,-0.025">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="30" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="60" center_of_mass="-0.0, 0.1, 0.1" hit_points="345">
+      <Weapon weapon_class="LargeShield" body_armor="35" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="60" center_of_mass="-0.0, 0.1, 0.1" hit_points="345">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
     </ItemComponent>
@@ -4168,7 +4168,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="200">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4180,7 +4180,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="300">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4192,7 +4192,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="400">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4204,7 +4204,7 @@
 <!-- Hex -->
   <Item id="cla_roman_cavalry_shield_1" name="{=cla_roman_cavalry_shield_1}[Empire]Praetorian Shield" body_name="bo_cap_cla_roman_shield_praetorian_cav" shield_body_name="bo_cla_roman_shield_praetorian_cav" recalculate_body="false" mesh="cla_roman_shield_praetorian_cav_1" using_tableau="true" weight="3.5" appearance="0.5" culture="Culture.empire" is_merchandise="true" Type="Shield" item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="30" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="104" center_of_mass="0.0,0.0,0.0" hit_points="390">
+      <Weapon weapon_class="LargeShield" body_armor="35" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="104" center_of_mass="0.0,0.0,0.0" hit_points="390">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
     </ItemComponent>
@@ -4212,7 +4212,7 @@
   </Item>
   <Item id="cla_roman_cavalry_shield_2" name="{=cla_roman_cavalry_shield_2}[Empire]Praetorian Reinforced Shield" body_name="bo_cap_cla_roman_shield_praetorian_cav" shield_body_name="bo_cla_roman_shield_praetorian_cav" recalculate_body="false" mesh="cla_roman_shield_praetorian_cav_2" using_tableau="true" weight="3.5" culture="Culture.empire" is_merchandise="true" appearance="1" Type="Shield" item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="30" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="104" center_of_mass="0.0,0.0,0.0" hit_points="430">
+      <Weapon weapon_class="LargeShield" body_armor="35" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="104" center_of_mass="0.0,0.0,0.0" hit_points="430">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
     </ItemComponent>
@@ -4220,7 +4220,7 @@
   </Item>
   <Item id="cla_roman_cavalry_shield_3" name="{=cla_roman_cavalry_shield_3}[Empire]Praetorian Reinforced Cavalry Shield" body_name="bo_cap_cla_roman_shield_praetorian_cav" shield_body_name="bo_cla_roman_shield_praetorian_cav" recalculate_body="false" mesh="cla_roman_shield_praetorian_cav_3" using_tableau="true" weight="3.5" culture="Culture.empire" is_merchandise="true" appearance="1.1" Type="Shield" item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="30" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="104" center_of_mass="0.0,0.0,0.0" hit_points="480">
+      <Weapon weapon_class="LargeShield" body_armor="35" thrust_speed="82" thrust_damage="5" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="104" center_of_mass="0.0,0.0,0.0" hit_points="480">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
     </ItemComponent>
@@ -4233,7 +4233,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="200">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4246,7 +4246,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="350">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4259,7 +4259,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="450">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4276,7 +4276,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="370">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4290,7 +4290,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="500">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4305,7 +4305,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="500">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4320,7 +4320,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="200">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4333,7 +4333,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="350">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4346,7 +4346,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="450">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4361,7 +4361,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="200">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4374,7 +4374,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="350">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4387,7 +4387,7 @@
   item_holsters="shield_round:shield_4" has_lower_holster_priority="false" holster_position_shift="-0.15,-0.1,0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield" 
-      body_armor="30" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      body_armor="35" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19, -.05, 0.13" rotation="-20,40,-10" weapon_length="111" 
       center_of_mass="0.0,0,0" hit_points="450">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
@@ -4411,7 +4411,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4432,7 +4432,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4453,7 +4453,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4474,7 +4474,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4495,7 +4495,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4516,7 +4516,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4538,7 +4538,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4559,7 +4559,7 @@
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -4575,7 +4575,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="23000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4588,7 +4588,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="23000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4602,7 +4602,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="23000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4615,7 +4615,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="23000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4630,7 +4630,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="35000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4643,7 +4643,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="35000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4656,7 +4656,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="35000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4669,7 +4669,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="35000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4682,7 +4682,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="35000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4695,7 +4695,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="35000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4711,7 +4711,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4724,7 +4724,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4737,7 +4737,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4750,7 +4750,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4764,7 +4764,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4777,7 +4777,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4790,7 +4790,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4803,7 +4803,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4817,7 +4817,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4830,7 +4830,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4843,7 +4843,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4856,7 +4856,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4870,7 +4870,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4883,7 +4883,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4896,7 +4896,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4909,7 +4909,7 @@
   culture="Culture.empire" subtype="head_armor" weight="3.8" difficulty="0" appearance="1" is_merchandise="true" value="30000" Type="headArmor">
     <ItemComponent>
       <Armor 
-      head_armor="30" 
+      head_armor="35" 
       has_gender_variations="false" 
       hair_cover_type="type1" 
       beard_cover_type="type2" 
@@ -4927,7 +4927,7 @@
 <!-- M + 10 -->
   <Item id="cla_empire_hamata_morale" name="{=cla_empire_hamata_morale}[Empire][Morale:10]Signifier's Hamata" mesh="cla_roman_hamata_mix_cingulum_3" culture="Culture.empire" is_merchandise="true" value="28000" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" has_gender_variations="true" covers_body="false" modifier_group="chain" material_type="Chainmail" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -4937,19 +4937,19 @@
 <!-- M + 10 -->
   <Item id="cla_empire_squamata_iron_morale" name="{=cla_empire_squamata_iron_morale}[Empire][Morale:15]Signifier's Iron Squamata" mesh="cla_roman_squamata_skirt_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="12.7" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_brass_morale" name="{=cla_empire_squamata_brass_morale}[Empire][Morale:15]Signifier's Brass Squamata" mesh="cla_roman_squamata_skirt_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="12.7" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_mix_morale" name="{=cla_empire_squamata_mix_morale}[Empire][Morale:15]Signifier's Mixed Squamata" mesh="cla_roman_squamata_skirt_mix" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="12.7" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -4958,13 +4958,13 @@
 <!-- M + 15 -->
   <Item id="cla_empire_squamata_iron_medals_1_morale" name="{=cla_empire_squamata_iron_medals_1_morale}[Empire][Morale:15]Signifier's Iron Squamata with Medals" mesh="cla_centurion_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="12.7" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_brass_medals_1_morale" name="{=cla_empire_squamata_brass_medals_1_morale}[Empire][Morale:15]Signifier's Brass Squamata with Medals" mesh="cla_centurion_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="12.7" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
@@ -4973,13 +4973,13 @@
 <!-- M + 20 -->
   <Item id="cla_empire_squamata_iron_medals_2_morale" name="{=cla_empire_squamata_iron_medals_2_morale}[Empire][Morale:15]Aquilifer's Iron Squamata" mesh="cla_centurion_squamata_iron" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="12.7" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>
   <Item id="cla_empire_squamata_brass_medals_2_morale" name="{=cla_empire_squamata_brass_medals_2_morale}[Empire][Morale:15]Aquilifer's Brass Squamata" mesh="cla_centurion_squamata_brass" subtype="body_armor" culture="Culture.empire" is_merchandise="true" value="50000" weight="12.7" difficulty="0" appearance="1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="30" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="35" leg_armor="5" arm_armor="5" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags UseTeamColor="true" Civilian="true"/>
   </Item>

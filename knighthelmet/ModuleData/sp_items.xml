@@ -16,7 +16,7 @@ Then head in game and open your inventory, all items in game will be on the left
         appearance="3"
         Type="headArmor">
     <ItemComponent>
-      <Armor head_armor="30"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="all"

@@ -18,7 +18,7 @@
         holster_position_shift="0,0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="86"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -56,7 +56,7 @@
         holster_position_shift="0,0,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="89"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -94,7 +94,7 @@
         holster_position_shift="0,0,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -132,7 +132,7 @@
         holster_position_shift="0,0,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -170,7 +170,7 @@
         holster_position_shift="0,0,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -208,7 +208,7 @@
         holster_position_shift="0,0,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -231,7 +231,7 @@
   </Item>
   <!-- <Item id="heavy_oval_shield" name="Heavy Oval Shield" item_modifier_group="shield_wood" mesh="aserai_shields_a" using_tableau="true" culture="Culture.aserai" weight="2.3" appearance="0.7">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_name="bo_cap_aserai_shields_a" shield_body_name="bo_aserai_shields_a" recalculate_body="false" body_armor="30" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, 0.02, 0.05" rotation="-2.0,12.0,35.00" has_lower_holster_priority="true" item_holsters="shield_oval:shield_4:shield_3:shield_2" weapon_length="135" center_of_mass="0, 0, 0" holster_position_shift="0.0,0,0" hit_points="300">
+      <Weapon weapon_class="LargeShield" body_name="bo_cap_aserai_shields_a" shield_body_name="bo_aserai_shields_a" recalculate_body="false" body_armor="35" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.05, 0.02, 0.05" rotation="-2.0,12.0,35.00" has_lower_holster_priority="true" item_holsters="shield_oval:shield_4:shield_3:shield_2" weapon_length="135" center_of_mass="0, 0, 0" holster_position_shift="0.0,0,0" hit_points="300">
         <WeaponFlags>
           <WeaponFlag name="CanBlockRanged" />
           <WeaponFlag name="HasHitPoints" />
@@ -260,7 +260,7 @@
         holster_position_shift="-0.04,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -296,7 +296,7 @@
         holster_position_shift="-0.12,-0.20,-0.08">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -332,7 +332,7 @@
         holster_position_shift="-0.12,-0.15,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -369,7 +369,7 @@
         holster_position_shift="-0.12,-0.15,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -405,7 +405,7 @@
         holster_position_shift="-0.07,-0.1,-0.0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -441,7 +441,7 @@
         holster_position_shift="-0.1,-0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -476,7 +476,7 @@
         holster_position_shift="-0.1,-0.07,-0.05">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -512,7 +512,7 @@
         holster_position_shift="-0.1,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -548,7 +548,7 @@
         holster_position_shift="0.0,0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -585,7 +585,7 @@
         holster_position_shift="0.0,0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -621,7 +621,7 @@
         holster_position_shift="0.0,0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -657,7 +657,7 @@
         holster_position_shift="-0.06,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -692,7 +692,7 @@
         holster_position_shift="0.0,0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -728,7 +728,7 @@
         holster_position_shift="0.0,0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -764,7 +764,7 @@
         holster_position_shift="0.0,0.1,0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -800,7 +800,7 @@
         holster_position_shift="-0.1,0,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -836,7 +836,7 @@
         holster_position_shift="-0.1,0,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -872,7 +872,7 @@
         holster_position_shift="-0.1,0,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_damage="5"
               thrust_damage_type="Blunt"
               thrust_speed="82"
@@ -908,7 +908,7 @@
         holster_position_shift="-0.1,0,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -943,7 +943,7 @@
         holster_position_shift="-0.1,0,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -978,7 +978,7 @@
         holster_position_shift="-0.1,0,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1013,7 +1013,7 @@
         holster_position_shift="-0.1,-0.1,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1048,7 +1048,7 @@
         holster_position_shift="-0.1,-0.1,0.035">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1083,7 +1083,7 @@
         holster_position_shift="-0.1,-0.1,0.035">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1118,7 +1118,7 @@
         holster_position_shift="-0.1,-0.1,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="94"
@@ -1154,7 +1154,7 @@
         holster_position_shift="-0.1,-0.1,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_damage="5"
               thrust_damage_type="Blunt"
               thrust_speed="82"
@@ -1190,7 +1190,7 @@
         holster_position_shift="-0.1,-0.1,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1225,7 +1225,7 @@
         holster_position_shift="-0.1,-0.1,0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="103"
@@ -1260,7 +1260,7 @@
         holster_position_shift="-0.1,-0.1,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1295,7 +1295,7 @@
         holster_position_shift="-0.1,-0.0,0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1330,7 +1330,7 @@
         holster_position_shift="-0.1,-0.0,0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1365,7 +1365,7 @@
         holster_position_shift="-0.1,-0.0,0.0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="91"
@@ -1400,7 +1400,7 @@
         holster_position_shift="-0.1,-0.0,-0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1422,7 +1422,7 @@
   </Item>
   <!-- <Item id="bound_heater_shield" name="Bound Heater Shield" item_modifier_group="shield_wood" mesh="heater_shield_a" using_tableau="true" weight="4.7" appearance="1">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_name="bo_cap_heater_shield_a" shield_body_name="bo_heater_shield_a" recalculate_body="false" body_armor="30" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.15, 0.0, 0.02" rotation="1.68,14.30,33.00" has_lower_holster_priority="true" item_holsters="shield:shield_2:shield_3:shield_4" weapon_length="130" center_of_mass="0.0,0.2,0.05" holster_position_shift="0.0,-0.2,0" hit_points="480">
+      <Weapon weapon_class="LargeShield" body_name="bo_cap_heater_shield_a" shield_body_name="bo_heater_shield_a" recalculate_body="false" body_armor="35" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.15, 0.0, 0.02" rotation="1.68,14.30,33.00" has_lower_holster_priority="true" item_holsters="shield:shield_2:shield_3:shield_4" weapon_length="130" center_of_mass="0.0,0.2,0.05" holster_position_shift="0.0,-0.2,0" hit_points="480">
         <WeaponFlags>
           <WeaponFlag name="CanBlockRanged" />
           <WeaponFlag name="HasHitPoints" />
@@ -1451,7 +1451,7 @@
         holster_position_shift="-0.1,0.0,0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="97"
@@ -1486,7 +1486,7 @@
         holster_position_shift="-0.1,0.0,0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1521,7 +1521,7 @@
         holster_position_shift="-0.1,-0.1,-0.0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1556,7 +1556,7 @@
         holster_position_shift="-0.1,-0.0,-0.0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1591,7 +1591,7 @@
         holster_position_shift="-0.10,0.1,0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="93"
@@ -1626,7 +1626,7 @@
         holster_position_shift="-0.1,0,0.025">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="87"
@@ -1661,7 +1661,7 @@
         holster_position_shift="-0.08,0,0.0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="95"
@@ -1696,7 +1696,7 @@
         holster_position_shift="-0.1,-0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1731,7 +1731,7 @@
         holster_position_shift="-0.1,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1766,7 +1766,7 @@
         holster_position_shift="-0.1,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="85"
@@ -1801,7 +1801,7 @@
         holster_position_shift="-0.1,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1836,7 +1836,7 @@
         holster_position_shift="-0.1,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1871,7 +1871,7 @@
         holster_position_shift="-0.1,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1906,7 +1906,7 @@
         holster_position_shift="-0.04,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1941,7 +1941,7 @@
         holster_position_shift="-0.04,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -1976,7 +1976,7 @@
         holster_position_shift="-0.04,-0.0,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2011,7 +2011,7 @@
         holster_position_shift="-0.1,-0.05,-0.04">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2046,7 +2046,7 @@
         holster_position_shift="-0.1,-0.05,-0.04">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="120"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2081,7 +2081,7 @@
         holster_position_shift="-0.1,-0.05,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2116,7 +2116,7 @@
         holster_position_shift="-0.1,-0.05,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2151,7 +2151,7 @@
         holster_position_shift="-0.1,-0.05,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2186,7 +2186,7 @@
         holster_position_shift="-0.1,-0.05,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2221,7 +2221,7 @@
         holster_position_shift="-0.1,-0.1,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2257,7 +2257,7 @@
         holster_position_shift="-0.1,-0.1,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2292,7 +2292,7 @@
         holster_position_shift="-0.1,-0.1,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2327,7 +2327,7 @@
         holster_position_shift="-0.1,-0.1,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2362,7 +2362,7 @@
         holster_position_shift="-0.1,-0.1,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2397,7 +2397,7 @@
         holster_position_shift="-0.1,-0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="101"
@@ -2432,7 +2432,7 @@
         holster_position_shift="-0.1,-0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2467,7 +2467,7 @@
         holster_position_shift="0.0,0,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -2504,7 +2504,7 @@
         holster_position_shift="0.0,0,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -2542,7 +2542,7 @@
         holster_position_shift="0.0,0,0.01">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -2578,7 +2578,7 @@
         holster_position_shift="-0.1,-0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2614,7 +2614,7 @@
         holster_position_shift="-0.1,-0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2649,7 +2649,7 @@
         holster_position_shift="-0.1,-0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2684,7 +2684,7 @@
         holster_position_shift="-0.1,-0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -2720,7 +2720,7 @@
         holster_position_shift="-0.1,0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2756,7 +2756,7 @@
         holster_position_shift="-0.1,0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
@@ -2791,7 +2791,7 @@
         holster_position_shift="-0.1,0.1,0">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="30"
+              body_armor="35"
               thrust_speed="82"
               thrust_damage_type="Blunt"
               speed_rating="82"
