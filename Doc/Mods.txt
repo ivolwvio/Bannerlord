@@ -31,10 +31,12 @@ swadian armoury
 vlandian armoury
 Fire Arrow Enabler
 Sparta
+VlandianKnightsLances
 
-#Additional mods that are not displayed above:
+# Additional mods that are not displayed above:
 
 Intro Remover
 Remove flora
 BUTRLoader
 Bannerlord mod louncher
+Simple Point Crosshair no Hitmarkers

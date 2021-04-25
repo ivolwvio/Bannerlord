@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <CraftingPieces>
 
-  <CraftingPiece id="spear_blade_sparta" name="{=Oxew9WCe}Imperial Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_1" length="50" weight="0.5" excluded_item_usage_features="swing">
+  <CraftingPiece id="spear_blade_sparta" name="{=Oxew9WCe}Imperial Simple Spear Head" tier="2" piece_type="Blade" mesh="spear_blade_1" length="50" weight="0.1" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="5" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_4" holster_body_name="bo_throwing_spear_quiver_4" holster_mesh_length="96.2">
       <Thrust damage_type="Pierce" damage_factor="1" />
@@ -11,21 +11,21 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="spear_guard_sparta" name="{=8x9klENe}Segmented Riveted Shaft Reinforcement" tier="2" piece_type="Guard" mesh="spear_guard_2" culture="Culture.empire" length="5.5" weight="0.5">
+  <CraftingPiece id="spear_guard_sparta" name="{=8x9klENe}Segmented Riveted Shaft Reinforcement" tier="2" piece_type="Guard" mesh="spear_guard_2" culture="Culture.empire" length="5.5" weight="0.1">
     <PieceUsages unavailable_usages="" />
     <Materials>
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="spear_pommel_sparta" name="{=abLXJ3L3}Mace Shaped Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_11" culture="Culture.empire" length="10" weight="0.5">
+  <CraftingPiece id="spear_pommel_sparta" name="{=abLXJ3L3}Mace Shaped Pommel" tier="4" piece_type="Pommel" mesh="spear_pommel_11" culture="Culture.empire" length="10" weight="0.1">
     <PieceUsages unavailable_usages="" />
     <Materials>
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="spear_handle_sparta" name="{=e1DF7wbz}Hardened Ashen Staff" tier="5" piece_type="Handle" mesh="spear_handle_19" length="190" weight="0.5">
+  <CraftingPiece id="spear_handle_sparta" name="{=e1DF7wbz}Hardened Ashen Staff" tier="5" piece_type="Handle" mesh="spear_handle_19" length="190" weight="0.1">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Bracing:Javelin" />
     <BuildData piece_offset="22.9" />
     <Materials>
@@ -35,7 +35,7 @@
   
   
   
-  <CraftingPiece id="300sword_guard" name="Guard" tier="2" piece_type="Guard" mesh="guard_300" culture="Culture.empire" length="1.46" weight="0.5">
+  <CraftingPiece id="300sword_guard" name="Guard" tier="2" piece_type="Guard" mesh="guard_300" culture="Culture.empire" length="1.46" weight="0.1">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-18" previous_piece_offset="18"/>
     <StatContributions armor_bonus="4" />
@@ -44,7 +44,7 @@
     </Materials>
   </CraftingPiece>
   <!-- BLADES -->
-  <CraftingPiece id="300sword_blade" name="Blade" tier="3" piece_type="Blade" mesh="blade_300" culture="Culture.empire" length="200" weight="0.5">
+  <CraftingPiece id="300sword_blade" name="Blade" tier="3" piece_type="Blade" mesh="blade_300" culture="Culture.empire" length="200" weight="0.1">
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="119" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="scabbard_300">
@@ -56,7 +56,7 @@
     </Materials>
   </CraftingPiece>
   <!-- GRIPS -->
-  <CraftingPiece id="300sword_handle" name="Handle" tier="2" piece_type="Handle" mesh="handle_300" culture="Culture.empire" length="35.0" weight="0.5" item_holster_pos_shift="0,0,-0.02">
+  <CraftingPiece id="300sword_handle" name="Handle" tier="2" piece_type="Handle" mesh="handle_300" culture="Culture.empire" length="35.0" weight="0.1" item_holster_pos_shift="0,0,-0.02">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="5" previous_piece_offset="-5" next_piece_offset="0" />
     <Materials>
@@ -64,7 +64,7 @@
     </Materials>
   </CraftingPiece>
   <!-- POMMELS -->
-  <CraftingPiece id="300sword_pommel" name="Pommel" tier="2" piece_type="Pommel" mesh="pommel_300" culture="Culture.empire" length="5.0" weight="0.5">
+  <CraftingPiece id="300sword_pommel" name="Pommel" tier="2" piece_type="Pommel" mesh="pommel_300" culture="Culture.empire" length="5.0" weight="0.1">
     <PieceUsages unavailable_usages="" />
 	<BuildData next_piece_offset="25" />
     <Materials>
