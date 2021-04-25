@@ -3,161 +3,161 @@
 
   <Item id="horse_caparison_lily_green" name="Long Horse Caparison" mesh="horse_caparison_long_lily_unmasked" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="55" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_lily_blue" name="Long Horse Caparison" mesh="horse_caparison_long_lily_unmasked2" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="55" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_red_cross" name="Long Horse Caparison" mesh="horse_caparison_long_cross" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="55" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_black_cross" name="Long Horse Caparison" mesh="horse_caparison_long_black_cross" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="55" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_banner1" name="Long Horse Caparison" mesh="horse_caparison_banner1" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="55" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_red_cross_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_red_cross_armored" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_black_cross_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_black_cross_armored" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_long_black_crusader_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_long_black_crusader" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_long_black_crusader2_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_long_black_crusader2_armored" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_long_jerusalem_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_long_jerusalem_armored" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_warband1" name="Armored Long Horse Caparison" mesh="horse_caparison_warband1" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_warband2_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_warband2_armored" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_banner1_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_banner1_armored" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_banner2_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_banner2" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_blue_lily_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_blue_lily_armored" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_green_lily_armored" name="Armored Long Horse Caparison" mesh="horse_caparison_green_lily_armored" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="70" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" reins_mesh="horse_harness_vlandia_a_rein" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_short_black_crusader" name="Horse Caparison" mesh="horse_caparison_short_black_crusader" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="45" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_short_black_crusader2" name="Horse Caparison" mesh="horse_caparison_short_black_crusader2" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="45" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_short_holy_black" name="Horse Caparison" mesh="horse_caparison_short_holy_black" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="45" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_short_holy_red" name="Horse Caparison" mesh="horse_caparison_short_holy_red" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="45" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_short_jerusalem" name="Horse Caparison" mesh="horse_caparison_short_jerusalem" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="45" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_short_banner4" name="Horse Caparison" mesh="horse_caparison_short_banner4" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="45" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>
 
   <Item id="horse_caparison_short_banner5" name="Horse Caparison" mesh="horse_caparison_short_banner5" weight="8" appearance="0.5" Type="HorseHarness">
     <ItemComponent>
-      <Armor body_armor="45" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" mane_cover_type="all" maneuver_bonus="0" speed_bonus="0" charge_bonus="0" family_type="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags />
   </Item>

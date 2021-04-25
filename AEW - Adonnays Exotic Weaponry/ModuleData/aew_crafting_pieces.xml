@@ -3,12 +3,12 @@
 <CraftingPieces>
 	<!-- SHORT SWORD/KNIFE -->
 	<!-- KNIFE 01 -->
-	<CraftingPiece id="aew_blade_sw01" name="{=aew_blade_sw01}Chael Nad'ra Knife Blade" tier="5" piece_type="Blade" mesh="aew_knife1_blade" culture="Culture.battania" length="58.25" weight="0.25" is_hidden="false">
+	<CraftingPiece id="aew_blade_sw01" name="{=aew_blade_sw01}Chael Nad'ra Knife Blade" tier="5" piece_type="Blade" mesh="aew_knife1_blade" culture="Culture.battania" length="58.25" weight="0.5" is_hidden="false">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="7" />
 		<BladeData physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="aew_knife1_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="8" />
-			<Swing damage_type="Cut" damage_factor="7" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -18,7 +18,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_guard_sw01" name="{=aew_guard_sw01}Chael Nad'ra Knife Guard" tier="5" piece_type="Guard" mesh="empty_sw1" culture="Culture.battania" length="0" weight="0.08" is_hidden="false">
+	<CraftingPiece id="aew_guard_sw01" name="{=aew_guard_sw01}Chael Nad'ra Knife Guard" tier="5" piece_type="Guard" mesh="empty_sw1" culture="Culture.battania" length="0" weight="0.5" is_hidden="false">
 		<PieceUsages unavailable_usages="" />
 		<StatContributions armor_bonus="5" />
 		<Materials>
@@ -26,7 +26,7 @@
 		</Materials>
 	</CraftingPiece>
 	
-	<CraftingPiece id="aew_grip_sw01" name="{=aew_grip_sw01}Chael Nad'ra Knife Grip" tier="5" piece_type="Handle" mesh="aew_knife1_handle" culture="Culture.battania" length="26.8" weight="0.15" is_hidden="false">
+	<CraftingPiece id="aew_grip_sw01" name="{=aew_grip_sw01}Chael Nad'ra Knife Grip" tier="5" piece_type="Handle" mesh="aew_knife1_handle" culture="Culture.battania" length="26.8" weight="0.5" is_hidden="false">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="0" next_piece_offset="5" previous_piece_offset="0" />
 		<Materials>
@@ -34,7 +34,7 @@
 		</Materials>
 	</CraftingPiece>
 	
-	<CraftingPiece id="aew_pommel_sw01" name="{=*}Chael Nad'ra Knife Pommel" tier="5" piece_type="Pommel" mesh="empty_sw1" culture="Culture.battania" length="0" weight="0.1" is_hidden="false">
+	<CraftingPiece id="aew_pommel_sw01" name="{=*}Chael Nad'ra Knife Pommel" tier="5" piece_type="Pommel" mesh="empty_sw1" culture="Culture.battania" length="0" weight="0.5" is_hidden="false">
 		<PieceUsages unavailable_usages="" />
 		<Materials>
 			<Material id="Iron6" count="1" />
@@ -43,12 +43,12 @@
 	
 	
 	<!-- KNIFE 02 -->
-	<CraftingPiece id="aew_blade_sw02" name="{=aew_blade_sw02}Chael Nad'ra Knife Blade" tier="4" piece_type="Blade" mesh="aew_knife2_blade" culture="Culture.battania" length="55.2" weight="0.21" is_hidden="false">
+	<CraftingPiece id="aew_blade_sw02" name="{=aew_blade_sw02}Chael Nad'ra Knife Blade" tier="4" piece_type="Blade" mesh="aew_knife2_blade" culture="Culture.battania" length="55.2" weight="0.5" is_hidden="false">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-2.4" />
 		<BladeData physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="aew_knife2_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="7" />
-			<Swing damage_type="Cut" damage_factor="6" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -58,7 +58,7 @@
 		</Materials>
 	</CraftingPiece>
 	
-	<CraftingPiece id="aew_guard_sw02" name="{=aew_guard_sw02}Chael Nad'ra Knife Guard" tier="4" piece_type="Guard" mesh="empty_sw1" culture="Culture.battania" length="0" weight="0.1" is_hidden="false">
+	<CraftingPiece id="aew_guard_sw02" name="{=aew_guard_sw02}Chael Nad'ra Knife Guard" tier="4" piece_type="Guard" mesh="empty_sw1" culture="Culture.battania" length="0" weight="0.5" is_hidden="false">
 		<PieceUsages unavailable_usages="" />
 		<StatContributions armor_bonus="5" />
 		<Materials>
@@ -66,7 +66,7 @@
 		</Materials>
 	</CraftingPiece>	
 
-	<CraftingPiece id="aew_grip_sw02" name="{=aew_grip_sw02}Chael Nad'ra Knife Grip" tier="4" piece_type="Handle" mesh="aew_knife2_handle" culture="Culture.battania" length="22.25" weight="0.12" is_hidden="false">
+	<CraftingPiece id="aew_grip_sw02" name="{=aew_grip_sw02}Chael Nad'ra Knife Grip" tier="4" piece_type="Handle" mesh="aew_knife2_handle" culture="Culture.battania" length="22.25" weight="0.5" is_hidden="false">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="0" next_piece_offset="0" previous_piece_offset="0" />
 		<Materials>
@@ -74,7 +74,7 @@
 		</Materials>
 	</CraftingPiece>
 	
-	<CraftingPiece id="aew_pommel_sw02" name="{=aew_pommel_sw02}Chael Nad'ra Knife Pommel" tier="4" piece_type="Pommel" mesh="empty_sw1" culture="Culture.battania" length="0" weight="0.12" is_hidden="false">
+	<CraftingPiece id="aew_pommel_sw02" name="{=aew_pommel_sw02}Chael Nad'ra Knife Pommel" tier="4" piece_type="Pommel" mesh="empty_sw1" culture="Culture.battania" length="0" weight="0.5" is_hidden="false">
 		<PieceUsages unavailable_usages="" />
 		<Materials>
 			<Material id="Iron6" count="1" />
@@ -85,11 +85,11 @@
 	
 	<!-- LONGBLADES -->
 	<!-- Longblade 01 -->
-	<CraftingPiece id="aew_blade_lb01" name="{=aew_blade_lb01}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_lb1_blade" culture="Culture.battania" length="113" weight="0.23">
+	<CraftingPiece id="aew_blade_lb01" name="{=aew_blade_lb01}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_lb1_blade" culture="Culture.battania" length="113" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_lb1_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="7" />
-			<Swing damage_type="Cut" damage_factor="7.5" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -99,7 +99,7 @@
 		</Materials>
 	</CraftingPiece>
 	
-	<CraftingPiece id="aew_guard_lb01" name="{=aew_guard_lb01}Noble Chael Nad'ra Guard" tier="5" piece_type="Guard" mesh="aew_empty_lb1" culture="Culture.battania" length="2.5" weight="0.12">
+	<CraftingPiece id="aew_guard_lb01" name="{=aew_guard_lb01}Noble Chael Nad'ra Guard" tier="5" piece_type="Guard" mesh="aew_empty_lb1" culture="Culture.battania" length="2.5" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<StatContributions armor_bonus="5" />
 		<Materials>
@@ -107,7 +107,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_grip_lb01" name="{=aew_grip_lb01}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_lb1_handle" culture="Culture.battania" length="40" weight="0.15">
+	<CraftingPiece id="aew_grip_lb01" name="{=aew_grip_lb01}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_lb1_handle" culture="Culture.battania" length="40" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-12" next_piece_offset="0" previous_piece_offset="0" />
 		<Materials>
@@ -115,7 +115,7 @@
 		</Materials>
 	</CraftingPiece>
 	
-	<CraftingPiece id="aew_pommel_lb01" name="{=aew_pommel_lb01}Noble Chael Nad'ra Pommel" tier="5" piece_type="Pommel" mesh="aew_empty_lb1" culture="Culture.battania" length="2.5" weight="0.12">
+	<CraftingPiece id="aew_pommel_lb01" name="{=aew_pommel_lb01}Noble Chael Nad'ra Pommel" tier="5" piece_type="Pommel" mesh="aew_empty_lb1" culture="Culture.battania" length="2.5" weight="0.5">
 		<PieceUsages unavailable_usages="ThrowingKnife" />
 		<Materials>
 			<Material id="Iron6" count="1" />
@@ -123,11 +123,11 @@
 	</CraftingPiece>
 	
 	<!-- Longblade 02 -->
-	<CraftingPiece id="aew_blade_lb02" name="{=aew_blade_lb02}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_lb2_blade" culture="Culture.battania" length="113" weight="0.23">
+	<CraftingPiece id="aew_blade_lb02" name="{=aew_blade_lb02}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_lb2_blade" culture="Culture.battania" length="113" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_lb2_scab" > 
-			<Thrust damage_type="Pierce" damage_factor="7" />
-			<Swing damage_type="Cut" damage_factor="7.5" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -137,7 +137,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_grip_lb02" name="{=aew_grip_lb02}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_lb2_handle" culture="Culture.battania" length="40" weight="0.15">
+	<CraftingPiece id="aew_grip_lb02" name="{=aew_grip_lb02}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_lb2_handle" culture="Culture.battania" length="40" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-12" next_piece_offset="0" previous_piece_offset="0" />
 		<Materials>
@@ -150,12 +150,12 @@
 	
 	<!-- WARBLADES -->
 	<!-- Warblade 01 -->
-	<CraftingPiece id="aew_blade_wb01" name="{=aew_blade_wb01}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_wb1_blade" culture="Culture.battania" length="113" weight="0.25">
+	<CraftingPiece id="aew_blade_wb01" name="{=aew_blade_wb01}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_wb1_blade" culture="Culture.battania" length="113" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-0.55" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_wb1_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="7" />
-			<Swing damage_type="Cut" damage_factor="7.5" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -165,7 +165,7 @@
 		</Materials>
 	</CraftingPiece>
 	
-	<CraftingPiece id="aew_guard_wb01" name="{=aew_guard_wb01}Noble Chael Nad'ra Guard" tier="5" piece_type="Guard" mesh="aew_empty_wb1" culture="Culture.battania" length="2.5" weight="0.12">
+	<CraftingPiece id="aew_guard_wb01" name="{=aew_guard_wb01}Noble Chael Nad'ra Guard" tier="5" piece_type="Guard" mesh="aew_empty_wb1" culture="Culture.battania" length="2.5" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<StatContributions armor_bonus="5" />
 		<Materials>
@@ -173,7 +173,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_grip_wb01" name="{=aew_grip_wb01}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_wb1_handle" culture="Culture.battania" length="40" weight="0.15">
+	<CraftingPiece id="aew_grip_wb01" name="{=aew_grip_wb01}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_wb1_handle" culture="Culture.battania" length="40" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-12" next_piece_offset="0" previous_piece_offset="0" />
 		<Materials>
@@ -181,7 +181,7 @@
 		</Materials>
 	</CraftingPiece>
 	
-	<CraftingPiece id="aew_pommel_wb01" name="{=aew_pommel_wb01}Noble Chael Nad'ra Pommel" tier="5" piece_type="Pommel" mesh="aew_empty_wb1" culture="Culture.battania" length="2.5" weight="0.12">
+	<CraftingPiece id="aew_pommel_wb01" name="{=aew_pommel_wb01}Noble Chael Nad'ra Pommel" tier="5" piece_type="Pommel" mesh="aew_empty_wb1" culture="Culture.battania" length="2.5" weight="0.5">
 		<PieceUsages unavailable_usages="ThrowingKnife" />
 		<Materials>
 			<Material id="Iron6" count="1" />
@@ -190,12 +190,12 @@
 	
 	
 	<!-- Warblade 02 -->
-	<CraftingPiece id="aew_blade_wb02" name="{=aew_blade_wb02}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_wb2_blade" culture="Culture.battania" length="113" weight="0.25">
+	<CraftingPiece id="aew_blade_wb02" name="{=aew_blade_wb02}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_wb2_blade" culture="Culture.battania" length="113" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-0.55" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_wb2_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="7" />
-			<Swing damage_type="Cut" damage_factor="7.5" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -205,7 +205,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_grip_wb02" name="{=aew_grip_wb02}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_wb2_handle" culture="Culture.battania" length="40" weight="0.15">
+	<CraftingPiece id="aew_grip_wb02" name="{=aew_grip_wb02}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_wb2_handle" culture="Culture.battania" length="40" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-12" next_piece_offset="0" previous_piece_offset="0" />
 		<Materials>
@@ -215,12 +215,12 @@
 	
 	
 	<!-- Warblade 03 -->
-	<CraftingPiece id="aew_blade_wb03" name="{=aew_blade_wb03}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_wb3_blade" culture="Culture.battania" length="113" weight="0.25">
+	<CraftingPiece id="aew_blade_wb03" name="{=aew_blade_wb03}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_wb3_blade" culture="Culture.battania" length="113" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-0.55" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_wb3_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="7" />
-			<Swing damage_type="Cut" damage_factor="7.5" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -230,7 +230,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_grip_wb03" name="{=aew_grip_wb03}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_wb3_handle" culture="Culture.battania" length="40" weight="0.15">
+	<CraftingPiece id="aew_grip_wb03" name="{=aew_grip_wb03}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_wb3_handle" culture="Culture.battania" length="40" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-12" next_piece_offset="0" previous_piece_offset="0" />
 		<Materials>
@@ -240,12 +240,12 @@
 	
 	
 	<!-- Warblade 04 -->
-	<CraftingPiece id="aew_blade_wb04" name="{=aew_blade_wb04}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_wb4_blade" culture="Culture.battania" length="113" weight="0.25">
+	<CraftingPiece id="aew_blade_wb04" name="{=aew_blade_wb04}Noble Chael Nad'ra Blade" tier="5" piece_type="Blade" mesh="aew_wb4_blade" culture="Culture.battania" length="113" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-0.55" />
 		<BladeData physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aew_wb4_scab"> 
-			<Thrust damage_type="Pierce" damage_factor="7" />
-			<Swing damage_type="Cut" damage_factor="7.5" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags>
 			<Flag name="Civilian" type="ItemFlags" />
@@ -255,7 +255,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_grip_wb04" name="{=aew_grip_wb04}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_wb4_handle" culture="Culture.battania" length="40" weight="0.15">
+	<CraftingPiece id="aew_grip_wb04" name="{=aew_grip_wb04}Noble Chael Nad'ra Grip" tier="5" piece_type="Handle" mesh="aew_wb4_handle" culture="Culture.battania" length="40" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="-12" next_piece_offset="0" previous_piece_offset="0" />
 		<Materials>
@@ -266,26 +266,26 @@
 
 	
 	<!-- T6 NEW Glaive -->
-	<CraftingPiece id="aew_blade_gl01" name="{=aew_blade_gl01}Chael Nad'ra Glaive Blade" tier="5" piece_type="Blade" mesh="aew_glv1_blade" length="132" weight="0.3">
+	<CraftingPiece id="aew_blade_gl01" name="{=aew_blade_gl01}Chael Nad'ra Glaive Blade" tier="5" piece_type="Blade" mesh="aew_glv1_blade" length="132" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="0" />
 		<BladeData physics_material="wood_weapon" body_name="bo_spear_b">
-			<Thrust damage_type="Pierce" damage_factor="6" />
-			<Swing damage_type="Cut" damage_factor="8" />
+			<Thrust damage_type="Pierce" damage_factor="1" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Materials>
 			<Material id="Iron6" count="2" />
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_guard_gl01" name="{=aew_guard_gl01}Chael Nad'ra Glaive Guard" tier="5" piece_type="Guard" mesh="aew_empty_wb1" culture="Culture.battania" length="0" weight="0">
+	<CraftingPiece id="aew_guard_gl01" name="{=aew_guard_gl01}Chael Nad'ra Glaive Guard" tier="5" piece_type="Guard" mesh="aew_empty_wb1" culture="Culture.battania" length="0" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<Materials>
 			<Material id="Iron6" count="1" />
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_handle_gl01" name="{=aew_handle_gl01}Chael Nad'ra Glaive Guard" tier="5" piece_type="Handle" mesh="aew_glv1_handle" length="135.5" weight="0.3">
+	<CraftingPiece id="aew_handle_gl01" name="{=aew_handle_gl01}Chael Nad'ra Glaive Guard" tier="5" piece_type="Handle" mesh="aew_glv1_handle" length="135.5" weight="0.5">
 		<PieceUsages unavailable_usages="Javelin" />
 		<BuildData piece_offset="0" />
 		<Materials>
@@ -293,7 +293,7 @@
 		</Materials>
 	</CraftingPiece>
 
-	<CraftingPiece id="aew_pommel_gl01" name="{=aew_pommel_gl01}Chael Nad'ra Glaive Counterblade" tier="5" piece_type="Pommel" mesh="aew_glv1_pommel" culture="Culture.battania" length="40" weight="0">
+	<CraftingPiece id="aew_pommel_gl01" name="{=aew_pommel_gl01}Chael Nad'ra Glaive Counterblade" tier="5" piece_type="Pommel" mesh="aew_glv1_pommel" culture="Culture.battania" length="40" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="0" />
 		<Materials>
@@ -304,11 +304,11 @@
 	
 	
 	<!-- AXE GLAIVE -->
-	<CraftingPiece id="aew_blade_ax01" name="{=aew_blade_ax01}Chael Nad'ra Glaive Blade" tier="5" piece_type="Blade" mesh="aew_axe1_blade" distance_to_next_piece="50" distance_to_previous_piece="0" weight="0.8">
+	<CraftingPiece id="aew_blade_ax01" name="{=aew_blade_ax01}Chael Nad'ra Glaive Blade" tier="5" piece_type="Blade" mesh="aew_axe1_blade" distance_to_next_piece="50" distance_to_previous_piece="0" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="0" />
 		<BladeData stack_amount="3" blade_length="100" blade_width="17" physics_material="metal_weapon" body_name="bo_axe_longer_b">
-			<Swing damage_type="Cut" damage_factor="8.0" />
+			<Swing damage_type="Cut" damage_factor="1" />
 		</BladeData>
 		<Flags> 
 			<Flag name="CanBePickedUpFromCorpse" type="ItemFlags" />
@@ -319,7 +319,7 @@
 		</Materials>
     </CraftingPiece>
 
-	<CraftingPiece id="aew_handle_ax01" name="{=aew_handle_ax01}Chael Nad'ra Glaive Handle" tier="5" piece_type="Handle" mesh="aew_axe1_handle" length="124" weight="0.18">
+	<CraftingPiece id="aew_handle_ax01" name="{=aew_handle_ax01}Chael Nad'ra Glaive Handle" tier="5" piece_type="Handle" mesh="aew_axe1_handle" length="124" weight="0.5">
 		<PieceUsages unavailable_usages="" />
 		<BuildData piece_offset="20" next_piece_offset="1" />
 		<Materials>

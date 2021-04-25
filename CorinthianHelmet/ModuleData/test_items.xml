@@ -3,7 +3,7 @@
 
 <Item id="Corinthian_Helmet" name="Corinthian Helmet" subtype="head_armor" mesh="CorinthianHelmet" culture="Culture.empire" weight="1.5" difficulty="0" appearance="1" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="55" has_gender_variations="false" hair_cover_type="1" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="2" has_gender_variations="false" hair_cover_type="1" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>

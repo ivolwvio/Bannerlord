@@ -8,6 +8,7 @@ PARTY SIZES (OLD CODE)
 
 (Global FindAndReplace) (Manually exclude player faction size)
 min_value="[+-]?([0-9]*[.])?[0-9]+" max_value="[+-]?([0-9]*[.])?[0-9]+"
+
 min_value="100" max_value="1000"
 
 
@@ -53,8 +54,8 @@ ALL UNITS MAX LEVEL
 
 ALL UNITS MAX LEVEL (OLD CODE)
 
-// i will use regex for faster search and replace.
 <skill id="(.*?)" value="[+-]?([0-9]*[.])?[0-9]+" \/>
+
 <skill id="$1" value="1023" />
 
 # Check if there is other values than 1023
@@ -62,21 +63,25 @@ ALL UNITS MAX LEVEL (OLD CODE)
 
 ============================================================================================================================================
 
-ALL BLADES SAME DAMAGE & Weight
+ALL CRAFTING PIECES SAME WEIGHT
 
-(File FindAndReplace) (NotImplemented)
-weight="[+-]?([0-9]*[.])?[0-9]+"
-weight="0"
+(<CraftingPiece(?:(?:.|\n)*?))weight="[+-]?(?:[0-9]*[.])?[0-9]+"((?:(?:.|\n)*?)<\/CraftingPiece>)
+
+$1weight="0.5"$2
+
+============================================================================================================================================
+
+ALL BLADES SAME DAMAGE & Weight
 
 (Global FindAndReplace)
 damage_factor="[+-]?([0-9]*[.])?[0-9]+"
-damage_factor="3"
+damage_factor="1"
 
 ALL ARMOR SAME STATS
 
 (Global FindAndReplace)
 head_armor="[+-]?([0-9]*[.])?[0-9]+"
-head_armor="10"
+head_armor="2"
 
 (Global FindAndReplace)
 arm_armor="[+-]?([0-9]*[.])?[0-9]+"
@@ -84,56 +89,19 @@ arm_armor="1"
 
 (Global FindAndReplace)
 body_armor="[+-]?([0-9]*[.])?[0-9]+"
-body_armor="10"
+body_armor="1"
 
 (Global FindAndReplace)
 leg_armor="[+-]?([0-9]*[.])?[0-9]+"
 leg_armor="1"
 
-ALL PIECES SAME WEIGHT 
-
-(Global FindAndReplace)
-weight="[+-]?([0-9]*[.])?[0-9]+"
-weight="0"
-
-GUARDS AND POMMELS 0 WEIGHT
-
-(Selection FindAndReplace)
-weight="[+-]?([0-9]*[.])?[0-9]+"
-weight="0"
-
 ============================================================================================================================================
+
+Continue from here
 
 age="[+-]?([0-9]*[.])?[0-9]+"
 
 ============================================================================================================================================
 
-Male presets
-
-Vladian:
-<BodyProperties version="4" age="21" weight="0" build="0" key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002" />
-
-Asian:
-<BodyProperties version="4" age="21" weight="0" build="0" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002" />
-
-Viking:
-<BodyProperties version="4" age="21" weight="0" build="0" key="00000C088F0018100776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002" />
-
-Greek:
-<BodyProperties version="4" age="21" weight="0" build="0" key="000BB00A0000334F0776678E53648686288CA83378A87F2099667D788BC532450190761409669963000000000000000000000000000019A300000000213C4002" />
-
 #unknown regex
 (<NPCCharacter(?:.*?)>(?:(?:.|\n)*?)<\/NPCCharacter>)(?!<NPCCharacter(?:.*?)>(?:(?:.|\n)*?)<skills>)
-
-<BodyProperties version="4" age="24.69" weight="0" build="0.3225" key="001EA40C400000000100110121111110053000001111000000000001480101330125501302100000000000000000000000000000000000000000000000401000" />
-
-Female
-<face>
-  <BodyProperties version="4" age="21" weight="0" build="0" key="00052C089314100B599B39385A8372459867775D8A397A98773789A84B355847019776130946854400000000000000000000000000000000000000003F1C3044" />
-</face>
-
-Male
-<face>
-  <BodyProperties version="4" age="21" weight="0" build="1" key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002" />
-</face>
-==================================================================

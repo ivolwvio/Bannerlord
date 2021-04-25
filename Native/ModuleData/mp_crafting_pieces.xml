@@ -9,7 +9,7 @@
                  mesh="axe_craft_37_head"
                  distance_to_next_piece="10.4"
                  distance_to_previous_piece="3.4"
-                 weight="0.7"
+                 weight="0.5"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-6.8" />
@@ -19,7 +19,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="3.0" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -32,7 +32,7 @@
                  piece_type="Blade"
                  mesh="sickle_blade_1"
                  length="38.5"
-                 weight="1.1"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -40,7 +40,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Cut"
-             damage_factor="2.8" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_short_sword_blade"
@@ -49,16 +49,16 @@
                  piece_type="Blade"
                  mesh="vlandian_blade_7"
                  length="89.1"
-                 weight="1.0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_7_scabbard_7">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.95" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_arming_sword_blade"
@@ -67,16 +67,16 @@
                  piece_type="Blade"
                  mesh="vlandian_blade_8"
                  length="80.3"
-                 weight="0.9">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_8_scabbard_8">
       <Thrust damage_type="Pierce"
-              damage_factor="2.5" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.8" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_long_sword_blade"
@@ -85,16 +85,16 @@
                  piece_type="Blade"
                  mesh="vlandian_blade_2"
                  length="99"
-                 weight="1.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.50" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_2hsword_blade"
@@ -103,16 +103,16 @@
                  piece_type="Blade"
                  mesh="vlandian_blade_3"
                  length="99.4"
-                 weight="1.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="3.8" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.6" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_gladius_blade"
@@ -121,16 +121,16 @@
                  piece_type="Blade"
                  mesh="battania_blade_4"
                  length="67.4"
-                 weight="0.9">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.8" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_spatha_blade"
@@ -139,16 +139,16 @@
                  piece_type="Blade"
                  mesh="sturgian_blade_4"
                  length="73.7"
-                 weight="1.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="3.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.5" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_long_spatha_blade"
@@ -157,16 +157,16 @@
                  piece_type="Blade"
                  mesh="sturgian_blade_4"
                  length="73.7"
-                 weight="1.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="3.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.4" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_paramerion_blade"
@@ -175,16 +175,16 @@
                  piece_type="Blade"
                  mesh="empire_blade_5"
                  length="95.7"
-                 weight="1.25">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.7" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_long_paramerion_blade"
@@ -193,16 +193,16 @@
                  piece_type="Blade"
                  mesh="empire_blade_5"
                  length="95.7"
-                 weight="1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.8" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_northern_sword_blade"
@@ -211,16 +211,16 @@
                  piece_type="Blade"
                  mesh="sturgian_blade_8"
                  length="87.3"
-                 weight="1.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.6" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_sword_blade"
@@ -230,16 +230,16 @@
                  mesh="sturgian_blade_7"
                  culture="Culture.sturgia"
                  length="74.5"
-                 weight="1.0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_7_scabbard_7">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.0" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_cavalry_sword_blade"
@@ -249,16 +249,16 @@
                  mesh="sturgian_blade_6"
                  culture="Culture.sturgia"
                  length="73.7"
-                 weight="1.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_6_scabbard_6">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.6" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_western_cavalry_sword_blade"
@@ -268,16 +268,16 @@
                  mesh="vlandian_blade_2"
                  culture="Culture.vlandia"
                  length="99"
-                 weight="1.0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.6" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_sabre_blade"
@@ -286,16 +286,16 @@
                  piece_type="Blade"
                  mesh="khuzait_blade_3"
                  length="90.2"
-                 weight="1.05">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.05" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_heavy_sabre_blade"
@@ -304,16 +304,16 @@
                  piece_type="Blade"
                  mesh="khuzait_blade_1"
                  length="92.4"
-                 weight="0.95">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="2.3" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.0" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_cavalry_sabre_blade"
@@ -322,16 +322,16 @@
                  piece_type="Blade"
                  mesh="khuzait_blade_2"
                  length="94.6"
-                 weight="1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.7" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_sword_blade"
@@ -340,15 +340,15 @@
                  piece_type="Blade"
                  mesh="khuzait_blade_7"
                  length="82.5"
-                 weight="1.0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce"
-              damage_factor="2.45" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.9" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_ranger_sword_blade"
@@ -357,16 +357,16 @@
                  piece_type="Blade"
                  mesh="aserai_blade_3"
                  length="93.2"
-                 weight="0.98">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.7" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_fast_sword_blade"
@@ -376,7 +376,7 @@
                  mesh="khuzait_noble_blade_2"
                  culture="Culture.khuzait"
                  length="72.5"
-                 weight="0.8">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.25" />
     <BladeData stack_amount="3"
@@ -384,9 +384,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_noble_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.05" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandia_fast_sword_blade"
@@ -396,16 +396,16 @@
                  mesh="vlandian_noble_blade_2"
                  culture="Culture.vlandia"
                  length="74.5"
-                 weight="0.7">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_noble_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.5" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.5" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_long_sword_blade"
@@ -415,16 +415,16 @@
                  mesh="empire_blade_5"
                  culture="Culture.empire"
                  length="95.7"
-                 weight="1.0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="2.15" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.7" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_noble_long_sword_blade"
@@ -433,16 +433,16 @@
                  piece_type="Blade"
                  mesh="aserai_blade_8"
                  length="104.5"
-                 weight="1.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_8_scabbard_8">
       <Thrust damage_type="Pierce"
-              damage_factor="2.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.9" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_pugio_blade"
@@ -451,16 +451,16 @@
                  piece_type="Blade"
                  mesh="dagger_blade_7"
                  length="40"
-                 weight="0.85">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword:ThrowingKnife" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="2.85" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.9" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_dagger_blade"
@@ -469,16 +469,16 @@
                  piece_type="Blade"
                  mesh="dagger_blade_14"
                  length="35"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="5"
                physics_material="metal_weapon"
                body_name="bo_knife_a"
                holster_mesh="throwing_dagger_quiver_4">
       <Thrust damage_type="Pierce"
-              damage_factor="2" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="5" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -491,7 +491,7 @@
                  piece_type="Blade"
                  mesh="dagger_blade_1"
                  length="39"
-                 weight="0.205">
+                 weight="0.5">
     <PieceUsages unavailable_usages="ThrowingKnife" />
     <BladeData stack_amount="5"
                physics_material="metal_weapon"
@@ -509,16 +509,16 @@
                  mesh="battania_blade_4"
                  culture="Culture.battania"
                  length="67.4"
-                 weight="1.0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="2.3" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.25" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_sword_blade"
@@ -527,16 +527,16 @@
                  piece_type="Blade"
                  mesh="battania_blade_3"
                  length="80.8"
-                 weight="0.93">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.55" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_long_sword_blade"
@@ -545,16 +545,16 @@
                  piece_type="Blade"
                  mesh="battania_blade_1"
                  length="98.9"
-                 weight="1.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.6" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_bastard_sword_blade"
@@ -564,16 +564,16 @@
                  mesh="vlandian_blade_3"
                  culture="Culture.vlandia"
                  length="99.4"
-                 weight="1.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="3" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.5" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_falx_blade"
@@ -582,14 +582,14 @@
                  piece_type="Blade"
                  mesh="battania_blade_7"
                  length="75"
-                 weight="1.15"
+                 weight="0.5"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Swing damage_type="Cut"
-             damage_factor="4.2" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -601,14 +601,14 @@
                  piece_type="Blade"
                  mesh="battania_blade_6"
                  length="95.6"
-                 weight="1.15"
+                 weight="0.5"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardSword" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Swing damage_type="Cut"
-             damage_factor="4.3" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -620,16 +620,16 @@
                  piece_type="Blade"
                  mesh="sturgian_blade_2"
                  length="86.9"
-                 weight="1.8">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.7" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_2h_long_sword_blade"
@@ -638,16 +638,16 @@
                  piece_type="Blade"
                  mesh="sturgian_blade_8"
                  length="87.3"
-                 weight="1.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_noble_two_handed_sword_blade"
@@ -656,16 +656,16 @@
                  piece_type="Blade"
                  mesh="vlandian_blade_5"
                  length="99"
-                 weight="1.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="2.8" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.05" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_two_handed_sword_blade"
@@ -675,16 +675,16 @@
                  mesh="aserai_blade_8"
                  culture="Culture.aserai"
                  length="104.5"
-                 weight="0.95">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_8_scabbard_8">
       <Thrust damage_type="Pierce"
-              damage_factor="2.6" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.2" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_bastard_sword_blade"
@@ -693,16 +693,16 @@
                  piece_type="Blade"
                  mesh="vlandian_blade_7"
                  length="89.1"
-                 weight="1.25">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_7_scabbard_7">
       <Thrust damage_type="Pierce"
-              damage_factor="3" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.45" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_noble_bastard_sword_blade"
@@ -711,16 +711,16 @@
                  piece_type="Blade"
                  mesh="vlandian_blade_1"
                  length="94.6"
-                 weight="1.0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="3" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.6" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_test_sword_blade"
@@ -729,16 +729,16 @@
                  piece_type="Blade"
                  mesh="vlandian_blade_8"
                  length="80.3"
-                 weight="0.9">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_8_scabbard_8">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.7" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_test_2hsword_blade"
@@ -747,16 +747,16 @@
                  piece_type="Blade"
                  mesh="aserai_blade_1"
                  length="102.3"
-                 weight="1.05">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardSword" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="3.3" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.2" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <!-- #endregion -->
@@ -767,7 +767,7 @@
                  piece_type="Guard"
                  mesh="vlandian_guard_2"
                  length="2.809"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -777,7 +777,7 @@
                  piece_type="Guard"
                  mesh="vlandian_guard_2"
                  length="2.809"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -787,7 +787,7 @@
                  piece_type="Guard"
                  mesh="vlandian_guard_5"
                  length="0.9"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -797,7 +797,7 @@
                  piece_type="Guard"
                  mesh="vlandian_guard_5"
                  length="0.9"
-                 weight="0.20">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -807,7 +807,7 @@
                  piece_type="Guard"
                  mesh="empire_guard_4"
                  length="5.3"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="1.6" />
   </CraftingPiece>
@@ -817,7 +817,7 @@
                  piece_type="Guard"
                  mesh="empire_guard_2"
                  length="3.6"
-                 weight="0.18">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.5" />
   </CraftingPiece>
@@ -827,7 +827,7 @@
                  piece_type="Guard"
                  mesh="battania_guard_3"
                  length="2.8"
-                 weight="0.112">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="1.8" />
   </CraftingPiece>
@@ -837,7 +837,7 @@
                  piece_type="Guard"
                  mesh="empire_guard_1"
                  length="3.8"
-                 weight="0.08">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.5" />
   </CraftingPiece>
@@ -847,7 +847,7 @@
                  piece_type="Guard"
                  mesh="aserai_guard_1"
                  length="5.902"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-0.133"
                previous_piece_offset="0.5" />
@@ -858,7 +858,7 @@
                  piece_type="Guard"
                  mesh="empire_guard_3"
                  length="5.2"
-                 weight="0.16">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="2.1" />
   </CraftingPiece>
@@ -868,7 +868,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_1"
                  length="1.7"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.3" />
   </CraftingPiece>
@@ -878,7 +878,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_6"
                  length="1.73"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -888,7 +888,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_2"
                  length="2.5"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="1.2" />
   </CraftingPiece>
@@ -899,7 +899,7 @@
                  mesh="cleaver_guard_2"
                  culture="Culture.aserai"
                  length="1.289"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -909,7 +909,7 @@
                  piece_type="Guard"
                  mesh="khuzait_guard_7"
                  length="0.55"
-                 weight="0.20">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -919,7 +919,7 @@
                  piece_type="Guard"
                  mesh="khuzait_guard_9"
                  length="0.459"
-                 weight="0.24">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -929,7 +929,7 @@
                  piece_type="Guard"
                  mesh="khuzait_guard_7"
                  length="0.55"
-                 weight="0.10">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -939,7 +939,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_8"
                  length="1.329"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.3" />
   </CraftingPiece>
@@ -949,7 +949,7 @@
                  piece_type="Guard"
                  mesh="aserai_guard_6"
                  length="3.28"
-                 weight="0.163">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="1" />
   </CraftingPiece>
@@ -960,7 +960,7 @@
                  mesh="aserai_noble_guard_3"
                  culture="Culture.aserai"
                  length="1.8"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2"
                previous_piece_offset="0" />
@@ -972,7 +972,7 @@
                  mesh="vlandian_noble_guard_2"
                  culture="Culture.vlandia"
                  length="1.6"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -982,7 +982,7 @@
                  piece_type="Guard"
                  mesh="aserai_guard_2"
                  length="7.466"
-                 weight="0.14">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="3.9"
                previous_piece_offset="3" />
@@ -994,7 +994,7 @@
                  mesh="aserai_guard_7"
                  culture="Culture.aserai"
                  length="2.865"
-                 weight="0.17">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.4" />
   </CraftingPiece>
@@ -1004,7 +1004,7 @@
                  piece_type="Guard"
                  mesh="sturgian_dagger_guard_8"
                  length="1"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.3" />
   </CraftingPiece>
@@ -1014,7 +1014,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_9"
                  length="3.7"
-                 weight="0.3">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.416" />
   </CraftingPiece>
@@ -1024,7 +1024,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_6"
                  length="1.73"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -1035,7 +1035,7 @@
                  mesh="sturgian_guard_1"
                  culture="Culture.sturgia"
                  length="1.7"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.3" />
   </CraftingPiece>
@@ -1045,7 +1045,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_12"
                  length="5"
-                 weight="0.20">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_bastard_sword_guard"
@@ -1055,7 +1055,7 @@
                  mesh="sturgian_guard_9"
                  culture="Culture.sturgia"
                  length="3.7"
-                 weight="0.30">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.416" />
   </CraftingPiece>
@@ -1065,7 +1065,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_10"
                  length="3.718"
-                 weight="0.20">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.466" />
   </CraftingPiece>
@@ -1075,7 +1075,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_1"
                  length="1.7"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.3" />
   </CraftingPiece>
@@ -1085,7 +1085,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_11"
                  length="3.5"
-                 weight="0.240">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.3" />
   </CraftingPiece>
@@ -1095,7 +1095,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_12"
                  length="5"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_noble_two_handed_sword_guard"
@@ -1104,7 +1104,7 @@
                  piece_type="Guard"
                  mesh="vlandian_guard_7"
                  length="1.844"
-                 weight="0.20">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.4" />
   </CraftingPiece>
@@ -1115,7 +1115,7 @@
                  mesh="aserai_guard_2"
                  culture="Culture.aserai"
                  length="7.466"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="3.9"
                previous_piece_offset="3" />
@@ -1126,7 +1126,7 @@
                  piece_type="Guard"
                  mesh="vlandian_guard_8"
                  length="1.42"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -1136,7 +1136,7 @@
                  piece_type="Guard"
                  mesh="vlandian_guard_2"
                  length="2.809"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
   </CraftingPiece>
@@ -1146,7 +1146,7 @@
                  piece_type="Guard"
                  mesh="sturgian_guard_2"
                  length="2.5"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="1.2" />
   </CraftingPiece>
@@ -1156,7 +1156,7 @@
                  piece_type="Guard"
                  mesh="aserai_guard_3"
                  length="2.393"
-                 weight="0.137">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.4" />
   </CraftingPiece>
@@ -1168,7 +1168,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_2_handle"
                  length="84"
-                 weight="0.346"
+                 weight="0.5"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="TwoHandedSword:ThrowingKnife" />
     <BuildData piece_offset="23"
@@ -1180,7 +1180,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_6"
                  length="56.2"
-                 weight="0.6"
+                 weight="0.5"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="TwoHandedSword:ThrowingKnife" />
     <BuildData piece_offset="15" />
@@ -1191,7 +1191,7 @@
                  piece_type="Handle"
                  mesh="vlandian_grip_2"
                  length="15.05"
-                 weight="0.35"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.1">
     <!--l="15.05" w="0.1"-->
     <PieceUsages unavailable_usages="TwoHandedSword" />
@@ -1205,7 +1205,7 @@
                  piece_type="Handle"
                  mesh="vlandian_grip_4"
                  length="15.2"
-                 weight="0.1"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.1">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.09"
@@ -1217,7 +1217,7 @@
                  piece_type="Handle"
                  mesh="vlandian_grip_4"
                  length="15.2"
-                 weight="0.2"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.1">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.09"
@@ -1229,7 +1229,7 @@
                  piece_type="Handle"
                  mesh="vlandian_grip_7"
                  length="30.3"
-                 weight="0.7"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.02">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardSword" />
     <BuildData piece_offset="-6.75"
@@ -1241,7 +1241,7 @@
                  piece_type="Handle"
                  mesh="empire_grip_1"
                  length="15.4"
-                 weight="0.20">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.18"
                next_piece_offset="-0.15"
@@ -1253,7 +1253,7 @@
                  piece_type="Handle"
                  mesh="empire_grip_2"
                  length="17"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.79"
                next_piece_offset="0"
@@ -1265,7 +1265,7 @@
                  piece_type="Handle"
                  mesh="aserai_grip_29"
                  length="16.1"
-                 weight="0.225">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword:ThrowingKnife" />
     <BuildData piece_offset="-1.00"
                previous_piece_offset="0.1"
@@ -1278,7 +1278,7 @@
                  mesh="aserai_grip_5"
                  culture="Culture.aserai"
                  length="15.9"
-                 weight="0.105">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.41"
                previous_piece_offset="0.4" />
@@ -1289,7 +1289,7 @@
                  piece_type="Handle"
                  mesh="empire_grip_11"
                  length="25"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.18"
                next_piece_offset="-0.3"
@@ -1301,7 +1301,7 @@
                  piece_type="Handle"
                  mesh="sturgian_grip_4"
                  length="15.1"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.04"
                previous_piece_offset="0.2"
@@ -1313,7 +1313,7 @@
                  piece_type="Handle"
                  mesh="sturgian_grip_35"
                  length="15"
-                 weight="0.100">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-1"
                previous_piece_offset="0.2"
@@ -1326,7 +1326,7 @@
                  mesh="sturgian_grip_13"
                  culture="Culture.sturgia"
                  length="15.2"
-                 weight="0.10">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.09"
                previous_piece_offset="0.3"
@@ -1339,7 +1339,7 @@
                  mesh="cleaver_grip_3"
                  culture="Culture.aserai"
                  length="19.855"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-2.18"
                previous_piece_offset="0.2"
@@ -1352,7 +1352,7 @@
                  mesh="vlandian_grip_14"
                  culture="Culture.vlandia"
                  length="25.2"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-0.02"
                previous_piece_offset="0.2"
@@ -1364,7 +1364,7 @@
                  piece_type="Handle"
                  mesh="khuzait_grip_7"
                  length="15.1"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.04"
                previous_piece_offset="0.2"
@@ -1376,7 +1376,7 @@
                  piece_type="Handle"
                  mesh="khuzait_grip_4"
                  length="15.2"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.09"
                previous_piece_offset="0.2"
@@ -1389,7 +1389,7 @@
                  mesh="khuzait_grip_7"
                  culture="Culture.khuzait"
                  length="15.1"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.04"
                previous_piece_offset="0.2"
@@ -1402,7 +1402,7 @@
                  mesh="aserai_grip_1"
                  culture="Culture.aserai"
                  length="15"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="0"
                previous_piece_offset="0.1"
@@ -1414,7 +1414,7 @@
                  piece_type="Handle"
                  mesh="vlandian_grip_23"
                  length="15.9"
-                 weight="0.3">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-1"
                previous_piece_offset="0.1" />
@@ -1426,7 +1426,7 @@
                  mesh="aserai_grip_21"
                  culture="Culture.aserai"
                  length="25"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="0"
                previous_piece_offset="0.3"
@@ -1439,7 +1439,7 @@
                  mesh="vlandian_noble_grip_1"
                  culture="Culture.vlandia"
                  length="17.5"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="0"
                previous_piece_offset="0.358" />
@@ -1450,7 +1450,7 @@
                  piece_type="Handle"
                  mesh="khuzait_grip_15"
                  length="25.5"
-                 weight="0.150">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-1.98"
                previous_piece_offset="0.2"
@@ -1462,7 +1462,7 @@
                  piece_type="Handle"
                  mesh="aserai_grip_6"
                  length="15.07"
-                 weight="0.135">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.03"
                previous_piece_offset="0.1"
@@ -1474,7 +1474,7 @@
                  piece_type="Handle"
                  mesh="aserai_grip_8"
                  length="15"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword:ThrowingKnife" />
     <BuildData piece_offset="0"
                previous_piece_offset="0.1"
@@ -1498,7 +1498,7 @@
                  piece_type="Handle"
                  mesh="battania_grip_8"
                  length="25"
-                 weight="0.55">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="0"
                previous_piece_offset="0.3"
@@ -1523,7 +1523,7 @@
                  piece_type="Handle"
                  mesh="sturgian_grip_8"
                  length="15"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="0"
                next_piece_offset="0"
@@ -1536,7 +1536,7 @@
                  mesh="sturgian_grip_33"
                  culture="Culture.sturgia"
                  length="25"
-                 weight="0.20">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-0.14"
                previous_piece_offset="0.3"
@@ -1548,7 +1548,7 @@
                  piece_type="Handle"
                  mesh="sturgian_grip_13"
                  length="15.2"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.09"
                previous_piece_offset="0.3"
@@ -1560,7 +1560,7 @@
                  piece_type="Handle"
                  mesh="cleaver_grip_1"
                  length="16.15"
-                 weight="0.25"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.1">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.52"
@@ -1573,7 +1573,7 @@
                  piece_type="Handle"
                  mesh="sturgian_grip_25"
                  length="25"
-                 weight="0.13">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardSword" />
     <BuildData piece_offset="-5.04"
                next_piece_offset="0.1"
@@ -1586,7 +1586,7 @@
                  mesh="battania_grip_6"
                  culture="Culture.battania"
                  length="25.6"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedSword" />
     <BuildData piece_offset="-8.28"
                previous_piece_offset="0.3"
@@ -1598,7 +1598,7 @@
                  piece_type="Handle"
                  mesh="vlandian_grip_8"
                  length="33.2"
-                 weight="0.4"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.02">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardSword" />
     <BuildData piece_offset="-6.75"
@@ -1610,7 +1610,7 @@
                  piece_type="Handle"
                  mesh="cleaver_grip_7"
                  length="25"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-1.06"
                previous_piece_offset="0.3" />
@@ -1622,7 +1622,7 @@
                  mesh="aserai_grip_19"
                  culture="Culture.aserai"
                  length="31"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardSword" />
     <BuildData piece_offset="-5.41"
                previous_piece_offset="0.2"
@@ -1634,7 +1634,7 @@
                  piece_type="Handle"
                  mesh="vlandian_grip_10"
                  length="25.2"
-                 weight="0.3"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.02">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-4.59"
@@ -1658,7 +1658,7 @@
                  piece_type="Handle"
                  mesh="khuzait_grip_8"
                  length="20.425"
-                 weight="0.68">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-2.44"
                previous_piece_offset="0.35"
@@ -1673,7 +1673,7 @@
                  mesh="empire_pommel_2"
                  culture="Culture.empire"
                  length="6.496"
-                 weight="0.250">
+                 weight="0.5">
     <PieceUsages unavailable_usages="ThrowingKnife" />
     <Materials>
       <Material id="Iron2"
@@ -1687,7 +1687,7 @@
                  mesh="vlandian_pommel_7"
                  culture="Culture.vlandia"
                  length="5.231"
-                 weight="0.12">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-0.2" />
   </CraftingPiece>
@@ -1698,7 +1698,7 @@
                  mesh="vlandian_pommel_7"
                  culture="Culture.vlandia"
                  length="5.231"
-                 weight="0.12">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-0.2" />
   </CraftingPiece>
@@ -1709,7 +1709,7 @@
                  mesh="vlandian_pommel_4"
                  culture="Culture.vlandia"
                  length="7"
-                 weight="0.16">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_2hsword_pommel"
@@ -1718,7 +1718,7 @@
                  piece_type="Pommel"
                  mesh="vlandian_pommel_9"
                  length="5.275"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_empire_gladius_pommel"
@@ -1727,7 +1727,7 @@
                  piece_type="Pommel"
                  mesh="aserai_pommel_4"
                  length="7.797"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-0.3" />
   </CraftingPiece>
@@ -1737,7 +1737,7 @@
                  piece_type="Pommel"
                  mesh="empire_pommel_6"
                  length="5.4"
-                 weight="0.1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_empire_long_spatha_pommel"
@@ -1746,7 +1746,7 @@
                  piece_type="Pommel"
                  mesh="empire_pommel_3"
                  length="6.564"
-                 weight="0.18">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_empire_paramerion_pommel"
@@ -1755,7 +1755,7 @@
                  piece_type="Pommel"
                  mesh="khuzait_pommel_1"
                  length="6.588"
-                 weight="0.12">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_empire_long_paramerion_pommel"
@@ -1764,7 +1764,7 @@
                  piece_type="Pommel"
                  mesh="khuzait_pommel_5"
                  length="7.268"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_empire_pugio_pommel"
@@ -1773,7 +1773,7 @@
                  piece_type="Pommel"
                  mesh="battania_pommel_7"
                  length="10"
-                 weight="0.250">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_northern_sword_pommel"
@@ -1782,7 +1782,7 @@
                  piece_type="Pommel"
                  mesh="sturgian_pommel_3"
                  length="3.587"
-                 weight="0.13">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_sword_pommel"
@@ -1791,7 +1791,7 @@
                  piece_type="Pommel"
                  mesh="battania_pommel_1"
                  length="4.027"
-                 weight="0.13">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_cavalry_sword_pommel"
@@ -1800,7 +1800,7 @@
                  piece_type="Pommel"
                  mesh="sturgian_pommel_1"
                  length="3.539"
-                 weight="0.13">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_western_cavalry_sword_pommel"
@@ -1810,7 +1810,7 @@
                  mesh="cleaver_pommel_4"
                  culture="Culture.aserai"
                  length="1.07"
-                 weight="0.08">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_sabre_pommel"
@@ -1819,7 +1819,7 @@
                  piece_type="Pommel"
                  mesh="khuzait_pommel_2"
                  length="1.17"
-                 weight="0.08">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_heavy_sabre_pommel"
@@ -1828,7 +1828,7 @@
                  piece_type="Pommel"
                  mesh="khuzait_pommel_3"
                  length="1.741"
-                 weight="0.12">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_cavalry_sabre_pommel"
@@ -1837,7 +1837,7 @@
                  piece_type="Pommel"
                  mesh="khuzait_pommel_3"
                  length="1.741"
-                 weight="0.3">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_sword_pommel"
@@ -1846,7 +1846,7 @@
                  piece_type="Pommel"
                  mesh="khuzait_pommel_4"
                  length="1.508"
-                 weight="0.18">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_ranger_sword_pommel"
@@ -1855,7 +1855,7 @@
                  piece_type="Pommel"
                  mesh="aserai_pommel_8"
                  length="7.299"
-                 weight="0.111">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_fast_sword_pommel"
@@ -1865,7 +1865,7 @@
                  mesh="aserai_noble_pommel_3"
                  culture="Culture.aserai"
                  length="6.7"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_vlandia_fast_sword_pommel"
@@ -1875,7 +1875,7 @@
                  mesh="vlandian_noble_pommel_3"
                  culture="Culture.vlandia"
                  length="5"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_long_sword_pommel"
@@ -1884,7 +1884,7 @@
                  piece_type="Pommel"
                  mesh="aserai_pommel_1"
                  length="4.882"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-0.2" />
   </CraftingPiece>
@@ -1894,7 +1894,7 @@
                  piece_type="Pommel"
                  mesh="empire_pommel_5"
                  length="6.911"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0" />
   </CraftingPiece>
@@ -1904,7 +1904,7 @@
                  piece_type="Pommel"
                  mesh="khuzait_pommel_5"
                  length="7.268"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_falx_pommel"
@@ -1913,7 +1913,7 @@
                  piece_type="Pommel"
                  mesh="wood_pommel_1"
                  length="3.8"
-                 weight="0.069">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_polearm_falx_pommel"
@@ -1923,7 +1923,7 @@
                  mesh="cleaver_pommel_4"
                  culture="Culture.aserai"
                  length="1.07"
-                 weight="0.08">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_long_sword_pommel"
@@ -1932,7 +1932,7 @@
                  piece_type="Pommel"
                  mesh="battania_pommel_8"
                  length="2.5"
-                 weight="0.14">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_bastard_sword_pommel"
@@ -1941,7 +1941,7 @@
                  piece_type="Pommel"
                  mesh="sturgian_pommel_12"
                  length="5.1"
-                 weight="0.17">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_sword_pommel"
@@ -1950,7 +1950,7 @@
                  piece_type="Pommel"
                  mesh="sturgian_pommel_1"
                  length="3.539"
-                 weight="0.150">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_short_sword_pommel"
@@ -1959,7 +1959,7 @@
                  piece_type="Pommel"
                  mesh="cleaver_pommel_3"
                  length="7.8"
-                 weight="0.15">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-0.2" />
   </CraftingPiece>
@@ -1969,7 +1969,7 @@
                  piece_type="Pommel"
                  mesh="cleaver_pommel_2"
                  length="6.692"
-                 weight="0.14">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_2h_long_sword_pommel"
@@ -1978,7 +1978,7 @@
                  piece_type="Pommel"
                  mesh="battania_pommel_8"
                  length="2.5"
-                 weight="0.14">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_battania_dagger_pommel"
@@ -1987,7 +1987,7 @@
                  piece_type="Pommel"
                  mesh="khuzait_pommel_5"
                  length="7.268"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_noble_two_handed_sword_pommel"
@@ -1996,7 +1996,7 @@
                  piece_type="Pommel"
                  mesh="battania_pommel_1"
                  length="4.027"
-                 weight="0.12">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_bastard_sword_pommel"
@@ -2005,7 +2005,7 @@
                  piece_type="Pommel"
                  mesh="vlandian_pommel_7"
                  length="5.231"
-                 weight="0.12">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-0.2" />
   </CraftingPiece>
@@ -2015,7 +2015,7 @@
                  piece_type="Pommel"
                  mesh="vlandian_pommel_2"
                  length="7.9"
-                 weight="0.17">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.1" />
   </CraftingPiece>
@@ -2025,7 +2025,7 @@
                  piece_type="Pommel"
                  mesh="empire_pommel_4"
                  length="6.795"
-                 weight="0.16">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_test_2hsword_pommel"
@@ -2034,7 +2034,7 @@
                  piece_type="Pommel"
                  mesh="cleaver_pommel_4"
                  length="1.07"
-                 weight="0.08">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <!-- #endregion -->
@@ -2049,14 +2049,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_33"
                  length="35.5"
-                 weight="0.55"
+                 weight="0.5"
                  excluded_item_usage_features="shield:thrust">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardAxe" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="1.9" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2070,7 +2070,7 @@
                  mesh="axe_craft_22_head"
                  distance_to_next_piece="7"
                  distance_to_previous_piece="1.6"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-4" />
     <BladeData stack_amount="3"
@@ -2079,9 +2079,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.9" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2096,7 +2096,7 @@
                  mesh="axe_craft_6_head"
                  distance_to_next_piece="18.597"
                  distance_to_previous_piece="3.996"
-                 weight="1.04">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-7.992" />
     <BladeData stack_amount="3"
@@ -2105,7 +2105,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="2.8" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2130,7 +2130,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="3.5" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2145,7 +2145,7 @@
                  mesh="axe_craft_4_head"
                  distance_to_next_piece="5.787"
                  distance_to_previous_piece="1.483"
-                 weight="0.9">
+                 weight="0.5">
     <BuildData piece_offset="-2.966" />
     <BladeData stack_amount="3"
                blade_length="10.566"
@@ -2154,9 +2154,9 @@
                body_name="bo_axe_longer_b"
                holster_mesh="throwing_axe_quiver_1">
       <Thrust damage_type="Cut"
-              damage_factor="0.6" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="1.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2171,7 +2171,7 @@
                  mesh="axe_craft_4_head"
                  distance_to_next_piece="5.787"
                  distance_to_previous_piece="1.483"
-                 weight="0.9">
+                 weight="0.5">
     <BuildData piece_offset="-2.966" />
     <BladeData stack_amount="3"
                blade_length="10.566"
@@ -2180,9 +2180,9 @@
                body_name="bo_axe_longer_b"
                holster_mesh="throwing_axe_quiver_1">
       <Thrust damage_type="Cut"
-              damage_factor="0.6" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="1.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2197,7 +2197,7 @@
                  mesh="axe_craft_4_head"
                  distance_to_next_piece="5.787"
                  distance_to_previous_piece="1.483"
-                 weight="0.9">
+                 weight="0.5">
     <BuildData piece_offset="-2.966" />
     <BladeData stack_amount="3"
                blade_length="10.566"
@@ -2206,9 +2206,9 @@
                body_name="bo_axe_longer_b"
                holster_mesh="throwing_axe_quiver_1">
       <Thrust damage_type="Cut"
-              damage_factor="0.8" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="1.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2223,7 +2223,7 @@
                  mesh="axe_craft_16_head"
                  distance_to_next_piece="28.8"
                  distance_to_previous_piece="6"
-                 weight="0.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-12" />
     <BladeData stack_amount="3"
@@ -2232,9 +2232,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.2" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2249,7 +2249,7 @@
                  mesh="axe_craft_16_head"
                  distance_to_next_piece="28.8"
                  distance_to_previous_piece="6"
-                 weight="0.7">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-12" />
     <BladeData stack_amount="3"
@@ -2258,9 +2258,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.5" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2284,9 +2284,9 @@
                body_name="bo_axe_longer_b"
                holster_mesh="throwing_axe_quiver_1">
       <Thrust damage_type="Cut"
-              damage_factor="0.6" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="1.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2301,7 +2301,7 @@
                  mesh="axe_craft_13_head"
                  distance_to_next_piece="2.7"
                  distance_to_previous_piece="1.6"
-                 weight="0.581">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardAxe" />
     <BuildData piece_offset="-3.2" />
     <BladeData stack_amount="2"
@@ -2311,9 +2311,9 @@
                body_name="bo_axe_longer_b"
                holster_mesh="throwing_axe_quiver_1">
       <Thrust damage_type="Cut"
-              damage_factor="0.6" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="1.8" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2328,7 +2328,7 @@
                  mesh="axe_craft_23_head"
                  distance_to_next_piece="3"
                  distance_to_previous_piece="5.3"
-                 weight="0.55">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-10.6" />
     <BladeData stack_amount="3"
@@ -2339,7 +2339,7 @@
       <Thrust damage_type="Pierce"
               damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.7" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2364,7 +2364,7 @@
       <Thrust damage_type="Blunt"
               damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.6" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2379,7 +2379,7 @@
                  mesh="axe_craft_33_head"
                  distance_to_next_piece="7.2"
                  distance_to_previous_piece="3"
-                 weight="0.43">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-6" />
     <BladeData stack_amount="3"
@@ -2388,9 +2388,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="2.8" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.8" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2405,7 +2405,7 @@
                  mesh="axe_craft_8_head"
                  distance_to_next_piece="11.156"
                  distance_to_previous_piece="1.96"
-                 weight="0.45">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-3.92" />
     <BladeData stack_amount="3"
@@ -2414,9 +2414,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="2.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.85" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2430,7 +2430,7 @@
                  mesh="axe_craft_7_head"
                  distance_to_next_piece="14.96"
                  distance_to_previous_piece="2.712"
-                 weight="0.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-5.424" />
     <BladeData stack_amount="3"
@@ -2439,9 +2439,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.2" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2456,7 +2456,7 @@
                  mesh="axe_craft_5_head"
                  distance_to_next_piece="3.414"
                  distance_to_previous_piece="2.617"
-                 weight="0.8">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-5.234" />
     <BladeData stack_amount="3"
@@ -2465,9 +2465,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.7" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2481,7 +2481,7 @@
                  mesh="axe_craft_33_head"
                  distance_to_next_piece="7.2"
                  distance_to_previous_piece="3"
-                 weight="0.7">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-6" />
     <BladeData stack_amount="3"
@@ -2490,9 +2490,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="2.8" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.85" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2507,7 +2507,7 @@
                  mesh="axe_craft_36_head"
                  distance_to_next_piece="10.4"
                  distance_to_previous_piece="3.4"
-                 weight="0.63">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-6.8" />
     <BladeData stack_amount="3"
@@ -2516,9 +2516,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="2.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.3" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2542,9 +2542,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="2.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.1" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2559,7 +2559,7 @@
                  mesh="axe_craft_18_head"
                  distance_to_next_piece="3.4"
                  distance_to_previous_piece="1.3"
-                 weight="0.45">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-2.6" />
     <BladeData stack_amount="3"
@@ -2568,7 +2568,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="4.8" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2583,7 +2583,7 @@
                  mesh="axe_craft_33_head"
                  distance_to_next_piece="7.2"
                  distance_to_previous_piece="3"
-                 weight="0.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-6" />
     <BladeData stack_amount="3"
@@ -2592,7 +2592,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="3.35" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2607,7 +2607,7 @@
                  mesh="axe_craft_21_head"
                  distance_to_next_piece="2.6"
                  distance_to_previous_piece="2"
-                 weight="0.7">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-4" />
     <BladeData stack_amount="3"
@@ -2616,7 +2616,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="3.5" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2634,7 +2634,7 @@
                  mesh="axe_craft_12_head"
                  distance_to_next_piece="5"
                  distance_to_previous_piece="1.5"
-                 weight="0.7">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-3" />
     <BladeData stack_amount="3"
@@ -2643,9 +2643,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.8" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2659,7 +2659,7 @@
                  mesh="axe_craft_20_head"
                  distance_to_next_piece="3.6"
                  distance_to_previous_piece="2.7"
-                 weight="0.8">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-5.4" />
     <BladeData stack_amount="3"
@@ -2668,9 +2668,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="2.8" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.55" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2688,7 +2688,7 @@
                  mesh="axe_craft_3_head"
                  distance_to_next_piece="13.057"
                  distance_to_previous_piece="2.314"
-                 weight="0.55">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-4.628" />
     <BladeData stack_amount="3"
@@ -2697,9 +2697,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.2" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2714,7 +2714,7 @@
                  mesh="axe_craft_2_head"
                  distance_to_next_piece="3.986"
                  distance_to_previous_piece="2.314"
-                 weight="0.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-5.628" />
     <BladeData stack_amount="3"
@@ -2723,9 +2723,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_a">
       <Thrust damage_type="Blunt"
-              damage_factor="2.8" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.5" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2740,7 +2740,7 @@
                  mesh="axe_craft_7_head"
                  distance_to_next_piece="14.96"
                  distance_to_previous_piece="2.712"
-                 weight="0.45">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="-5.424" />
     <BladeData stack_amount="3"
@@ -2749,9 +2749,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.1" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -2777,7 +2777,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_6"
                  length="56.2"
-                 weight="0.7">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="15" />
   </CraftingPiece>
@@ -2787,7 +2787,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_1_handle"
                  length="157.6"
-                 weight="0.8"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.1">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="37.408"
@@ -2799,7 +2799,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_10_handle"
                  length="132"
-                 weight="0.3">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="28.87"
                next_piece_offset="2.5" />
@@ -2810,7 +2810,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_12_handle"
                  length="60"
-                 weight="0.15">
+                 weight="0.5">
     <BuildData piece_offset="17.2"
                next_piece_offset="4" />
   </CraftingPiece>
@@ -2820,7 +2820,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_11_handle"
                  length="60"
-                 weight="0.15">
+                 weight="0.5">
     <BuildData piece_offset="17.2"
                next_piece_offset="4" />
   </CraftingPiece>
@@ -2830,7 +2830,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_11_handle"
                  length="60"
-                 weight="0.15">
+                 weight="0.5">
     <BuildData piece_offset="17.2"
                next_piece_offset="4" />
   </CraftingPiece>
@@ -2851,7 +2851,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_4_handle"
                  length="157.5"
-                 weight="0.35"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.1">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardAxe" />
     <BuildData piece_offset="26.879"
@@ -2863,7 +2863,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_20_handle"
                  length="90"
-                 weight="0.2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="21"
                next_piece_offset="1.5" />
@@ -2874,7 +2874,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_25_handle"
                  length="80"
-                 weight="0.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="20"
                next_piece_offset="1.835" />
@@ -2885,7 +2885,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_21_handle"
                  length="94"
-                 weight="0.296">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="21"
                next_piece_offset="1.5" />
@@ -2896,7 +2896,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_22_handle"
                  length="96"
-                 weight="0.296">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="21"
                next_piece_offset="1.5" />
@@ -2907,7 +2907,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_23_handle"
                  length="98"
-                 weight="0.296">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="21"
                next_piece_offset="1.5" />
@@ -2918,7 +2918,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_24_handle"
                  length="110"
-                 weight="0.35"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.15">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="31"
@@ -2942,7 +2942,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_17_handle"
                  length="91.3"
-                 weight="0.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="27"
                next_piece_offset="8" />
@@ -2953,7 +2953,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_12_handle"
                  length="70"
-                 weight="0.234">
+                 weight="0.5">
     <BuildData piece_offset="8.175"
                next_piece_offset="4" />
   </CraftingPiece>
@@ -2963,7 +2963,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_12_handle"
                  length="70"
-                 weight="0.234">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardAxe" />
     <BuildData piece_offset="8.175"
                next_piece_offset="4" />
@@ -2974,7 +2974,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_21_handle"
                  length="94"
-                 weight="0.35">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="30"
                next_piece_offset="1.835" />
@@ -2985,7 +2985,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_22_handle"
                  length="96"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="28"
                next_piece_offset="2.44" />
@@ -2996,7 +2996,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_24_handle"
                  length="110"
-                 weight="0.45"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.15">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="31"
@@ -3066,7 +3066,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_3_handle"
                  length="80.6"
-                 weight="0.3">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="22"
                next_piece_offset="2.29" />
@@ -3089,7 +3089,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_2_handle"
                  length="84"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="23"
                next_piece_offset="1.835" />
@@ -3100,7 +3100,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_6_handle"
                  length="157.3"
-                 weight="0.6"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.1">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="36.87"
@@ -3116,7 +3116,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_13"
                  length="50.864"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData stack_amount="1"
@@ -3125,7 +3125,7 @@
                holster_mesh=""
                holster_body_name="">
       <Thrust damage_type="Pierce"
-              damage_factor="2.6" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3139,7 +3139,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_42"
                  length="42"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData stack_amount="1"
@@ -3148,7 +3148,7 @@
                holster_mesh=""
                holster_body_name="">
       <Thrust damage_type="Pierce"
-              damage_factor="2.6" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3162,7 +3162,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_42"
                  length="42"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData stack_amount="3"
@@ -3171,7 +3171,7 @@
                holster_mesh=""
                holster_body_name="">
       <Thrust damage_type="Pierce"
-              damage_factor="2.6" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3185,7 +3185,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_13"
                  length="51"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData stack_amount="3"
@@ -3194,7 +3194,7 @@
                holster_mesh="throwing_spear_quiver_2"
                holster_body_name="bo_throwing_spear_quiver_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.6" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3208,7 +3208,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_15"
                  length="22.862"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
@@ -3217,7 +3217,7 @@
                holster_mesh="throwing_spear_quiver_1_1"
                holster_body_name="bo_throwing_spear_quiver_1_1">
       <Thrust damage_type="Pierce"
-              damage_factor="1.4" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3231,7 +3231,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_15"
                  length="22.862"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="6"
@@ -3240,7 +3240,7 @@
                holster_mesh="throwing_spear_quiver_1_1"
                holster_body_name="bo_throwing_spear_quiver_1_1">
       <Thrust damage_type="Pierce"
-              damage_factor="1.4" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3254,7 +3254,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_9"
                  length="23.328"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
@@ -3277,7 +3277,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_37"
                  length="23.7"
-                 weight="0.6"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="4"
@@ -3286,7 +3286,7 @@
                holster_mesh="throwing_spear_quiver_5"
                holster_body_name="bo_throwing_spear_quiver_5">
       <Thrust damage_type="Pierce"
-              damage_factor="2.6" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3300,7 +3300,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_38"
                  length="23.7"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="2"
@@ -3309,7 +3309,7 @@
                holster_mesh="throwing_spear_quiver_3_2"
                holster_body_name="bo_throwing_spear_quiver_3_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.5" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3323,7 +3323,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_38"
                  length="23.7"
-                 weight="0.2"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="4"
@@ -3332,7 +3332,7 @@
                holster_mesh="throwing_spear_quiver_3_2"
                holster_body_name="bo_throwing_spear_quiver_3_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.1" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3346,7 +3346,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_27"
                  length="67.2"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
@@ -3356,7 +3356,7 @@
                holster_body_name="bo_throwing_spear_quiver_2"
                holster_mesh_length="94.6">
       <Thrust damage_type="Pierce"
-              damage_factor="1.9" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3370,7 +3370,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_27"
                  length="67.2"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="6"
@@ -3380,7 +3380,7 @@
                holster_body_name="bo_throwing_spear_quiver_2"
                holster_mesh_length="94.6">
       <Thrust damage_type="Pierce"
-              damage_factor="1.9" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3394,7 +3394,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_38"
                  length="23.7"
-                 weight="0.1"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
@@ -3403,7 +3403,7 @@
                holster_mesh="throwing_spear_quiver_3_2"
                holster_body_name="bo_throwing_spear_quiver_3_2">
       <Thrust damage_type="Pierce"
-              damage_factor="1.4" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3417,7 +3417,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_38"
                  length="23.7"
-                 weight="0.1"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="6"
@@ -3426,7 +3426,7 @@
                holster_mesh="throwing_spear_quiver_3_2"
                holster_body_name="bo_throwing_spear_quiver_3_2">
       <Thrust damage_type="Pierce"
-              damage_factor="1.4" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3440,7 +3440,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_38"
                  length="23.7"
-                 weight="0.1"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
@@ -3449,7 +3449,7 @@
                holster_mesh="throwing_spear_quiver_3_2"
                holster_body_name="bo_throwing_spear_quiver_3_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3463,7 +3463,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_14"
                  length="46.28"
-                 weight="0.2"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
@@ -3472,7 +3472,7 @@
                holster_mesh="throwing_spear_quiver_4"
                holster_body_name="bo_throwing_spear_quiver_4">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3486,7 +3486,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_14"
                  length="46.28"
-                 weight="0.2"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="7"
@@ -3495,7 +3495,7 @@
                holster_mesh="throwing_spear_quiver_4"
                holster_body_name="bo_throwing_spear_quiver_4">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3509,14 +3509,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_1"
                  length="48.226"
-                 weight="0.45"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.05" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_western_long_spear_blade"
@@ -3525,14 +3525,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_2"
                  length="47.843"
-                 weight="0.3912"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.15" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_western_pitchfork_blade"
@@ -3541,14 +3541,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_32"
                  length="32.7"
-                 weight="0.35"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_pike_blade"
@@ -3557,7 +3557,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_27"
                  length="67.2"
-                 weight="0.6"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
@@ -3566,7 +3566,7 @@
                holster_mesh="throwing_spear_quiver_2"
                holster_body_name="bo_throwing_spear_quiver_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_pike_blade"
@@ -3575,13 +3575,13 @@
                  piece_type="Blade"
                  mesh="spear_blade_39"
                  length="54.2"
-                 weight="0.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_pike_blade"
@@ -3590,7 +3590,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_27"
                  length="69.5"
-                 weight="0.7"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
@@ -3599,7 +3599,7 @@
                holster_mesh="throwing_spear_quiver_2"
                holster_body_name="bo_throwing_spear_quiver_2">
       <Thrust damage_type="Pierce"
-              damage_factor="2.9" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="FineSteel"
@@ -3612,14 +3612,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_14"
                  length="46.28"
-                 weight="0.7"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.12" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_western_lance_blade"
@@ -3628,7 +3628,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_15"
                  length="22.862"
-                 weight="0.22"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
@@ -3637,7 +3637,7 @@
                holster_mesh="throwing_spear_quiver_1_1"
                holster_body_name="bo_throwing_spear_quiver_1_1">
       <Thrust damage_type="Pierce"
-              damage_factor="2.2" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_heavy_lance_blade"
@@ -3646,14 +3646,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_4"
                  length="72.558"
-                 weight="0.85"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.3" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_spear_blade"
@@ -3662,14 +3662,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_36"
                  length="42"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_lance_blade"
@@ -3678,14 +3678,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_36"
                  length="42"
-                 weight="0.7"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.2" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_pike_blade"
@@ -3694,14 +3694,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_41"
                  length="53.2"
-                 weight="0.6"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.8" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandia_polearm_head"
@@ -3711,7 +3711,7 @@
                  mesh="axe_craft_10_head"
                  distance_to_next_piece="23"
                  distance_to_previous_piece="4"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="3"
@@ -3720,9 +3720,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1.9" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -3736,15 +3736,15 @@
                  piece_type="Blade"
                  mesh="spear_blade_18"
                  length="70.4"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="3.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.0" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_cavalry_menavlion_blade"
@@ -3759,9 +3759,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.5" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.8" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_long_menavlion_blade"
@@ -3770,15 +3770,15 @@
                  piece_type="Blade"
                  mesh="spear_blade_18"
                  length="70.4"
-                 weight="0.3">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="3.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.5" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_heavy_menavlion_blade"
@@ -3793,9 +3793,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="3.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.1" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_polearm_blade"
@@ -3804,15 +3804,15 @@
                  piece_type="Blade"
                  mesh="spear_blade_23"
                  length="42.5"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.5" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="2.6" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_glaive_blade"
@@ -3821,15 +3821,15 @@
                  piece_type="Blade"
                  mesh="spear_blade_19"
                  length="43.7"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.3" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="3.7" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_heavy_glaive_blade"
@@ -3838,15 +3838,15 @@
                  piece_type="Blade"
                  mesh="spear_blade_19"
                  length="43.7"
-                 weight="0.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.45" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_sichel_blade"
@@ -3861,7 +3861,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Swing damage_type="Cut"
-             damage_factor="2.9" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_short_spear_blade"
@@ -3870,7 +3870,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_35"
                  length="41.3"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable,v" />
     <BladeData stack_amount="3"
@@ -3879,7 +3879,7 @@
                holster_mesh="throwing_spear_quiver_5_1"
                holster_body_name="bo_throwing_spear_quiver_5_1">
       <Thrust damage_type="Pierce"
-              damage_factor="1.8" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_long_spear_blade"
@@ -3895,7 +3895,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.1" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_lance_blade"
@@ -3904,14 +3904,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_7"
                  length="52.924"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.45" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_heavy_lance_blade"
@@ -3920,14 +3920,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_8"
                  length="60.2"
-                 weight="0.6224"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.7" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_spear_blade"
@@ -3936,14 +3936,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_8"
                  length="60.2"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_bamboo_spear_blade"
@@ -3952,14 +3952,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_6"
                  length="86.4"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1.9" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_long_spear_blade"
@@ -3968,14 +3968,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_11"
                  length="34.6"
-                 weight="0.32"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.1" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_bamboo_lance_blade"
@@ -3984,14 +3984,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_6"
                  length="81"
-                 weight="0.896"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.3" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_heavy_lance_blade"
@@ -4000,14 +4000,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_8"
                  length="60.2"
-                 weight="1"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.3" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_spear_blade"
@@ -4016,7 +4016,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_15"
                  length="22.862"
-                 weight="0.2"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
@@ -4025,7 +4025,7 @@
                holster_mesh="throwing_spear_quiver_1_1"
                holster_body_name="bo_throwing_spear_quiver_1_1">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_long_spear_blade"
@@ -4041,7 +4041,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.2" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_short_spear_blade"
@@ -4050,7 +4050,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_42"
                  length="42"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
@@ -4059,7 +4059,7 @@
                holster_mesh="throwing_spear_quiver_4_1"
                holster_body_name="bo_throwing_spear_quiver_4_1">
       <Thrust damage_type="Pierce"
-              damage_factor="1.75" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_lance_blade"
@@ -4068,7 +4068,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_42"
                  length="42"
-                 weight="1.0456"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
@@ -4077,7 +4077,7 @@
                holster_mesh="throwing_spear_quiver_4_1"
                holster_body_name="bo_throwing_spear_quiver_4_1">
       <Thrust damage_type="Pierce"
-              damage_factor="2.35" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_heavy_lance_blade"
@@ -4086,14 +4086,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_13"
                  length="50.864"
-                 weight="1.1"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.4" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_spear_blade"
@@ -4102,7 +4102,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_42"
                  length="42"
-                 weight="0.2"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable,v" />
     <BladeData stack_amount="3"
@@ -4111,7 +4111,7 @@
                holster_mesh="throwing_spear_quiver_4_1"
                holster_body_name="bo_throwing_spear_quiver_4_1">
       <Thrust damage_type="Pierce"
-              damage_factor="2.1" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_long_spear_blade"
@@ -4120,14 +4120,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_40"
                  length="42"
-                 weight="0.25"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.1" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_lance_blade"
@@ -4136,14 +4136,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_41"
                  length="53.2"
-                 weight="0.6"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.3" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_polearm_falx_blade"
@@ -4152,14 +4152,14 @@
                  piece_type="Blade"
                  mesh="battania_blade_6"
                  length="95.6"
-                 weight="1.1"
+                 weight="0.5"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="OneHandedSword:OneHandedBastardSword:Javelin" />
     <BladeData stack_amount="3"
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Swing damage_type="Cut"
-             damage_factor="3.5" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -4171,14 +4171,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_3"
                  length="57.143"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.1" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_test_polearm_head"
@@ -4188,7 +4188,7 @@
                  mesh="axe_craft_10_head"
                  distance_to_next_piece="23"
                  distance_to_previous_piece="4"
-                 weight="0.8">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
     <BuildData piece_offset="-8" />
     <BladeData stack_amount="3"
@@ -4197,9 +4197,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.2" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="4.6" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -4213,14 +4213,14 @@
                  piece_type="Blade"
                  mesh="spear_blade_5"
                  length="52.242"
-                 weight="0.35"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="2.0" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_test_pike_blade"
@@ -4229,7 +4229,7 @@
                  piece_type="Blade"
                  mesh="spear_blade_1"
                  length="48.226"
-                 weight="0.3"
+                 weight="0.5"
                  excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="Javelin" />
     <BladeData stack_amount="3"
@@ -4238,7 +4238,7 @@
                holster_mesh="throwing_spear_quiver_4"
                holster_body_name="bo_throwing_spear_quiver_4">
       <Thrust damage_type="Pierce"
-              damage_factor="2.2" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_test_lance_blade"
@@ -4256,7 +4256,7 @@
                holster_mesh="throwing_spear_quiver_4"
                holster_body_name="bo_throwing_spear_quiver_4">
       <Thrust damage_type="Pierce"
-              damage_factor="2" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <!-- #endregion -->
@@ -4268,7 +4268,7 @@
                  mesh="spear_guard_1"
                  culture="Culture.empire"
                  length="5.7"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_2"
@@ -4278,7 +4278,7 @@
                  mesh="spear_guard_2"
                  culture="Culture.empire"
                  length="5.5"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_3"
@@ -4288,7 +4288,7 @@
                  mesh="spear_guard_3"
                  culture="Culture.empire"
                  length="12.5"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_4"
@@ -4298,7 +4298,7 @@
                  mesh="spear_guard_4"
                  culture="Culture.empire"
                  length="6.2"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_5"
@@ -4308,7 +4308,7 @@
                  mesh="spear_guard_5"
                  culture="Culture.empire"
                  length="7.7"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_6"
@@ -4318,7 +4318,7 @@
                  mesh="spear_guard_6"
                  culture="Culture.empire"
                  length="8.8"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_7"
@@ -4328,7 +4328,7 @@
                  mesh="spear_guard_7"
                  culture="Culture.empire"
                  length="7.4"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_8"
@@ -4338,7 +4338,7 @@
                  mesh="spear_guard_8"
                  culture="Culture.empire"
                  length="5.8"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_9"
@@ -4348,7 +4348,7 @@
                  mesh="spear_guard_9"
                  culture="Culture.empire"
                  length="5.3"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_10"
@@ -4358,7 +4358,7 @@
                  mesh="spear_guard_10"
                  culture="Culture.empire"
                  length="4.5"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_11"
@@ -4368,7 +4368,7 @@
                  mesh="spear_guard_11"
                  culture="Culture.empire"
                  length="8.8"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_12"
@@ -4378,7 +4378,7 @@
                  mesh="spear_guard_12"
                  culture="Culture.empire"
                  length="14.3"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_13"
@@ -4388,7 +4388,7 @@
                  mesh="spear_guard_13"
                  culture="Culture.empire"
                  length="11.3"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_14"
@@ -4398,7 +4398,7 @@
                  mesh="spear_guard_14"
                  culture="Culture.empire"
                  length="9"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_15"
@@ -4408,7 +4408,7 @@
                  mesh="spear_guard_15"
                  culture="Culture.empire"
                  length="2.6"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_16"
@@ -4418,7 +4418,7 @@
                  mesh="spear_guard_16"
                  culture="Culture.empire"
                  length="0"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_17"
@@ -4428,7 +4428,7 @@
                  mesh="spear_guard_17"
                  culture="Culture.empire"
                  length="0"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_18"
@@ -4438,7 +4438,7 @@
                  mesh="spear_guard_18"
                  culture="Culture.empire"
                  length="0"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_19"
@@ -4448,7 +4448,7 @@
                  mesh="spear_guard_19"
                  culture="Culture.empire"
                  length="0"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_guard_20"
@@ -4458,7 +4458,7 @@
                  mesh="spear_guard_20"
                  culture="Culture.empire"
                  length="0"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <!-- #endregion -->
@@ -4469,7 +4469,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="194"
-                 weight="1.2"
+                 weight="0.5"
                  excluded_item_usage_features="long"
                  item_holster_pos_shift="0,0,0.10">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
@@ -4481,7 +4481,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_7"
                  length="295"
-                 weight="2"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm:OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="39.5" />
@@ -4492,7 +4492,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_5"
                  length="228"
-                 weight="1.85"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4503,7 +4503,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_1_handle"
                  length="157.6"
-                 weight="1.4"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.1"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
@@ -4516,7 +4516,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_5"
                  length="180"
-                 weight="1.8"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4527,7 +4527,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_5"
                  length="180"
-                 weight="2.3"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4538,7 +4538,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="1">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
     <BuildData piece_offset="24.9" />
   </CraftingPiece>
@@ -4548,7 +4548,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_13"
                  length="228"
-                 weight="1"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4559,7 +4559,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_1"
                  length="149"
-                 weight="2.2"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
     <BuildData piece_offset="36.5" />
@@ -4570,7 +4570,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_11_handle"
                  length="60"
-                 weight="0.226"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm:TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
     <BuildData piece_offset="7.2"
@@ -4582,7 +4582,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="1.25"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="24.9" />
@@ -4593,7 +4593,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="1"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.10"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
@@ -4605,7 +4605,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_13"
                  length="228"
-                 weight="0.9"
+                 weight="0.5"
                  CraftingCost="110">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
     <BuildData piece_offset="22.9" />
@@ -4616,7 +4616,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="0.85"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.10"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
@@ -4628,7 +4628,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_13"
                  length="228"
-                 weight="1.15"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4639,7 +4639,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_8"
                  length="230"
-                 weight="1.2"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="22.9"
@@ -4651,7 +4651,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="1.292"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.10"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
@@ -4663,7 +4663,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="1.25"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.10"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
@@ -4675,7 +4675,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="0.98"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.10"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
@@ -4687,7 +4687,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="1.4"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.10"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
@@ -4699,7 +4699,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_5"
                  length="228"
-                 weight="0.8"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4710,7 +4710,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_2"
                  length="85.1"
-                 weight="0.7"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
     <BuildData piece_offset="9.3" />
@@ -4721,7 +4721,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_7"
                  length="295"
-                 weight="0.8"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm:OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="39.5" />
@@ -4732,7 +4732,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_7"
                  length="295"
-                 weight="0.8"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm:OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="39.5" />
@@ -4743,7 +4743,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_2"
                  length="85.1"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
     <BuildData piece_offset="9.3" />
@@ -4754,7 +4754,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_2"
                  length="85.1"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
     <BuildData piece_offset="9.3" />
@@ -4765,7 +4765,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_2"
                  length="85.1"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
     <BuildData piece_offset="9.3" />
@@ -4776,7 +4776,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="0.9"
+                 weight="0.5"
                  excluded_item_usage_features="long"
                  item_holster_pos_shift="0,0,0.10">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
@@ -4788,7 +4788,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="1.3"
+                 weight="0.5"
                  excluded_item_usage_features="long"
                  item_holster_pos_shift="0,0,0.10">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
@@ -4800,7 +4800,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="2">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="24.9" />
   </CraftingPiece>
@@ -4810,7 +4810,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_8"
                  length="230"
-                 weight="1.7">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="22.9" />
   </CraftingPiece>
@@ -4820,7 +4820,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="2.5">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="24.9" />
   </CraftingPiece>
@@ -4830,7 +4830,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="0.9">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="24.9" />
   </CraftingPiece>
@@ -4840,7 +4840,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="1.7">
+                 weight="0.5">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="24.9" />
   </CraftingPiece>
@@ -4850,7 +4850,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="1.8">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="24.9" />
   </CraftingPiece>
@@ -4860,7 +4860,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_5"
                  length="228"
-                 weight="0.90"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4871,7 +4871,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="1.0"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="24.9" />
@@ -4882,7 +4882,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="0.9"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.10"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
@@ -4894,7 +4894,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="1.10"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="29.9" />
@@ -4905,7 +4905,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_8"
                  length="230"
-                 weight="1.7"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4916,7 +4916,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_8"
                  length="230"
-                 weight="1.7"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4927,7 +4927,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_3"
                  length="180"
-                 weight="1"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="17.9" />
@@ -4938,7 +4938,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_5"
                  length="228"
-                 weight="1.2"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
     <BuildData piece_offset="22.9" />
@@ -4949,7 +4949,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_4"
                  length="190"
-                 weight="1"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.10"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:Javelin" />
@@ -4961,7 +4961,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_3"
                  length="180"
-                 weight="1.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="17.9" />
   </CraftingPiece>
@@ -4971,7 +4971,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="1.9">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="24.9" />
   </CraftingPiece>
@@ -4981,7 +4981,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_5"
                  length="228"
-                 weight="1.0"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin:TwoHandedPolearm_Couchable" />
     <BuildData piece_offset="22.9" />
@@ -4992,7 +4992,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_5"
                  length="228"
-                 weight="1.85">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="22.9" />
   </CraftingPiece>
@@ -5002,7 +5002,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_10"
                  length="86.7"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
     <BuildData piece_offset="9.3" />
@@ -5013,7 +5013,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_6"
                  length="250"
-                 weight="1.6">
+                 weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Pike:Javelin" />
     <BuildData piece_offset="24.9" />
   </CraftingPiece>
@@ -5034,7 +5034,7 @@
                  piece_type="Handle"
                  mesh="spear_handle_11"
                  length="90"
-                 weight="0.4"
+                 weight="0.5"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
@@ -5044,7 +5044,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_1_handle"
                  length="157.6"
-                 weight="0.3"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.1"
                  excluded_item_usage_features="long">
     <PieceUsages unavailable_usages="OneHandedPolearm:TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
@@ -5060,7 +5060,7 @@
                  mesh="spear_pommel_1"
                  culture="Culture.empire"
                  length="1.8"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_2"
@@ -5070,7 +5070,7 @@
                  mesh="spear_pommel_2"
                  culture="Culture.empire"
                  length="3.82"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_3"
@@ -5080,7 +5080,7 @@
                  mesh="spear_pommel_3"
                  culture="Culture.empire"
                  length="15.3"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_sspear_pommel_4"
@@ -5090,7 +5090,7 @@
                  mesh="spear_pommel_4"
                  culture="Culture.empire"
                  length="6"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_5"
@@ -5100,7 +5100,7 @@
                  mesh="spear_pommel_5"
                  culture="Culture.empire"
                  length="3"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_6"
@@ -5110,7 +5110,7 @@
                  mesh="spear_pommel_6"
                  culture="Culture.empire"
                  length="3.1"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_7"
@@ -5120,7 +5120,7 @@
                  mesh="spear_pommel_7"
                  culture="Culture.empire"
                  length="19.8"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_8"
@@ -5130,7 +5130,7 @@
                  mesh="spear_pommel_8"
                  culture="Culture.empire"
                  length="3.8"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_9"
@@ -5140,7 +5140,7 @@
                  mesh="spear_pommel_9"
                  culture="Culture.empire"
                  length="2.9"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_10"
@@ -5150,7 +5150,7 @@
                  mesh="spear_pommel_10"
                  culture="Culture.empire"
                  length="8.3"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_11"
@@ -5160,7 +5160,7 @@
                  mesh="spear_pommel_11"
                  culture="Culture.empire"
                  length="10"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_12"
@@ -5170,7 +5170,7 @@
                  mesh="spear_pommel_12"
                  culture="Culture.empire"
                  length="14.8"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_spear_pommel_13"
@@ -5180,7 +5180,7 @@
                  mesh="spear_pommel_13"
                  culture="Culture.empire"
                  length="29.7"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="Javelin" />
   </CraftingPiece>
   <!-- #endregion -->
@@ -5193,7 +5193,7 @@
                  piece_type="Blade"
                  mesh="mace_head_4"
                  length="16.5"
-                 weight="0.85"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5201,7 +5201,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.4" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_cavalry_mace_head"
@@ -5210,7 +5210,7 @@
                  piece_type="Blade"
                  mesh="mace_head_18"
                  length="8.4"
-                 weight="0.65"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5218,7 +5218,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.55" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_cavalry_mace_head"
@@ -5227,7 +5227,7 @@
                  piece_type="Blade"
                  mesh="mace_head_19"
                  length="11"
-                 weight="0.65"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5235,7 +5235,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.5" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_vlandian_military_pick_head"
@@ -5244,7 +5244,7 @@
                  piece_type="Blade"
                  mesh="mace_head_25"
                  length="35.5"
-                 weight="0.658"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5252,7 +5252,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Cut"
-             damage_factor="3.65" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_heavy_mace_head"
@@ -5261,7 +5261,7 @@
                  piece_type="Blade"
                  mesh="mace_head_3"
                  length="18.181"
-                 weight="0.8"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5269,7 +5269,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.8" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_cavalry_mace_head"
@@ -5278,7 +5278,7 @@
                  piece_type="Blade"
                  mesh="mace_head_11"
                  length="18.3"
-                 weight="0.7"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5286,7 +5286,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.4" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_empire_mace_head"
@@ -5295,7 +5295,7 @@
                  piece_type="Blade"
                  mesh="mace_head_8"
                  length="7"
-                 weight="0.6"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5303,7 +5303,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.45" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_mace_head"
@@ -5312,7 +5312,7 @@
                  piece_type="Blade"
                  mesh="mace_head_6"
                  length="11.4"
-                 weight="1.0"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5320,7 +5320,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.1" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_heavy_mace_head"
@@ -5329,7 +5329,7 @@
                  piece_type="Blade"
                  mesh="mace_head_14"
                  length="20.8"
-                 weight="0.8"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5337,7 +5337,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="3.3" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_khuzait_cavalry_mace_head"
@@ -5346,7 +5346,7 @@
                  piece_type="Blade"
                  mesh="mace_head_16"
                  length="16.5"
-                 weight="0.7"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5354,7 +5354,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.45" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_mace_head"
@@ -5363,7 +5363,7 @@
                  piece_type="Blade"
                  mesh="mace_head_15"
                  length="13.5"
-                 weight="0.92"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5371,7 +5371,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.35" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_aserai_heavy_mace_head"
@@ -5380,7 +5380,7 @@
                  piece_type="Blade"
                  mesh="mace_head_9"
                  length="16.7"
-                 weight="0.95"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5388,7 +5388,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.7" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_hammer_head"
@@ -5397,7 +5397,7 @@
                  piece_type="Blade"
                  mesh="blacksmith_hammer_tip"
                  length="20"
-                 weight="0.57"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5407,7 +5407,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="1.85" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_mace_head"
@@ -5416,7 +5416,7 @@
                  piece_type="Blade"
                  mesh="mace_head_2"
                  length="17"
-                 weight="0.65"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5424,7 +5424,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.35" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_battania_mace_head"
@@ -5433,7 +5433,7 @@
                  piece_type="Blade"
                  mesh="mace_head_5"
                  length="25.5"
-                 weight="0.9"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5441,7 +5441,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.4" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_test_mace_head"
@@ -5450,7 +5450,7 @@
                  piece_type="Blade"
                  mesh="mace_head_18"
                  length="8.4"
-                 weight="0.8"
+                 weight="0.5"
                  full_scale="true">
     <!-- excluded_item_usage_features="thrust" -->
     <PieceUsages unavailable_usages="" />
@@ -5461,7 +5461,7 @@
               damage_factor="1" />
       <!-- 1.15 -->
       <Swing damage_type="Blunt"
-             damage_factor="2.35" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="mp_sturgia_2hhammer_head"
@@ -5470,7 +5470,7 @@
                  piece_type="Blade"
                  mesh="mace_head_24"
                  length="12.6"
-                 weight="1.3"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <!--WOOD-->
@@ -5479,7 +5479,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.8" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanCrushThrough" />
@@ -5491,7 +5491,7 @@
                  piece_type="Blade"
                  mesh="mace_head_5"
                  length="25.5"
-                 weight="1.5"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5499,7 +5499,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.9" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanCrushThrough" />
@@ -5514,7 +5514,7 @@
                  piece_type="Blade"
                  mesh="blacksmith_hammer_tip"
                  length="7.4"
-                 weight="0.9"
+                 weight="0.5"
                  full_scale="true"
                  excluded_item_usage_features="thrust">
     <PieceUsages unavailable_usages="" />
@@ -5524,7 +5524,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="2.45" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <!-- #endregion -->
@@ -5535,7 +5535,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_11"
                  length="78"
-                 weight="0.40">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="18" />
   </CraftingPiece>
@@ -5545,7 +5545,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_15"
                  length="80"
-                 weight="0.35">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="18" />
   </CraftingPiece>
@@ -5555,7 +5555,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_15"
                  length="80"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="18" />
   </CraftingPiece>
@@ -5607,7 +5607,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_11"
                  length="78"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="18" />
   </CraftingPiece>
@@ -5617,7 +5617,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_12"
                  length="78"
-                 weight="0.4"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.05">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="28.5" />
@@ -5628,7 +5628,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_15"
                  length="80"
-                 weight="0.55"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.05">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="19.3" />
@@ -5643,7 +5643,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_13"
                  length="65"
-                 weight="0.55"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,0.05">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="15.7" />
@@ -5654,7 +5654,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_6"
                  length="56.2"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="15" />
   </CraftingPiece>
@@ -5664,7 +5664,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_17"
                  length="80"
-                 weight="0.4">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="25.5" />
   </CraftingPiece>
@@ -5674,7 +5674,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_12"
                  length="78"
-                 weight="0.35"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.05">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="17.5" />
@@ -5685,7 +5685,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_14"
                  length="45"
-                 weight="0.35">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="13.7" />
   </CraftingPiece>
@@ -5695,7 +5695,7 @@
                  piece_type="Handle"
                  mesh="mace_handle_8"
                  length="62.9"
-                 weight="0.4"
+                 weight="0.5"
                  item_holster_pos_shift="0,0,-0.05">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="19.3" />
@@ -5706,7 +5706,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_7_handle"
                  length="124.3"
-                 weight="1"
+                 weight="0.5"
                  excluded_item_usage_features="widegrip">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="23.87"
@@ -5718,7 +5718,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_10_handle"
                  length="132"
-                 weight="0.8"
+                 weight="0.5"
                  excluded_item_usage_features="widegrip">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="28.87"
@@ -5730,7 +5730,7 @@
                  piece_type="Handle"
                  mesh="axe_craft_10_handle"
                  length="132"
-                 weight="0.79"
+                 weight="0.5"
                  excluded_item_usage_features="widegrip">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="28.87"
@@ -5745,7 +5745,7 @@
                  mesh=""
                  culture="Culture.empire"
                  length="0"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
   <CraftingPiece id="mp_default_polearm_guard"
@@ -5755,7 +5755,7 @@
                  mesh=""
                  culture="Culture.empire"
                  length="0"
-                 weight="0">
+                 weight="0.5">
     <PieceUsages unavailable_usages="" />
   </CraftingPiece>
 </CraftingPieces>

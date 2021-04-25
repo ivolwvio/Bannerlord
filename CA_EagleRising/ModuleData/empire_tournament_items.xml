@@ -33,7 +33,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -54,7 +54,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -75,7 +75,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -96,7 +96,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -117,7 +117,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -138,7 +138,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -160,7 +160,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -172,7 +172,7 @@
 
   <Item id="cla_empire_tournament_helm_wolf" name="{=cla_empire_tournament_helm_wolf}[Empire]Arena Wolf Pelt" subtype="head_armor" mesh="cla_cape_wolf_black" culture="Culture.empire" is_merchandise="false" weight="1.3" difficulty="0" appearance="1.5" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather" />
+      <Armor head_armor="2" has_gender_variations="false" hair_cover_type="all" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags />
   </Item>
@@ -189,7 +189,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -211,7 +211,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -233,7 +233,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -255,7 +255,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="25"
+      <Armor head_armor="2"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -268,7 +268,7 @@
 <!-- Body -->
   <Item id="cla_empire_arena_tunic" name="{=cla_empire_arena_tunic}[Empire]Arena Tunic" mesh="cla_roman_tunic_white" culture="Culture.empire" is_merchandise="false" weight="1.0" difficulty="0" appearance="0.1" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="25" leg_armor="5" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="1" leg_armor="1" has_gender_variations="true" covers_body="false" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
@@ -277,43 +277,43 @@
 <!-- Arms -->
   <Item id="cla_empire_tournament_armwraps_left" name="{=cla_empire_tournament_armwraps_left}[Empire]Arena Left Armwrap" mesh="fd_romanwraps_left" culture="Culture.empire" is_merchandise="false" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="15" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
+      <Armor arm_armor="1" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_armwraps_right" name="{=cla_empire_tournament_armwraps_right}[Empire]Arena Right Armwrap" mesh="fd_romanwraps_right" culture="Culture.empire" is_merchandise="false" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="15" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
+      <Armor arm_armor="1" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_armwraps" name="{=cla_empire_tournament_armwraps}[Empire]Arena Armwraps" mesh="fd_romanwraps" culture="Culture.empire" is_merchandise="false" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="15" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
+      <Armor arm_armor="1" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_invisible_armwraps" name="{=cla_empire_tournament_invisible_armwraps}[Empire]Arena Invisible Armwraps" mesh="fakemesh" culture="Culture.empire" is_merchandise="false" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="15" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
+      <Armor arm_armor="1" covers_hands="false" modifier_group="cloth" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_manica" name="{=cla_empire_tournament_manica}[Empire]Arena Manica" mesh="cla_centurion_manica_1" culture="Culture.empire" is_merchandise="false" weight="1.8" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="cla_empire_tournament_manica_brass" name="{=cla_empire_tournament_manica_brass}[Empire]Arena Brass Manica" mesh="cla_centurion_manica_1_brass" culture="Culture.empire" is_merchandise="false" weight="1.8" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
   <Item id="cla_empire_tournament_manica_full" name="{=cla_empire_tournament_manica_full}[Empire]Arena Full Manica" mesh="fd_manica_iron" culture="Culture.empire" is_merchandise="false" weight="1.8" appearance="3" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags />
   </Item>
@@ -321,43 +321,43 @@
 <!-- Feet -->
   <Item id="cla_empire_tournament_boots" name="{=cla_empire_tournament_boots}[Empire]Arena Boots" mesh="cla_roman_shoes_1" culture="Culture.empire" is_merchandise="false" weight="0.7" difficulty="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="15" covers_legs="false" modifier_group="leather" material_type="Leather" />
+      <Armor leg_armor="1" covers_legs="false" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_wrapped_boots" name="{=cla_empire_tournament_wrapped_boots}[Empire]Arena Wrapped Shoes" mesh="wrapped_shoes" culture="Culture.empire" is_merchandise="false" weight="0.8" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="15" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor leg_armor="1" covers_legs="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_sandals" name="{=cla_empire_tournament_sandals}[Empire]Arena Sandals" mesh="cb_sandals_1" culture="Culture.empire" is_merchandise="false" weight="0.7" difficulty="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="15" covers_legs="false" modifier_group="leather" material_type="Leather" />
+      <Armor leg_armor="1" covers_legs="false" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_greaves_left" name="{=cla_empire_tournament_greaves_left}[Empire]Left Arena Greave" mesh="cla_roman_greaves_iron_single" culture="Culture.empire" is_merchandise="false" weight="0.7" difficulty="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="15" covers_legs="false" modifier_group="plate" material_type="Plate" />
+      <Armor leg_armor="1" covers_legs="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_greaves" name="{=cla_empire_tournament_greaves}[Empire]Arena Greaves" mesh="cla_roman_greaves_iron" culture="Culture.empire" is_merchandise="false" weight="0.7" difficulty="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="15" covers_legs="false" modifier_group="plate" material_type="Plate" />
+      <Armor leg_armor="1" covers_legs="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_greaves_left_brass" name="{=cla_empire_tournament_greaves_left_brass}[Empire]Left Arena Brass Greave" mesh="cla_roman_greaves_brass_single" culture="Culture.empire" is_merchandise="false" weight="0.7" difficulty="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="15" covers_legs="false" modifier_group="plate" material_type="Plate" />
+      <Armor leg_armor="1" covers_legs="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_empire_tournament_greaves_brass" name="{=cla_empire_tournament_greaves_brass}[Empire]Arena Brass Greaves" mesh="cla_roman_greaves_brass" culture="Culture.empire" is_merchandise="false" weight="0.7" difficulty="0" appearance="1" Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="15" covers_legs="false" modifier_group="plate" material_type="Plate" />
+      <Armor leg_armor="1" covers_legs="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>

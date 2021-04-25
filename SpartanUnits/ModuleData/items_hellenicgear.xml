@@ -6,7 +6,7 @@
  <!-- Chest Armour-->
     <Item id="chiton_no_sleeves_a" name="Chiton no sleeves" mesh="chiton_no_sleeves_a" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="8" leg_armor="2" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -14,7 +14,7 @@
 	
 	<Item id="chiton_no_sleeves_b" name="Chiton no sleeves faction" mesh="chiton_no_sleeves_b" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="8" leg_armor="2" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -22,7 +22,7 @@
     
 	<Item id="chiton_sleeves_1" name="Chiton sleeves" mesh="chiton_sleeves_1" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="750" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="8" leg_armor="2" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -30,7 +30,7 @@
 	
     <Item id="exomis_a" name="Exomis" mesh="exomis_a" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="600" weight="2.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="6" leg_armor="2" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -38,7 +38,7 @@
 	
 	<Item id="exomis_b" name="Exomis Faction" mesh="exomis_b" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="600" weight="2.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="6" leg_armor="2" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -46,7 +46,7 @@
 	
     <Item id="hemithorakia" name="Scaled Hemithorakia" mesh="hemithorakia" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="3000" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="16" leg_armor="6" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Leather" material_type="Leather" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -54,7 +54,7 @@
 	
 	<Item id="linothorax_1" name="Scaled Hellenic Linen Cuirass" mesh="linothorax_1" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="8000" weight="5.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="28" leg_armor="10" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Leather" material_type="Leather" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -62,7 +62,7 @@
 
     <Item id="linothorax_2_Checker_pattern" name="Hellenic Linen Cuirass" mesh="linothorax_2_checker_pattern" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="24" leg_armor="10" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Leather" material_type="Leather" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -70,7 +70,7 @@
 	
 	<Item id="linothorax_3_no_pteryges" name="Light Hellenic Linen Cuirass" mesh="linothorax_3_no_pteryges" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="2500" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="20" leg_armor="0" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Leather" material_type="Leather" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -78,7 +78,7 @@
 	
 	<Item id="linothorax_5_eastern_1_complete" name="Scaled Hellenic Chain Cuirass" mesh="linothorax_5_eastern_1_complete" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="15000" weight="5.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="4" arm_armor="8" body_armor="35" leg_armor="12" covers_body="true" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="true" covers_legs="false"
                 modifier_group="Plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -86,7 +86,7 @@
 	
 <!--	<Item id="musculata_1" name="Leather Musculata" mesh="musculata_1" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="3000" weight="3.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="16" leg_armor="0" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Leather" material_type="Leather" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -94,7 +94,7 @@
 	
 	<Item id="musculata_2" name="Iron Musculata" mesh="musculata_2" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="4000" weight="5.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="28" leg_armor="0" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -102,7 +102,7 @@
 	
 	<Item id="musculata_3" name="Bronze Musculata" mesh="musculata_3" is_merchandise="true" subtype="body_armor" culture="Culture.aserai" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="BodyArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="44" leg_armor="0" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -111,7 +111,7 @@
  <!--Leg Armour-->
     <Item id="bronze_greaves_1" name="Bronze Greaves" mesh="bronze_greaves_1" is_merchandise="true" subtype="leg_armor" culture="Culture.aserai" value="2000" weight="6.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="22" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_legs="false"
                 modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -119,7 +119,7 @@
  
  <Item id="bronze_greaves_1_left" name="Bronze Greave Left" mesh="bronze_greaves_1_left" is_merchandise="true" subtype="leg_armor" culture="Culture.aserai" value="1000" weight="3.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="11" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_legs="false"
                 modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -127,7 +127,7 @@
 	
     <Item id="bronze_greaves_1_right" name="Bronze Greave Right" mesh="bronze_greaves_1_right" is_merchandise="true" subtype="leg_armor" culture="Culture.aserai" value="1000" weight="3.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="11" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_legs="false"
                 modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -135,7 +135,7 @@
 	
 	<Item id="sandals_1" name="Sandals" mesh="sandals_1" is_merchandise="true" subtype="leg_armor" culture="Culture.aserai" value="600" weight="1.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="10" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_legs="false"
                 modifier_group="Leather" material_type="Leather" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -143,7 +143,7 @@
 	
 	<Item id="sandals_1_bronze_greaves_dual" name="Sandals with Bronze Greaves" mesh="sandals_1_bronze_greaves_dual" is_merchandise="true" subtype="leg_armor" culture="Culture.aserai" value="2600" weight="7.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="24" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_legs="false"
                 modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -151,7 +151,7 @@
 	
 	<Item id="sandals_1_bronze_greaves_left" name="Sandal with left greave" mesh="sandals_1_bronze_greaves_left" is_merchandise="true" subtype="leg_armor" culture="Culture.aserai" value="1600" weight="4.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="21" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_legs="false"
                 modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -159,7 +159,7 @@
 	
 	<Item id="sandals_1_bronze_greaves_right" name="Sandal with right greave" mesh="sandals_1_bronze_greaves_right" is_merchandise="true" subtype="leg_armor" culture="Culture.aserai" value="1600" weight="4.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="21" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_legs="false"
                 modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -167,7 +167,7 @@
 	
 	<Item id="posthumus_1" name="Posthumus boots" mesh="posthumus_1" is_merchandise="true" subtype="leg_armor" culture="Culture.aserai" value="600" weight="1.0" difficulty="0" appearance="3"  Type="LegArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="0" leg_armor="16" covers_legs="true"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_legs="true"
                 modifier_group="Leather" material_type="Leather" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -176,7 +176,7 @@
  <!--Head armour-->
     <Item id="attic_helm_1" name="Bronze Attic" mesh="attic_helm_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-          <Armor head_armor="22" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+          <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                  hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -184,7 +184,7 @@
 	
 	<Item id="band_1" name="Cloth headband" mesh="band_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="750" weight="1.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="5" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="none" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -192,7 +192,7 @@
 	
     <Item id="boeotian_1" name="Bronze Boeotian" mesh="boeotian_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3500" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-          <Armor head_armor="20" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+          <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                  hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -200,7 +200,7 @@
 	
 	<Item id="boeotian_2" name="Bronze Boeotian-Phrygian" mesh="boeotian_2" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3500" weight="3.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-          <Armor head_armor="22" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+          <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                  hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -208,7 +208,7 @@
 
     <Item id="boeotian_3" name="Crested Boeotian" mesh="boeotian_3" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3000" weight="3.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-          <Armor head_armor="24" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+          <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                  hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -216,7 +216,7 @@
 
     <Item id="chalcidian_1" name="Bronze Chalcidian" mesh="chalcidian_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-          <Armor head_armor="22" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+          <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                  hair_cover_type="type2" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -224,7 +224,7 @@
 	
 	<Item id="corinthian_1" name="Corinthian plumed two colour" mesh="corinthian_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-          <Armor head_armor="24" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+          <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                  hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -232,7 +232,7 @@
     
 	<Item id="corinthian_2" name="Corinthian plumed one colour" mesh="corinthian_2" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3500" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="24" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -240,7 +240,7 @@
 	
 	<Item id="corinthian_3_tailed" name="Corinthian tailed" mesh="corinthian_3_tailed" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="5500" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="26" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -248,7 +248,7 @@
 	
 	<Item id="corinthian_4_plain" name="Corinthian plain" mesh="corinthian_4_plain" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3000" weight="3.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="24" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -256,7 +256,7 @@
 	
 	<Item id="corinthian_5_j_crest_1" name="Corinthian J crested" mesh="corinthian_5_j_crest_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="10000" weight="7.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="30" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type2" beard_cover_type="type2" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -264,7 +264,7 @@
 	
 	<Item id="corinthian_6_polemarch_helm" name="Corinthian Polemarch red" mesh="corinthian_6_polemarch_helm" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="30000" weight="10" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="35" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type2" beard_cover_type="type1" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -272,7 +272,7 @@
 	
 	<Item id="corinthian_7_polemarch_helm" name="Corinthian Polemarch red and faction" mesh="corinthian_7_polemarch_helm" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="30000" weight="10" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="35" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type2" beard_cover_type="type1" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -280,7 +280,7 @@
 	
 	<Item id="corinthian_8_polemarch_helm_tailed" name="Corinthian Polemarch faction two colour" mesh="corinthian_8_polemarch_helm_tailed" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="40000" weight="12" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="35" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type2" beard_cover_type="type1" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -288,7 +288,7 @@
 	
 	<Item id="petasos_1" name="Petasos" mesh="petasos_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="600" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="8" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -296,7 +296,7 @@
 	
 	<Item id="petasos_2" name="Petasos slung" mesh="petasos_2" is_merchandise="false" subtype="head_armor" culture="Culture.aserai" value="600" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="6" arm_armor="0" body_armor="1" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="none" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -304,7 +304,7 @@
 	
 	<Item id="phrygian_cap_1" name="Phrygian cap" mesh="phrygian_cap_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="1000" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="8" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -312,7 +312,7 @@
 	
 	<Item id="phrygian_cap_2_ears" name="eared Phrygian cap" mesh="phrygian_cap_2_ears" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="1100" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="9" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -320,7 +320,7 @@
 	
 	<Item id="phrygian_cap_3_tail" name="tailed Phrygian cap" mesh="phrygian_cap_3_tail" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="1100" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="10" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -328,7 +328,7 @@
 	
 	<Item id="phrygian_helm_1" name="Phrygian helm" mesh="phrygian_helm_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="2300" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="22" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -336,7 +336,7 @@
 	
 	<Item id="phrygian_helm_2" name="Phrygian helm full" mesh="phrygian_helm_2" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3500" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="28" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="all" beard_cover_type="none" modifier_group="Plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -344,7 +344,7 @@
 	
 	<Item id="pilos_1" name="Pilos Plain" mesh="pilos_1" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="1500" weight="2.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="14" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -352,7 +352,7 @@
 	
 	<Item id="pilos_2_crested" name="Pilos Crested" mesh="pilos_2_crested" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="2000" weight="3.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="18" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -360,7 +360,7 @@
 	
 	<Item id="pilos_3_guarded" name="Pilos with guard" mesh="pilos_3_guarded" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="2500" weight="4.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="22" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -368,7 +368,7 @@
 	
 	<Item id="pilos_4_crested_guarded" name="Pilos with guard and crest" mesh="pilos_4_crested_guarded" is_merchandise="true" subtype="head_armor" culture="Culture.aserai" value="3000" weight="5.0" difficulty="0" appearance="3"  Type="HeadArmor">
         <ItemComponent>
-         <Armor head_armor="28" arm_armor="0" body_armor="0" leg_armor="00" covers_head="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_head="false"
                 hair_cover_type="type1" beard_cover_type="none" modifier_group="plate" material_type="Plate" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -378,7 +378,7 @@
  <!--Linothorax_Chiton_UA very buggy very clippy, not recommended-->
 	<Item id="linothorax_chiton_ua" name="Lino Chiton" mesh="linothorax_chiton_ua" is_merchandise="false" subtype="hand_armor" culture="Culture.aserai" value="600" weight="2.0" difficulty="0" appearance="1"  Type="handArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="4" body_armor="10" leg_armor="4" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -386,7 +386,7 @@
 	
 	<Item id="linothorax_eastern_style_1" name="Lino Eastern style clothing" mesh="linothorax_eastern_style_1" is_merchandise="false" subtype="hand_armor" culture="Culture.aserai" value="600" weight="2.0" difficulty="0" appearance="1"  Type="handArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="14" leg_armor="10" covers_body="true" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="true" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -394,7 +394,7 @@
 	
 	<Item id="linothorax_exomis_ua" name="Lino Exomis faction colour 2" mesh="linothorax_exomis_ua" is_merchandise="true" subtype="hand_armor" culture="Culture.aserai" value="600" weight="2.0" difficulty="0" appearance="3"  Type="handArmor">
         <ItemComponent>
-          <Armor head_armor="0" arm_armor="0" body_armor="8" leg_armor="6" covers_body="false" covers_legs="false"
+          <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                  modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -402,7 +402,7 @@
 	
 	<Item id="linothorax_exomis_ua_b" name="Lino Exomis faction colour 1" mesh="linothorax_exomis_ua_b" is_merchandise="true" subtype="hand_armor" culture="Culture.aserai" value="750" weight="2.0" difficulty="0" appearance="3"  Type="handArmor">
         <ItemComponent>
-          <Armor head_armor="0" arm_armor="0" body_armor="8" leg_armor="6" covers_body="false" covers_legs="false"
+          <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                  modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -410,7 +410,7 @@
 	
 	<Item id="linothorax_no_sleeves_ua" name="Lino Chiton no sleeves faction 2" mesh="linothorax_no_sleeves_ua" is_merchandise="true" subtype="hand_armor" culture="Culture.aserai" value="600" weight="2.0" difficulty="0" appearance="3"  Type="handArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="8" leg_armor="6" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -418,7 +418,7 @@
 	
 	<Item id="linothorax_no_sleeves_ua_b" name="Lino Chiton no sleeves faction 1" mesh="linothorax_no_sleeves_ua_b" is_merchandise="true" subtype="hand_armor" culture="Culture.aserai" value="750" weight="3.0" difficulty="0" appearance="3"  Type="handArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="10" leg_armor="6" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -426,7 +426,7 @@
  
     <Item id="linothorax_chiton_sleeves_1" name="Lino Chiton sleeved faction 1" mesh="linothorax_chiton_sleeves_1" is_merchandise="true" subtype="hand_armor" culture="Culture.aserai" value="750" weight="3.0" difficulty="0" appearance="3"  Type="handArmor">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="10" leg_armor="6" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
@@ -436,7 +436,7 @@
  <!-- Chlamys_1_lino still somewhat clippy, needs additional tweaking-->
    <Item id="Chlamys_1_lino" name="Chlamys faction" mesh="Chlamys_1_lino" is_merchandise="true" subtype="hand_armor" culture="Culture.aserai" value="800" weight="3.0" difficulty="0" appearance="3"  Type="Cape">
         <ItemComponent>
-         <Armor head_armor="0" arm_armor="0" body_armor="8" leg_armor="2" covers_body="false" covers_legs="false"
+         <Armor head_armor="2" arm_armor="1" body_armor="1" leg_armor="1" covers_body="false" covers_legs="false"
                 modifier_group="Cloth" material_type="Cloth" />
         </ItemComponent>
         <Flags UseTeamColor="true" Civilian="true" /> 
