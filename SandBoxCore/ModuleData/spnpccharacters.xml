@@ -12985,6 +12985,9 @@
     </Equipments>
   </NPCCharacter>
   <!-- #region Tournament templates MOVE TEMPLATES TO ANOTHER XML-->
+
+  <!-- Aserai -->
+
   <NPCCharacter id="tournament_template_aserai_one_participant_set_v1"
                 default_group="Infantry"
                 level="6"
@@ -13459,6 +13462,9 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <!-- Battania -->
+
   <NPCCharacter id="tournament_template_battania_one_participant_set_v1"
                 default_group="Infantry"
                 level="6"
@@ -13943,6 +13949,9 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <!-- Empire -->
+
   <NPCCharacter id="tournament_template_empire_one_participant_set_v1"
                 default_group="Infantry"
                 level="6"
@@ -14324,6 +14333,9 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <!-- Khuzait -->
+
   <NPCCharacter id="tournament_template_khuzait_one_participant_set_v1"
                 default_group="Infantry"
                 level="6"
@@ -14782,6 +14794,9 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <!-- Vlandia -->
+
   <NPCCharacter id="tournament_template_vlandia_one_participant_set_v1"
                 default_group="Infantry"
                 level="6"
@@ -15369,6 +15384,9 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+
+  <!-- Sturgia -->
+
   <NPCCharacter id="tournament_template_sturgia_one_participant_set_v1"
                 default_group="Infantry"
                 level="6"
@@ -15793,6 +15811,7 @@
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  
   <!-- #endregion Tournament templates-->
   <!-- #endregion -->
   <!-- #region Troops -->
