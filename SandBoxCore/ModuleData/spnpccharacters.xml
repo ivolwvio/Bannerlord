@@ -25047,7 +25047,7 @@
     </skills>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.spartan_leather_round_shield" />
+        <equipment slot="Item0" id="Item.hoplon_pegasus" />
         <equipment slot="Item1" id="Item.cla_empire_gladius_4" />
         <equipment slot="Item2" id="Item.imperial_spear_t2" />
         <equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4" />
