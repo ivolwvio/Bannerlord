@@ -7,7 +7,7 @@ Romans 6:23 (King James Version)
 PARTY SIZES (OLD CODE)
 
 (Global FindAndReplace) (Manually exclude player faction size)
-min_value="[+-]?([0-9]*[.])?[0-9]+" max_value="[+-]?([0-9]*[.])?[0-9]+"
+min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+"
 
 min_value="100" max_value="1000"
 
@@ -54,12 +54,12 @@ ALL UNITS MAX LEVEL
 
 ALL UNITS MAX LEVEL (OLD CODE)
 
-<skill id="(.*?)" value="[+-]?([0-9]*[.])?[0-9]+" \/>
+<skill id="(.*?)" value="[+-]?(?:[0-9]*[.])?[0-9]+" \/>
 
 <skill id="$1" value="1023" />
 
 # Check if there is other values than 1023
-(?!<skill id="(?:.*?)" value="1023" \/>)(?:<skill id="(?:.*?)" value="[+-]?([0-9]*[.])?[0-9]+" \/>)
+(?!<skill id="(?:.*?)" value="1023" \/>)(?:<skill id="(?:.*?)" value="[+-]?(?:[0-9]*[.])?[0-9]+" \/>)
 
 ============================================================================================================================================
 
@@ -73,31 +73,30 @@ $1weight="0.5"$2
 
 ALL BLADES SAME DAMAGE
 
-damage_factor="[+-]?([0-9]*[.])?[0-9]+"
+damage_factor="[+-]?(?:[0-9]*[.])?[0-9]+"
 
 damage_factor="1"
 
-
 Test for diffrent values:
-(?!damage_factor="1")damage_factor="[+-]?([0-9]*[.])?[0-9]+"
+(?!damage_factor="1")damage_factor="[+-]?(?:[0-9]*[.])?[0-9]+"
 
 ============================================================================================================================================
 
 ALL ARMOR SAME STATS
 
-head_armor="[+-]?([0-9]*[.])?[0-9]+"
+head_armor="[+-]?(?:[0-9]*[.])?[0-9]+"
 
 head_armor="30"
 
-arm_armor="[+-]?([0-9]*[.])?[0-9]+"
+arm_armor="[+-]?(?:[0-9]*[.])?[0-9]+"
 
 arm_armor="5"
 
-body_armor="[+-]?([0-9]*[.])?[0-9]+"
+body_armor="[+-]?(?:[0-9]*[.])?[0-9]+"
 
 body_armor="30"
 
-leg_armor="[+-]?([0-9]*[.])?[0-9]+"
+leg_armor="[+-]?(?:[0-9]*[.])?[0-9]+"
 
 leg_armor="5"
 
