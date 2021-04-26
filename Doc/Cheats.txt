@@ -1,4 +1,4 @@
-
+############################################################
 999999999 (1023)
 ############################################################
 campaign.add_skill_xp_to_hero OneHanded 999999999 King
@@ -20,31 +20,7 @@ campaign.add_skill_xp_to_hero Steward 999999999 King
 campaign.add_skill_xp_to_hero Medicine 999999999 King
 campaign.add_skill_xp_to_hero Engineering 999999999 King
 ############################################################
-
-900000 (~500)
-############################################################
-campaign.add_skill_xp_to_hero OneHanded 30000000 King
-campaign.add_skill_xp_to_hero TwoHanded 30000000 King
-campaign.add_skill_xp_to_hero Polearm 30000000 King
-campaign.add_skill_xp_to_hero Bow 30000000 King
-campaign.add_skill_xp_to_hero Crossbow 30000000 King
-campaign.add_skill_xp_to_hero Throwing 30000000 King
-campaign.add_skill_xp_to_hero Riding 30000000 King
-campaign.add_skill_xp_to_hero Athletics 30000000 King
-campaign.add_skill_xp_to_hero Smithing 30000000 King
-campaign.add_skill_xp_to_hero Scouting 30000000 King
-campaign.add_skill_xp_to_hero Tactics 30000000 King
-campaign.add_skill_xp_to_hero Roguery 30000000 King
-campaign.add_skill_xp_to_hero Charm 30000000 King
-campaign.add_skill_xp_to_hero Leadership 30000000 King
-campaign.add_skill_xp_to_hero Trade 30000000 King
-campaign.add_skill_xp_to_hero Steward 30000000 King
-campaign.add_skill_xp_to_hero Medicine 30000000 King
-campaign.add_skill_xp_to_hero Engineering 30000000 King
-############################################################
-Beautifull heroes:
-############################################################
-Cheats
+Commands:
 ############################################################
 
 campaign.add_companion
@@ -101,4 +77,4 @@ respec.reset_perks #Name
 
 ========================================================================
 
-campaign.give_troops sparta_model_1 10000
+campaign.give_troops sparta_model_1 500

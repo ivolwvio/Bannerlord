@@ -15742,13 +15742,30 @@ voice="Male, northern accent, older, authoritative and competent"-->
                       build="0.5"
                       key="00052C089314100B599B39385A8372459867775D8A397A98773789A84B355847019776130946854400000000000000000000000000000000000000003F1C3044" />
     </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="Manager"
-             value="4" />
-      <Trait id="Mercy"
-             value="-1" />
-      <Trait id="Generosity"
-             value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentRoster />
@@ -15794,12 +15811,9 @@ voice="Male, northern accent, older, authoritative and competent"-->
       <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
-      <Trait id="Manager"
-             value="3" />
-      <Trait id="Mercy"
-             value="-1" />
-      <Trait id="Generosity"
-             value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentRoster />
@@ -15845,12 +15859,9 @@ voice="Male, northern accent, older, authoritative and competent"-->
       <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
-      <Trait id="Manager"
-             value="1" />
-      <Trait id="Mercy"
-             value="1" />
-      <Trait id="Calculating"
-             value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentRoster />
@@ -15875,8 +15886,30 @@ voice="Male, northern accent, older, authoritative and competent"-->
                       build="0.5"
                       key="00056C059300200498868A3266629726C05B7489548A1717769ACB537CAE1779018776140854736600000000000000000000000000000000000000003F1C2003" />
     </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <!-- TEENAGER, NO SKILLS OR TRAITS -->
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentRoster />

@@ -25047,14 +25047,14 @@
     </skills>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.hoplon_pegasus" />
-        <equipment slot="Item1" id="Item.cla_empire_gladius_4" />
-        <equipment slot="Item2" id="Item.imperial_spear_t2" />
-        <equipment slot="Item3" id="Item.eastern_throwing_spear_2_t4" />
-        <equipment slot="Head" id="Item.corinthian_3_tailed" />
+        <equipment slot="Item0" id="Item.hoplon_lahmda" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
+        <equipment slot="Head" id="Item.corinthian_2" />
         <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
         <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_plain_1" />
-        <equipment slot="Gloves" id="Item.cla_dacia_invisible_bracers_3_m" />
+        <equipment slot="Gloves" id="Item.cla_dacia_invisible_bracers_1" />
         <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
       </EquipmentRoster>
     </Equipments>
