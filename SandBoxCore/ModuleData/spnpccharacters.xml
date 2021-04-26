@@ -25014,8 +25014,8 @@
   </NPCCharacter>
 
   <!-- New Units -->
-
-  <NPCCharacter id="sparta_model_1"
+  
+  <NPCCharacter id="bulgarian_soldier"
                 default_group="Infantry"
                 level="26"
                 name="{=CJxF6fky}Spartan"
