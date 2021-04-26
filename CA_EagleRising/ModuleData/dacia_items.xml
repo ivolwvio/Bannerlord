@@ -830,7 +830,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -850,7 +850,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -872,7 +872,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -891,7 +891,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -911,7 +911,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -931,7 +931,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -952,7 +952,7 @@ Type="Pommel"/>
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -971,7 +971,7 @@ Type="Pommel"/>
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -990,7 +990,7 @@ Type="Pommel"/>
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1009,7 +1009,7 @@ Type="Pommel"/>
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1028,7 +1028,7 @@ Type="Pommel"/>
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1048,7 +1048,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1067,7 +1067,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1086,7 +1086,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1105,7 +1105,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1124,7 +1124,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1143,7 +1143,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"

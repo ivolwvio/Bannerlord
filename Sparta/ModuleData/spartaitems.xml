@@ -12,49 +12,49 @@
   
   <Item id="spartan_helmet" name="Spartan Helmet" subtype="head_armor" mesh="300_helm" culture="Culture.empire" weight="1.5" difficulty="0" appearance="2" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="200" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   
   <Item id="spartan_leonidas_helmet" name="Spartan Leonidas Helmet" subtype="head_armor" mesh="300_leonidas_helm" culture="Culture.empire" weight="1.5" difficulty="0" appearance="2" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="200" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   
   <Item id="spartan_black_helmet" name="Spartan Bodyguard Helmet Black" subtype="head_armor" mesh="300_leonidas_helm" culture="Culture.empire" weight="1.5" difficulty="0" appearance="2" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="200" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   
   <Item id="spartan_bodyguard_helmet" name="Spartan Bodyguard Helmet Red" subtype="head_armor" mesh="300_bodyguard_helm" culture="Culture.empire" weight="1.5" difficulty="0" appearance="2" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="200" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   
   <Item id="spartan_bodyguard_helmet2" name="Spartan Bodyguard Helmet Dark Red" subtype="head_armor" mesh="300_bodyguard_helm2" culture="Culture.empire" weight="1.5" difficulty="0" appearance="2" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="200" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   
   <Item id="spartan_bodyguard_helmet3" name="Spartan Bodyguard Helmet Blue" subtype="head_armor" mesh="300_bodyguard_helm3" culture="Culture.empire" weight="1.5" difficulty="0" appearance="2" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="200" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   
   <Item id="spartan_bodyguard_helmet4" name="Spartan Bodyguard Helmet Green" subtype="head_armor" mesh="300_bodyguard_helm4" culture="Culture.empire" weight="1.5" difficulty="0" appearance="2" Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
+      <Armor head_armor="200" has_gender_variations="false" hair_cover_type="all" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>

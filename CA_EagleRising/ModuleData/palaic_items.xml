@@ -448,7 +448,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -468,7 +468,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -488,7 +488,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -511,7 +511,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -531,7 +531,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -551,7 +551,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -572,7 +572,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -592,7 +592,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -612,7 +612,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -634,7 +634,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -654,7 +654,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -674,7 +674,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -695,7 +695,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -715,7 +715,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -735,7 +735,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -756,7 +756,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -776,7 +776,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -796,7 +796,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -817,7 +817,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -837,7 +837,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -857,7 +857,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -877,7 +877,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -897,7 +897,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -917,7 +917,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -938,7 +938,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -958,7 +958,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -978,7 +978,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1000,7 +1000,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1020,7 +1020,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1040,7 +1040,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1061,7 +1061,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1081,7 +1081,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1101,7 +1101,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1122,7 +1122,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1142,7 +1142,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1162,7 +1162,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1183,7 +1183,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1203,7 +1203,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1223,7 +1223,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1243,7 +1243,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1263,7 +1263,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1283,7 +1283,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1304,7 +1304,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1324,7 +1324,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1344,7 +1344,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1372,7 +1372,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -1392,7 +1392,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -1412,7 +1412,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -1434,7 +1434,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1454,7 +1454,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1474,7 +1474,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1494,7 +1494,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1514,7 +1514,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1534,7 +1534,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1556,7 +1556,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1576,7 +1576,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1596,7 +1596,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1618,7 +1618,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -1638,7 +1638,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -1658,7 +1658,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -1679,7 +1679,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1700,7 +1700,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1721,7 +1721,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1742,7 +1742,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1763,7 +1763,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1784,7 +1784,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1806,7 +1806,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1826,7 +1826,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1846,7 +1846,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -1870,7 +1870,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -1890,7 +1890,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -1910,7 +1910,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -1932,7 +1932,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -1952,7 +1952,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -1973,7 +1973,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -1993,7 +1993,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -2014,7 +2014,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -2034,7 +2034,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type2"
@@ -3752,7 +3752,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -3772,7 +3772,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -3792,7 +3792,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="none"
              beard_cover_type="type3"
@@ -3814,7 +3814,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3834,7 +3834,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3854,7 +3854,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3875,7 +3875,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3895,7 +3895,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3915,7 +3915,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3938,7 +3938,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3958,7 +3958,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3978,7 +3978,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -3999,7 +3999,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -4019,7 +4019,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
@@ -4039,7 +4039,7 @@ Type="Pommel"/>
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="80"
+      <Armor head_armor="200"
              has_gender_variations="false"
              hair_cover_type="all"
              beard_cover_type="type3"
