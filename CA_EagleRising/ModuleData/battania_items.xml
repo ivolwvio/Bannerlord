@@ -14,7 +14,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -35,7 +35,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -56,7 +56,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -78,7 +78,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -99,7 +99,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -120,7 +120,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="none"
@@ -143,7 +143,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type1"
@@ -164,7 +164,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type1"
@@ -185,7 +185,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type1"
@@ -207,7 +207,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type1"
@@ -228,7 +228,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type1"
@@ -249,7 +249,7 @@
         appearance="2"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="200"
+      <Armor head_armor="5"
              has_gender_variations="false"
              hair_cover_type="type1"
              beard_cover_type="type1"
@@ -264,33 +264,33 @@
 <!-- Old thicker Scale -->
   <Item id="cla_celtic_pants_scale_thick_obelix_1" name="{=cla_celtic_pants_scale_thick_obelix_1}[Mercenary]Thick Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_thick_obelix_t_1" name="{=cla_celtic_pants_scale_thick_obelix_t_1}[Mercenary]Thick Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
 
   <Item id="cla_celtic_pants_scale_thick_tartan_1" name="{=cla_celtic_pants_scale_thick_tartan_1}[Mercenary]Thick Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_thick_tartan_t_1" name="{=cla_celtic_pants_scale_thick_tartan_t_1}[Mercenary]Thick Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
 
   <Item id="cla_celtic_pants_scale_thick_tartan_green_1" name="{=cla_celtic_pants_scale_thick_tartan_green_1}[Mercenary]Thick Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
@@ -299,25 +299,25 @@
 <!-- Scale with sleeves-->
   <Item id="cla_celtic_pants_scale_obelix_1" name="{=cla_celtic_pants_scale_obelix_1}[Mercenary]Brass Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_obelix_t_1" name="{=cla_celtic_pants_scale_obelix_t_1}[Mercenary]Brass Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_obelix_1" name="{=cla_celtic_pants_scale_iron_obelix_1}[Mercenary]Iron Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_obelix_t_1" name="{=cla_celtic_pants_scale_iron_obelix_t_1}[Mercenary]Iron Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
@@ -325,25 +325,25 @@
 
   <Item id="cla_celtic_pants_scale_tartan_1" name="{=cla_celtic_pants_scale_tartan_1}[Mercenary]Brass Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_tartan_t_1" name="{=cla_celtic_pants_scale_tartan_t_1}[Mercenary]Brass Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_tartan_1" name="{=cla_celtic_pants_scale_iron_tartan_1}[Mercenary]Iron Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_tartan_t_1" name="{=cla_celtic_pants_scale_iron_tartan_t_1}[Mercenary]Iron Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
@@ -351,25 +351,25 @@
 
   <Item id="cla_celtic_pants_scale_tartan_green_1" name="{=cla_celtic_pants_scale_tartan_green_1}[Mercenary]Brass Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_tartan_green_t_1" name="{=cla_celtic_pants_scale_tartan_green_t_1}[Mercenary]Brass Colored Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_tartan_green_1" name="{=cla_celtic_pants_scale_iron_tartan_green_1}[Mercenary]Iron Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_tartan_green_t_1" name="{=cla_celtic_pants_scale_iron_tartan_green_t_1}[Mercenary]Iron Colored Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
@@ -378,25 +378,25 @@
 <!-- Sleeveless Scale -->
   <Item id="cla_celtic_pants_scale_sleeveless_obelix_1" name="{=cla_celtic_pants_scale_sleeveless_obelix_1}[Mercenary]Sleeveless Brass Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_sleeveless_obelix_t_1" name="{=cla_celtic_pants_scale_sleeveless_obelix_t_1}[Mercenary]Sleeveless Brass Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_obelix_1" name="{=cla_celtic_pants_scale_iron_sleeveless_obelix_1}[Mercenary]Sleeveless Iron Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_obelix_t_1" name="{=cla_celtic_pants_scale_iron_sleeveles_obelix_t_1}[Mercenary]Sleeveless Iron Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
@@ -404,50 +404,50 @@
 
   <Item id="cla_celtic_pants_scale_sleeveless_tartan_1" name="{=cla_celtic_pants_scale_sleeveless_tartan_1}[Mercenary]Sleeveless Brass Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_sleeveless_tartan_t_1" name="{=cla_celtic_pants_scale_sleeveless_tartan_t_1}[Mercenary]Sleeveless Brass Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_tartan_1" name="{=cla_celtic_pants_scale_iron_sleeveless_tartan_1}[Mercenary]Sleeveless Iron Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_tartan_t_1" name="{=cla_celtic_pants_scale_iron_sleeveless_tartan_t_1}[Mercenary]Sleeveless Iron Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
 
   <Item id="cla_celtic_pants_scale_sleeveless_tartan_green_1" name="{=cla_celtic_pants_scale_sleeveless_tartan_green_1}[Mercenary]Sleeveless Brass Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_sleeveless_tartan_green_t_1" name="{=cla_celtic_pants_scale_sleeveless_tartan_green_t_1}[Mercenary]Sleeveless Colored Brass Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_tartan_green_1" name="{=cla_celtic_pants_scale_iron_sleeveless_tartan_green_1}[Mercenary]Sleeveless Iron Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_tartan_green_t_1" name="{=cla_celtic_pants_scale_iron_sleeveless_tartan_green_t_1}[Mercenary]Sleeveless Colored Iron Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
@@ -456,31 +456,31 @@
 <!-- Old thicker Scale -->
   <Item id="cla_celtic_pants_scale_thick_obelix_2" name="{=cla_celtic_pants_scale_thick_obelix_2}[Mercenary]Sturdy Thick Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_thick_obelix_t_2" name="{=cla_celtic_pants_scale_thick_obelix_t_2}[Mercenary]Sturdy Thick Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_thick_tartan_2" name="{=cla_celtic_pants_scale_thick_tartan_2}[Mercenary]Sturdy Thick Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_thick_tartan_t_2" name="{=cla_celtic_pants_scale_thick_tartan_t_2}[Mercenary]Sturdy Thick Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_thick_tartan_green_2" name="{=cla_celtic_pants_scale_thick_tartan_green_2}[Mercenary]Sturdy Thick Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_thick_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
@@ -488,75 +488,75 @@
 <!-- Scale with sleeves-->
   <Item id="cla_celtic_pants_scale_obelix_2" name="{=cla_celtic_pants_scale_obelix_2}[Mercenary]Sturdy Brass Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_obelix_t_2" name="{=cla_celtic_pants_scale_obelix_t_2}[Mercenary]Sturdy Brass Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_obelix_2" name="{=cla_celtic_pants_scale_iron_obelix_2}[Mercenary]Sturdy Iron Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_obelix_t_2" name="{=cla_celtic_pants_scale_iron_obelix_t_2}[Mercenary]Sturdy Iron Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
 
   <Item id="cla_celtic_pants_scale_tartan_2" name="{=cla_celtic_pants_scale_tartan_2}[Mercenary]Sturdy Brass Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_tartan_t_2" name="{=cla_celtic_pants_scale_tartan_t_2}[Mercenary]Sturdy Brass Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_tartan_2" name="{=cla_celtic_pants_scale_iron_tartan_2}[Mercenary]Sturdy Iron Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_tartan_t_2" name="{=cla_celtic_pants_scale_iron_tartan_t_2}[Mercenary]Sturdy Iron Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
 
   <Item id="cla_celtic_pants_scale_tartan_green_2" name="{=cla_celtic_pants_scale_tartan_green_2}[Mercenary]Sturdy Brass Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_tartan_green_t_2" name="{=cla_celtic_pants_scale_tartan_green_t_2}[Mercenary]Sturdy Brass Colored Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_tartan_green_2" name="{=cla_celtic_pants_scale_iron_tartan_green_2}[Mercenary]Sturdy Iron Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_tartan_green_t_2" name="{=cla_celtic_pants_scale_iron_tartan_green_t_2}[Mercenary]Sturdy Iron Colored Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_iron_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="true" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
@@ -564,75 +564,75 @@
 <!-- Sleeveless Scale -->
   <Item id="cla_celtic_pants_scale_sleeveless_obelix_2" name="{=cla_celtic_pants_scale_sleeveless_obelix_2}[Mercenary]Sturdy Sleeveless Brass Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_sleeveless_obelix_t_2" name="{=cla_celtic_pants_scale_sleeveless_obelix_t_2}[Mercenary]Sturdy Sleeveless Brass Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_obelix_2" name="{=cla_celtic_pants_scale_iron_sleeveless_obelix_2}[Mercenary]Sturdy Sleeveless Iron Scale over Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_obelix_t_2" name="{=cla_celtic_pants_scale_iron_sleeveless_obelix_t_2}[Mercenary]Sturdy Sleeveless Iron Scale over Colored Obelix" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_obelix" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
 
   <Item id="cla_celtic_pants_scale_sleeveless_tartan_2" name="{=cla_celtic_pants_scale_sleeveless_tartan_2}[Mercenary]Sturdy Sleeveless Brass Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_sleeveless_tartan_t_2" name="{=cla_celtic_pants_scale_sleeveless_tartan_t_2}[Mercenary]Sturdy Sleeveless Brass Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_tartan_2" name="{=cla_celtic_pants_scale_iron_sleeveless_tartan_2}[Mercenary]Sturdy Sleeveless Iron Scale over Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_tartan_t_2" name="{=cla_celtic_pants_scale_iron_sleeveless_tartan_t_2}[Mercenary]Sturdy Sleeveless Iron Scale over Colored Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_tartan" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
 
   <Item id="cla_celtic_pants_scale_sleeveless_tartan_green_2" name="{=cla_celtic_pants_scale_sleeveless_tartan_green_2}[Mercenary]Sturdy Sleeveless Brass Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_sleeveless_tartan_green_t_2" name="{=cla_celtic_pants_scale_sleeveless_tartan_green_t_2}[Mercenary]Sturdy Sleeveless Colored Brass Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_tartan_green_2" name="{=cla_celtic_pants_scale_iron_sleeveless_tartan_green_2}[Mercenary]Sturdy Sleeveless Iron Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  />
   </Item>
   <Item id="cla_celtic_pants_scale_iron_sleeveless_tartan_green_t_2" name="{=cla_celtic_pants_scale_iron_sleeveless_tartan_green_t_2}[Mercenary]Sturdy Sleeveless Colored Iron Scale over Green Tartan" subtype="body_armor" mesh="cla_celtic_pants_scale_sleeveless_iron_tartan_green" culture="Culture.battania" weight="10.7" difficulty="0" appearance="1.4" Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="80" leg_armor="10" arm_armor="10" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_legs="true" covers_body="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags  UseTeamColor="true"/>
   </Item>

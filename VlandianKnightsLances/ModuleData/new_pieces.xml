@@ -3,7 +3,7 @@
 
   <CraftingPiece id="jousting_lance_handle_small1"
                  name="Jousting Lance Handle"
-                 tier="4"
+                 tier="5"
                  piece_type="Handle"
                  mesh="jousting_lance_handle_small1"
                  length="33"
@@ -18,7 +18,7 @@
 
   <CraftingPiece id="jousting_lance_handle_small_x"
                  name="Heavy Jousting Lance Handle"
-                 tier="4"
+                 tier="5"
                  piece_type="Handle"
                  mesh="jousting_lance_handle_small_x"
                  length="33"
@@ -48,7 +48,7 @@
 
   <CraftingPiece id="jousting_lance_guard_long_x"
                  name="Heavy Jousting Lance Guard"
-                 tier="4"
+                 tier="5"
                  piece_type="Guard"
                  mesh="jousting_lance_guard_long_x"
                  culture="Culture.vlandia"
@@ -63,7 +63,7 @@
 
   <CraftingPiece id="jousting_lance_guard_long_colored_bluewhite"
                  name="Colored Jousting Lance Guard"
-                 tier="4"
+                 tier="5"
                  piece_type="Guard"
                  mesh="jousting_lance_guard_long_colored1"
                  culture="Culture.vlandia"
@@ -78,7 +78,7 @@
 
   <CraftingPiece id="jousting_lance_guard_long_colored_blueyellow"
                  name="Colored Jousting Lance Guard"
-                 tier="4"
+                 tier="5"
                  piece_type="Guard"
                  mesh="jousting_lance_guard_long_colored2"
                  culture="Culture.vlandia"
@@ -93,7 +93,7 @@
 
   <CraftingPiece id="jousting_lance_guard_long_colored_blackwhite"
                  name="Colored Jousting Lance Guard"
-                 tier="4"
+                 tier="5"
                  piece_type="Guard"
                  mesh="jousting_lance_guard_long_colored3"
                  culture="Culture.vlandia"
@@ -108,7 +108,7 @@
 
   <CraftingPiece id="jousting_lance_guard_long_colored_blackred"
                  name="Colored Jousting Lance Guard"
-                 tier="4"
+                 tier="5"
                  piece_type="Guard"
                  mesh="jousting_lance_guard_long_colored4"
                  culture="Culture.vlandia"
@@ -123,7 +123,7 @@
 
   <CraftingPiece id="jousting_lance_guard_long_colored_redyellow"
                  name="Colored Jousting Lance Guard"
-                 tier="4"
+                 tier="5"
                  piece_type="Guard"
                  mesh="jousting_lance_guard_long_colored5"
                  culture="Culture.vlandia"
@@ -138,7 +138,7 @@
 
   <CraftingPiece id="jousting_lance_guard_long_colored_redwhite"
                  name="Colored Jousting Lance Guard"
-                 tier="4"
+                 tier="5"
                  piece_type="Guard"
                  mesh="jousting_lance_guard_long_colored6"
                  culture="Culture.vlandia"
@@ -168,7 +168,7 @@
 
   <CraftingPiece id="jousting_lance_pommel"
                  name="Jousting Lance Pommel"
-                 tier="4"
+                 tier="5"
                  piece_type="Pommel"
                  mesh="jousting_lance_pommel2"
                  culture="Culture.vlandia"
@@ -183,7 +183,7 @@
 
   <CraftingPiece id="jousting_lance_pommel_x"
                  name="Heavy Jousting Lance Pommel"
-                 tier="4"
+                 tier="5"
                  piece_type="Pommel"
                  mesh="jousting_lance_pommel_x2"
                  culture="Culture.vlandia"
@@ -213,7 +213,7 @@
 
   <CraftingPiece id="lance_blade_9"
                  name="{=*}Lance Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_9"
                  length="23.328"
@@ -228,7 +228,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_1"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -253,7 +253,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_1"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -263,7 +263,7 @@
 
   <CraftingPiece id="lance_blade_34"
                  name="Blunt Practice Tip"
-                 tier="1"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_34"
                  length="18.3"
@@ -274,9 +274,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Blunt"
-              damage_factor="1" />
+              damage_factor="0.4" />
       <Swing damage_type="Blunt"
-             damage_factor="1" />
+             damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -289,7 +289,7 @@
 
   <CraftingPiece id="lance_blade_1"
                  name="Imperial Simple Lance Head"
-                 tier="2"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_1"
                  length="48"
@@ -303,7 +303,7 @@
                holster_body_name="bo_throwing_spear_quiver_4"
                holster_mesh_length="96.2">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -313,7 +313,7 @@
 
   <CraftingPiece id="lance_blade_10"
                  name="Harpoon Head"
-                 tier="2"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_10"
                  length="39.775"
@@ -327,7 +327,7 @@
                holster_body_name="bo_throwing_spear_quiver_1"
                holster_mesh_length="68.9">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -337,7 +337,7 @@
 
   <CraftingPiece id="lance_blade_15"
                  name="Short Simple Lance Head"
-                 tier="2"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_15"
                  length="22.862"
@@ -351,7 +351,7 @@
                holster_body_name="bo_throwing_spear_quiver_1_1"
                holster_mesh_length="68.9">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -361,7 +361,7 @@
 
   <CraftingPiece id="lance_blade_3"
                  name="Rounded Imperial Lance Head"
-                 tier="2"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_3"
                  length="57.143"
@@ -372,7 +372,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -382,7 +382,7 @@
 
   <CraftingPiece id="lance_blade_14"
                  name="Narrow Menavlon Head"
-                 tier="3"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_14"
                  length="46.28"
@@ -396,7 +396,7 @@
                holster_body_name="bo_throwing_spear_quiver_4"
                holster_mesh_length="96.2">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -406,7 +406,7 @@
 
   <CraftingPiece id="lance_blade_2"
                  name="Triangular Iron Northern Lance Head"
-                 tier="3"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_2"
                  length="47.843"
@@ -417,7 +417,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -427,7 +427,7 @@
 
   <CraftingPiece id="lance_blade_20"
                  name="Long Grassland Lance Head"
-                 tier="3"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_20"
                  length="46"
@@ -438,7 +438,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -448,7 +448,7 @@
 
   <CraftingPiece id="lance_blade_23"
                  name="Kontarion"
-                 tier="3"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_23"
                  length="42"
@@ -459,7 +459,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -469,7 +469,7 @@
 
   <CraftingPiece id="lance_blade_35"
                  name="Jagged Lance Head"
-                 tier="3"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_35"
                  length="41"
@@ -483,7 +483,7 @@
                holster_body_name="bo_throwing_spear_quiver_5_1"
                holster_mesh_length="96.7">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -493,7 +493,7 @@
 
   <CraftingPiece id="lance_blade_37"
                  name="Weighted Awl Pike Head"
-                 tier="3"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_37"
                  length="23.7"
@@ -507,7 +507,7 @@
                holster_body_name="bo_throwing_spear_quiver_5"
                holster_mesh_length="96.7">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -517,7 +517,7 @@
 
   <CraftingPiece id="lance_blade_40"
                  name="Broad Leaf Shaped Lance Tip"
-                 tier="3"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_40"
                  length="42"
@@ -528,9 +528,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
       <Swing damage_type="Blunt"
-             damage_factor="1" />
+             damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -540,7 +540,7 @@
 
   <CraftingPiece id="lance_blade_8"
                  name="Kontos Head"
-                 tier="3"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_8"
                  length="60.153"
@@ -551,7 +551,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -561,7 +561,7 @@
 
   <CraftingPiece id="lance_blade_11"
                  name="Fine Steel Lance Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_11"
                  length="34.56"
@@ -572,7 +572,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -582,7 +582,7 @@
 
   <CraftingPiece id="lance_blade_36"
                  name="Jagged Fine Steel Lance Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_36"
                  length="42.5"
@@ -593,7 +593,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -603,7 +603,7 @@
 
   <CraftingPiece id="lance_blade_38"
                  name="Pilum Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_38"
                  length="23.7"
@@ -617,7 +617,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_2"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -630,7 +630,7 @@
 
   <CraftingPiece id="lance_blade_39"
                  name="Drilled Wide Leaf Shaped Lance Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_39"
                  length="54.2"
@@ -641,7 +641,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -651,7 +651,7 @@
 
   <CraftingPiece id="lance_blade_4"
                  name="Extra Long Fine Steel Lance Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_4"
                  length="72.558"
@@ -662,7 +662,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -672,7 +672,7 @@
 
   <CraftingPiece id="lance_blade_41"
                  name="Thamaskene Steel Leaf Shaped Lance Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_41"
                  length="53.2"
@@ -683,7 +683,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -693,7 +693,7 @@
 
   <CraftingPiece id="lance_blade_42"
                  name="Fine Steel Leaf Lance Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_42"
                  length="42"
@@ -707,7 +707,7 @@
                holster_body_name="bo_throwing_spear_quiver_4_1"
                holster_mesh_length="96.2">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -717,7 +717,7 @@
 
   <CraftingPiece id="lance_blade_7"
                  name="Menavlion Head"
-                 tier="4"
+                 tier="5"
                  piece_type="Blade"
                  mesh="spear_blade_7"
                  length="52.924"
@@ -728,9 +728,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
       <Swing damage_type="Cut"
-             damage_factor="1" />
+             damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -751,7 +751,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -772,9 +772,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
       <Swing damage_type="Cut"
-             damage_factor="1" />
+             damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -798,7 +798,7 @@
                holster_body_name="bo_throwing_spear_quiver_2"
                holster_mesh_length="94.6">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -819,7 +819,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -840,7 +840,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="1" />
+              damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5"

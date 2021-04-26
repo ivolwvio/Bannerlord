@@ -3,11 +3,11 @@
  
  <!--Xiphos-->  
     
-   <CraftingPiece id="xiphos_blade_a" name="xiphos blade" tier="4" piece_type="Blade" mesh="xiphos_blade_a" culture="Culture.aserai" length="90" weight="0.5">
+   <CraftingPiece id="xiphos_blade_a" name="xiphos blade" tier="5" piece_type="Blade" mesh="xiphos_blade_a" culture="Culture.aserai" length="90" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="xiphos_scabbard_a">
-      <Thrust damage_type="Pierce" damage_factor="1" /> <!-- 3.8 -->
-      <Swing damage_type="Cut" damage_factor="1" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" /> <!-- 3.8 -->
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags> 
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -17,7 +17,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="xiphos_guard_a" name="xiphos guard" tier="4" piece_type="Guard" mesh="xiphos_guard_a" culture="Culture.aserai" length="5" weight="0.5">
+  <CraftingPiece id="xiphos_guard_a" name="xiphos guard" tier="5" piece_type="Guard" mesh="xiphos_guard_a" culture="Culture.aserai" length="5" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-2.0" />
 	<Materials>
@@ -25,7 +25,7 @@
     </Materials>
   </CraftingPiece>
 
- <CraftingPiece id="xiphos_handle_a" name="xiphos handle" tier="4" piece_type="Handle" mesh="xiphos_handle_a" culture="Culture.aserai" length="15" weight="0.5" >
+ <CraftingPiece id="xiphos_handle_a" name="xiphos handle" tier="5" piece_type="Handle" mesh="xiphos_handle_a" culture="Culture.aserai" length="15" weight="0.5" >
     <PieceUsages unavailable_usages="" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
@@ -33,7 +33,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="xiphos_pommel_a" name="xiphos pommel" tier="4" piece_type="Pommel" mesh="xiphos_pommel_a" culture="Culture.aserai" length="5" weight="0.5">
+  <CraftingPiece id="xiphos_pommel_a" name="xiphos pommel" tier="5" piece_type="Pommel" mesh="xiphos_pommel_a" culture="Culture.aserai" length="5" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
@@ -44,11 +44,11 @@
   
  <!--Kopis-->
   
-  <CraftingPiece id="kopis_blade_a" name="kopis blade" tier="4" piece_type="Blade" mesh="kopis_blade_a" culture="Culture.aserai" length="90" weight="0.5">
+  <CraftingPiece id="kopis_blade_a" name="kopis blade" tier="5" piece_type="Blade" mesh="kopis_blade_a" culture="Culture.aserai" length="90" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="kopis_scabbard_a">
-      <Thrust damage_type="Pierce" damage_factor="1" />
-      <Swing damage_type="Cut" damage_factor="1" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags>
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -58,7 +58,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="kopis_guard_a" name="kopis guard" tier="4" piece_type="Guard" mesh="kopis_guard_a" culture="Culture.aserai" length="5" weight="0.5">
+  <CraftingPiece id="kopis_guard_a" name="kopis guard" tier="5" piece_type="Guard" mesh="kopis_guard_a" culture="Culture.aserai" length="5" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.0" />
 	<Materials>
@@ -66,7 +66,7 @@
     </Materials>
   </CraftingPiece>
 
- <CraftingPiece id="kopis_handle_a" name="kopis handle" tier="4" piece_type="Handle" mesh="kopis_handle_a" culture="Culture.aserai" length="15" weight="0.5" >
+ <CraftingPiece id="kopis_handle_a" name="kopis handle" tier="5" piece_type="Handle" mesh="kopis_handle_a" culture="Culture.aserai" length="15" weight="0.5" >
     <PieceUsages unavailable_usages="" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
@@ -74,7 +74,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="kopis_pommel_a" name="kopis pommel" tier="4" piece_type="Pommel" mesh="kopis_pommel_a" culture="Culture.aserai" length="5" weight="0.5">
+  <CraftingPiece id="kopis_pommel_a" name="kopis pommel" tier="5" piece_type="Pommel" mesh="kopis_pommel_a" culture="Culture.aserai" length="5" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
@@ -85,10 +85,10 @@
  
  <!--Doru-->
  
-  <CraftingPiece id="doru_spear_tip_a" name="Doru spear blade" tier="4" piece_type="Blade" mesh="doru_spear_tip_a" culture="Culture.aserai" length="84.4" weight="0.5" excluded_item_usage_features="swing">
+  <CraftingPiece id="doru_spear_tip_a" name="Doru spear blade" tier="5" piece_type="Blade" mesh="doru_spear_tip_a" culture="Culture.aserai" length="84.4" weight="0.5" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
     </BladeData>
     <Flags>
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -98,7 +98,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="doru_handle_a_ash" name="Doru ash shaft" tier="4" piece_type="Handle" mesh="doru_handle_a_ash" culture="Culture.aserai" excluded_item_usage_features="long" length="140" weight="0.5">
+  <CraftingPiece id="doru_handle_a_ash" name="Doru ash shaft" tier="5" piece_type="Handle" mesh="doru_handle_a_ash" culture="Culture.aserai" excluded_item_usage_features="long" length="140" weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
 	<BuildData piece_offset="0.0" next_piece_offset="-30.0" previous_piece_offset="-30.0" />
     <Materials>
@@ -106,7 +106,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="doru_saurotor_a" name="Doru saurotor" tier="4" piece_type="Pommel" mesh="doru_saurotor_a" culture="Culture.aserai" length="14.8" weight="0.5">
+  <CraftingPiece id="doru_saurotor_a" name="Doru saurotor" tier="5" piece_type="Pommel" mesh="doru_saurotor_a" culture="Culture.aserai" length="14.8" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
@@ -117,10 +117,10 @@
   
 <!--Sarissa-->
  
-  <CraftingPiece id="sarissa_spear_tip_a" name="Sarissa spear blade" tier="4" piece_type="Blade" mesh="sarissa_spear_tip_a" culture="Culture.aserai" length="90" weight="0.5" excluded_item_usage_features="swing">
+  <CraftingPiece id="sarissa_spear_tip_a" name="Sarissa spear blade" tier="5" piece_type="Blade" mesh="sarissa_spear_tip_a" culture="Culture.aserai" length="90" weight="0.5" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
     </BladeData>
     <Flags>
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -130,7 +130,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="sarissa_handle_a_cornel" name="Sarissa cornel shaft" tier="4" piece_type="Handle" mesh="sarissa_handle_a_cornel" culture="Culture.aserai" length="500" weight="0.5">
+  <CraftingPiece id="sarissa_handle_a_cornel" name="Sarissa cornel shaft" tier="5" piece_type="Handle" mesh="sarissa_handle_a_cornel" culture="Culture.aserai" length="500" weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
@@ -138,7 +138,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="sarissa_saurotor_a" name="Sarissa saurotor" tier="4" piece_type="Pommel" mesh="sarissa_saurotor_a" culture="Culture.aserai" length="14.8" weight="0.5">
+  <CraftingPiece id="sarissa_saurotor_a" name="Sarissa saurotor" tier="5" piece_type="Pommel" mesh="sarissa_saurotor_a" culture="Culture.aserai" length="14.8" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
@@ -148,10 +148,10 @@
  
   <!--Xyston-->
  
-  <CraftingPiece id="xyston_spear_tip_a" name="Xyston spear blade" tier="4" piece_type="Blade" mesh="xyston_spear_tip_a" culture="Culture.aserai" length="84.4" weight="0.5" excluded_item_usage_features="swing">
+  <CraftingPiece id="xyston_spear_tip_a" name="Xyston spear blade" tier="5" piece_type="Blade" mesh="xyston_spear_tip_a" culture="Culture.aserai" length="84.4" weight="0.5" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
     </BladeData>
     <Flags>
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -161,7 +161,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="xyston_handle_a_cornel" name="Xyston cornel shaft" tier="4" piece_type="Handle" mesh="xyston_handle_a_cornel" culture="Culture.aserai" length="350" weight="0.5">
+  <CraftingPiece id="xyston_handle_a_cornel" name="Xyston cornel shaft" tier="5" piece_type="Handle" mesh="xyston_handle_a_cornel" culture="Culture.aserai" length="350" weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing:Javelin" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
@@ -169,7 +169,7 @@
     </Materials>
   </CraftingPiece>
   
-  <CraftingPiece id="xyston_saurotor_a" name="Xyston saurotor" tier="4" piece_type="Pommel" mesh="xyston_saurotor_a" culture="Culture.aserai" length="14.8" weight="0.5">
+  <CraftingPiece id="xyston_saurotor_a" name="Xyston saurotor" tier="5" piece_type="Pommel" mesh="xyston_saurotor_a" culture="Culture.aserai" length="14.8" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData piece_offset="0.0" next_piece_offset="0.0" previous_piece_offset="0.0" />
     <Materials>
