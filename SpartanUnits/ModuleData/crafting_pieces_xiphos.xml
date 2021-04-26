@@ -3,7 +3,7 @@
 <CraftingPieces>
 
   <!-- GUARDS -->
-  <CraftingPiece id="guard_300" name="Guard" tier="2" piece_type="Guard" mesh="guard_300" culture="Culture.battania" length="1.46" weight="0.1">
+  <CraftingPiece id="guard_300" name="Guard" tier="2" piece_type="Guard" mesh="guard_300" culture="Culture.battania" length="1.46" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="-0" previous_piece_offset="18"/>
     <StatContributions armor_bonus="4" />
@@ -12,7 +12,7 @@
     </Materials>
   </CraftingPiece>
   <!-- BLADES -->
-  <CraftingPiece id="blade_300" name="Blade" tier="3" piece_type="Blade" mesh="blade_300" culture="Culture.battania" length="40" weight="0.1">
+  <CraftingPiece id="blade_300" name="Blade" tier="3" piece_type="Blade" mesh="blade_300" culture="Culture.battania" length="40" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="21.5" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="scabbard_300">
@@ -24,7 +24,7 @@
     </Materials>
   </CraftingPiece>
   <!-- GRIPS -->
-  <CraftingPiece id="handle_300" name="Handle" tier="2" piece_type="Handle" mesh="handle_300" culture="Culture.battania" length="35.0" weight="0.1" item_holster_pos_shift="0,0,-0.02">
+  <CraftingPiece id="handle_300" name="Handle" tier="2" piece_type="Handle" mesh="handle_300" culture="Culture.battania" length="35.0" weight="0.5" item_holster_pos_shift="0,0,-0.02">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="5" previous_piece_offset="-5" next_piece_offset="0" />
 	<!--<StatContributions handling_bonus="1" swing_speed_bonus="22" thrust_speed_bonus="1" />-->
@@ -33,7 +33,7 @@
     </Materials>
   </CraftingPiece>
   <!-- POMMELS -->
-  <CraftingPiece id="pommel_300" name="Pommel" tier="2" piece_type="Pommel" mesh="pommel_300" culture="Culture.battania" length="5.0" weight="0.1">
+  <CraftingPiece id="pommel_300" name="Pommel" tier="2" piece_type="Pommel" mesh="pommel_300" culture="Culture.battania" length="5.0" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData next_piece_offset="25" />
     <Materials>

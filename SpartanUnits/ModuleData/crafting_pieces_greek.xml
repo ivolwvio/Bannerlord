@@ -4,7 +4,7 @@
   
       <!-- Sword Blades -->
   
-  <CraftingPiece id="dagger_blade_11" name="{=ykTYTbek}Throwing Knife Blade" tier="2" piece_type="Blade" mesh="dagger_blade_11" length="30" weight="0.1">
+  <CraftingPiece id="dagger_blade_11" name="{=ykTYTbek}Throwing Knife Blade" tier="2" piece_type="Blade" mesh="dagger_blade_11" length="30" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BladeData physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="throwing_dagger_quiver_2" holster_mesh_length="35.8">
       <Thrust damage_type="Pierce" damage_factor="1" /> <!-- 2.4 --> <!-- 3.8 -->
@@ -18,7 +18,7 @@
   
     <!-- Spear Blades -->
   
-        <CraftingPiece id="greek_spear_blade_1" name="{=ZUp9mm79}Jagged Spear Head" tier="3" piece_type="Blade" mesh="spear_blade_35" length="41" weight="0.1" excluded_item_usage_features="swing">
+        <CraftingPiece id="greek_spear_blade_1" name="{=ZUp9mm79}Jagged Spear Head" tier="3" piece_type="Blade" mesh="spear_blade_35" length="41" weight="0.5" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData physics_material="wood_weapon" body_name="bo_spear_b" >
       <Thrust damage_type="Pierce" damage_factor="1" /> <!-- 5.0 -->
@@ -27,7 +27,7 @@
       <Material id="Iron3" count="3" />
     </Materials>
   </CraftingPiece>
-   <CraftingPiece id="greek_spear_blade_2" name="{=MpVC0RXl}Northern Triangular Spear" tier="5" piece_type="Blade" mesh="spear_blade_13" length="50.864" weight="0.1" excluded_item_usage_features="swing">
+   <CraftingPiece id="greek_spear_blade_2" name="{=MpVC0RXl}Northern Triangular Spear" tier="5" piece_type="Blade" mesh="spear_blade_13" length="50.864" weight="0.5" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="1" /> <!-- 9.2 --> <!-- 7.2 -->
@@ -36,7 +36,7 @@
       <Material id="Iron5" count="2" />
     </Materials>
   </CraftingPiece>
-   <CraftingPiece id="greek_spear_blade_3" name="{=MpVC0RXl}Northern Triangular Spear" tier="5" piece_type="Blade" mesh="spear_blade_13" length="50.864" weight="0.1" excluded_item_usage_features="swing">
+   <CraftingPiece id="greek_spear_blade_3" name="{=MpVC0RXl}Northern Triangular Spear" tier="5" piece_type="Blade" mesh="spear_blade_13" length="50.864" weight="0.5" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
     <BladeData physics_material="wood_weapon" body_name="bo_spear_b">
       <Thrust damage_type="Pierce" damage_factor="1" /> <!-- 4.2 --> <!-- 5.5 -->
@@ -48,7 +48,7 @@
   
   <!-- Spear Handles -->
   
-    <CraftingPiece id="greek_spear_handle_1" name="{=AtNVVwTF}Short Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_14" length="160" weight="0.1">
+    <CraftingPiece id="greek_spear_handle_1" name="{=AtNVVwTF}Short Pine Shaft" tier="3" piece_type="Handle" mesh="spear_handle_14" length="160" weight="0.5">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <Materials>
       <Material id="Wood" count="1" />
