@@ -25014,16 +25014,17 @@
   </NPCCharacter>
 
   <!-- New Units -->
-  
-  <NPCCharacter id="bulgarian_soldier"
+
+  <NPCCharacter id="amazons"
                 default_group="Infantry"
                 level="26"
-                name="{=CJxF6fky}Spartan"
+                is_female="true"
+                name="{=CJxF6fky}Amazon"
                 occupation="Soldier"
                 culture="Culture.sturgia">
     <face>
-      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
-      <BodyPropertiesMax version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="00052C089314100B599B39385A8372459867775D8A397A98773789A84B355847019776130946854400000000000000000000000000000000000000003F1C3044" />
+      <BodyPropertiesMax version="4" age="21" weight="0" build="0"  key="00052C089314100B599B39385A8372459867775D8A397A98773789A84B355847019776130946854400000000000000000000000000000000000000003F1C3044"  />
     </face>
     <skills>
       <skill id="OneHanded" value="1023" />
@@ -25047,16 +25048,16 @@
     </skills>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.highland_riders_shield" />
-        <equipment slot="Item1" id="Item.imperial_spear_t2" />
-        <equipment slot="Item2" id="Item.eastern_throwing_spear_2_t4" />
-        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
+        <equipment slot="Item0" id="Item.northern_round_sparring_shield" />
+        <equipment slot="Item1" id="Item.sturgia_lance_2_t5" />
         <equipment slot="Head" id="Item.corinthian_3_tailed" />
         <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
         <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_plain_1" />
         <equipment slot="Gloves" id="Item.cla_empire_tournament_invisible_armwraps" />
         <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
       </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
     </Equipments>
   </NPCCharacter>
 

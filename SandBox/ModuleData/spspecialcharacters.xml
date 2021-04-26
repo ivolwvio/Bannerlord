@@ -196,15 +196,32 @@ FEMALE:
   <!-- posed as man to join army. needed the money -->
   <NPCCharacter id="spc_wanderer_empire_7" name="{=c5Kjcxsa}{HERO.FIRSTNAME} the Wanderer" voice="ironic" age="24" is_template="true" default_group="Infantry" is_female="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_empire" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="00052C089314100B599B39385A8372459867775D8A397A98773789A84B355847019776130946854400000000000000000000000000000000000000003F1C3044" />
     </face>
-    <!--<Hero id="spc_wanderer_empire_7" faction="Kingdom.empire" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="RomanHair" value="1" />
-      <Trait id="HopliteFightingSkills" value="3" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_empire" civilian="true" />
@@ -214,16 +231,32 @@ FEMALE:
   <!-- upper-class dispossessed. family was in sacked city, followed in wake of refugee columns.  -->
   <NPCCharacter id="spc_wanderer_empire_8" name="{=KTObbG71}{HERO.FIRSTNAME} the Wronged" voice="curt" age="23" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_empire" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005500E530030067783887287863448F0A9863BE6DD6656B226AF159ABF486401877614084354080000000000000000000000000000000000000000791C1003" />
     </face>
-    <!--<Hero id="spc_wanderer_empire_8" faction="Kingdom.empire" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="RomanHair" value="1" />
-      <Trait id="CrossbowmanStyle" value="3" />
-      <Trait id="RogueSkills" value="2" />
-      <Trait id="Honor" value="1" />
-      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_empire" civilian="true" />
@@ -233,17 +266,32 @@ FEMALE:
   <!--female outlaw. Mascot, used as assassin as girl. Got older, men's antics not as funny. Gang leader nemesis -->
   <NPCCharacter id="spc_wanderer_empire_9" name="{=7apnGFz7}{HERO.FIRSTNAME} the Black" voice="curt" age="21" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.empire" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_empire" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="00056802D314300B7C85565766536767C17786A6A48A7343CBA68B418A9EA035018776140895357300000000000000000000000000000000000000007B1C4003" />
     </face>
-    <!--<Hero id="spc_wanderer_empire_9" faction="Kingdom.empire" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="RomanHair" value="1" />
-      <Trait id="PeltastFightingSkills" value="3" />
-      <Trait id="RogueSkills" value="2" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Generosity" value="1" />
-      <!--<Trait id="GangLeaderIsNemesis" value="1" />-->
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_empire" civilian="true" />
@@ -275,14 +323,32 @@ FEMALE:
   <!--upper-class dispossessed, refused a bad marriage -->
   <NPCCharacter id="spc_wanderer_empire_11" name="{=KTObbG71}{HERO.FIRSTNAME} the Wronged" voice="curt" age="28" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.vlandia" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_empire" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="00056C059300200498868A3266629726C05B7489548A1717769ACB537CAE1779018776140854736600000000000000000000000000000000000000003F1C2003" />
     </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <!--<Trait id="LordIsNemesis" value="1" />-->
-      <Trait id="RomanHair" value="1" />
-      <Trait id="CavalryFightingSkills" value="4" />
-      <Trait id="Honor" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_empire" civilian="true" />
@@ -293,16 +359,32 @@ FEMALE:
   <!-- Herbalist, female, driven from village-->
   <NPCCharacter id="spc_wanderer_sturgia_0" name="{=yr5pa0hs}{HERO.FIRSTNAME} Willowbark" voice="softspoken" age="28" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_sturgia" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005000613B4200A508875A73D579670A48B87A8585C6766AE67AF8A877B0317018776140806C82402330010360102220000000000001A77000000007F1C3003" />
     </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="PeltastFightingSkills" value="2" />
-      <Trait id="WoodsScoutSkills" value="1" />
-      <Trait id="Surgeon" value="3" />
-      <!-- maybe have the WoodsScoutSkills/surgeon combo give herbalist perk -->
-      <Trait id="Calculating" value="1" />
-      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
@@ -312,15 +394,32 @@ FEMALE:
   <!--braggart backstory - claims he found skolderbrotva too soft -->
   <NPCCharacter id="spc_wanderer_sturgia_1" name="{=W7aa22Yl}{HERO.FIRSTNAME} Breakskull" voice="earnest" age="27" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.sturgia" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.fighter_sturgia" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005BC0FC0FC100A92969BCAA26657A7B7988A7CA384A67AA2644F4FBB26AB6701877614088872110002000032121044000000000000157700000000691C2083" />
     </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="RusHair" value="1" />
-      <Trait id="HuscarlFightingSkills" value="4" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Calculating" value="-1" />
-      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
@@ -330,15 +429,32 @@ FEMALE:
   <!--enterprising young would-be raider, wants to do his father proud -->
   <NPCCharacter id="spc_wanderer_sturgia_2" name="{=aE8abvsQ}{HERO.FIRSTNAME} the Lucky" voice="earnest" age="21" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.sturgia" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.fighter_sturgia" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005B40E52B4200543858B28CB6A7390F0C77DA7A99716B2A4DCFA52794D15160187761408958239000000006A0000390000000000001504000000004D1C30C3" />
     </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="RusHair" value="1" />
-      <Trait id="HuscarlFightingSkills" value="3" />
-      <Trait id="Commander" value="3" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
@@ -424,17 +540,32 @@ FEMALE:
   <!-- dispossessed because of birthmark -->
   <NPCCharacter id="spc_wanderer_sturgia_7" name="{=QyQPJJ9B}{HERO.FIRSTNAME} the Accursed" voice="ironic" age="24" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.sturgia" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_sturgia" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005840712B4200F05767D53444A38A4B0DF7A996BAA397551B78C0A8BCF0F090187761408649358000000006A000039000000000000150400000000451C2003" />
     </face>
-    <!--<Hero id="spc_wanderer_sturgia_7" faction="Kingdom.sturgia" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="ArcherFIghtingSkills" value="3" />
-      <Trait id="RogueSkills" value="3" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Honor" value="1" />
-      <Trait id="Mercy" value="1" />
-      <Trait id="Generosity" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
@@ -444,16 +575,32 @@ FEMALE:
   <!-- shield maiden -->
   <NPCCharacter id="spc_wanderer_sturgia_8" name="{=rtsnnL2J}{HERO.FIRSTNAME} the Shieldmaiden" voice="curt" age="29" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.sturgia" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_sturgia" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005040B400000011857026089EC0750F1BF7DE4787FF104B8E7C70684270708019776140928A02600150000771F1030000000000000041400000000471C1003" />
     </face>
-    <!--<Hero id="spc_wanderer_sturgia_8" faction="Kingdom.sturgia" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <!--<Trait id="RuralClanIsNemesis" value="1" />-->
-      <Trait id="HuscarlFightingSkills" value="4" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Honor" value="1" />
-      <Trait id="Mercy" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
@@ -463,15 +610,32 @@ FEMALE:
   <!--proud hireling who will do any task, values professionalism -->
   <NPCCharacter id="spc_wanderer_sturgia_9" name="{=akALDUs0}{HERO.FIRSTNAME} Longknife" voice="ironic" age="26" default_group="Infantry" is_template="true" is_female="true" is_hero="false" culture="Culture.sturgia" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_sturgia" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="00050002D414300614897614FBFAA5C264FF7DB2CBAA7F6287F4BD837D1F040A018776140806C4350000000000000000000000000000140400000000791C2003" />
     </face>
-    <!--<Hero id="spc_wanderer_sturgia_9" faction="Kingdom.sturgia" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="PeltastFightingSkills" value="3" />
-      <Trait id="RogueSkills" value="3" />
-      <Trait id="Honor" value="-1" />
-      <Trait id="Calculating" value="1" />
-      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_sturgia" civilian="true" />
@@ -483,16 +647,32 @@ FEMALE:
   <!-- formerly the ornery, merlin-type. 'By the time I became a woman I was sick of filthy huts and puking babies.' -->
   <NPCCharacter id="spc_wanderer_battania_0" name="{=G8mawcBV}{HERO.FIRSTNAME} the Healer" voice="ironic" age="30" is_female="true" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.battania" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_battania" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005B40CD214200135756F00F0AAB13090EF897A6BCD0D5194948F608B3E04050187761408409410000000006A000039000000000000150400000000451C0003" />
     </face>
-    <!--<Hero id="spc_wanderer_battania_0" faction="Kingdom.battania" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="PeltastFightingSkills" value="2" />
-      <Trait id="Surgeon" value="4" />
-      <Trait id="WoodsScoutSkills" value="2" />
-      <Trait id="Calculating" value="1" />
-      <Trait id="Honor" value="-1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_battania" civilian="true" />
@@ -614,17 +794,32 @@ FEMALE:
   <!--female, the wanderer. killed a chief's son who pestered her -->
   <NPCCharacter id="spc_wanderer_battania_7" name="{=c5Kjcxsa}{HERO.FIRSTNAME} the Wanderer" voice="ironic" age="21" is_female="true" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.battania" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_battania" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005E40E5214200E3188FC5B4A9C60C1A2EF7F8B5BACF35290B4F9AD8BCF0C5A0187761408A6965A000000006A000039000000000000150400000000451C1003" />
     </face>
-    <!--<Hero id="spc_wanderer_battania_7" faction="Kingdom.battania" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <!--<Trait id="IsTemplate" value="1" />-->
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="HopliteFightingSkills" value="3" />
-      <Trait id="HillScoutSkills" value="3" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Calculating" value="1" />
-      <!--<Trait id="RuralClanIsNemesis" value="1" />-->
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_battania" civilian="true" />
@@ -634,16 +829,32 @@ FEMALE:
   <!-- The accursed, believed to be bad luck -->
   <NPCCharacter id="spc_wanderer_battania_8" name="{=KTObbG71}{HERO.FIRSTNAME} the Wronged" voice="curt" age="26" is_female="true" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.battania" occupation="Wanderer">
     <face>
-      <face_key_template value="BodyProperty.townswoman_battania" />
+      <BodyProperties version="4" age="21" weight="0" build="0" key="0005B00CD2B420041388EF6A05CB0D7070BF7D061BABC1B696E47F198A7F03050187761408126121000000006A000039000000000000150400000000451C2003" />
     </face>
-    <!--<Hero id="spc_wanderer_battania_8" faction="Kingdom.battania" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
     <Traits>
-      <!--<Trait id="IsTemplate" value="1" />-->
-      <Trait id="WandererEquipment" value="1" />
-      <Trait id="PeltastFightingSkills" value="4" />
-      <Trait id="Valor" value="1" />
-      <Trait id="Honor" value="1" />
-      <Trait id="Mercy" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
     </Traits>
     <Equipments>
       <EquipmentSet id="npc_companion_equipment_template_battania" civilian="true" />
