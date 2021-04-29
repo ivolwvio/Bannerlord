@@ -15724,7 +15724,7 @@ voice="Male, northern accent, older, authoritative and competent"-->
     </Equipments>
   </NPCCharacter>
 
-  <!-- Girls -->
+  <!-- Woman -->
 
   <NPCCharacter id="lord_4_24_1"
                 name="{=XSfDaaFp}Isabel"
@@ -15918,8 +15918,675 @@ voice="Male, northern accent, older, authoritative and competent"-->
                     civilian="true" />
     </Equipments>
   </NPCCharacter>
+  <NPCCharacter id="lord_4_24_5"
+                name="{=k7vF5gWy}Emanuela"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0005000613B4200A508875A73D579670A48B87A8585C6766AE67AF8A877B0317018776140806C82402330010360102220000000000001A77000000007F1C3003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_6"
+                name="{=k7vF5gWy}Gloria"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0005BC0FC0FC100A92969BCAA26657A7B7988A7CA384A67AA2644F4FBB26AB6701877614088872110002000032121044000000000000157700000000691C2083" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_7"
+                name="{=k7vF5gWy}Nicole"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0005B40E52B4200543858B28CB6A7390F0C77DA7A99716B2A4DCFA52794D15160187761408958239000000006A0000390000000000001504000000004D1C30C3" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_8"
+                name="{=k7vF5gWy}Diana"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0005840712B4200F05767D53444A38A4B0DF7A996BAA397551B78C0A8BCF0F090187761408649358000000006A000039000000000000150400000000451C2003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_9"
+                name="{=k7vF5gWy}Gabriela"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0005040B400000011857026089EC0750F1BF7DE4787FF104B8E7C70684270708019776140928A02600150000771F1030000000000000041400000000471C1003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_10"
+                name="{=k7vF5gWy}Alexandra"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="00050002D414300614897614FBFAA5C264FF7DB2CBAA7F6287F4BD837D1F040A018776140806C4350000000000000000000000000000140400000000791C2003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_11"
+                name="{=k7vF5gWy}Violeta"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0005B40CD214200135756F00F0AAB13090EF897A6BCD0D5194948F608B3E04050187761408409410000000006A000039000000000000150400000000451C0003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_12"
+                name="{=k7vF5gWy}Anita"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0005E40E5214200E3188FC5B4A9C60C1A2EF7F8B5BACF35290B4F9AD8BCF0C5A0187761408A6965A000000006A000039000000000000150400000000451C1003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_13"
+                name="{=k7vF5gWy}Monica"
+                age="21"
+                is_female="true"
+                voice="softspoken"
+                default_group="Cavalry"
+                is_hero="true"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0005B00CD2B420041388EF6A05CB0D7070BF7D061BABC1B696E47F198A7F03050187761408126121000000006A000039000000000000150400000000451C2003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
 
   <!-- Girls -->
+
+  <!-- Men -->
+
+  <NPCCharacter id="lord_4_24_14"
+                name="{=k7vF5gWy}Imperial"
+                age="21"
+                voice="softspoken"
+                default_group="Cavalry"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_15"
+                name="{=k7vF5gWy}Greek"
+                age="21"
+                voice="softspoken"
+                default_group="Cavalry"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="000BB00A0000334F0776678E53648686288CA83378A87F2099667D788BC532450190761409669963000000000000000000000000000019A300000000213C4002" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_16"
+                name="{=k7vF5gWy}Viking"
+                age="21"
+                voice="softspoken"
+                default_group="Cavalry"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="00000C088F0018100776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_17"
+                name="{=k7vF5gWy}Achilles"
+                age="21"
+                voice="softspoken"
+                default_group="Cavalry"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="00220404C00000020080221901D4007AA19A750A449708002E273F1389D9D100000806240A16A03691132500310030580000000000002A7000000000594C3003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lord_4_24_18"
+                name="{=k7vF5gWy}Ajax The Great"
+                age="21"
+                voice="softspoken"
+                default_group="Cavalry"
+                culture="Culture.vlandia"
+                occupation="Lord"
+                face_mesh_cache="true">
+    <face>
+      <BodyProperties version="4"
+                      weight="0.5"
+                      build="0.5"
+                      key="0029AC0E5E0013431580323D45D61194D5B079797497111166589F2D88E64A3300A776030A76A545600732345560582A0000000000004D700000000033443003" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Generosity" value="2" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="vla_bat_template_heavy" />
+      <EquipmentSet id="vla_noncom_template_default"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- Men -->
 
   <!-- Lucand, gallant. One-eyed -->
   <NPCCharacter id="lord_4_25"

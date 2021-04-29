@@ -346,11 +346,32 @@
   <Hero id="lord_4_24" is_noble="true" faction="Faction.clan_vlandia_8" />
 
   <!-- Girls-->
+
   <Hero id="lord_4_24_1" is_noble="true" faction="Faction.player_faction" />
   <Hero id="lord_4_24_2" is_noble="true" faction="Faction.player_faction" />
   <Hero id="lord_4_24_3" is_noble="true" faction="Faction.player_faction" />
   <Hero id="lord_4_24_4" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_5" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_6" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_7" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_8" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_9" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_10" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_11" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_12" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_13" is_noble="true" faction="Faction.player_faction" />
+  
   <!-- Girls -->
+
+  <!-- Men -->
+
+  <Hero id="lord_4_24_14" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_15" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_16" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_17" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_18" is_noble="true" faction="Faction.player_faction" />
+
+  <!-- Men -->
 
   <Hero id="lord_4_26" is_noble="true" faction="Faction.clan_vlandia_8" />
   <Hero id="lord_4_26_1" is_noble="true" faction="Faction.clan_vlandia_8" />

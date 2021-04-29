@@ -1,24 +1,24 @@
 ############################################################
 999999999 (1023)
 ############################################################
-campaign.add_skill_xp_to_hero OneHanded 999999999 King
-campaign.add_skill_xp_to_hero TwoHanded 999999999 King
-campaign.add_skill_xp_to_hero Polearm 999999999 King
-campaign.add_skill_xp_to_hero Bow 999999999 King
-campaign.add_skill_xp_to_hero Crossbow 999999999 King
-campaign.add_skill_xp_to_hero Throwing 999999999 King
-campaign.add_skill_xp_to_hero Riding 999999999 King
-campaign.add_skill_xp_to_hero Athletics 999999999 King
-campaign.add_skill_xp_to_hero Smithing 999999999 King
-campaign.add_skill_xp_to_hero Scouting 999999999 King
-campaign.add_skill_xp_to_hero Tactics 999999999 King
-campaign.add_skill_xp_to_hero Roguery 999999999 King
-campaign.add_skill_xp_to_hero Charm 999999999 King
-campaign.add_skill_xp_to_hero Leadership 999999999 King
-campaign.add_skill_xp_to_hero Trade 999999999 King
-campaign.add_skill_xp_to_hero Steward 999999999 King
-campaign.add_skill_xp_to_hero Medicine 999999999 King
-campaign.add_skill_xp_to_hero Engineering 999999999 King
+campaign.add_skill_xp_to_hero OneHanded 999999999 Ivaylo
+campaign.add_skill_xp_to_hero TwoHanded 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Polearm 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Bow 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Crossbow 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Throwing 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Riding 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Athletics 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Smithing 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Scouting 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Tactics 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Roguery 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Charm 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Leadership 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Trade 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Steward 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Medicine 999999999 Ivaylo
+campaign.add_skill_xp_to_hero Engineering 999999999 Ivaylo
 ############################################################
 Commands:
 ############################################################
