@@ -77,4 +77,11 @@ respec.reset_perks #Name
 
 ========================================================================
 
-campaign.give_troops amazons 200
+campaign.give_troops amazons 40
+
+campaign.give_troops bulgarian_swordsman 40
+campaign.give_troops bulgarian_spearman 40
+
+campaign.give_troops knight_lancer 40
+
+========================================================================

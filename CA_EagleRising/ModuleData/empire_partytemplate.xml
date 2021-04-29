@@ -2,64 +2,64 @@
 <partyTemplates>
     <MBPartyTemplate id="cla_kingdom_hero_party_empire_template" >
     <stacks>
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_recruit" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_infantry_2" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_infantry_3" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_infantry_4" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_infantry_5" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_infantry_spear_3" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_infantry_spear_4" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_cavalry_4" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_ranged_2" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_ranged_3" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_skirmisher_3" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_ranged_4" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_skirmisher_4" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_ranged_5" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_elite_special_3" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_elite_special_5" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_elite_centurion_4" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_elite_centurion_5" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_elite_recruit" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_elite_infantry_4" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_elite_cavalry_4" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_elite_cavalry_5" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_recruit" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_infantry_2" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_infantry_3" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_infantry_4" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_infantry_5" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_infantry_spear_3" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_infantry_spear_4" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_cavalry_4" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_ranged_2" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_ranged_3" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_skirmisher_3" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_ranged_4" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_skirmisher_4" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_ranged_5" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_elite_special_3" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_elite_special_5" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_elite_centurion_4" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_elite_centurion_5" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_elite_recruit" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_elite_infantry_4" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_elite_cavalry_4" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_elite_cavalry_5" />
     </stacks>
   </MBPartyTemplate>
 
   <MBPartyTemplate id="cla_caravan_template_empire" >
     <stacks>
       <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.cla_armed_trader_empire" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_caravan_guard_empire" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_veteran_caravan_guard_empire" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_caravan_guard_empire" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_veteran_caravan_guard_empire" />
     </stacks>
   </MBPartyTemplate>
 
   <MBPartyTemplate id="cla_elite_caravan_template_empire" >
     <stacks>
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_armed_trader_empire" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_caravan_guard_empire" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_veteran_caravan_guard_empire" />
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_caravan_master_empire" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_armed_trader_empire" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_caravan_guard_empire" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_veteran_caravan_guard_empire" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_caravan_master_empire" />
     </stacks>
   </MBPartyTemplate>
 
   <MBPartyTemplate id="cla_militia_empire_template" >
       <stacks>
-        <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_militia_spearman" />
-        <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_militia_archer" />
+        <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_militia_spearman" />
+        <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_militia_archer" />
       </stacks>
   </MBPartyTemplate>
 
   <MBPartyTemplate id="cla_rebels_empire_template" >
     <stacks>
-      <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_empire_recruit" />
+      <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_empire_recruit" />
     </stacks>
   </MBPartyTemplate>
   
     <MBPartyTemplate id="cla_villager_empire_template" >
       <stacks>
-        <PartyTemplateStack min_value="100" max_value="1000" troop="NPCCharacter.cla_villager_empire" />
+        <PartyTemplateStack min_value="100" max_value="500" troop="NPCCharacter.cla_villager_empire" />
       </stacks>
     </MBPartyTemplate>
   
