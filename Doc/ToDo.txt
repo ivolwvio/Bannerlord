@@ -8,7 +8,7 @@ PARTY SIZES
 
 (?!<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="NPCCharacter.main_hero" \/>)(?!<PartyTemplateStack min_value="100" max_value="500" troop="(.*?)" \/>)<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="(.*?)" \/>
 
-<PartyTemplateStack min_value="100" max_value="500" troop="$1" />
+<PartyTemplateStack min_value="100" max_value="500" troop="$2" />
 
 =====================================================================
 

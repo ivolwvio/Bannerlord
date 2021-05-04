@@ -54,7 +54,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -76,7 +95,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Item0"
@@ -110,7 +148,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -134,7 +191,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -159,7 +235,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -181,7 +276,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -207,7 +321,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -231,7 +364,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -256,7 +408,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -278,7 +449,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -306,7 +496,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -328,7 +537,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -354,7 +582,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -377,7 +624,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -400,7 +666,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -422,7 +707,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -446,7 +750,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -469,7 +792,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -492,7 +834,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -514,7 +875,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -540,7 +920,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -562,7 +961,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -585,7 +1003,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -607,7 +1044,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -632,7 +1088,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -654,7 +1129,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -678,7 +1172,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -700,7 +1213,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -725,7 +1257,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -747,7 +1298,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -773,7 +1343,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -795,7 +1384,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -820,7 +1428,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -840,7 +1467,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -861,7 +1507,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -881,7 +1546,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Body"
@@ -902,7 +1586,26 @@
     <face>
       <face_key_template value="BodyProperty.cla_villager_empire" />
     </face>
-    <skills></skills>
+    <skills>
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
+    </skills>
     <Equipments>
       <EquipmentRoster>
       <equipment slot="Item0"
