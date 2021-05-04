@@ -13,26 +13,7 @@
     <BodyProperties version="4" age="24.29" weight="0.162" build="0.3657" key="00000002808809120160000000116151100771100000100021111101800101000057700305111101000000000000000000000000000000000000000000B00005" />
     <BodyPropertiesMax version="4" age="74.57" weight="0.9954" build="0.9645" key="0002C8080D883A54FF9FEBFFF7ECEEFEF9FF8EFF7F44DFFFFEEFEFEE97FEFFEE00C770030CEEEFEE00000000000000000000000000000000000000001BA09105" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_palaic_recruit" />
     </upgrade_targets>
@@ -149,26 +130,7 @@
 <BodyProperties version="4" age="22.94" weight="0.3781" build="0.4367"  key="0000040340700007117211111011102041187111111021117110110070222211007776030722221000000000000000000000000000000000000000003EE40004"  />
 <BodyPropertiesMax version="4" age="64.92" weight="0.9491" build="0.9614"  key="000AD808CF883010EF8EEEEEEEFFEEFFEEEEEEFEEFE6EFEEEFEEFFEDF7EE0E5E00D776030DEEFFFE00000000000000000000000000000000000000006BB440C4"  />     
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Equipments>
       <EquipmentRoster civilian="true">
         <equipment slot="Body"
@@ -407,26 +369,7 @@
                 is_template="true">
     <face>
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentSet id="cla_fighter_palaic" />

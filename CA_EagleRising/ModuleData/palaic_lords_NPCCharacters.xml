@@ -7,26 +7,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.6204" key="000A2804DA001483449D9A54B2B97B4783CA5662C51132058CB177278A847669017246350C98B4259700000000030000000000000000003C000000003F847002" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="4" />
       <Trait id="Commander" value="6" />
@@ -63,26 +44,7 @@
     <face>
       <BodyProperties version="4" weight="0.8019" build="0.6096" key="0000180207001453A8886554B97589B68A4DBD6C39A89C8528556982A73166790077760307B7AAB700000000000000000000000000000000000000003CFC0102" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="2" />
       <Trait id="Commander" value="3" />
@@ -101,26 +63,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0011A407144400062897A829649497DB8C988BB9BCD4B379A5868D485A689A9A0167761306297985000000000000000000000000000000000000000038D42003" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Commander" value="3" />
       <Trait id="Politician" value="2" />
@@ -292,26 +235,7 @@
       <!--face_key value="00127cf4803c3004b7d8465988d18c845a24288fad8ab786279b9caa78aa48b500098a44a39aa965000000000000000000000000000000000000000000002000" /-->
       <BodyProperties version="4" key="0000E00E400020053BB557B89965C597D56964764A1816D849627A7BD399DAA6007776030786D93800000000000000000000000000000000000000004ADC0003" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <!-- COMBATANT FEMALE -->
       <Trait id="BalancedFightingSkills" value="6" />
@@ -336,26 +260,7 @@
     <face>
       <BodyProperties version="4" weight="0.4524" build="0.5804" key="000ABC08C000300D3B875A9B79491687A49558C689535A6D8A74D772435766570077760307433D7700000000000000000000000000000000000000004ADC3083" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <!-- COMBATANT FEMALE -->
       <Trait id="BalancedFightingSkills" value="6" />
@@ -376,26 +281,7 @@
       <!--face_key value="0003a0048084038958d4b272715091678097f276629a809f777927adb757c82200000000065c7c52000000000000000000000000000000000000000000000080" /-->
       <BodyProperties version="4" age="22.82" weight="0.5" build="0.5" key="0000600607FC28128319A87B33595652778DD946648C0A3A39A4778224897778007776030757BA7900000000000000000000000000000000000000004ADC0142" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="KnightFightingSkills" value="5" />
       <Trait id="Commander" value="4" />
@@ -420,26 +306,7 @@
     <face>
       <BodyProperties version="4" weight="0.6404" build="0.6682" key="0000D4099A0023C7376B6525EE3473B9BB8269666A65777D76C697A2657D356500777603077A7BA600000000000000000000000000000000000000004ADC3142" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="KnightFightingSkills" value="6" />
       <Trait id="Commander" value="6" />
@@ -458,26 +325,7 @@
     <face>
       <BodyProperties version="4" weight="0.7525" build="0.6973" key="00024006184404446D04EAAB8274476C9A8C887851414367369B7EA483784B4800777603078E44B800000000000000000000000000000000000000004ADC8002" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="5" />
       <Trait id="Commander" value="7" />
@@ -497,26 +345,7 @@
     <face>
       <BodyProperties version="4" weight="0.6561" build="0.7254" key="00058C020CFC34D3645534AB8B485CC6674EB925737A98D8A8B2A5897B16627400B776030BA9AAAE00000000000000000000000000000000000000004B649142" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="4" />
       <Trait id="Commander" value="3" />
@@ -536,26 +365,7 @@
     <face>
       <BodyProperties version="4" weight="0.6214" build="0.5381" key="000DA40817002154B977A6B6B5965849698B4D9946A5B96AA8666AD778C5968800B776030BA88AA800000000000000000000000000000000000000004B6460C2" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="7" />
       <Trait id="Commander" value="7" />
@@ -577,26 +387,7 @@
     <face>
       <BodyProperties version="4" weight="0.6333" build="0.6651" key="0002B408D2001484A77554A9B6579468686D646E6A519396DDD6B7BC9A36A89A00B776030B59C48A00000000000000000000000000000000000000004B643142" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="6" />
       <Trait id="Commander" value="8" />
@@ -619,26 +410,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="000098078000100485775565B8AB62166698A425A6B6C3878E248288887955980097760309918C9500000000000000000000000000000000000000004B3C2043" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Commander" value="3" />
       <Trait id="Politician" value="3" />
@@ -678,26 +450,7 @@
       <!--face_key value="00055c4880bc0245678789a8c8b5c2728588854b98886843b5dcd6c879c68937000a576109844933000000000000000000000000000000000000000000008000" /-->
       <BodyProperties version="4" key="000060040C00080464778A41688787BACE4B565D8987857237995635A5C67757009776030958589D00000000000000000000000000000000000000004B3C6082" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="6" />
       <Trait id="Commander" value="5" />
@@ -720,26 +473,7 @@
       <!--face_key value="00055c4880bc0245678789a8c8b5c2728588854b98886843b5dcd6c879c68937000a576109844933000000000000000000000000000000000000000000008000" /-->
       <BodyProperties version="4" key="00009408D40027D2DBA8872B252769A69789A73896B65B69B5353DD9367982A6009776030986954400000000000000000000000000000000000000004B3C4042" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="3" />
       <Trait id="Commander" value="3" />
@@ -759,26 +493,7 @@
     <face>
       <BodyProperties version="4" weight="0.6483" build="0.7136" key="0000940200000004DBA8872B252769A69789A73896B65B69B5353DD9367982A6009776030986954400000000000000000000000000000000000000004B3C4003" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <!-- NONCOMBATANT FEMALE -->
       <Trait id="Politician" value="6" />
@@ -795,26 +510,7 @@
     <face>
       <BodyProperties version="4" weight="0.6056" build="0.6666" key="0000A00354001A07A18C93E86729BDAAC399B42A7868816D3758449969A4668C009776030976CA2400000000000000000000000000000000000000004B3C3142" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="8" />
       <Trait id="Commander" value="7" />
@@ -850,26 +546,7 @@
       <!--face_key value="00057bfb513c12425eb3a9aa48b3487295c668767888682ddb89a87662a4415a000536af057746e8000000000000000000000000000000000000000000002000" /-->
       <BodyProperties version="4" key="000074040CFC2482367A66596A6BCC84B94A566448953638B796B68859D6E44300877603083678AA0000000000000000000000000000000000000000431C9102" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="KnightFightingSkills" value="7" />
       <Trait id="Commander" value="5" />
@@ -891,26 +568,7 @@
       <!--face_key value="000ce3f30000220e72233a57c8668b97395b684b174bd5d7474584799d857bdd0004656f89ada5a9000000000000000000000000000000000000000000004000" /-->
       <BodyProperties version="4" key="0000880417FC0A549686A36265937976493A38198165CB5859348DAB867965B5009776030993B5A5000000000000000000000000000000000000000043246042" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="4" />
       <Trait id="Commander" value="6" />
@@ -930,26 +588,7 @@
     <face>
       <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0000AC0A4000100698DD6B5159C35C7B85D47846AA5C7A4E9E57D8D9537838A70097760309DC4696000000000000000000000000000000000000000043243083" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Commander" value="1" />
       <Trait id="Politician" value="3" />
@@ -969,26 +608,7 @@
     <face>
       <BodyProperties version="4" weight="0.7299" build="0.7299" key="0000B0009E0011539DA8637E76C743384A87B94798789A854B316D638E7795B50097760309687845000000000000000000000000000000000000000043248082" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="3" />
       <Trait id="Commander" value="5" />
@@ -1009,26 +629,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0002AC0AC000000A8879D96B48ACD8687A78663528397DBE9965C69335B9EB850097760309467C490000000000000000000000000000000000000000293C2083" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Politician" value="3" />
       <Trait id="Manager" value="3" />
@@ -1047,26 +648,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0002C00AC000000BC5337D6759E96EC57A7852345449638CA267614A35B9EB850097760309A746850000000000000000000000000000000000000000293C4003" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Manager" value="3" />
       <Trait id="Honor" value="-1" />
@@ -1082,26 +664,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="00005C041E002787A9E6562C5444386C718653746AB69A87ADBB84988C29423900A776030AA758C20000000000000000000000000000000000000000294470C2" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="5" />
       <Trait id="Commander" value="4" />
@@ -1120,26 +683,7 @@
     <face>
       <BodyProperties version="4" weight="0.6293" build="0.5378" key="00088408DE00054A48296DD7881C89A9A7A69A96AA6CEF97629739AE882888A600A776030A829348000000000000000000000000000000000000000029445082" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="7" />
       <Trait id="Commander" value="7" />
@@ -1174,26 +718,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0000E80AC0000005A85AE664326799D3AA79373BA84636E52D95523868A9882300A776030A2699770000000000000000000000000000000000000000294400C3" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Manager" value="3" />
       <Trait id="Mercy" value="-1" />
@@ -1209,26 +734,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0000DC0AC0001002BAB97A158D9A49783B777B7499C3C64D9A45A88488AD867B00A776030A9ECA560000000000000000000000000000000000000000294400C3" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Manager" value="1" />
       <Trait id="Mercy" value="1" />
@@ -1258,26 +764,7 @@
     <face>
       <BodyProperties version="4" weight="0.6867" build="0.7269" key="0000900816000787836927698A8846B7745E39815C5B267B8637797E7954631600A776030A7B5175000000000000000000000000000000000000000029446042" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="8" />
       <Trait id="Commander" value="7" />
@@ -1297,26 +784,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="000090020000200E836927698A8846B7745E39815C5B267B8637797E7954631600A776030A7B5175000000000000000000000000000000000000000029442043" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Politician" value="4" />
       <Trait id="Manager" value="4" />
@@ -1334,26 +802,7 @@
       <!--face_key value="000b4bf58ffc300578e42aab88c5a5bd924b6988339398973d8ea8676aa76865000d5d2f07336c86000000000000000000000000000000000000000000001000" /-->
       <BodyProperties version="4" key="000090034C0023C08B8497A85A74D63F663A8A75E2CC5A3E7A35753CA6A8BD7C00A776030A7E2D1C000000000000000000000000000000000000000029442002" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="6" />
       <Trait id="Commander" value="4" />
@@ -1394,26 +843,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0000380B8000200ECA386682C36A7699989D8A7684C7B76A4DC5AC96AA5B8A7900A776030A6A477A000000000000000000000000000000000000000029442043" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Manager" value="3" />
       <Trait id="Generosity" value="-1" />
@@ -1449,26 +879,7 @@
     <face>
       <BodyProperties version="4" weight="0.5664" build="0.6713" key="0000480340002153D8B99475B37A84D593654A3C415321DCD2379BC65A78939500A776030A789D29000000000000000000000000000000000000000029447042" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="BalancedFightingSkills" value="7" />
       <Trait id="Commander" value="7" />
@@ -1488,26 +899,7 @@
     <face>
       <BodyProperties version="4" age="25.84" weight="0.5" build="0.5" key="0000480980002007D8B99475B37A84D593654A3C415321DCD2379BC65A78939500A776030A789D29000000000000000000000000000000000000000029442043" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Commander" value="3" />
       <Trait id="Politician" value="4" />
@@ -1524,26 +916,7 @@
     <face>
       <BodyProperties version="4" weight="0.5" build="0.5" key="0000DC080000200464B88758D6588A678AB6624B3DA877786795536A5958365A00A776030A7295C50000000000000000000000000000000000000000294400C3" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
-    </skills>
+    <skills></skills>
     <Traits>
       <Trait id="Commander" value="2" />
       <Trait id="Politician" value="5" />
