@@ -53,15 +53,19 @@ Thamaskene Steel
 Hardwood
 Charocal
 
+*** tEMP CODE ***
+
 <EquipmentRoster>
-  <equipment slot="Item0" id="Item.cla_palaic_shield_hex_1" />
-  <equipment slot="Item1" id="Item.cla_palaic_1ax_1" />
-  <equipment slot="Item2" id="Item.western_spear_1_t2" />
-  <equipment slot="Head" id="Item.cla_palaic_helm_montefortino_iron_1" />
-  <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
-  <equipment slot="Body" id="Item.cla_palaic_clan_cloth_1" />
-  <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
-  <equipment slot="Leg" id="Item.cla_palaic_leg_wrappings_1" />
-  <equipment slot="Horse" id="Item.sumpter_horse" />
-  <equipment slot="HorseHarness" id="Item.bandit_saddle_steppe" />
+  <equipment slot="Item0" id="Item.pavise_shield" />
+  <equipment slot="Item1" id="Item.vlandian_lance_colored4" />
+  <equipment slot="Item2" id="Item.vlandia_sword_4_t4" />
+  <equipment slot="Head" id="Item.vlandian_helm_with_visor" />
+  <equipment slot="Cape" id="Item.swadian_shoulders" />
+  <equipment slot="Body" id="Item.swadian_plate_armor" />
+  <equipment slot="Gloves" id="Item.mail_mitten" />
+  <equipment slot="Leg" id="Item.lamellar_plate_boots" />
 </EquipmentRoster>
+<equipment slot="Horse" id="Item.noble_horse" />
+<equipment slot="HorseHarness" id="Item.horse_caparison_short_banner4" />
+
+

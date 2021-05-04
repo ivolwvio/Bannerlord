@@ -25138,7 +25138,8 @@
     </skills>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.empire_lance_2_t4" />
+        <equipment slot="Item0" id="Item.pavise_shield" />
+        <equipment slot="Item1" id="Item.empire_lance_2_t4" />
         <equipment slot="Head" id="Item.vlandian_helm_with_faceplate_painted" />
         <equipment slot="Cape" id="Item.swadian_shoulders" />
         <equipment slot="Body" id="Item.mail_with_tabbard3" />
