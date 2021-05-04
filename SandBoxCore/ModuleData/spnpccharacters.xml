@@ -25404,52 +25404,12 @@
     </Equipments>
   </NPCCharacter>
 
-  <!-- Mountain Vikings -->
+  <!-- Mountain Vikings -->`
 
-  <NPCCharacter id="viking_pikeman"
+  <NPCCharacter id="viking_spearman"
                 default_group="Infantry"
                 level="26"
-                name="{=CJxF6fky}Viking Pikeman"
-                occupation="Soldier"
-                culture="Culture.sturgia">
-    <face>
-      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="00000C088F0018100776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
-    </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
-    <Equipments>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.vlandia_pike_1_t5" />
-        <equipment slot="Head" id="Item.battania_fur_helmet" />
-        <equipment slot="Cape" id="Item.battania_warlord_pauldrons" />
-        <equipment slot="Body" id="Item.battania_warlord_armor" />
-        <equipment slot="Gloves" id="Item.battania_warlord_bracers" />
-        <equipment slot="Leg" id="Item.battania_fur_boots" />
-      </EquipmentRoster>
-    </Equipments>
-  </NPCCharacter>
-  <NPCCharacter id="viking_axeman"
-                default_group="Ranged"
-                level="26"
-                name="{=CJxF6fky}Viking Axeman"
+                name="{=CJxF6fky}Viking Spearman"
                 occupation="Soldier"
                 culture="Culture.sturgia">
     <face>
@@ -25478,7 +25438,7 @@
     <Equipments>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.hoplon_bird" />
-        <equipment slot="Item1" id="Item.woodland_axe_t3" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
         <equipment slot="Head" id="Item.battania_fur_helmet" />
         <equipment slot="Cape" id="Item.battania_warlord_pauldrons" />
         <equipment slot="Body" id="Item.battania_warlord_armor" />
@@ -25488,7 +25448,7 @@
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="viking_swordman"
-                default_group="Cavalry"
+                default_group="Ranged"
                 level="26"
                 name="{=CJxF6fky}Viking Swordman"
                 occupation="Soldier"
@@ -25528,10 +25488,10 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="viking_spearman"
-                default_group="HorseArcher"
+  <NPCCharacter id="viking_axeman"
+                default_group="Cavalry"
                 level="26"
-                name="{=CJxF6fky}Viking Spearman"
+                name="{=CJxF6fky}Viking Axeman"
                 occupation="Soldier"
                 culture="Culture.sturgia">
     <face>
@@ -25560,7 +25520,50 @@
     <Equipments>
       <EquipmentRoster>
         <equipment slot="Item0" id="Item.hoplon_bird" />
-        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item1" id="Item.woodland_axe_t3" />
+        <equipment slot="Head" id="Item.battania_fur_helmet" />
+        <equipment slot="Cape" id="Item.battania_warlord_pauldrons" />
+        <equipment slot="Body" id="Item.battania_warlord_armor" />
+        <equipment slot="Gloves" id="Item.battania_warlord_bracers" />
+        <equipment slot="Leg" id="Item.battania_fur_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="viking_javelin"
+                default_group="HorseArcher"
+                level="26"
+                name="{=CJxF6fky}Viking Javelin"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="00000C088F0018100776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.hoplon_bird" />
+        <equipment slot="Item1" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item2" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item3" id="Item.xiphos_sparta" />
         <equipment slot="Head" id="Item.battania_fur_helmet" />
         <equipment slot="Cape" id="Item.battania_warlord_pauldrons" />
         <equipment slot="Body" id="Item.battania_warlord_armor" />
@@ -25653,6 +25656,8 @@
         <equipment slot="Gloves" id="Item.battania_warlord_bracers" />
         <equipment slot="Leg" id="Item.battania_fur_boots" />
       </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="viking_horseman"

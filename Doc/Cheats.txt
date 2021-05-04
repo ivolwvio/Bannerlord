@@ -93,6 +93,17 @@ campaign.give_troops knight_lancer 40
 campaign.give_troops knight_horseman 40
 campaign.give_troops knight_horsearcher 40
 
+# Viking Faction
+
+campaign.give_troops viking_spearman 40
+campaign.give_troops viking_swordman 40
+campaign.give_troops viking_axeman 40
+campaign.give_troops viking_javelin 40
+campaign.give_troops viking_archer 40
+campaign.give_troops viking_horse_archer 40
+campaign.give_troops viking_horseman 40
+campaign.give_troops viking_lancer 40
+
 ========================================================================
 
 Banners:
