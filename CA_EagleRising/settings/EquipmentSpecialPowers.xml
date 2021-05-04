@@ -111,6 +111,28 @@
   	<string id="cla_empire_legate_helm_brass_white" text="HeroicAura3" />
   	<string id="cla_empire_legate_helm_brass_gold" text="HeroicAura3" />
 
+  	<string id="cla_roman_helm_cavalry_praetorian_lord_black" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_praetorian_lord_blue" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_praetorian_lord_gold" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_praetorian_lord_white" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_praetorian_lord_red" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_praetorian_lord_black" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_praetorian_lord_blue" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_praetorian_lord_gold" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_praetorian_lord_white" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_praetorian_lord_red" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_lord_black" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_lord_blue" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_lord_gold" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_lord_white" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_lord_red" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_lord_black" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_lord_blue" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_lord_gold" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_lord_white" text="HeroicAura3" />
+  	<string id="cla_roman_helm_cavalry_mask_lord_red" text="HeroicAura3" />
+
+
   	<string id="cla_palaic_helm_mask_wolf_iron_1_m" text="HeroicAura2" />
   	<string id="cla_palaic_helm_mask_wolf_brass_1_m" text="HeroicAura2" />
   	<string id="cla_palaic_helm_mask_wolf_copper_1_m" text="HeroicAura2" />

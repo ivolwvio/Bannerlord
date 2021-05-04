@@ -280,57 +280,57 @@ Type="Pommel"/>
 <!-- Gloves -->
   <Item id="cla_dacia_invisible_bracers_1" name="{=cla_dacia_invisible_bracers_1}[Dryatic]Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="500" weight="0.5" appearance="1" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="leather" material_type="Leather" />
+      <Armor arm_armor="8" covers_hands="false" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_dacia_invisible_bracers_2" name="{=cla_dacia_invisible_bracers_2}[Dryatic]Sturdy Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="1000" weight="0.5" appearance="1" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="leather" material_type="Leather" />
+      <Armor arm_armor="15" covers_hands="false" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_dacia_invisible_bracers_3" name="{=cla_dacia_invisible_bracers_3}[Dryatic]Reinforced Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="5000" weight="0.5" appearance="1" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="leather" material_type="Leather" />
+      <Armor arm_armor="20" covers_hands="false" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_dacia_bracelet_silver_right" name="{=cla_dacia_bracelet_silver_right}[Dryatic]Silver Right Bracelet" mesh="cla_empire_bracelet_silver_right_1" culture="Culture.battania" is_merchandise="true" value="500" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_dacia_bracelet_silver_left" name="{=cla_dacia_bracelet_silver_left}[Dryatic]Silver Left Bracelet" mesh="cla_empire_bracelet_silver_left_1" culture="Culture.battania" is_merchandise="true" value="1000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_dacia_bracelet_silver_both" name="{=cla_dacia_bracelet_silver_both}[Dryatic]Silver Bracelets" mesh="cla_empire_bracelet_silver_both_1" culture="Culture.battania" is_merchandise="true" value="5000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_dacia_bracelet_gold_both" name="{=cla_dacia_bracelet_gold_both}[Dryatic]Gold Bracelets" mesh="cla_empire_bracelet_gold_both_1" culture="Culture.battania" is_merchandise="true" value="500" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="20" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_dacia_bracelet_gold_both_2" name="{=cla_dacia_bracelet_gold_both_2}[Dryatic]Gold Double-Bracelets" mesh="cla_empire_bracelet_gold_both_2" culture="Culture.battania" is_merchandise="true" value="1000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="20" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_dacia_bracelet_gold_left" name="{=cla_dacia_bracelet_gold_left}[Dryatic]Gold Left Bracelet" mesh="cla_empire_bracelet_gold_left_1" culture="Culture.battania" is_merchandise="true" value="5000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="20" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
@@ -346,8 +346,8 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
+      <Armor body_armor="10"
+             leg_armor="2"
              arm_armor="1"
              covers_body="true"
              modifier_group="cloth_unarmoured"
@@ -367,8 +367,8 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
+      <Armor body_armor="10"
+             leg_armor="2"
              arm_armor="1"
              covers_body="true"
              modifier_group="cloth_unarmoured"
@@ -388,8 +388,8 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
+      <Armor body_armor="10"
+             leg_armor="2"
              arm_armor="1"
              covers_body="true"
              modifier_group="cloth_unarmoured"
@@ -409,8 +409,8 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
+      <Armor body_armor="10"
+             leg_armor="2"
              arm_armor="1"
              covers_body="true"
              modifier_group="cloth_unarmoured"
@@ -430,8 +430,8 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
+      <Armor body_armor="10"
+             leg_armor="2"
              arm_armor="1"
              covers_body="true"
              modifier_group="cloth_unarmoured"
@@ -451,8 +451,8 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
+      <Armor body_armor="10"
+             leg_armor="2"
              arm_armor="1"
              covers_body="true"
              modifier_group="cloth_unarmoured"
@@ -472,8 +472,8 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
+      <Armor body_armor="10"
+             leg_armor="2"
              arm_armor="1"
              covers_body="true"
              modifier_group="cloth_unarmoured"
@@ -492,9 +492,9 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
-             arm_armor="1"
+      <Armor body_armor="25"
+             leg_armor="8"
+             arm_armor="6"
              covers_body="true"
              modifier_group="leather"
              material_type="Leather" />
@@ -511,9 +511,9 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
-             arm_armor="1"
+      <Armor body_armor="32"
+             leg_armor="8"
+             arm_armor="2"
              has_gender_variations="false"
              covers_body="true"
              modifier_group="leather"
@@ -534,9 +534,9 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
-             arm_armor="1"
+      <Armor body_armor="34"
+             leg_armor="12"
+             arm_armor="12"
              has_gender_variations="false"
              covers_body="true"
              modifier_group="chain"
@@ -556,9 +556,9 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
-             arm_armor="1"
+      <Armor body_armor="42"
+             leg_armor="16"
+             arm_armor="14"
              covers_body="true"
              modifier_group="chain"
              material_type="Chainmail" />
@@ -577,9 +577,9 @@ Type="Pommel"/>
         appearance="1"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
-             arm_armor="1"
+      <Armor body_armor="50"
+             leg_armor="16"
+             arm_armor="14"
              covers_body="true"
              modifier_group="chain"
              material_type="Chainmail" />
@@ -599,9 +599,9 @@ Type="Pommel"/>
         appearance="3"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
-             arm_armor="1"
+      <Armor body_armor="44"
+             leg_armor="15"
+             arm_armor="12"
              has_gender_variations="true"
              covers_body="true"
              modifier_group="plate"
@@ -622,9 +622,9 @@ Type="Pommel"/>
         appearance="3"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
-             arm_armor="1"
+      <Armor body_armor="52"
+             leg_armor="23"
+             arm_armor="16"
              has_gender_variations="true"
              covers_body="true"
              modifier_group="plate"
@@ -644,9 +644,9 @@ Type="Pommel"/>
         appearance="3"
         Type="BodyArmor">
     <ItemComponent>
-      <Armor body_armor="5"
-             leg_armor="1"
-             arm_armor="1"
+      <Armor body_armor="57"
+             leg_armor="20"
+             arm_armor="16"
              covers_body="true"
              modifier_group="plate"
              material_type="Plate" />
@@ -665,7 +665,7 @@ Type="Pommel"/>
         appearance="1"
         Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="1"
+      <Armor leg_armor="8"
              covers_legs="true"
              modifier_group="leather"
              material_type="Leather" />
@@ -683,7 +683,7 @@ Type="Pommel"/>
         appearance="1"
         Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="1"
+      <Armor leg_armor="8"
              covers_legs="true"
              modifier_group="leather"
              material_type="Leather" />
@@ -701,7 +701,7 @@ Type="Pommel"/>
         appearance="1"
         Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="1"
+      <Armor leg_armor="8"
              covers_legs="true"
              modifier_group="leather"
              material_type="Leather" />
@@ -719,7 +719,7 @@ Type="Pommel"/>
         appearance="1"
         Type="LegArmor">
     <ItemComponent>
-      <Armor leg_armor="1"
+      <Armor leg_armor="20"
              covers_legs="true"
              modifier_group="plate"
              material_type="Plate" />
@@ -731,19 +731,19 @@ Type="Pommel"/>
 <!-- Shoulder Armor -->
   <Item id="cla_dacia_cloak" name="{=cla_dacia_cloak}[Dryatic]Short Cloak" mesh="cla_plain_cloak" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="8" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_dacia_cloak_2" name="{=cla_dacia_cloak_2}[Dryatic]Sturdy Short Cloak" mesh="cla_plain_cloak" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="15" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_dacia_cloak_3" name="{=cla_dacia_cloak_3}[Dryatic]Reinforced Short Cloak" mesh="cla_plain_cloak" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="20" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
@@ -759,7 +759,7 @@ Type="Pommel"/>
         appearance="1"
         Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5"
+      <Armor body_armor="10"
              modifier_group="leather"
              material_type="Leather" />
     </ItemComponent>
@@ -776,7 +776,7 @@ Type="Pommel"/>
         appearance="1"
         Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5"
+      <Armor body_armor="15"
              modifier_group="chain"
              material_type="Chainmail" />
     </ItemComponent>
@@ -793,7 +793,7 @@ Type="Pommel"/>
         appearance="1"
         Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5"
+      <Armor body_armor="20"
              modifier_group="plate"
              material_type="Plate" />
     </ItemComponent>
@@ -802,19 +802,19 @@ Type="Pommel"/>
 
   <Item id="cla_dacia_shoulder_cape_1" name="{=cla_dacia_shoulder_cape_1}[Dryatic]Shoulder Cape" mesh="cla_empire_shoulder_cape_team" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5" arm_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="15" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_dacia_cape_tartan_1" name="{=cla_dacia_cape_tartan_1}[Dryatic]Tartan Cape" mesh="cla_celtic_shoulder_cape" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5" arm_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="15" arm_armor="5" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
   <Item id="cla_dacia_cape_tartan_2" name="{=cla_dacia_cape_tartan_2}[Dryatic]Rich Tartan Cape" mesh="cla_celtic_shoulder_cape" culture="Culture.battania" is_merchandise="true" weight="0.5" appearance="1.2" Type="Cape">
     <ItemComponent>
-      <Armor body_armor="5" arm_armor="1" modifier_group="cloth_unarmoured" material_type="Cloth" />
+      <Armor body_armor="22" arm_armor="8" modifier_group="cloth_unarmoured" material_type="Cloth" />
     </ItemComponent>
     <Flags Civilian="true" UseTeamColor="true" />
   </Item>
@@ -830,7 +830,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="8"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -850,7 +850,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="8"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -872,7 +872,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="8"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -891,7 +891,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="8"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -911,7 +911,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="8"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -931,7 +931,7 @@ Type="Pommel"/>
         appearance="1"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="8"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="cloth_unarmoured"
@@ -942,76 +942,210 @@ Type="Pommel"/>
   </Item>
 
 <!-- Armor Helms -->
-  <Item id="cla_dacia_helm_columna_nazal"
-        name="{=cla_dacia_helm_columna_nazal}[Dryatic]Iron Helmet"
+<!-- Simple -->
+
+
+
+
+
+<!-- Bronze -->
+  <Item id="cla_dacia_helm_spangen_simple_bronze"
+        name="{=cla_dacia_helm_spangen_simple_bronze}[Dryatic]Bronze Helm"
         subtype="head_armor"
-        mesh="columna_nazal"
+        mesh="cla_dacian_helm_spangen_simple_bronze"
         culture="Culture.battania"
         weight="3.2"
         difficulty="0"
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="30"
              has_gender_variations="false"
-             hair_cover_type="type2"
+             hair_cover_type="all"
              modifier_group="plate"
              material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
-
-  <Item id="cla_dacia_helm_columna_nazal_a"
-        name="{=cla_dacia_helm_columna_nazal_a}[Dryatic]Iron Helmet"
+  <Item id="cla_dacia_helm_spangen_leaf_bronze"
+        name="{=cla_dacia_helm_spangen_leaf_bronze}[Dryatic]Bronze Leaf Embossed Helm"
         subtype="head_armor"
-        mesh="columna_nazal_a"
+        mesh="cla_dacian_helm_spangen_leaf_bronze"
         culture="Culture.battania"
         weight="3.2"
         difficulty="0"
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="30"
              has_gender_variations="false"
-             hair_cover_type="type2"
+             hair_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_helm_spangen_female_bronze"
+        name="{=cla_dacia_helm_spangen_female_bronze}[Dryatic]Bronze Feast Embossed Helm"
+        subtype="head_armor"
+        mesh="cla_dacian_helm_spangen_female_bronze"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="30"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_helm_spangen_star_bronze"
+        name="{=cla_dacia_helm_spangen_star_bronze}[Dryatic]Bronze Star Embossed Helm"
+        subtype="head_armor"
+        mesh="cla_dacian_helm_spangen_star_bronze"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="30"
+             has_gender_variations="false"
+             hair_cover_type="all"
              modifier_group="plate"
              material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
+<!-- Iron -->
   <Item id="cla_dacia_helm_columna_nazal_b"
-        name="{=cla_dacia_helm_columna_nazal_b}[Dryatic]Iron Helmet"
+        name="{=cla_dacia_helm_columna_nazal_b}[Dryatic]Iron Helm"
         subtype="head_armor"
-        mesh="columna_nazal_b"
+        mesh="cla_dacian_helm_spangen_simple_iron"
         culture="Culture.battania"
         weight="3.2"
         difficulty="0"
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="30"
              has_gender_variations="false"
-             hair_cover_type="type2"
+             hair_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_helm_columna_nazal"
+        name="{=cla_dacia_helm_columna_nazal}[Dryatic]Iron Leaf Embossed Helm"
+        subtype="head_armor"
+        mesh="cla_dacian_helm_spangen_leaf_iron"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="30"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_helm_columna_nazal_c"
+        name="{=cla_dacia_helm_columna_nazal_c}[Dryatic]Iron Star Embossed Helm"
+        subtype="head_armor"
+        mesh="cla_dacian_helm_spangen_star_iron"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="30"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_helm_columna_nazal_a"
+        name="{=cla_dacia_helm_columna_nazal_a}[Dryatic]Iron Feast Embossed Helm"
+        subtype="head_armor"
+        mesh="cla_dacian_helm_spangen_female_iron"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="30"
+             has_gender_variations="false"
+             hair_cover_type="all"
              modifier_group="plate"
              material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
-  <Item id="cla_dacia_helm_columna_nazal_c"
-        name="{=cla_dacia_helm_columna_nazal_c}[Dryatic]Iron Helmet"
+<!-- Expensive-->
+  <Item id="cla_dacia_helm_spangen_leaf_mix"
+        name="{=cla_dacia_helm_spangen_leaf_mix}[Dryatic]Expensive Leaf Embossed Helm"
         subtype="head_armor"
-        mesh="columna_nazal_c"
+        mesh="cla_dacian_helm_spangen_leaf_mix"
         culture="Culture.battania"
         weight="3.2"
         difficulty="0"
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="35"
              has_gender_variations="false"
-             hair_cover_type="type2"
+             hair_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_helm_spangen_female_mix"
+        name="{=cla_dacia_helm_spangen_female_mix}[Dryatic]Expensive Feast Embossed Helm"
+        subtype="head_armor"
+        mesh="cla_dacian_helm_spangen_female_mix"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="35"
+             has_gender_variations="false"
+             hair_cover_type="all"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  <Item id="cla_dacia_helm_spangen_star_mix"
+        name="{=cla_dacia_helm_spangen_star_mix}[Dryatic]Expensive Star Embossed Helm"
+        subtype="head_armor"
+        mesh="cla_dacian_helm_spangen_star_mix"
+        culture="Culture.battania"
+        weight="3.2"
+        difficulty="0"
+        appearance="1.5"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="35"
+             has_gender_variations="false"
+             hair_cover_type="all"
              modifier_group="plate"
              material_type="Plate" />
     </ItemComponent>
@@ -1028,7 +1162,7 @@ Type="Pommel"/>
         appearance="1.5"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="35"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1048,7 +1182,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="50"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1067,7 +1201,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="50"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1086,7 +1220,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="55"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1105,7 +1239,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="55"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1124,7 +1258,26 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="55"
+             has_gender_variations="false"
+             hair_cover_type="type2"
+             modifier_group="plate"
+             material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="cla_dacia_helm_tall_ridge_scale"
+        name="{=cla_dacia_helm_tall_ridge_scale}[Dryatic]Tall Ridge Helmet with Scale"
+        mesh="dac_coif_clop"
+        culture="Culture.battania"
+        subtype="head_armor"
+        weight="3.2"
+        difficulty="0"
+        appearance="3"
+        Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="55"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1143,7 +1296,7 @@ Type="Pommel"/>
         appearance="3"
         Type="HeadArmor">
     <ItemComponent>
-      <Armor head_armor="5"
+      <Armor head_armor="55"
              has_gender_variations="false"
              hair_cover_type="type2"
              modifier_group="plate"
@@ -1170,7 +1323,7 @@ Type="Pommel"/>
         has_lower_holster_priority="true">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="5"
+              body_armor="3"
               thrust_speed="86"
 			        thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -1179,7 +1332,7 @@ Type="Pommel"/>
               physics_material="wood_shield"
 			        position="0, 0, 0"
               rotation="0,0,0"
-              weapon_length="180"
+              weapon_length="281"
               center_of_mass="0,0,0"
               hit_points="200">
         <WeaponFlags CanBlockRanged="true"
@@ -1209,7 +1362,7 @@ Type="Pommel"/>
         has_lower_holster_priority="true">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="5"
+              body_armor="3"
               thrust_speed="86"
 			        thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -1218,7 +1371,7 @@ Type="Pommel"/>
               physics_material="wood_shield"
 			        position="0, 0, 0"
               rotation="0,0,0"
-              weapon_length="288"
+              weapon_length="281"
               center_of_mass="0,0,0"
               hit_points="400">
         <WeaponFlags CanBlockRanged="true"
@@ -1248,7 +1401,7 @@ Type="Pommel"/>
         has_lower_holster_priority="true">
     <ItemComponent>
       <Weapon weapon_class="LargeShield"
-              body_armor="5"
+              body_armor="3"
               thrust_speed="86"
 			        thrust_damage="5"
               thrust_damage_type="Blunt"
@@ -1257,7 +1410,7 @@ Type="Pommel"/>
               physics_material="wood_shield"
 			        position="0, 0, 0"
               rotation="0,0,0"
-              weapon_length="291"
+              weapon_length="281"
               center_of_mass="0,0,0"
               hit_points="600">
         <WeaponFlags CanBlockRanged="true"
@@ -1275,7 +1428,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_a" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1286,7 +1439,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_b" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1297,7 +1450,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_c" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1308,7 +1461,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_d" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1319,7 +1472,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_e" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1330,7 +1483,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_f" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="200" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1343,7 +1496,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_a" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1354,7 +1507,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_b" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1365,7 +1518,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_c" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1376,7 +1529,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_d" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1387,7 +1540,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_e" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1398,7 +1551,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_f" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="350" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1411,7 +1564,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_a" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1422,7 +1575,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_b" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1433,7 +1586,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_c" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1444,7 +1597,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_d" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1455,7 +1608,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_e" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1466,7 +1619,7 @@ Type="Pommel"/>
   body_name="bo_cap_cla_dacian_shield_a" shield_body_name="bo_cla_dacian_shield_a" recalculate_body="false" mesh="scut_getic_f" 
   using_tableau="true" weight="4.7" appearance="0.7" Type="Shield" item_holsters="shield_round:shield_4" holster_position_shift="0.0,0,0.01" culture="Culture.battania">
     <ItemComponent>
-      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
+      <Weapon weapon_class="LargeShield" body_armor="1" thrust_speed="82" thrust_damage="10" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" 
       item_usage="hand_shield" position="0.19,-.05, 0.13" rotation="-20,40,-10" weapon_length="138" center_of_mass="0.0,0,0" hit_points="450" item_modifier_group="shield_wood">
         <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
       </Weapon>
@@ -1478,33 +1631,33 @@ Type="Pommel"/>
 <!-- Aura -->
   <Item id="cla_dacia_invisible_bracers_1_m" name="{=cla_dacia_invisible_bracers_1_m}[Dryatic][Morale:+5]Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="1000" weight="0.5" appearance="1" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="leather" material_type="Leather" />
+      <Armor arm_armor="8" covers_hands="false" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_dacia_invisible_bracers_2_m" name="{=cla_dacia_invisible_bracers_2_m}[Dryatic][Morale:+10]Sturdy Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="5000" weight="0.5" appearance="1" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="leather" material_type="Leather" />
+      <Armor arm_armor="15" covers_hands="false" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
   <Item id="cla_dacia_invisible_bracers_3_m" name="{=cla_dacia_invisible_bracers_3_m}[Dryatic][Morale:+15]Reinforced Invisible Bracers" mesh="fakemesh" culture="Culture.battania" value="9000" weight="0.5" appearance="1" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="leather" material_type="Leather" />
+      <Armor arm_armor="20" covers_hands="false" modifier_group="leather" material_type="Leather" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_dacia_bracelet_silver_both_m" name="{=cla_dacia_bracelet_silver_both_m}[Dryatic][Morale:+10]Silver Bracelets" mesh="cla_empire_bracelet_silver_both_1" culture="Culture.battania" is_merchandise="true" value="5000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="15" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>
 
   <Item id="cla_dacia_bracelet_gold_both_m" name="{=cla_dacia_bracelet_gold_both_m}[Dryatic][Morale:+15]Gold Bracelets" mesh="cla_empire_bracelet_gold_both_1" culture="Culture.battania" is_merchandise="true" value="9000" weight="0.4" difficulty="0" appearance="0.4" Type="HandArmor">
     <ItemComponent>
-      <Armor arm_armor="1" covers_hands="false" modifier_group="plate" material_type="Plate" />
+      <Armor arm_armor="20" covers_hands="false" modifier_group="plate" material_type="Plate" />
     </ItemComponent>
     <Flags Civilian="true" />
   </Item>

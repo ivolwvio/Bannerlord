@@ -1,7 +1,7 @@
 ﻿<Module>
   <Name value="Spartan and Greek Units"/>
   <Id value="SpartanUnits"/>
-  <Version value="v5.2.0"/>
+  <Version value="v5.3.0"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
   <DependedModules>
@@ -42,6 +42,13 @@
         <GameType value = "CampaignStoryMode"/>
       </IncludedGameTypes>
     </XmlNode>  
+	  <!--  <XmlNode>                
+      <XmlName id="NPCCharacters" path="spnpccharacters_macedon"/>
+      <IncludedGameTypes>
+        <GameType value = "Campaign"/>
+        <GameType value = "CampaignStoryMode"/>
+      </IncludedGameTypes>
+    </XmlNode>-->
 	<XmlNode>                
 		<XmlName id="CraftingTemplates" path="crafting_templates_greek"/>
 		<IncludedGameTypes>
@@ -73,6 +80,13 @@
                 <Gametype value = "CampaignStoryMode"/>
 		    </IncludedGameTypes>
         </XmlNode>
+		<!--<XmlNode>
+            <XmlName id="Items" path="spitems_macedon"/>
+            <IncludedGameTypes>
+                <Gametype value = "Campaign"/>
+                <Gametype value = "CampaignStoryMode"/>
+		    </IncludedGameTypes>
+        </XmlNode>-->
 		<XmlNode>
             <XmlName id="CraftingPieces" path="crafting_pieces_hellenicgear"/>
             <IncludedGameTypes>
@@ -83,6 +97,16 @@
 		<XmlNode>
 			<XmlName id="CraftingTemplates" path="crafting_templates_hellenicgear"/>
 		</XmlNode>
+		<!--<XmlNode>
+		  <XmlName id="CraftingPieces" path="crafting_pieces_macedon"/>
+            <IncludedGameTypes>
+                <Gametype value = "Campaign"/>
+                <Gametype value = "CampaignStoryMode"/>
+		    </IncludedGameTypes>
+        </XmlNode>
+		<XmlNode>
+			<XmlName id="CraftingTemplates" path="crafting_templates_macedon"/>
+		</XmlNode>-->
   </Xmls>
 </Module>
 

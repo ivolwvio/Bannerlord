@@ -12,26 +12,7 @@
     <face>
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -207,26 +188,7 @@
     <face>
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -245,7 +207,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_spangen_simple_bronze" />
       </EquipmentRoster>
       <EquipmentRoster>
       <equipment slot="Item0"
@@ -263,7 +225,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_leaf_bronze" />
       </EquipmentRoster>
       <EquipmentRoster>
       <equipment slot="Item0"
@@ -281,7 +243,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_spangen_female_bronze" />
       </EquipmentRoster>
 
       <EquipmentRoster>
@@ -300,7 +262,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_spangen_star_bronze" />
       </EquipmentRoster>
       <EquipmentRoster>
       <equipment slot="Item0"
@@ -336,7 +298,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_simple_bronze" />
       </EquipmentRoster>
 
 
@@ -356,7 +318,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_spangen_leaf_bronze" />
       </EquipmentRoster>
       <EquipmentRoster>
       <equipment slot="Item0"
@@ -374,7 +336,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_spangen_female_bronze" />
       </EquipmentRoster>
       <EquipmentRoster>
       <equipment slot="Item0"
@@ -392,7 +354,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_spangen_star_bronze" />
       </EquipmentRoster>
 
 
@@ -413,7 +375,7 @@
       <equipment slot="Cape"
                  id="Item.cla_dacia_shoulder_leather" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_spangen_simple_bronze" />
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -427,26 +389,7 @@
     <face>
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -607,26 +550,7 @@
     <face>
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -637,7 +561,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_1ax_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_columna_nazal_b" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_laminata" />
       <equipment slot="Leg"
@@ -653,7 +577,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_1ax_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_columna_nazal" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_laminata" />
       <equipment slot="Leg"
@@ -669,7 +593,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_1ax_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_columna_nazal_c" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_laminata" />
       <equipment slot="Leg"
@@ -686,7 +610,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_1ax_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_columna_nazal_a" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_sleeveless" />
       <equipment slot="Leg"
@@ -702,7 +626,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_1ax_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_columna_nazal_b" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_sleeveless" />
       <equipment slot="Leg"
@@ -735,7 +659,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_1ax_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_columna_nazal_c" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_laminata" />
       <equipment slot="Leg"
@@ -758,24 +682,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="80" />
+      <skill id="Bow"
+             value="50" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="80" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -787,7 +709,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_blue_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_spangen_leaf_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Cape"
@@ -803,7 +725,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_blue_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_spangen_female_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Cape"
@@ -819,7 +741,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_blue_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_spangen_star_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Cape"
@@ -837,7 +759,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_black_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_spangen_leaf_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Cape"
@@ -853,7 +775,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_black_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_spangen_female_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Cape"
@@ -869,7 +791,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_black_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_spangen_star_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Cape"
@@ -886,7 +808,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_red_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_obraz_lana" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_long_green" />
       <equipment slot="Cape"
@@ -902,7 +824,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_red_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_spangen_leaf_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_long_green" />
       <equipment slot="Cape"
@@ -918,7 +840,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_red_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_spangen_female_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_long_green" />
       <equipment slot="Cape"
@@ -935,7 +857,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_a_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_star_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Cape"
@@ -951,7 +873,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_a_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_obraz_lana" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_long_green" />
       <equipment slot="Cape"
@@ -967,7 +889,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_a_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_leaf_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Cape"
@@ -984,7 +906,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_a_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_spangen_female_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Cape"
@@ -1007,24 +929,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="110" />
+      <skill id="OneHanded"
+             value="110" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="40" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1036,7 +956,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_a_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_simple_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_laminata" />
       <equipment slot="Leg"
@@ -1052,7 +972,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_red_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_spangen_leaf_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_sleeveless" />
       <equipment slot="Leg"
@@ -1068,7 +988,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_black_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_spangen_female_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -1084,7 +1004,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_blue_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_star_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_leather_laminata" />
       <equipment slot="Leg"
@@ -1112,24 +1032,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="60" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1141,7 +1059,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_white_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_columna_nazal_b" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_long_green" />
       <equipment slot="Leg"
@@ -1159,7 +1077,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_gray_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_columna_nazal" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -1177,7 +1095,7 @@
       <equipment slot="Item2"
                  id="Item.cla_dacia_shield_blue_3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_columna_nazal_c" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_long_green" />
       <equipment slot="Leg"
@@ -1225,24 +1143,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="70" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="70" />
+      <skill id="Crossbow"
+             value="30" />
+      <skill id="Throwing"
+             value="30" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1374,24 +1290,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="20" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="20" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="20" />
+      <skill id="Bow"
+             value="5" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="10" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_infantry_2" />
@@ -1551,24 +1465,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="20" />
+      <skill id="OneHanded"
+             value="40" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="15" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="20" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_infantry_3" />
@@ -1848,24 +1760,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="40" />
+      <skill id="OneHanded"
+             value="70" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="70" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="30" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_infantry_4" />
@@ -1877,7 +1787,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_black_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_spangen_simple_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -1891,7 +1801,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_blue_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_a" />
+                   id="Item.cla_dacia_helm_spangen_leaf_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -1905,7 +1815,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_gray_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_b" />
+                   id="Item.cla_dacia_helm_spangen_female_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -1919,7 +1829,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_white_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_c" />
+                   id="Item.cla_dacia_helm_spangen_star_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -1933,7 +1843,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_a_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_obraz_lana" />
+                   id="Item.cla_dacia_helm_spangen_simple_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -1947,7 +1857,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_red_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_spangen_leaf_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -1956,6 +1866,91 @@
                    id="Item.cla_dacia_invisible_bracers_1" />
       </EquipmentRoster>
 
+
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_black_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal_b" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_sleeveless" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_blue_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_sleeveless" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_gray_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal_c" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_sleeveless" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_white_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_laminata" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_a_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_simple_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_laminata" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_1" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_red_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_simple_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_laminata" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
       <EquipmentSet id="cla_dacia_troop_civilian_template_t2"
                     civilian="true" />
     </Equipments>
@@ -1971,24 +1966,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="45" />
+      <skill id="Crossbow"
+             value="25" />
+      <skill id="Throwing"
+             value="100" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_infantry_5" />
@@ -2001,7 +1994,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_blue_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_obraz_lana" />
+                   id="Item.cla_dacia_helm_spangen_leaf_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_mail_shirt" />
         <equipment slot="Leg"
@@ -2017,7 +2010,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_gray_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_spangen_female_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_mail_vest_blue" />
         <equipment slot="Leg"
@@ -2033,7 +2026,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_white_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_a" />
+                   id="Item.cla_dacia_helm_spangen_star_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_mail_shirt" />
         <equipment slot="Leg"
@@ -2049,7 +2042,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_a_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_c" />
+                   id="Item.cla_dacia_helm_columna_nazal_b" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -2065,7 +2058,7 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_red_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_b" />
+                   id="Item.cla_dacia_helm_columna_nazal" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_mail_shirt" />
         <equipment slot="Leg"
@@ -2081,7 +2074,104 @@
         <equipment slot="Item1"
                    id="Item.cla_dacia_shield_black_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_columna_nazal_c" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_laminata" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_2" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_2" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_blue_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal_a" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_2" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_2" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_gray_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_simple_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_vest_blue" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_2" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_2" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_white_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_2" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_2" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_a_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_female_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_leather_laminata" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_2" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_2" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_red_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_star_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_armor_mail_shirt" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+        <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_2" />
+        <equipment slot="Cape"
+                   id="Item.cla_dacia_shoulder_leather" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.cla_dacia_sword_sica_2" />
+        <equipment slot="Item1"
+                   id="Item.cla_dacia_shield_black_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_leaf_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -2095,6 +2185,7 @@
       <EquipmentSet id="cla_dacia_troop_civilian_template_t1"
                     civilian="true" />
     </Equipments>
+
   </NPCCharacter>
 
   <NPCCharacter id="cla_dacia_infantry_5"
@@ -2107,24 +2198,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="80" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="60" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -2243,24 +2332,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="40" />
+      <skill id="OneHanded"
+             value="40" />
+      <skill id="TwoHanded"
+             value="30" />
+      <skill id="Polearm"
+             value="70" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="70" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_spears_4" />
@@ -2380,24 +2467,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="110" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="45" />
+      <skill id="Crossbow"
+             value="25" />
+      <skill id="Throwing"
+             value="100" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_spears_5" />
@@ -2516,24 +2601,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="140" />
+      <skill id="Riding"
+             value="80" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="60" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -2623,24 +2706,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="45" />
+      <skill id="Riding"
+             value="100" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="45" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="30" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_cavalry_5" />
@@ -2974,24 +3055,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="60" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -3128,24 +3207,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="OneHanded"
+             value="40" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="20" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="20" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_ranged_3" />
@@ -3364,24 +3441,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="70" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="30" />
+      <skill id="Bow"
+             value="70" />
+      <skill id="Crossbow"
+             value="30" />
+      <skill id="Throwing"
+             value="40" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_ranged_4" />
@@ -3398,7 +3473,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_c" />
+                   id="Item.cla_dacia_helm_spangen_female_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_clothes_camesa_i" />
         <equipment slot="Leg"
@@ -3416,9 +3491,119 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_spangen_simple_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_clothes_camesa_i" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+       <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.nordic_shortbow" />
+        <equipment slot="Item1"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item2"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_1ax_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_i" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+       <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.nordic_shortbow" />
+        <equipment slot="Item1"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item2"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_1ax_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_female_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+       <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.nordic_shortbow" />
+        <equipment slot="Item1"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item2"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_1ax_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_spangen_star_bronze" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_b" />
+       <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.nordic_shortbow" />
+        <equipment slot="Item1"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item2"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_1ax_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal_b" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_h" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_c" />
+       <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.nordic_shortbow" />
+        <equipment slot="Item1"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item2"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_1ax_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
+        <equipment slot="Leg"
+                   id="Item.cla_dacia_legs_pantaloni_a" />
+       <equipment slot="Gloves"
+                   id="Item.cla_dacia_invisible_bracers_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.nordic_shortbow" />
+        <equipment slot="Item1"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item2"
+                   id="Item.vlandic_arrows" />
+        <equipment slot="Item3"
+                   id="Item.cla_dacia_1ax_2" />
+        <equipment slot="Head"
+                   id="Item.cla_dacia_helm_columna_nazal_c" />
+        <equipment slot="Body"
+                   id="Item.cla_dacia_clothes_camesa_e" />
         <equipment slot="Leg"
                    id="Item.cla_dacia_legs_pantaloni_b" />
        <equipment slot="Gloves"
@@ -3436,116 +3621,6 @@
         <equipment slot="Head"
                    id="Item.cla_dacia_helm_columna_nazal_a" />
         <equipment slot="Body"
-                   id="Item.cla_dacia_clothes_camesa_i" />
-        <equipment slot="Leg"
-                   id="Item.cla_dacia_legs_pantaloni_c" />
-       <equipment slot="Gloves"
-                   id="Item.cla_dacia_invisible_bracers_1" />
-      </EquipmentRoster>
-
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.nordic_shortbow" />
-        <equipment slot="Item1"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item2"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item3"
-                   id="Item.cla_dacia_1ax_2" />
-        <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_b" />
-        <equipment slot="Body"
-                   id="Item.cla_dacia_clothes_camesa_h" />
-        <equipment slot="Leg"
-                   id="Item.cla_dacia_legs_pantaloni_a" />
-       <equipment slot="Gloves"
-                   id="Item.cla_dacia_invisible_bracers_1" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.nordic_shortbow" />
-        <equipment slot="Item1"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item2"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item3"
-                   id="Item.cla_dacia_1ax_2" />
-        <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_c" />
-        <equipment slot="Body"
-                   id="Item.cla_dacia_clothes_camesa_h" />
-        <equipment slot="Leg"
-                   id="Item.cla_dacia_legs_pantaloni_b" />
-       <equipment slot="Gloves"
-                   id="Item.cla_dacia_invisible_bracers_1" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.nordic_shortbow" />
-        <equipment slot="Item1"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item2"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item3"
-                   id="Item.cla_dacia_1ax_2" />
-        <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
-        <equipment slot="Body"
-                   id="Item.cla_dacia_clothes_camesa_h" />
-        <equipment slot="Leg"
-                   id="Item.cla_dacia_legs_pantaloni_c" />
-       <equipment slot="Gloves"
-                   id="Item.cla_dacia_invisible_bracers_1" />
-      </EquipmentRoster>
-
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.nordic_shortbow" />
-        <equipment slot="Item1"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item2"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item3"
-                   id="Item.cla_dacia_1ax_2" />
-        <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_a" />
-        <equipment slot="Body"
-                   id="Item.cla_dacia_clothes_camesa_e" />
-        <equipment slot="Leg"
-                   id="Item.cla_dacia_legs_pantaloni_a" />
-       <equipment slot="Gloves"
-                   id="Item.cla_dacia_invisible_bracers_1" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.nordic_shortbow" />
-        <equipment slot="Item1"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item2"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item3"
-                   id="Item.cla_dacia_1ax_2" />
-        <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_b" />
-        <equipment slot="Body"
-                   id="Item.cla_dacia_clothes_camesa_e" />
-        <equipment slot="Leg"
-                   id="Item.cla_dacia_legs_pantaloni_b" />
-       <equipment slot="Gloves"
-                   id="Item.cla_dacia_invisible_bracers_1" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.nordic_shortbow" />
-        <equipment slot="Item1"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item2"
-                   id="Item.vlandic_arrows" />
-        <equipment slot="Item3"
-                   id="Item.cla_dacia_1ax_2" />
-        <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_c" />
-        <equipment slot="Body"
                    id="Item.cla_dacia_clothes_camesa_e" />
         <equipment slot="Leg"
                    id="Item.cla_dacia_legs_pantaloni_c" />
@@ -3563,7 +3638,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_spangen_simple_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_clothes_camesa" />
         <equipment slot="Leg"
@@ -3581,7 +3656,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_a" />
+                   id="Item.cla_dacia_helm_spangen_leaf_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_clothes_camesa" />
         <equipment slot="Leg"
@@ -3599,7 +3674,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_b" />
+                   id="Item.cla_dacia_helm_spangen_female_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_clothes_camesa" />
         <equipment slot="Leg"
@@ -3625,24 +3700,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="60" />
+      <skill id="Bow"
+             value="100" />
+      <skill id="Crossbow"
+             value="45" />
+      <skill id="Throwing"
+             value="45" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_ranged_5" />
@@ -3659,7 +3732,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_b" />
+                   id="Item.cla_dacia_helm_columna_nazal_c" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -3677,7 +3750,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_c" />
+                   id="Item.cla_dacia_helm_columna_nazal_a" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -3695,7 +3768,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_spangen_simple_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -3713,7 +3786,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_a" />
+                   id="Item.cla_dacia_helm_spangen_leaf_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -3733,7 +3806,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_b" />
+                   id="Item.cla_dacia_helm_spangen_female_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -3751,7 +3824,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_c" />
+                   id="Item.cla_dacia_helm_spangen_star_bronze" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -3769,7 +3842,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_columna_nazal_b" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -3787,7 +3860,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_2" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_a" />
+                   id="Item.cla_dacia_helm_columna_nazal" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -3885,24 +3958,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="20" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="30" />
+      <skill id="Polearm"
+             value="80" />
+      <skill id="Bow"
+             value="160" />
+      <skill id="Crossbow"
+             value="80" />
+      <skill id="Throwing"
+             value="60" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -3918,7 +3989,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_sword_3" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_spangen_female_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -3938,7 +4009,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_3" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_a" />
+                   id="Item.cla_dacia_helm_spangen_leaf_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -3958,7 +4029,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_sword_3" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_b" />
+                   id="Item.cla_dacia_helm_spangen_female_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_laminata" />
         <equipment slot="Leg"
@@ -3979,7 +4050,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_sword_3" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal_c" />
+                   id="Item.cla_dacia_helm_spangen_star_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -3999,7 +4070,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_1ax_3" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_obraz_lana" />
+                   id="Item.cla_dacia_helm_spangen_leaf_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -4019,7 +4090,7 @@
         <equipment slot="Item3"
                    id="Item.cla_dacia_sword_3" />
         <equipment slot="Head"
-                   id="Item.cla_dacia_helm_columna_nazal" />
+                   id="Item.cla_dacia_helm_spangen_female_mix" />
         <equipment slot="Body"
                    id="Item.cla_dacia_armor_leather_sleeveless" />
         <equipment slot="Leg"
@@ -4047,24 +4118,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="120" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="60" />
+      <skill id="Bow"
+             value="130" />
+      <skill id="Crossbow"
+             value="60" />
+      <skill id="Throwing"
+             value="40" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -4310,24 +4379,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="30" />
+      <skill id="OneHanded"
+             value="40" />
+      <skill id="TwoHanded"
+             value="70" />
+      <skill id="Polearm"
+             value="30" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="70" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_skirmisher_4" />
@@ -4546,24 +4613,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="60" />
+      <skill id="OneHanded"
+             value="80" />
+      <skill id="TwoHanded"
+             value="130" />
+      <skill id="Polearm"
+             value="80" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="130" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -4734,24 +4799,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="20" />
+      <skill id="OneHanded"
+             value="60" />
+      <skill id="TwoHanded"
+             value="5" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="40" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_infantry_3" />
@@ -5021,24 +5084,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="10" />
+      <skill id="TwoHanded"
+             value="100" />
+      <skill id="Polearm"
+             value="70" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="70" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_infantry_4" />
@@ -5067,7 +5128,7 @@
       <equipment slot="Item1"
                  id="Item.generic_javelin_1_t3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_spangen_female_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -5083,7 +5144,7 @@
       <equipment slot="Item1"
                  id="Item.generic_javelin_1_t3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_columna_nazal" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -5117,7 +5178,7 @@
       <equipment slot="Item1"
                  id="Item.generic_javelin_1_t3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_columna_nazal_a" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -5133,7 +5194,7 @@
       <equipment slot="Item1"
                  id="Item.generic_javelin_1_t3" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_leaf_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -5161,24 +5222,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="110" />
+      <skill id="Riding"
+             value="40" />
+      <skill id="OneHanded"
+             value="15" />
+      <skill id="TwoHanded"
+             value="150" />
+      <skill id="Polearm"
+             value="110" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="110" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_infantry_5" />
@@ -5190,7 +5249,7 @@
       <equipment slot="Item1"
                  id="Item.western_javelin_3_t4" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_spangen_leaf_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_scale_sleeveless_white" />
       <equipment slot="Gloves"
@@ -5206,7 +5265,7 @@
       <equipment slot="Item1"
                  id="Item.western_javelin_3_t4" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_female_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_scale_sleeveless_white" />
       <equipment slot="Gloves"
@@ -5222,7 +5281,7 @@
       <equipment slot="Item1"
                  id="Item.western_javelin_3_t4" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_spangen_star_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_scale_sleeveless_white" />
       <equipment slot="Gloves"
@@ -5238,7 +5297,7 @@
       <equipment slot="Item1"
                  id="Item.western_javelin_3_t4" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_spangen_leaf_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_scale_sleeveless_white" />
       <equipment slot="Gloves"
@@ -5254,7 +5313,7 @@
       <equipment slot="Item1"
                  id="Item.western_javelin_3_t4" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_spangen_female_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_scale_sleeveless_white" />
       <equipment slot="Gloves"
@@ -5270,7 +5329,7 @@
       <equipment slot="Item1"
                  id="Item.western_javelin_3_t4" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_spangen_star_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_scale_sleeveless_white" />
       <equipment slot="Gloves"
@@ -5297,24 +5356,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="80" />
+      <skill id="OneHanded"
+             value="50" />
+      <skill id="TwoHanded"
+             value="160" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="130" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_infantry_6" />
@@ -5370,24 +5427,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="200" />
+      <skill id="Riding"
+             value="60" />
+      <skill id="OneHanded"
+             value="60" />
+      <skill id="TwoHanded"
+             value="260" />
+      <skill id="Polearm"
+             value="200" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="25" />
+      <skill id="Throwing"
+             value="200" />
     </skills>
      <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -5491,24 +5546,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="110" />
+      <skill id="OneHanded"
+             value="110" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="110" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_cavalry_5" />
@@ -5518,7 +5571,7 @@
       <equipment slot="Item0"
                  id="Item.battania_polearm_1_t5" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_spangen_female_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -5532,7 +5585,7 @@
       <equipment slot="Item0"
                  id="Item.battania_polearm_1_t5" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_star_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -5546,7 +5599,7 @@
       <equipment slot="Item0"
                  id="Item.battania_polearm_1_t5" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_spangen_simple_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -5560,7 +5613,7 @@
       <equipment slot="Item0"
                  id="Item.battania_polearm_1_t5" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_spangen_leaf_bronze" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -5574,7 +5627,7 @@
       <equipment slot="Item0"
                  id="Item.battania_polearm_1_t5" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_columna_nazal" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -5588,7 +5641,7 @@
       <equipment slot="Item0"
                  id="Item.battania_polearm_1_t5" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_columna_nazal_c" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -5620,24 +5673,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="160" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="130" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_cavalry_6" />
@@ -5695,24 +5746,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="60" />
+      <skill id="Riding"
+             value="200" />
+      <skill id="OneHanded"
+             value="200" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="260" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="25" />
+      <skill id="Throwing"
+             value="200" />
     </skills>
      <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -5810,24 +5859,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="100" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_standard_4" />
@@ -5960,24 +6007,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="25" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="80" />
+      <skill id="Bow"
+             value="15" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="110" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_standard_5" />
@@ -5991,7 +6036,7 @@
       <equipment slot="Item3"
                  id="Item.cla_dacia_sword_sica_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_spangen_star_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -6009,7 +6054,7 @@
       <equipment slot="Item3"
                  id="Item.cla_dacia_sword_sica_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_c" />
+                 id="Item.cla_dacia_helm_spangen_female_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -6027,7 +6072,7 @@
       <equipment slot="Item3"
                  id="Item.cla_dacia_sword_sica_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_b" />
+                 id="Item.cla_dacia_helm_spangen_leaf_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -6046,7 +6091,7 @@
       <equipment slot="Item3"
                  id="Item.cla_dacia_sword_sica_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal_a" />
+                 id="Item.cla_dacia_helm_obraz_lana" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -6064,7 +6109,7 @@
       <equipment slot="Item3"
                  id="Item.cla_dacia_sword_sica_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_columna_nazal" />
+                 id="Item.cla_dacia_helm_spangen_leaf_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_vest_blue" />
       <equipment slot="Leg"
@@ -6082,7 +6127,7 @@
       <equipment slot="Item3"
                  id="Item.cla_dacia_sword_sica_2" />
       <equipment slot="Head"
-                 id="Item.cla_dacia_helm_obraz_lana" />
+                 id="Item.cla_dacia_helm_spangen_female_mix" />
       <equipment slot="Body"
                  id="Item.cla_dacia_armor_mail_shirt" />
       <equipment slot="Leg"
@@ -6110,24 +6155,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="80" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="130" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_standard_6" />
@@ -6294,24 +6337,22 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="170" />
+      <skill id="Riding"
+             value="60" />
+      <skill id="OneHanded"
+             value="260" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="145" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="220" />
     </skills>
     <upgrade_targets> </upgrade_targets>
     <Equipments>

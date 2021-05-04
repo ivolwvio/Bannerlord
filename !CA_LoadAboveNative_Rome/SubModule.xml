@@ -1,7 +1,7 @@
 <Module>
   <Name value="*CA* Important - Load At Top Above Native - Rome"/>
   <Id value="!CA_LoadAboveNative_Rome"/>
-  <Version value="v2.2.8"/>
+  <Version value="v2.2.9"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
   <Official value="false" />

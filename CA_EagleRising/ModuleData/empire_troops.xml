@@ -12,26 +12,7 @@
     <face>
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -112,26 +93,7 @@
     <face>
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -224,26 +186,7 @@
     <face>
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -317,26 +260,7 @@
     <face>
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
-    <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
-    </skills>
+    <skills></skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
@@ -421,24 +345,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="60" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="50" />
+      <skill id="Throwing"
+             value="80" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -534,24 +456,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="90" />
+      <skill id="OneHanded"
+             value="170" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="15" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -660,24 +580,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="80" />
+      <skill id="Throwing"
+             value="60" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -782,24 +700,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="70" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="70" />
+      <skill id="Crossbow"
+             value="30" />
+      <skill id="Throwing"
+             value="30" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -895,24 +811,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="20" />
+      <skill id="Riding"
+             value="0" />
+      <skill id="OneHanded"
+             value="20" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="20" />
+      <skill id="Bow"
+             value="5" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="10" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_infantry_2" />
@@ -1008,24 +922,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="40" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="15" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="20" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_infantry_3" />
@@ -1098,24 +1010,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="70" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="30" />
+      <skill id="Throwing"
+             value="70" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_infantry_4" />
@@ -1291,24 +1201,22 @@
 <BodyPropertiesMax version="4" age="48" weight="0.8" build="0.8"  key="0013F80FDA00300FFFFFA98FBAEBFF7EEEFFFFFFFEF7EFFEFFFFFFFF7EFF8EAF00A770030AFDFF49000000000000000000000000000000000000000047589102"  />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="45" />
+      <skill id="Crossbow"
+             value="25" />
+      <skill id="Throwing"
+             value="100" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_infantry_5" />
@@ -1643,24 +1551,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="20" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="40" />
+      <skill id="Throwing"
+             value="100" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1849,24 +1755,22 @@
       <face_key_template value="BodyProperty.cla_fighter_auxiliary" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="70" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="70" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="30" />
+      <skill id="Throwing"
+             value="40" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_infantry_spear_4" />
@@ -1933,24 +1837,22 @@
       <face_key_template value="BodyProperty.cla_fighter_auxiliary" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="110" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="45" />
+      <skill id="Crossbow"
+             value="45" />
+      <skill id="Throwing"
+             value="65" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_infantry_spear_5" />
@@ -2077,24 +1979,22 @@
       <face_key_template value="BodyProperty.cla_fighter_auxiliary" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="140" />
+      <skill id="Riding"
+             value="20" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="80" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="40" />
+      <skill id="Throwing"
+             value="80" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2212,24 +2112,22 @@
       <face_key_template value="BodyProperty.cla_fighter_auxiliary" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="45" />
+      <skill id="Riding"
+             value="100" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="45" />
+      <skill id="Crossbow"
+             value="60" />
+      <skill id="Throwing"
+             value="15" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_cavalry_5" />
@@ -2307,24 +2205,22 @@
       <face_key_template value="BodyProperty.cla_fighter_auxiliary" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="60" />
+      <skill id="Riding"
+             value="150" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="60" />
+      <skill id="Throwing"
+             value="20" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2336,7 +2232,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_brass_3" />
+                 id="Item.cla_roman_helm_cavalry_brass_red" />
       <equipment slot="Body"
                  id="Item.cla_roman_hamata_trousers_brass_cingulum_2" />
       <equipment slot="Leg"
@@ -2346,7 +2242,6 @@
       <equipment slot="Cape"
                  id="Item.cla_roman_fur_cape_2" />
       </EquipmentRoster>
-
       <EquipmentRoster>
       <equipment slot="Item0"
                  id="Item.western_spear_4_t4" />
@@ -2355,7 +2250,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_brass_3" />
+                 id="Item.cla_roman_helm_cavalry_brass_white" />
       <equipment slot="Body"
                  id="Item.cla_roman_hamata_trousers_iron_cingulum_2" />
       <equipment slot="Leg"
@@ -2365,7 +2260,6 @@
       <equipment slot="Cape"
                  id="Item.cla_roman_shoulder_cape_1" />
       </EquipmentRoster>
-
       <EquipmentRoster>
       <equipment slot="Item0"
                  id="Item.western_spear_4_t4" />
@@ -2374,7 +2268,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_brass_3" />
+                 id="Item.cla_roman_helm_cavalry_brass_gold" />
       <equipment slot="Body"
                  id="Item.cla_roman_hamata_trousers_mix_cingulum_2" />
       <equipment slot="Leg"
@@ -2383,6 +2277,24 @@
                  id="Item.cla_roman_armwraps_right_3" />
       <equipment slot="Cape"
                  id="Item.rough_bearskin" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_spear_4_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_brass_blue" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_trousers_mix_cingulum_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_3" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_left_3" />
+      <equipment slot="Cape"
+                 id="Item.battania_cloak_furr" />
       </EquipmentRoster>
 
       <EquipmentRoster>
@@ -2393,7 +2305,61 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_brass_3" />
+                 id="Item.cla_roman_helm_cavalry_brass_black" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_trousers_brass_cingulum_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_3" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_3" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_fur_cape_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_spear_4_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_iron_black" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_trousers_iron_cingulum_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_3" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_3" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_spear_4_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_iron_blue" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_trousers_mix_cingulum_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_3" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_right_3" />
+      <equipment slot="Cape"
+                 id="Item.rough_bearskin" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_spear_4_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_iron_gold" />
       <equipment slot="Body"
                  id="Item.cla_roman_hamata_trousers_mix_cingulum_2" />
       <equipment slot="Leg"
@@ -2402,6 +2368,42 @@
                  id="Item.cla_roman_armwraps_left_3" />
       <equipment slot="Cape"
                  id="Item.battania_cloak_furr" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_spear_4_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_iron_white" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_trousers_mix_cingulum_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_3" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_right_3" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_1" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.western_spear_4_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_oval_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_iron_red" />
+      <equipment slot="Body"
+                 id="Item.cla_roman_hamata_trousers_mix_cingulum_2" />
+      <equipment slot="Leg"
+                 id="Item.cla_roman_wrapped_boots_3" />
+      <equipment slot="Gloves"
+                 id="Item.cla_roman_armwraps_left_3" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_1" />
       </EquipmentRoster>
 
     <equipment slot="Horse"
@@ -2426,24 +2428,22 @@
       <face_key_template value="BodyProperty.cla_fighter_palaic" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="5" />
+      <skill id="OneHanded"
+             value="40" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="20" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="40" />
+      <skill id="Throwing"
+             value="15" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_skirmisher_3" />
@@ -2541,24 +2541,22 @@
       <face_key_template value="BodyProperty.cla_fighter_palaic" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="70" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="30" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="70" />
+      <skill id="Throwing"
+             value="40" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_skirmisher_4" />
@@ -2661,24 +2659,22 @@
       <face_key_template value="BodyProperty.cla_fighter_palaic" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="60" />
+      <skill id="Bow"
+             value="45" />
+      <skill id="Crossbow"
+             value="100" />
+      <skill id="Throwing"
+             value="45" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_skirmisher_5" />
@@ -2756,24 +2752,22 @@
       <face_key_template value="BodyProperty.cla_fighter_palaic" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="20" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="30" />
+      <skill id="Polearm"
+             value="80" />
+      <skill id="Bow"
+             value="80" />
+      <skill id="Crossbow"
+             value="160" />
+      <skill id="Throwing"
+             value="60" />
     </skills>
     <upgrade_targets></upgrade_targets>
    <Equipments>
@@ -2906,24 +2900,22 @@
       <face_key_template value="BodyProperty.cla_fighter_aserai" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="70" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="30" />
+      <skill id="Bow"
+             value="70" />
+      <skill id="Crossbow"
+             value="30" />
+      <skill id="Throwing"
+             value="40" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_ranged_4" />
@@ -3018,24 +3010,22 @@
       <face_key_template value="BodyProperty.cla_fighter_aserai" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="15" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="60" />
+      <skill id="Bow"
+             value="100" />
+      <skill id="Crossbow"
+             value="45" />
+      <skill id="Throwing"
+             value="45" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_ranged_5" />
@@ -3112,24 +3102,22 @@
       <face_key_template value="BodyProperty.cla_fighter_aserai" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="20" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="30" />
+      <skill id="Polearm"
+             value="80" />
+      <skill id="Bow"
+             value="160" />
+      <skill id="Crossbow"
+             value="80" />
+      <skill id="Throwing"
+             value="60" />
     </skills>
     <upgrade_targets></upgrade_targets>
    <Equipments>
@@ -3211,24 +3199,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="20" />
+      <skill id="OneHanded"
+             value="60" />
+      <skill id="TwoHanded"
+             value="5" />
+      <skill id="Polearm"
+             value="40" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="5" />
+      <skill id="Throwing"
+             value="40" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_infantry_3" />
@@ -3306,24 +3292,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="10" />
+      <skill id="Polearm"
+             value="70" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="10" />
+      <skill id="Throwing"
+             value="70" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_infantry_4" />
@@ -3409,24 +3393,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="110" />
+      <skill id="Riding"
+             value="40" />
+      <skill id="OneHanded"
+             value="150" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="110" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="110" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_infantry_5" />
@@ -3488,24 +3470,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="80" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="130" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_infantry_6" />
@@ -3611,24 +3591,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="200" />
+      <skill id="Riding"
+             value="60" />
+      <skill id="OneHanded"
+             value="260" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="200" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="25" />
+      <skill id="Throwing"
+             value="200" />
     </skills>
      <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -3691,24 +3669,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="40" />
+      <skill id="Riding"
+             value="110" />
+      <skill id="OneHanded"
+             value="110" />
+      <skill id="TwoHanded"
+             value="15" />
+      <skill id="Polearm"
+             value="150" />
+      <skill id="Bow"
+             value="40" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="110" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_cavalry_5" />
@@ -3831,24 +3807,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="80" />
+      <skill id="Riding"
+             value="130" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="50" />
+      <skill id="Polearm"
+             value="160" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="130" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_cavalry_6" />
@@ -3862,7 +3836,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_1" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_1" />
+                 id="Item.cla_roman_helm_cavalry_praetorian_red" />
       <equipment slot="Body"
                  id="Item.cla_empire_musculata_praetorian_plain_1" />
       <equipment slot="Leg"
@@ -3881,7 +3855,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_2" />
+                 id="Item.cla_roman_helm_cavalry_praetorian_white" />
       <equipment slot="Body"
                  id="Item.cla_empire_musculata_praetorian_plain_1" />
       <equipment slot="Leg"
@@ -3900,7 +3874,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_1" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_black_1" />
+                 id="Item.cla_roman_helm_cavalry_praetorian_gold" />
       <equipment slot="Body"
                  id="Item.cla_empire_squamata_brass_2" />
       <equipment slot="Leg"
@@ -3919,7 +3893,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_gold_2" />
+                 id="Item.cla_roman_helm_cavalry_praetorian_blue" />
       <equipment slot="Body"
                  id="Item.cla_empire_musculata_praetorian_plain_1" />
       <equipment slot="Leg"
@@ -3938,7 +3912,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_1" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_1" />
+                 id="Item.cla_roman_helm_cavalry_praetorian_black" />
       <equipment slot="Body"
                  id="Item.cla_empire_squamata_iron_2" />
       <equipment slot="Leg"
@@ -3957,7 +3931,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_2" />
+                 id="Item.cla_roman_helm_cavalry_praetorian_red" />
       <equipment slot="Body"
                  id="Item.cla_empire_musculata_praetorian_plain_1" />
       <equipment slot="Leg"
@@ -3990,24 +3964,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="60" />
+      <skill id="Riding"
+             value="200" />
+      <skill id="OneHanded"
+             value="200" />
+      <skill id="TwoHanded"
+             value="60" />
+      <skill id="Polearm"
+             value="260" />
+      <skill id="Bow"
+             value="60" />
+      <skill id="Crossbow"
+             value="25" />
+      <skill id="Throwing"
+             value="200" />
     </skills>
      <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -4019,7 +3991,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_b_3" />
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_brass_blue" />
       <equipment slot="Body"
                  id="Item.cla_empire_musculata_praetorian_1" />
       <equipment slot="Leg"
@@ -4029,7 +4001,6 @@
       <equipment slot="Cape"
                  id="Item.cla_roman_shoulder_cape_2" />
       </EquipmentRoster>
-
       <EquipmentRoster>
       <equipment slot="Item0"
                  id="Item.empire_lance_2_t4" />
@@ -4038,7 +4009,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_1" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_3" />
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_brass_black" />
       <equipment slot="Body"
                  id="Item.cla_empire_musculata_praetorian_1" />
       <equipment slot="Leg"
@@ -4048,7 +4019,6 @@
       <equipment slot="Cape"
                  id="Item.cla_roman_shoulder_cape_2" />
       </EquipmentRoster>
-
       <EquipmentRoster>
       <equipment slot="Item0"
                  id="Item.empire_lance_2_t4" />
@@ -4057,7 +4027,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_1" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_b_3" />
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_brass_gold" />
       <equipment slot="Body"
                  id="Item.cla_empire_musculata_praetorian_1" />
       <equipment slot="Leg"
@@ -4075,7 +4045,7 @@
       <equipment slot="Item2"
                  id="Item.cla_empire_spatha_noble_2" />
       <equipment slot="Head"
-                 id="Item.cla_empire_helm_praetorian_iron_3" />
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_brass_white" />
       <equipment slot="Body"
                  id="Item.cla_empire_musculata_praetorian_1" />
       <equipment slot="Leg"
@@ -4085,6 +4055,115 @@
       <equipment slot="Cape"
                  id="Item.cla_roman_shoulder_cape_2" />
       </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_2_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_noble_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_brass_red" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_musculata_praetorian_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_praetorian_greaves_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_bracelet_gold_both_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_2_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_3" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_noble_1" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_iron_black" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_musculata_praetorian_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_praetorian_greaves_socks_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_bracelet_gold_both_2" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_2_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_noble_1" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_iron_blue" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_musculata_praetorian_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_praetorian_greaves_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_bracelet_gold_right_2" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_2_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_noble_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_iron_gold" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_musculata_praetorian_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_praetorian_greaves_socks_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_bracelet_gold_right_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_2_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_noble_1" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_iron_white" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_musculata_praetorian_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_praetorian_greaves_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_bracelet_gold_right_2" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.empire_lance_2_t4" />
+      <equipment slot="Item1"
+                 id="Item.cla_roman_cavalry_shield_2" />
+      <equipment slot="Item2"
+                 id="Item.cla_empire_spatha_noble_2" />
+      <equipment slot="Head"
+                 id="Item.cla_roman_helm_cavalry_mask_praetorian_iron_red" />
+      <equipment slot="Body"
+                 id="Item.cla_empire_musculata_praetorian_1" />
+      <equipment slot="Leg"
+                 id="Item.cla_empire_praetorian_greaves_socks_1" />
+      <equipment slot="Gloves"
+                 id="Item.cla_empire_bracelet_gold_right_1" />
+      <equipment slot="Cape"
+                 id="Item.cla_roman_shoulder_cape_2" />
+      </EquipmentRoster>
+
 
     <equipment slot="Horse"
                id="Item.t2_empire_horse" />
@@ -4109,24 +4188,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="70" />
+      <skill id="Riding"
+             value="10" />
+      <skill id="OneHanded"
+             value="100" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="100" />
+      <skill id="Bow"
+             value="30" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="100" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_special_4" />
@@ -4244,24 +4321,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="25" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="110" />
+      <skill id="Bow"
+             value="15" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="80" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_special_5" />
@@ -4340,24 +4415,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="80" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="130" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_special_6" />
@@ -4437,24 +4510,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="170" />
+      <skill id="Riding"
+             value="60" />
+      <skill id="OneHanded"
+             value="260" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="220" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="145" />
     </skills>
     <upgrade_targets> </upgrade_targets>
     <Equipments>
@@ -4586,24 +4657,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="100" />
+      <skill id="Riding"
+             value="25" />
+      <skill id="OneHanded"
+             value="130" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="110" />
+      <skill id="Bow"
+             value="15" />
+      <skill id="Crossbow"
+             value="15" />
+      <skill id="Throwing"
+             value="80" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_centurion_5" />
@@ -4746,24 +4815,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="130" />
+      <skill id="Riding"
+             value="80" />
+      <skill id="OneHanded"
+             value="160" />
+      <skill id="TwoHanded"
+             value="40" />
+      <skill id="Polearm"
+             value="130" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="130" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_empire_elite_centurion_6" />
@@ -5067,24 +5134,22 @@
       <face_key_template value="BodyProperty.cla_fighter_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="Athletics"
+             value="170" />
+      <skill id="Riding"
+             value="60" />
+      <skill id="OneHanded"
+             value="260" />
+      <skill id="TwoHanded"
+             value="20" />
+      <skill id="Polearm"
+             value="220" />
+      <skill id="Bow"
+             value="20" />
+      <skill id="Crossbow"
+             value="20" />
+      <skill id="Throwing"
+             value="145" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>

@@ -1,7 +1,7 @@
 <Module>
   <Name value="CA_EagleRising"/>
   <Id value="CA_EagleRising"/>
-  <Version value="v2.2.8"/>
+  <Version value="v2.2.9"/>
   <SingleplayerModule value="true"/>
   <MultiplayerModule value="false"/>
   <Official value="false" />

@@ -5,24 +5,24 @@
       <BodyProperties version="4" weight="0.5886" build="0.5725" key="0005440580BC200266EA9979568344848885462866B3674479986B98949492360003365303678747000000000000000000000000000000000000000000F40081" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -112,24 +112,24 @@
       <BodyProperties version="3" age="62.67" weight="0.9697" build="0.4981" key="00050802C0BC0386418CDCB6143C033A518C7B8342438BA23BA3BF44854596B70967F69A063A3AC60000000000000000000000000000000000000000002C2000" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="2" />
@@ -164,24 +164,24 @@
       <BodyProperties version="4" age="27.11" weight="0.4182" build="0.8823" key="0008200A4E0011852FF5523F7B5094BEE2FEEA1F1F0A170F08B0011F9D9AFA0301CD66130CF0EE000000000000000000000000000000000000000000018C3000" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="4" />
@@ -218,24 +218,24 @@
       <BodyPropertiesMax version="4" age="69.27" weight="0.4547" build="0.5657" key="001CFC0FDA0038D1FFFFFFFFFFF7FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF000870060FFFFFFF000000000000000000000000000000000000000000C87182" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">
@@ -270,24 +270,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -311,24 +311,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -355,24 +355,24 @@
       <BodyPropertiesMax version="4" age="55" weight="0.4547" build="0.5657" key="001C5C044000290567BBB9B9D759989595C687286A45999568A992398C55A5760D8776DD08B5C9880000000000000000000000000000000000000000430C0082" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -507,24 +507,24 @@
       <BodyProperties version="4" age="57.59" weight="0.2701" build="0.341" key="0016040700B409525B5512B747B8C347BBBB35325965F4C188BB967883B8924405C546570C932888000000000000000000000000000000000000000013943102" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -560,24 +560,24 @@
       <BodyProperties version="4" age="20.94" weight="0.2731" build="0.1651" key="00006C044070168D8C93349C534CC4AB76CE3DB5E591896884A5CA2A6AA994240F5246F20A6A7389000000000000000000000000000000000000000062BC30C2" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -610,24 +610,24 @@
       <BodyProperties version="4" age="29.66" weight="0.1898" build="0.446" key="00055404405805D2874636458A386372BA6AB264C6B9CB7ABC2B9B4BB29A787201573613056457B4000000000000000000000000000000000000000058B44002" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -663,24 +663,24 @@
       <BodyProperties version="4" age="69.85" weight="0.233" build="0.4491" key="0011000017CC2140C87C765C76A348EA725B6A9A7988A21598B692967DA6B1540CD736CD0D689A44000000000000000000000000000000000000000067C42042" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -712,24 +712,24 @@
       <BodyProperties version="4" weight="0.5" build="0.5" key="000BAC0FC0CC1140C779CBCA79357394767BB4A774679B95CB88903C8A4C3B9601977614097C9775000000000000000000000000000000000000000059241102" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -759,24 +759,24 @@
       <BodyProperties version="4" age="29.66" weight="0.1898" build="0.446" key="00055404405805D2874636458A386372BA6AB264C6B9CB7ABC2B9B4BB29A787201573613056457B4000000000000000000000000000000000000000058B44002" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="5" />
@@ -813,24 +813,24 @@
       <BodyProperties version="4" age="30.35" weight="0.5" build="0.5" key="002DC80FC00019DABA75644893B4B269B0B1833B3101B44A28C6BD0A7CA32C260177761407BC35E8000000000000000000000000000000000000000042F41002" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="8" />
@@ -870,24 +870,24 @@
       <BodyProperties version="4" age="24.35" weight="0.7" build="0.5" key="001C740A0000168F6A76648767727434988AC6A6C17895067D2669849456339501B776140B48B86B00000000000000000000000000000000000000004D6480C2" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="8" />
@@ -927,24 +927,24 @@
       <BodyProperties version="4" age="33.35" weight="0.5" build="0.5" key="001CB80CC000200EBDB329318A436648B0C786336471DB029555B4A135B8A70501777614078C7BE500000000000000000000000000000000000000003AF41102" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="8" />
@@ -984,24 +984,24 @@
       <BodyProperties version="4" age="30.35" weight="0.5" build="0.5" key="00004C01482C06943C35A36D477B47C9BA496AF98D282A6899353777A949B68A01C776140C97687500000000000000000000000000000000000000004F8C6002" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Traits>
       <Trait id="HopliteFightingSkills" value="8" />
@@ -1042,24 +1042,24 @@
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1091,24 +1091,24 @@
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1131,24 +1131,24 @@
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1179,24 +1179,24 @@
       <BodyPropertiesMax version="4" age="51.8" weight="0.9485" build="0.9485" key="00005804400034C6CA724A198494EEE75FF97877C690FE697ACD9F5B8F0A2C2904CBB0460C9DEFA4000000000000000000000000000000000000000077888105" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1218,24 +1218,24 @@
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1256,24 +1256,24 @@
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1295,24 +1295,24 @@
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.khuzait_lancer" />
@@ -1338,24 +1338,24 @@
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1380,24 +1380,24 @@
       <face_key_template value="BodyProperty.villager_aserai" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1441,24 +1441,24 @@
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1503,24 +1503,24 @@
       <face_key_template value="BodyProperty.villager_battania" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1565,24 +1565,24 @@
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1629,24 +1629,24 @@
       <face_key_template value="BodyProperty.villager_khuzait" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1694,24 +1694,24 @@
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1752,24 +1752,24 @@
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1809,24 +1809,24 @@
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1863,24 +1863,24 @@
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1919,24 +1919,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1975,24 +1975,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2034,24 +2034,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2089,24 +2089,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2149,24 +2149,24 @@
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2209,24 +2209,24 @@
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2270,24 +2270,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2329,24 +2329,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2388,24 +2388,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2450,24 +2450,24 @@
       <face_key_template value="BodyProperty.villager_empire" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2515,24 +2515,24 @@
       <face_key_template value="BodyProperty.villager_sturgia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -2559,24 +2559,24 @@
       <face_key_template value="BodyProperty.villager_vlandia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="1023" />
-      <skill id="TwoHanded" value="1023" />
-      <skill id="Polearm" value="1023" />
-      <skill id="Bow" value="1023" />
-      <skill id="Crossbow" value="1023" />
-      <skill id="Throwing" value="1023" />
-      <skill id="Riding" value="1023" />
-      <skill id="Athletics" value="1023" />
-      <skill id="Crafting" value="1023" />
-      <skill id="Tactics" value="1023" />
-      <skill id="Scouting" value="1023" />
-      <skill id="Roguery" value="1023" />
-      <skill id="Leadership" value="1023" />
-      <skill id="Charm" value="1023" />
-      <skill id="Trade" value="1023" />
-      <skill id="Steward" value="1023" />
-      <skill id="Medicine" value="1023" />
-      <skill id="Engineering" value="1023" />
+      <skill id="OneHanded" value="300" />
+      <skill id="TwoHanded" value="300" />
+      <skill id="Polearm" value="300" />
+      <skill id="Bow" value="300" />
+      <skill id="Crossbow" value="300" />
+      <skill id="Throwing" value="300" />
+      <skill id="Riding" value="300" />
+      <skill id="Athletics" value="300" />
+      <skill id="Crafting" value="300" />
+      <skill id="Tactics" value="300" />
+      <skill id="Scouting" value="300" />
+      <skill id="Roguery" value="300" />
+      <skill id="Leadership" value="300" />
+      <skill id="Charm" value="300" />
+      <skill id="Trade" value="300" />
+      <skill id="Steward" value="300" />
+      <skill id="Medicine" value="300" />
+      <skill id="Engineering" value="300" />
     </skills>
     <Equipments>
       <EquipmentRoster civilian="true">

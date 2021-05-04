@@ -2,11 +2,11 @@
 <CraftingPieces>
 
 <!-- Pugio -->
-  <CraftingPiece id="cla_roman_pugio_blade_1" name="{=cla_roman_pugio_blade_1}[Empire]Pugio Blade" tier="5" piece_type="Blade" mesh="cla_roman_pugio_blade_1" length="24.374" weight="0.5">
+  <CraftingPiece id="cla_roman_pugio_blade_1" name="{=cla_roman_pugio_blade_1}[Empire]Pugio Blade" tier="2" piece_type="Blade" mesh="cla_roman_pugio_blade_1" length="24.374" weight="0.3">
 <PieceUsages unavailable_usages="ThrowingKnife" />
     <BladeData stack_amount="4" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="cla_roman_pugio_sheath_1">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="4" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -15,7 +15,7 @@
       <Material id="Iron2" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_pugio_guard_1" name="{=cla_roman_pugio_guard_1}[Empire]Pugio Guard" tier="5" piece_type="Guard" mesh="cla_roman_pugio_guard_1" culture="Culture.battania" length="1.405" weight="0.5">
+  <CraftingPiece id="cla_roman_pugio_guard_1" name="{=cla_roman_pugio_guard_1}[Empire]Pugio Guard" tier="2" piece_type="Guard" mesh="cla_roman_pugio_guard_1" culture="Culture.battania" length="1.405" weight="0.097">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.6" />
     <StatContributions armor_bonus="0" />
@@ -24,7 +24,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_pugio_handle_1" name="{=cla_roman_pugio_handle_1}[Empire]Pugio Handle" tier="5" piece_type="Handle" mesh="cla_roman_pugio_handle_1" culture="Culture.aserai" length="11.231" weight="0.5">
+  <CraftingPiece id="cla_roman_pugio_handle_1" name="{=cla_roman_pugio_handle_1}[Empire]Pugio Handle" tier="2" piece_type="Handle" mesh="cla_roman_pugio_handle_1" culture="Culture.aserai" length="11.231" weight="0.1">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="0" previous_piece_offset="0.1" next_piece_offset="0.1" />
     <Materials>
@@ -32,7 +32,7 @@
       <Material id="Wood" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_pugio_pommel_1" name="{=cla_roman_pugio_pommel_1}[Empire]Pugio Pommel" tier="5" piece_type="Pommel" mesh="cla_roman_pugio_pommel_1" culture="Culture.empire" length="2.181" weight="0.5">
+  <CraftingPiece id="cla_roman_pugio_pommel_1" name="{=cla_roman_pugio_pommel_1}[Empire]Pugio Pommel" tier="2" piece_type="Pommel" mesh="cla_roman_pugio_pommel_1" culture="Culture.empire" length="2.181" weight="0.111">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
     <Materials>
@@ -41,11 +41,11 @@
     </Materials>
   </CraftingPiece>
 
-  <CraftingPiece id="cla_roman_pugio_elite_blade_1" name="{=cla_roman_pugio_elite_blade_1}[Empire]Rich Pugio Blade" tier="5" piece_type="Blade" mesh="cla_roman_pugio_elite_blade_1" length="24.374" weight="0.5">
+  <CraftingPiece id="cla_roman_pugio_elite_blade_1" name="{=cla_roman_pugio_elite_blade_1}[Empire]Rich Pugio Blade" tier="2" piece_type="Blade" mesh="cla_roman_pugio_elite_blade_1" length="24.374" weight="0.3">
 <PieceUsages unavailable_usages="ThrowingKnife" />
     <BladeData stack_amount="4" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="cla_roman_pugio_elite_sheath_1">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="4.5" />
+      <Swing damage_type="Cut" damage_factor="3.8" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -54,7 +54,7 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_pugio_elite_guard_1" name="{=cla_roman_pugio_elite_guard_1}[Empire]Rich Pugio Guard" tier="5" piece_type="Guard" mesh="cla_roman_pugio_elite_guard_1" culture="Culture.battania" length="1.405" weight="0.5">
+  <CraftingPiece id="cla_roman_pugio_elite_guard_1" name="{=cla_roman_pugio_elite_guard_1}[Empire]Rich Pugio Guard" tier="2" piece_type="Guard" mesh="cla_roman_pugio_elite_guard_1" culture="Culture.battania" length="1.405" weight="0.097">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.6" />
     <StatContributions armor_bonus="4" />
@@ -62,14 +62,14 @@
       <Material id="Iron4" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_pugio_elite_handle_1" name="{=cla_roman_pugio_elite_handle_1}[Empire]Rich Pugio Handle" tier="5" piece_type="Handle" mesh="cla_roman_pugio_elite_handle_1" culture="Culture.aserai" length="11.231" weight="0.5">
+  <CraftingPiece id="cla_roman_pugio_elite_handle_1" name="{=cla_roman_pugio_elite_handle_1}[Empire]Rich Pugio Handle" tier="2" piece_type="Handle" mesh="cla_roman_pugio_elite_handle_1" culture="Culture.aserai" length="11.231" weight="0.1">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="0" previous_piece_offset="0.1" next_piece_offset="0.1" />
     <Materials>
       <Material id="Iron4" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_pugio_elite_pommel_1" name="{=cla_roman_pugio_elite_pommel_1}[Empire]Rich Pugio Pommel" tier="5" piece_type="Pommel" mesh="cla_roman_pugio_elite_pommel_1" culture="Culture.empire" length="2.181" weight="0.5">
+  <CraftingPiece id="cla_roman_pugio_elite_pommel_1" name="{=cla_roman_pugio_elite_pommel_1}[Empire]Rich Pugio Pommel" tier="2" piece_type="Pommel" mesh="cla_roman_pugio_elite_pommel_1" culture="Culture.empire" length="2.181" weight="0.111">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="0.2" />
     <Materials>
@@ -78,12 +78,12 @@
   </CraftingPiece>
 
 <!-- Gladius -->
-  <CraftingPiece id="cla_roman_gladius_blade_blunt" name="{=cla_roman_gladius_blade_blunt}[Empire]Iron Gladius Blade" tier="5" piece_type="Blade" mesh="cla_roman_gladius_blade_1" culture="Culture.empire" length="55.47" weight="0.5" is_hidden="true">
+  <CraftingPiece id="cla_roman_gladius_blade_blunt" name="{=cla_roman_gladius_blade_blunt}[Empire]Iron Gladius Blade" tier="2" piece_type="Blade" mesh="cla_roman_gladius_blade_1" culture="Culture.empire" length="55.47" weight="0.8" is_hidden="true">
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_1">
-      <Thrust damage_type="Blunt" damage_factor="0.4" />
-      <Swing damage_type="Blunt" damage_factor="0.4" />
+      <Thrust damage_type="Blunt" damage_factor="4.0" />
+      <Swing damage_type="Blunt" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -92,12 +92,12 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_gladius_blade_1" name="{=cla_roman_gladius_blade_1}[Empire]Iron Gladius Blade" tier="5" piece_type="Blade" mesh="cla_roman_gladius_blade_1" culture="Culture.empire" length="55.47" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_blade_1" name="{=cla_roman_gladius_blade_1}[Empire]Iron Gladius Blade" tier="2" piece_type="Blade" mesh="cla_roman_gladius_blade_1" culture="Culture.empire" length="55.47" weight="0.8">
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_1">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="4.0" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -106,12 +106,12 @@
       <Material id="Iron2" count="3" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_gladius_blade_long_1" name="{=cla_roman_gladius_blade_long_1}[Empire]Long Iron Gladius Blade" tier="5" piece_type="Blade" mesh="cla_roman_gladius_blade_long_1" culture="Culture.empire" length="76.145" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_blade_long_1" name="{=cla_roman_gladius_blade_long_1}[Empire]Long Iron Gladius Blade" tier="2" piece_type="Blade" mesh="cla_roman_gladius_blade_long_1" culture="Culture.empire" length="76.145" weight="1">
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_long_1">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="4.0" />
+      <Swing damage_type="Cut" damage_factor="3.5" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -121,21 +121,21 @@
     </Materials>
   </CraftingPiece>
 
-  <CraftingPiece id="cla_roman_gladius_guard_1" name="{=cla_roman_gladius_guard_1}[Empire]Gladius Guard" tier="5" piece_type="Guard" mesh="cla_roman_gladius_guard_1" culture="Culture.empire" length="4.163" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_guard_1" name="{=cla_roman_gladius_guard_1}[Empire]Gladius Guard" tier="2" piece_type="Guard" mesh="cla_roman_gladius_guard_1" culture="Culture.empire" length="4.163" weight="0.16">
     <PieceUsages unavailable_usages="" />
     <StatContributions armor_bonus="2" />
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_gladius_handle_1" name="{=cla_roman_gladius_handle_1}[Empire]Gladius Grip" tier="5" piece_type="Handle" mesh="cla_roman_gladius_handle_1" culture="Culture.empire" length="11.938" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_handle_1" name="{=cla_roman_gladius_handle_1}[Empire]Gladius Grip" tier="2" piece_type="Handle" mesh="cla_roman_gladius_handle_1" culture="Culture.empire" length="11.938" weight="0.1">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.18" next_piece_offset="-0.15" previous_piece_offset="0.6" />
     <Materials>
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_gladius_pommel_1" name="{=cla_roman_gladius_pommel_1}[Empire]Gladius Pommel" tier="5" piece_type="Pommel" mesh="cla_roman_gladius_pommel_1" culture="Culture.empire" length="5.798" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_pommel_1" name="{=cla_roman_gladius_pommel_1}[Empire]Gladius Pommel" tier="2" piece_type="Pommel" mesh="cla_roman_gladius_pommel_1" culture="Culture.empire" length="5.798" weight="0.170">
     <PieceUsages unavailable_usages="" />
     <Materials>
       <Material id="Iron3" count="1" />
@@ -143,12 +143,12 @@
   </CraftingPiece>
 
 
-  <CraftingPiece id="cla_roman_gladius_elite_blade_1" name="{=cla_roman_gladius_elite_blade_1}[Empire]Rich Gladius Blade" tier="5" piece_type="Blade" mesh="cla_roman_gladius_elite_blade_1" culture="Culture.empire" length="55.684" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_elite_blade_1" name="{=cla_roman_gladius_elite_blade_1}[Empire]Rich Gladius Blade" tier="4" piece_type="Blade" mesh="cla_roman_gladius_elite_blade_1" culture="Culture.empire" length="55.684" weight="0.8">
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_elite_1">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="4.6" />
+      <Swing damage_type="Cut" damage_factor="4.0" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -157,12 +157,12 @@
       <Material id="Iron6" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_gladius_elite_blade_long_1" name="{=cla_roman_gladius_elite_blade_long_1}[Empire]Long Rich Gladius Blade" tier="5" piece_type="Blade" mesh="cla_roman_gladius_elite_blade_long_1" culture="Culture.empire" length="76.145" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_elite_blade_long_1" name="{=cla_roman_gladius_elite_blade_long_1}[Empire]Long Rich Gladius Blade" tier="4" piece_type="Blade" mesh="cla_roman_gladius_elite_blade_long_1" culture="Culture.empire" length="76.145" weight="1">
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_elite_long_1">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="4.6" />
+      <Swing damage_type="Cut" damage_factor="4.0" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -172,21 +172,21 @@
     </Materials>
   </CraftingPiece>
 
-  <CraftingPiece id="cla_roman_gladius_elite_guard_1" name="{=cla_roman_gladius_elite_guard_1}[Empire]Rich Gladius Guard" tier="5" piece_type="Guard" mesh="cla_roman_gladius_elite_guard_1" culture="Culture.empire" length="4.163" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_elite_guard_1" name="{=cla_roman_gladius_elite_guard_1}[Empire]Rich Gladius Guard" tier="4" piece_type="Guard" mesh="cla_roman_gladius_elite_guard_1" culture="Culture.empire" length="4.163" weight="0.16">
     <PieceUsages unavailable_usages="" />
     <StatContributions armor_bonus="5" />
     <Materials>
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_gladius_handle_elite_1" name="{=cla_roman_gladius_handle_elite_1}[Empire]Rich Gladius Grip" tier="5" piece_type="Handle" mesh="cla_roman_gladius_elite_handle_1" culture="Culture.empire" length="11.938" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_handle_elite_1" name="{=cla_roman_gladius_handle_elite_1}[Empire]Rich Gladius Grip" tier="4" piece_type="Handle" mesh="cla_roman_gladius_elite_handle_1" culture="Culture.empire" length="11.938" weight="0.1">
     <PieceUsages unavailable_usages="TwoHandedSword" />
     <BuildData piece_offset="-0.18" next_piece_offset="-0.15" previous_piece_offset="0.6" />
     <Materials>
       <Material id="Iron3" count="1" />
     </Materials>
   </CraftingPiece>
-  <CraftingPiece id="cla_roman_gladius_elite_pommel_1" name="{=cla_roman_gladius_elite_pommel_1}[Empire]Rich Gladius Pommel" tier="5" piece_type="Pommel" mesh="cla_roman_gladius_elite_pommel_1" culture="Culture.empire" length="7.472" weight="0.5">
+  <CraftingPiece id="cla_roman_gladius_elite_pommel_1" name="{=cla_roman_gladius_elite_pommel_1}[Empire]Rich Gladius Pommel" tier="4" piece_type="Pommel" mesh="cla_roman_gladius_elite_pommel_1" culture="Culture.empire" length="7.472" weight="0.170">
     <PieceUsages unavailable_usages="" />
     <Materials>
       <Material id="Iron3" count="1" />
@@ -195,10 +195,10 @@
 
 <!-- Pilum -->
 <!-- Pommel -->
- <CraftingPiece id="cla_roman_pilum_blade_blunt" name="{=cla_roman_pilum_blade_blunt}[Empire]Arena Roman Pilum Blade" tier="5" piece_type="Blade" mesh="cla_roman_pilum_blade_1" length="48.774" weight="0.5" excluded_item_usage_features="swing" is_hidden="true">
+ <CraftingPiece id="cla_roman_pilum_blade_blunt" name="{=cla_roman_pilum_blade_blunt}[Empire]Arena Roman Pilum Blade" tier="4" piece_type="Blade" mesh="cla_roman_pilum_blade_1" length="48.774" weight="0.05" excluded_item_usage_features="swing" is_hidden="true">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_3_2" holster_body_name="bo_throwing_spear_quiver_3_2" holster_mesh_length="96.32">
-      <Thrust damage_type="Blunt" damage_factor="0.4" />
+      <Thrust damage_type="Blunt" damage_factor="4" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -208,10 +208,10 @@
     </Materials>
   </CraftingPiece>
 
- <CraftingPiece id="cla_roman_pilum_blade_1" name="{=cla_roman_pilum_blade_1}[Empire]Roman Pilum Blade" tier="5" piece_type="Blade" mesh="cla_roman_pilum_blade_1" length="48.774" weight="0.5" excluded_item_usage_features="swing">
+ <CraftingPiece id="cla_roman_pilum_blade_1" name="{=cla_roman_pilum_blade_1}[Empire]Roman Pilum Blade" tier="4" piece_type="Blade" mesh="cla_roman_pilum_blade_1" length="48.774" weight="0.05" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_3_2" holster_body_name="bo_throwing_spear_quiver_3_2" holster_mesh_length="96.32">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="4" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -222,7 +222,7 @@
   </CraftingPiece>
 
 <!-- Guard -->
-  <CraftingPiece id="cla_roman_pilum_guard_1" name="{=cla_roman_pillum_guard_1}[Empire]Roman Pilum Guard" tier="5" piece_type="Guard" mesh="cla_roman_pilum_guard_1" culture="Culture.empire" length="21.474" weight="0.5">
+  <CraftingPiece id="cla_roman_pilum_guard_1" name="{=cla_roman_pillum_guard_1}[Empire]Roman Pilum Guard" tier="3" piece_type="Guard" mesh="cla_roman_pilum_guard_1" culture="Culture.empire" length="21.474" weight="0">
     <PieceUsages unavailable_usages="" />
     <Materials>
       <Material id="Iron3" count="1" />
@@ -233,7 +233,7 @@
   </CraftingPiece>
 
 <!-- Handle -->
-  <CraftingPiece id="cla_roman_pilum_handle_1" name="{=cla_roman_pillum_handle_1}[Empire]Roman Pilum Shaft" tier="5" piece_type="Handle" mesh="cla_roman_pilum_handle_1" length="126.88" weight="0.5">
+  <CraftingPiece id="cla_roman_pilum_handle_1" name="{=cla_roman_pillum_handle_1}[Empire]Roman Pilum Shaft" tier="3" piece_type="Handle" mesh="cla_roman_pilum_handle_1" length="126.88" weight="0.8">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable:TwoHandedPolearm_Bracing" />
     <BuildData piece_offset="22.9" />
     <Materials>
@@ -242,7 +242,7 @@
   </CraftingPiece>
 
 <!-- Pommel -->
-  <CraftingPiece id="cla_roman_pilum_pommel_1" name="{=cla_roman_pilum_pommel_1}[Empire]Roman Pilum Pommel" tier="5" piece_type="Pommel" mesh="cla_roman_pilum_pommel_1" culture="Culture.empire" length="10.858" weight="0.5">
+  <CraftingPiece id="cla_roman_pilum_pommel_1" name="{=cla_roman_pilum_pommel_1}[Empire]Roman Pilum Pommel" tier="4" piece_type="Pommel" mesh="cla_roman_pilum_pommel_1" culture="Culture.empire" length="10.858" weight="0">
     <PieceUsages unavailable_usages="" />
     <Materials>
       <Material id="Iron4" count="1" />
