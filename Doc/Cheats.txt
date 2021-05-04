@@ -1,24 +1,27 @@
 ############################################################
 999999999 (1023)
 ############################################################
-campaign.add_skill_xp_to_hero OneHanded 999999999 Ioan
-campaign.add_skill_xp_to_hero TwoHanded 999999999 Ioan
-campaign.add_skill_xp_to_hero Polearm 999999999 Ioan
-campaign.add_skill_xp_to_hero Bow 999999999 Ioan
-campaign.add_skill_xp_to_hero Crossbow 999999999 Ioan
-campaign.add_skill_xp_to_hero Throwing 999999999 Ioan
-campaign.add_skill_xp_to_hero Riding 999999999 Ioan
-campaign.add_skill_xp_to_hero Athletics 999999999 Ioan
-campaign.add_skill_xp_to_hero Smithing 999999999 Ioan
-campaign.add_skill_xp_to_hero Scouting 999999999 Ioan
-campaign.add_skill_xp_to_hero Tactics 999999999 Ioan
-campaign.add_skill_xp_to_hero Roguery 999999999 Ioan
-campaign.add_skill_xp_to_hero Charm 999999999 Ioan
-campaign.add_skill_xp_to_hero Leadership 999999999 Ioan
-campaign.add_skill_xp_to_hero Trade 999999999 Ioan
-campaign.add_skill_xp_to_hero Steward 999999999 Ioan
-campaign.add_skill_xp_to_hero Medicine 999999999 Ioan
-campaign.add_skill_xp_to_hero Engineering 999999999 Ioan
+campaign.add_skill_xp_to_hero OneHanded 999999999 King
+campaign.add_skill_xp_to_hero TwoHanded 999999999 King
+campaign.add_skill_xp_to_hero Polearm 999999999 King
+campaign.add_skill_xp_to_hero Bow 999999999 King
+campaign.add_skill_xp_to_hero Crossbow 999999999 King
+campaign.add_skill_xp_to_hero Throwing 999999999 King
+campaign.add_skill_xp_to_hero Riding 999999999 King
+campaign.add_skill_xp_to_hero Athletics 999999999 King
+campaign.add_skill_xp_to_hero Smithing 999999999 King
+campaign.add_skill_xp_to_hero Scouting 999999999 King
+campaign.add_skill_xp_to_hero Tactics 999999999 King
+campaign.add_skill_xp_to_hero Roguery 999999999 King
+campaign.add_skill_xp_to_hero Charm 999999999 King
+campaign.add_skill_xp_to_hero Leadership 999999999 King
+campaign.add_skill_xp_to_hero Trade 999999999 King
+campaign.add_skill_xp_to_hero Steward 999999999 King
+campaign.add_skill_xp_to_hero Medicine 999999999 King
+campaign.add_skill_xp_to_hero Engineering 999999999 King
+
+campaign.add_renown_to_clan 999999999
+
 ############################################################
 Commands:
 ############################################################
@@ -62,7 +65,6 @@ campaign.list_heroes_suitable_for_marriage
 campaign.is_hero_suitable_for_marriage_with_player
 campaign.marry_player_with_hero
 
-campaign.add_renown_to_clan 999999999
 campaign.marry_player_with_hero Isabel
 campaign.list_tournaments
 

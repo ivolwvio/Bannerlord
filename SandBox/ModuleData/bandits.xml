@@ -35,86 +35,77 @@
       <upgrade_target id="NPCCharacter.imperial_infantryman" />
     </upgrade_targets>
     <Equipments>
-      <EquipmentRoster civilian="true">
-        <equipment slot="Item0" id="Item.peasant_2haxe_1_t1" />
-        <equipment slot="Item2" id="Item.throwing_stone" />
-        <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-      </EquipmentRoster>
+      <!-- Long Spear -->
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_hammer_1_t1" />
-        <equipment slot="Item2" id="Item.throwing_stone" />
-        <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
+        <equipment slot="Item0" id="Item.cla_palaic_shield_hex_1" />
+        <equipment slot="Item1" id="Item.empire_lance_2_t4" />
+        <equipment slot="Head" id="Item.cla_palaic_helm_montefortino_iron_1" />
+        <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
+        <equipment slot="Body" id="Item.cla_palaic_clan_cloth_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_palaic_leg_wrappings_1" />
       </EquipmentRoster>
+      <!-- Infantry -->
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
-        <equipment slot="Body" id="Item.bandit_envelope_dress_v2" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
+        <equipment slot="Item0" id="Item.cla_palaic_shield_hex_1" />
+        <equipment slot="Item1" id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Item2" id="Item.western_spear_1_t2" />
+        <equipment slot="Head" id="Item.cla_palaic_helm_montefortino_iron_1" />
+        <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
+        <equipment slot="Body" id="Item.cla_palaic_clan_cloth_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_palaic_leg_wrappings_1" />
       </EquipmentRoster>
+      <!-- Javelin throwers -->
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.seax" />
-        <equipment slot="Item1" id="Item.throwing_stone" />
-        <equipment slot="Body" id="Item.bandit_leather_water_flask" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-        <equipment slot="Gloves" id="Item.armwraps" />
+        <equipment slot="Item0" id="Item.cla_palaic_shield_hex_1" />
+        <equipment slot="Item1" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item2" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item3" id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Head" id="Item.cla_palaic_helm_montefortino_iron_1" />
+        <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
+        <equipment slot="Body" id="Item.cla_palaic_clan_cloth_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_palaic_leg_wrappings_1" />
       </EquipmentRoster>
+      <!-- Archer -->
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_hammer_2_t1" />
-        <equipment slot="Body" id="Item.vlandia_bandit_c" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-        <equipment slot="Head" id="Item.wrapped_headcloth" />
+        <equipment slot="Item0" id="Item.glen_ranger_bow" />
+        <equipment slot="Item1" id="Item.piercing_arrows" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.empire_sword_1_t2_blunt" />
+        <equipment slot="Head" id="Item.cla_palaic_helm_montefortino_iron_1" />
+        <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
+        <equipment slot="Body" id="Item.cla_palaic_clan_cloth_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_palaic_leg_wrappings_1" />
       </EquipmentRoster>
+      <!-- Horse Archer -->
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_hammer_2_t1" />
-        <equipment slot="Item1" id="Item.throwing_stone" />
-        <equipment slot="Body" id="Item.torn_bandit_clothes" />
-        <equipment slot="Leg" id="Item.leather_shoes" />
+        <equipment slot="Item0" id="Item.noble_bow" />
+        <equipment slot="Item1" id="Item.piercing_arrows" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.aserai_sword_7_t5" />
+        <equipment slot="Head" id="Item.cla_palaic_helm_montefortino_iron_1" />
+        <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
+        <equipment slot="Body" id="Item.cla_palaic_clan_cloth_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_palaic_leg_wrappings_1" />
+        <equipment slot="Horse" id="Item.noble_horse" />
+        <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
       </EquipmentRoster>
+      <!-- Horseman -->
       <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_pickaxe_1_t1" />
-        <equipment slot="Body" id="Item.bandit_gambeson" />
-        <equipment slot="Leg" id="Item.leather_shoes" />
-        <equipment slot="Head" id="Item.pilgrim_hood" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_sickle_1_t1" />
-        <equipment slot="Item2" id="Item.throwing_stone" />
-        <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-        <equipment slot="Head" id="Item.pilgrim_hood" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.falchion_sword_t2" />
-        <equipment slot="Body" id="Item.bandit_envelope_dress_v2" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.vlandia_mace_1_t2" />
-        <equipment slot="Item1" id="Item.throwing_stone" />
-        <equipment slot="Body" id="Item.bandit_leather_water_flask" />
-        <equipment slot="Head" id="Item.pilgrim_hood" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-        <equipment slot="Gloves" id="Item.armwraps" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_pitchfork_2_t1" />
-        <equipment slot="Body" id="Item.vlandia_bandit_c" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-        <equipment slot="Head" id="Item.wrapped_headcloth" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.small_spurred_axe_t2" />
-        <equipment slot="Body" id="Item.torn_bandit_clothes" />
-        <equipment slot="Leg" id="Item.leather_shoes" />
-        <equipment slot="Head" id="Item.wrapped_headcloth" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item0" id="Item.peasant_hammer_1_t1" />
-        <equipment slot="Item1" id="Item.throwing_stone" />
-        <equipment slot="Body" id="Item.bandit_gambeson" />
-        <equipment slot="Leg" id="Item.leather_shoes" />
-        <equipment slot="Head" id="Item.wrapped_headcloth" />
+        <equipment slot="Item0" id="Item.cla_palaic_shield_hex_1" />
+        <equipment slot="Item1" id="Item.cla_palaic_1ax_1" />
+        <equipment slot="Item2" id="Item.western_spear_1_t2" />
+        <equipment slot="Head" id="Item.cla_palaic_helm_montefortino_iron_1" />
+        <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
+        <equipment slot="Body" id="Item.cla_palaic_clan_cloth_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_palaic_leg_wrappings_1" />
+        <equipment slot="Horse" id="Item.noble_horse" />
+        <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
