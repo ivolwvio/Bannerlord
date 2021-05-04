@@ -105,3 +105,6 @@ Viking black and red spiral:
 
 20.142.116.1500.1500.764.764.1.0.0.503.142.116.93.80.764.764.1.0.90
 
+Knight yellow cross with black/red spiral background
+
+20.116.142.1500.1500.764.764.1.0.0.419.143.116.560.482.764.764.1.0.90
