@@ -5,8 +5,8 @@
   <CraftingPiece id="cla_roman_pugio_blade_1" name="{=cla_roman_pugio_blade_1}[Empire]Pugio Blade" tier="2" piece_type="Blade" mesh="cla_roman_pugio_blade_1" length="24.374" weight="0.3">
 <PieceUsages unavailable_usages="ThrowingKnife" />
     <BladeData stack_amount="4" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="cla_roman_pugio_sheath_1">
-      <Thrust damage_type="Pierce" damage_factor="4" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -44,8 +44,8 @@
   <CraftingPiece id="cla_roman_pugio_elite_blade_1" name="{=cla_roman_pugio_elite_blade_1}[Empire]Rich Pugio Blade" tier="2" piece_type="Blade" mesh="cla_roman_pugio_elite_blade_1" length="24.374" weight="0.3">
 <PieceUsages unavailable_usages="ThrowingKnife" />
     <BladeData stack_amount="4" physics_material="metal_weapon" body_name="bo_knife_a" holster_mesh="cla_roman_pugio_elite_sheath_1">
-      <Thrust damage_type="Pierce" damage_factor="4.5" />
-      <Swing damage_type="Cut" damage_factor="3.8" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -82,8 +82,8 @@
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_1">
-      <Thrust damage_type="Blunt" damage_factor="4.0" />
-      <Swing damage_type="Blunt" damage_factor="3.5" />
+      <Thrust damage_type="Blunt" damage_factor="0.4" />
+      <Swing damage_type="Blunt" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -96,8 +96,8 @@
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_1">
-      <Thrust damage_type="Pierce" damage_factor="4.0" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -110,8 +110,8 @@
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_long_1">
-      <Thrust damage_type="Pierce" damage_factor="4.0" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -147,8 +147,8 @@
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_elite_1">
-      <Thrust damage_type="Pierce" damage_factor="4.6" />
-      <Swing damage_type="Cut" damage_factor="4.0" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -161,8 +161,8 @@
     <PieceUsages unavailable_usages="" />
     <BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="cla_roman_gladius_sheath_elite_long_1">
-      <Thrust damage_type="Pierce" damage_factor="4.6" />
-      <Swing damage_type="Cut" damage_factor="4.0" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="Civilian" type="ItemFlags" />
@@ -198,7 +198,7 @@
  <CraftingPiece id="cla_roman_pilum_blade_blunt" name="{=cla_roman_pilum_blade_blunt}[Empire]Arena Roman Pilum Blade" tier="4" piece_type="Blade" mesh="cla_roman_pilum_blade_1" length="48.774" weight="0.05" excluded_item_usage_features="swing" is_hidden="true">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_3_2" holster_body_name="bo_throwing_spear_quiver_3_2" holster_mesh_length="96.32">
-      <Thrust damage_type="Blunt" damage_factor="4" />
+      <Thrust damage_type="Blunt" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -211,7 +211,7 @@
  <CraftingPiece id="cla_roman_pilum_blade_1" name="{=cla_roman_pilum_blade_1}[Empire]Roman Pilum Blade" tier="4" piece_type="Blade" mesh="cla_roman_pilum_blade_1" length="48.774" weight="0.05" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="TwoHandedPolearm_Couchable" />
     <BladeData stack_amount="2" physics_material="wood_weapon" body_name="bo_spear_b" holster_mesh="throwing_spear_quiver_3_2" holster_body_name="bo_throwing_spear_quiver_3_2" holster_mesh_length="96.32">
-      <Thrust damage_type="Pierce" damage_factor="4" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />

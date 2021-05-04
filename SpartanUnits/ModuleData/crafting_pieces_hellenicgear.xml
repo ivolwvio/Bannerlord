@@ -6,8 +6,8 @@
    <CraftingPiece id="xiphos_blade_a" name="xiphos blade" tier="4" piece_type="Blade" mesh="xiphos_blade_a" culture="Culture.aserai" length="90" weight="0.84">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="xiphos_scabbard_a">
-      <Thrust damage_type="Pierce" damage_factor="3.4" /> <!-- 3.8 -->
-      <Swing damage_type="Cut" damage_factor="4.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" /> <!-- 3.8 -->
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags> 
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -47,8 +47,8 @@
   <CraftingPiece id="kopis_blade_a" name="kopis blade" tier="4" piece_type="Blade" mesh="kopis_blade_a" culture="Culture.aserai" length="90" weight="0.84">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="kopis_scabbard_a">
-      <Thrust damage_type="Pierce" damage_factor="3.2" />
-      <Swing damage_type="Cut" damage_factor="3.4" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Flags>
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -88,7 +88,7 @@
   <CraftingPiece id="doru_spear_tip_a" name="Doru spear blade" tier="4" piece_type="Blade" mesh="doru_spear_tip_a" culture="Culture.aserai" length="84.4" weight="0.3" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.2" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
     </BladeData>
     <Flags>
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -120,7 +120,7 @@
   <CraftingPiece id="sarissa_spear_tip_a" name="Sarissa spear blade" tier="4" piece_type="Blade" mesh="sarissa_spear_tip_a" culture="Culture.aserai" length="90" weight="0.4" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.2" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
     </BladeData>
     <Flags>
 	 <Flag name="Civilian" type="ItemFlags" />
@@ -151,7 +151,7 @@
   <CraftingPiece id="xyston_spear_tip_a" name="Xyston spear blade" tier="4" piece_type="Blade" mesh="xyston_spear_tip_a" culture="Culture.aserai" length="84.4" weight="0.4" excluded_item_usage_features="swing">
     <PieceUsages unavailable_usages="" />
 	<BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_spear_b">
-      <Thrust damage_type="Pierce" damage_factor="3.2" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
     </BladeData>
     <Flags>
 	 <Flag name="Civilian" type="ItemFlags" />

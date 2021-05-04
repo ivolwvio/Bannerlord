@@ -6,7 +6,7 @@ Romans 6:23 (King James Version)
 
 PARTY SIZES
 
-(?!<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="NPCCharacter.main_hero" \/>)<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="(.*?)" \/>
+(?!<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="NPCCharacter.main_hero" \/>)(?!<PartyTemplateStack min_value="100" max_value="500" troop="(.*?)" \/>)<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="(.*?)" \/>
 
 <PartyTemplateStack min_value="100" max_value="500" troop="$1" />
 
@@ -40,6 +40,10 @@ ALL UNITS MAX LEVEL
       <skill id="Engineering" value="300" />
     </skills>
 
+# Check Code
+
+(?!<skills>(?:(?:.|\n)*?)id="(.*?)" value="300"(?:(?:.|\n)*?)<\/skills>)<skills>(?:(?:.|\n)*?)<\/skills>
+
 # For running campaign
 
 <skills>
@@ -65,9 +69,9 @@ ALL UNITS MAX LEVEL
 
 =====================================================================
 
-Single skill max level
+Single skill max level check
 
-(?!<skill id="(?:.*?)" value="1023" \/>)(?:<skill id="(.*?)" value="[+-]?(?:[0-9]*[.])?[0-9]+" \/>)
+(?!<skill id="(?:.*?)" value="300" \/>)(?:<skill id="(.*?)" value="[+-]?(?:[0-9]*[.])?[0-9]+" \/>)
 
 <skill id="$1" value="1023" />
 
