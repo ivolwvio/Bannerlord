@@ -303,24 +303,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_0" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="GentryEquipment" value="1" />
@@ -340,24 +340,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_0b" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="GentryEquipment" value="1" />
@@ -516,24 +516,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_6" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
@@ -578,24 +578,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_9" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
@@ -612,24 +612,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_10" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
@@ -649,24 +649,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_10" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
@@ -686,24 +686,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_11" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
@@ -723,24 +723,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_11" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
@@ -854,24 +854,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
@@ -889,24 +889,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />
@@ -924,24 +924,24 @@
     </face>
     <!--<Hero id="spc_notable_empire_4" faction="Kingdom.empire" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="RomanHair" value="1" />

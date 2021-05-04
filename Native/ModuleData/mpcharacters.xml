@@ -17,24 +17,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF00000FD20AFFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -156,24 +156,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFF7EFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF00037FD303FFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -208,24 +208,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000ABFD80AFFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -262,24 +262,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000ABFD80AFFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -320,24 +320,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFF7EFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF00037FD303FFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -378,24 +378,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000ABFD80AFFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -438,24 +438,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFF7EFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF00037FD303FFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -496,24 +496,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000ABFD80AFFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -559,24 +559,24 @@
                          key="0011A80CC03C0010FFFFFFFF887CFFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001185142" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -615,24 +615,24 @@
                          key="0011A80CC03C0010FFFFFFFF887CFFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001185142" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -665,24 +665,24 @@
                          key="0005FC059A0034D0FFFFFFFF887AFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000FAFFA0FFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -723,24 +723,24 @@
                          key="0005FC059A0034D0FFFFFFFF887AFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000FAFFA0FFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -779,24 +779,24 @@
                          key="0011A80CC03C0010FFFFFFFF8878FFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF000C8FFC0CFFFFFF000000000000000000000000000000000000000001185143" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -839,24 +839,24 @@
                          key="0011A80CC03C0010FFFFFFFF887BFFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF0007BFF607FFFFFF000000000000000000000000000000000000000001185142" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -899,24 +899,24 @@
                          key="0011A80CC03C030FFFFFFFFF887CFFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF000FCFFC0FFFFFFF000000000000000000000000000000000000000001185142" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -962,24 +962,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF70008BFF408FFFFFF000000000000000000000000000000000000000000A05141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1016,24 +1016,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF7000ABFF70AFFFFFF000000000000000000000000000000000000000001185141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1072,24 +1072,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF70008BFF408FFFFFF000000000000000000000000000000000000000000A05141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1130,24 +1130,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF70008BFF408FFFFFF000000000000000000000000000000000000000000A05141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1190,24 +1190,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF7000ABFF70AFFFFFF000000000000000000000000000000000000000001185141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1252,24 +1252,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF70008BFF408FFFFFF000000000000000000000000000000000000000000A05141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1312,24 +1312,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF7000ABFF70AFFFFFF000000000000000000000000000000000000000001185141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1375,24 +1375,24 @@
                          key="002DFC0FC000374FFFFFFFFFAE76FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00086FF408FFFEFF000000000000000000000000000000000000000000C89184" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1429,24 +1429,24 @@
                          key="002DFC0FDA003754FFFFFFFFAE7AFFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00000FF70AFFFEFF000000000000000000000000000000000000000000F09183" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1481,24 +1481,24 @@
                          key="002DFC0FDA003754FFFFFFFFAE79FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF000F9FFA0FFFFEFF000000000000000000000000000000000000000001189183" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1537,24 +1537,24 @@
                          key="002DFC0FC000374FFFFFFFFFAE76FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00086FFD08FFFEFF000000000000000000000000000000000000000000C89183" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1593,24 +1593,24 @@
                          key="002DFC0FC000374FFFFFFFFFAE76FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00096FFB09FFFEFF000000000000000000000000000000000000000001189184" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1651,24 +1651,24 @@
                          key="002DFC0FC000374FFFFFFFFFAE76FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00086FF408FFFEFF000000000000000000000000000000000000000000C89184" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1709,24 +1709,24 @@
                          key="002DFC0FDA003754FFFFFFFFAE79FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF000F9FFA0FFFFEFF000000000000000000000000000000000000000001189183" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1772,24 +1772,24 @@
                          key="0011FC05800038D4FFFFFFFF8878FFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF00078FF507FFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1824,24 +1824,24 @@
                          key="000BFC059A0038D4FFFFFFFF887CFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1880,24 +1880,24 @@
                          key="000BFC059A0038D4FFFFFFFF887CFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1934,24 +1934,24 @@
                          key="0011FC05800038D4FFFFFFFF8878FFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF00078FF507FFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1990,24 +1990,24 @@
                          key="0011FC05800038D4FFFFFFFF8878FFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF00078FF507FFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2050,24 +2050,24 @@
                          key="0011FC05800038D4FFFFFFFF8878FFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF00078FF507FFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2110,24 +2110,24 @@
                          key="000BFC059A0038D4FFFFFFFF887CFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2175,24 +2175,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF00058FF405FFFEFF000000000000000000000000000000000000000001189181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2227,24 +2227,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF000A8FF70AFFFEFF000000000000000000000000000000000000000001689181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2285,24 +2285,24 @@
                          key="000BFC0B4D3C34D4FFFFFAFFAAA7FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF000F7FF70FFFFEFF000000000000000000000000000000000000000001B89181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2339,24 +2339,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF00058FF405FFFEFF000000000000000000000000000000000000000001189181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2397,24 +2397,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF000A8FF70AFFFEFF000000000000000000000000000000000000000001689181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2457,24 +2457,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF000A8FF70AFFFEFF000000000000000000000000000000000000000001689181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2517,24 +2517,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF00058FF405FFFEFF000000000000000000000000000000000000000001189181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2579,24 +2579,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFF7EFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF00037FD303FFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2649,24 +2649,24 @@
                          key="0011FC0FC03C34CFFFFFFFFEFFFAEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000FAFD90FFFFFFF000000000000000000000000000000000000000001689101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2721,24 +2721,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000ABFD80AFFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2811,24 +2811,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFF7EFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF00037FD303FFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2899,24 +2899,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000ABFD80AFFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -2995,24 +2995,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFF7EFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF00037FD303FFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3091,24 +3091,24 @@
                          key="0011FC0FC03C384FFFFFFFFEFFFBEFFFFFFFFFA97EF7FEFFFFEFFFFFFFFFFFFF000ABFD80AFFFFFF000000000000000000000000000000000000000000C89101" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3194,24 +3194,24 @@
                          key="0011A80CC03C0010FFFFFFFF887CFFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001185142" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3276,24 +3276,24 @@
                          key="0011A80CC03C0010FFFFFFFF887CFFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001185142" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3352,24 +3352,24 @@
                          key="0005FC059A0034D0FFFFFFFF887AFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000FAFFA0FFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3434,24 +3434,24 @@
                          key="0005FC059A0034D0FFFFFFFF887AFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000FAFFA0FFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3516,24 +3516,24 @@
                          key="0011A80CC03C0010FFFFFFFF8878FFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF000C8FFC0CFFFFFF000000000000000000000000000000000000000001185143" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3612,24 +3612,24 @@
                          key="0011A80CC03C0010FFFFFFFF887BFFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF0007BFF607FFFFFF000000000000000000000000000000000000000001185142" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3708,24 +3708,24 @@
                          key="0011A80CC03C030FFFFFFFFF887CFFFFFFFFFFFF7FF0F7FFFFFFFFFFFFFFFFFF000FCFFC0FFFFFFF000000000000000000000000000000000000000001185142" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3811,24 +3811,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF70008BFF408FFFFFF000000000000000000000000000000000000000000A05141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3889,24 +3889,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF7000ABFF70AFFFFFF000000000000000000000000000000000000000001185141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -3973,24 +3973,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF70008BFF408FFFFFF000000000000000000000000000000000000000000A05141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4063,24 +4063,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF7000ABFF70AFFFFFF000000000000000000000000000000000000000001185141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4141,24 +4141,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF70008BFF408FFFFFF000000000000000000000000000000000000000000A05141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4239,24 +4239,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF7000ABFF70AFFFFFF000000000000000000000000000000000000000001185141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4317,24 +4317,24 @@
                          key="001CFC0FC03C38D1FFFFFFFFFFFBFF3FFACFFFFFFFFFFFFFFFFFFFFFF77FFFF7000BBFFC0BFFFFFF000000000000000000000000000000000000000001185141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4400,24 +4400,24 @@
                          key="002DFC0FC000374FFFFFFFFFAE76FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00086FF408FFFEFF000000000000000000000000000000000000000000C89184" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4480,24 +4480,24 @@
                          key="002DFC0FDA003754FFFFFFFFAE79FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF000F9FFA0FFFFEFF000000000000000000000000000000000000000001189183" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4560,24 +4560,24 @@
                          key="002DFC0FDA003754FFFFFFFFAE79FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF000F9FFA0FFFFEFF000000000000000000000000000000000000000001189183" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4642,24 +4642,24 @@
                          key="002DFC0FC000374FFFFFFFFFAE76FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00086FF408FFFEFF000000000000000000000000000000000000000000C89184" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4732,24 +4732,24 @@
                          key="002DFC0FC000374FFFFFFFFFAE76FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00096FF709FFFEFF000000000000000000000000000000000000000001189184" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4818,24 +4818,24 @@
                          key="002DFC0FC000374FFFFFFFFFAE76FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF00086FF408FFFEFF000000000000000000000000000000000000000000C89184" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -4914,24 +4914,24 @@
                          key="002DFC0FDA003754FFFFFFFFAE79FFFFFFF1FFFFFFD7FFFFFFFFEFEFFFFFFFFF000F9FFA0FFFFEFF000000000000000000000000000000000000000001189183" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5021,24 +5021,24 @@
                          key="0011FC05800038D4FFFFFFFF8878FFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF00078FF507FFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5091,24 +5091,24 @@
                          key="000BFC059A0038D4FFFFFFFF887CFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5169,24 +5169,24 @@
                          key="000BFC059A0034D4FFFFFFFF887FFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000FFFFA0FFFFFFF000000000000000000000000000000000000000001B80141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5243,24 +5243,24 @@
                          key="0011FC05800038D4FFFFFFFF8878FFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF00078FF507FFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5327,24 +5327,24 @@
                          key="0011FC05800038D4FFFFFFFF8878FFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF00078FF507FFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5423,24 +5423,24 @@
                          key="0011FC05800038D4FFFFFFFF8878FFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF00078FF507FFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5521,24 +5521,24 @@
                          key="000BFC059A0038D4FFFFFFFF887CFFFFFFFEFFFB6FB7FFFFFFFFFFFFFFFFFFFF000DCFF90DFFFFFF000000000000000000000000000000000000000001680141" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5630,24 +5630,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF00058FF405FFFEFF000000000000000000000000000000000000000001189181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5704,24 +5704,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF000A8FF70AFFFEFF000000000000000000000000000000000000000001689181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5792,24 +5792,24 @@
                          key="000BFC0B4D3C34D4FFFFFAFFAAA7FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF000F7FF70FFFFEFF000000000000000000000000000000000000000001B89181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5866,24 +5866,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF00058FF405FFFEFF000000000000000000000000000000000000000001189181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -5954,24 +5954,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF000A8FF70AFFFEFF000000000000000000000000000000000000000001689181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -6052,24 +6052,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF000A8FF70AFFFEFF000000000000000000000000000000000000000001689181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -6146,24 +6146,24 @@
                          key="000BFC0B4B3C300FFFFFFAFFAAA8FFFFFFBFFFF77FF7FFFFFFFFFFFFFF6BFFFF00058FF405FFFEFF000000000000000000000000000000000000000001189181" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>

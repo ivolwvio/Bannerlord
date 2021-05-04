@@ -13,24 +13,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -208,24 +208,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -428,24 +428,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -608,24 +608,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -758,24 +758,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1007,24 +1007,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1112,24 +1112,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1225,24 +1225,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -1374,24 +1374,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_infantry_2" />
@@ -1551,24 +1551,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_infantry_3" />
@@ -1848,24 +1848,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_infantry_4" />
@@ -2056,24 +2056,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_infantry_5" />
@@ -2290,24 +2290,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -2426,24 +2426,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_spears_4" />
@@ -2563,24 +2563,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_spears_5" />
@@ -2699,24 +2699,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -2806,24 +2806,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_cavalry_5" />
@@ -3157,24 +3157,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -3311,24 +3311,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_ranged_3" />
@@ -3547,24 +3547,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_ranged_4" />
@@ -3808,24 +3808,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_ranged_5" />
@@ -4068,24 +4068,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -4230,24 +4230,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -4493,24 +4493,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_skirmisher_4" />
@@ -4729,24 +4729,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
     </upgrade_targets>
@@ -4917,24 +4917,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_infantry_3" />
@@ -5204,24 +5204,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_infantry_4" />
@@ -5344,24 +5344,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_infantry_5" />
@@ -5480,24 +5480,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_infantry_6" />
@@ -5553,24 +5553,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
      <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -5674,24 +5674,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_cavalry_5" />
@@ -5803,24 +5803,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_cavalry_6" />
@@ -5878,24 +5878,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
      <upgrade_targets></upgrade_targets>
     <Equipments>
@@ -5993,24 +5993,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_standard_4" />
@@ -6143,24 +6143,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_standard_5" />
@@ -6293,24 +6293,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets>
       <upgrade_target id="NPCCharacter.cla_dacia_elite_standard_6" />
@@ -6477,24 +6477,24 @@
       <face_key_template value="BodyProperty.cla_fighter_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <upgrade_targets> </upgrade_targets>
     <Equipments>

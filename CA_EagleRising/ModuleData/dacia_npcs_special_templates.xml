@@ -199,24 +199,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_merchant_1" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="WandererEquipment" value="1" />
@@ -234,24 +234,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_0b" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -271,24 +271,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_0c" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -308,24 +308,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_0d" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -345,24 +345,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_0e" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -382,24 +382,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_1" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -418,24 +418,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_1b" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -455,24 +455,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_2" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -490,24 +490,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_3" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -525,24 +525,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -561,24 +561,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_5" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <!-- Add skill groups -->
@@ -656,24 +656,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
@@ -691,24 +691,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
@@ -726,24 +726,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
@@ -761,24 +761,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
@@ -796,24 +796,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />
@@ -831,24 +831,24 @@
     </face>
     <!--<Hero id="spc_notable_battania_4" faction="Kingdom.battania" />-->
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Traits>
       <Trait id="CelticHair" value="1" />

@@ -12,24 +12,24 @@
 <BodyProperties version="4" age="22" weight="0.7" build="1"  key="0002C808DA883549FF9FEBFFF7E7EEFEF9F18EFF7F44DF15FEEFEFEE97FE757E00DFB0030DEEEFEE00000000000000000000000000000000000000000DB09105"  />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -58,24 +58,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -100,24 +100,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -148,24 +148,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -189,24 +189,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -235,24 +235,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -276,24 +276,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -320,24 +320,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -361,24 +361,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -403,24 +403,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -444,24 +444,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -488,24 +488,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -529,24 +529,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -571,24 +571,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -612,24 +612,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -656,24 +656,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -697,24 +697,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -738,24 +738,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -779,24 +779,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -821,24 +821,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -862,24 +862,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -903,24 +903,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -944,24 +944,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -986,24 +986,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1027,24 +1027,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1068,24 +1068,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1109,24 +1109,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1151,24 +1151,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1192,24 +1192,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1233,24 +1233,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1274,24 +1274,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1316,24 +1316,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1357,24 +1357,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1398,24 +1398,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1439,24 +1439,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1481,24 +1481,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1522,24 +1522,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1563,24 +1563,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
@@ -1604,24 +1604,24 @@
       <face_key_template value="BodyProperty.cla_villager_dacia" />
     </face>
     <skills>
-      <skill id="OneHanded" value="300" />
-      <skill id="TwoHanded" value="300" />
-      <skill id="Polearm" value="300" />
-      <skill id="Bow" value="300" />
-      <skill id="Crossbow" value="300" />
-      <skill id="Throwing" value="300" />
-      <skill id="Riding" value="300" />
-      <skill id="Athletics" value="300" />
-      <skill id="Crafting" value="300" />
-      <skill id="Tactics" value="300" />
-      <skill id="Scouting" value="300" />
-      <skill id="Roguery" value="300" />
-      <skill id="Leadership" value="300" />
-      <skill id="Charm" value="300" />
-      <skill id="Trade" value="300" />
-      <skill id="Steward" value="300" />
-      <skill id="Medicine" value="300" />
-      <skill id="Engineering" value="300" />
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
     </skills>
     <Equipments>
       <EquipmentRoster>
