@@ -25747,6 +25747,262 @@
     </Equipments>
   </NPCCharacter>
 
+  <!-- Samurai -->
+
+  <NPCCharacter id="samurai_sword"
+                default_group="Infantry"
+                level="26"
+                name="{=CJxF6fky}Samurai Sword"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.katana1" />
+        <equipment slot="Head" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.eastern_studded_leather" />
+        <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
+        <equipment slot="Leg" id="Item.cla_palaic_rough_tied_boots_2" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="samurai_glaive"
+                default_group="Ranged"
+                level="26"
+                name="{=CJxF6fky}Samurai Glaive"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.khuzait_polearm_1_t4" />
+        <equipment slot="Head" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.eastern_studded_leather" />
+        <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
+        <equipment slot="Leg" id="Item.cla_palaic_rough_tied_boots_2" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="samurai_archer"
+                default_group="Cavalry"
+                level="26"
+                name="{=CJxF6fky}Samurai Archer"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.woodland_longbow" />
+        <equipment slot="Item1" id="Item.piercing_arrows" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.katana2" />
+        <equipment slot="Head" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.eastern_studded_leather" />
+        <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
+        <equipment slot="Leg" id="Item.cla_palaic_rough_tied_boots_2" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="samurai_horse_archer"
+                default_group="HorseArcher"
+                level="26"
+                name="{=CJxF6fky}Samurai Horse Archer"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.noble_bow" />
+        <equipment slot="Item1" id="Item.piercing_arrows" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.katana4" />
+        <equipment slot="Head" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.eastern_studded_leather" />
+        <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
+        <equipment slot="Leg" id="Item.cla_palaic_rough_tied_boots_2" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="samurai_horseman"
+                default_group="Skirmisher"
+                level="26"
+                name="{=CJxF6fky}Samurai Horseman"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.khuzait_polearm_1_t4" />
+        <equipment slot="Head" id="Item.plumed_lamellar_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.eastern_studded_leather" />
+        <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
+        <equipment slot="Leg" id="Item.cla_palaic_rough_tied_boots_2" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="samurai_lancer"
+                default_group="HeavyInfantry"
+                level="26"
+                name="{=CJxF6fky}Samurai Lancer"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.vlandia_lance_2_t4" />
+        <equipment slot="Item1" id="Item.greek_steppe_guardian_shield_b" />
+        <equipment slot="Head" id="Item.plumed_nomad_helmet" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Body" id="Item.eastern_studded_leather" />
+        <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
+        <equipment slot="Leg" id="Item.cla_palaic_rough_tied_boots_2" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+
   <!-- #endregion -->
   <!-- #region Vlandia Troops -->
   <NPCCharacter id="vlandian_recruit"

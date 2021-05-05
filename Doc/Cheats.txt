@@ -104,6 +104,15 @@ campaign.give_troops viking_horse_archer 40
 campaign.give_troops viking_horseman 40
 campaign.give_troops viking_lancer 40
 
+# Samurai Faction
+
+campaign.give_troops samurai_sword 40
+campaign.give_troops samurai_glaive 40
+campaign.give_troops samurai_archer 40
+campaign.give_troops samurai_horse_archer 40
+campaign.give_troops samurai_horseman 40
+campaign.give_troops samurai_lancer 40
+
 ========================================================================
 
 Banners:

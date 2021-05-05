@@ -1,0 +1,61 @@
+<!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
+<Items>
+  
+  <CraftedItem id="katana1" name="Black Katana" crafting_template="katana1" culture="Culture.battania">
+    <Pieces>
+      <Piece id="katana_lac_black_blade" Type="Blade" scale_factor="90" />
+      <Piece id="katana_lac_black_guard" Type="Guard" scale_factor="90" />
+      <Piece id="katana_lac_black_handle" Type="Handle" scale_factor="90" />
+      <Piece id="katana_lac_black_pommel" Type="Pommel" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+    <CraftedItem id="katana2" name="Red Katana" crafting_template="katana2" culture="Culture.battania">
+    <Pieces>
+      <Piece id="katana_lac_red_blade" Type="Blade" scale_factor="85" />
+      <Piece id="katana_lac_red_guard" Type="Guard" scale_factor="85" />
+      <Piece id="katana_lac_red_handle" Type="Handle" scale_factor="85" />
+      <Piece id="katana_lac_red_pommel" Type="Pommel" scale_factor="85" />
+    </Pieces>
+  </CraftedItem>
+  
+      <CraftedItem id="katana6" name="Sensei Katana" crafting_template="katana6" culture="Culture.battania">
+    <Pieces>
+      <Piece id="leather_katana_blade" Type="Blade" scale_factor="85" />
+      <Piece id="leather_katana_guard" Type="Guard" scale_factor="85" />
+      <Piece id="leather_katana_handle" Type="Handle" scale_factor="85" />
+      <Piece id="leather_katana_pommel" Type="Pommel" scale_factor="85" />
+    </Pieces>
+  </CraftedItem>
+  
+      <CraftedItem id="katana3" name="Walnut Katana" crafting_template="katana3" culture="Culture.battania">
+    <Pieces>
+      <Piece id="katana_wood_dark_blade" Type="Blade" scale_factor="85" />
+      <Piece id="katana_wood_dark_guard" Type="Guard" scale_factor="85" />
+      <Piece id="katana_wood_dark_handle" Type="Handle" scale_factor="85" />
+      <Piece id="katana_wood_dark_pommel" Type="Pommel" scale_factor="85" />
+    </Pieces>
+  </CraftedItem>
+  
+        <CraftedItem id="katana4" name="Mahogany Katana" crafting_template="katana4" culture="Culture.battania">
+    <Pieces>
+      <Piece id="katana_wood_light_blade" Type="Blade" scale_factor="85" />
+      <Piece id="katana_wood_light_guard" Type="Guard" scale_factor="85" />
+      <Piece id="katana_wood_light_handle" Type="Handle" scale_factor="85" />
+      <Piece id="katana_wood_light_pommel" Type="Pommel" scale_factor="85" />
+    </Pieces>
+  </CraftedItem>
+  
+  
+  
+          <CraftedItem id="ninjato" name="Ninjato" crafting_template="ninjato" culture="Culture.battania">
+    <Pieces>
+      <Piece id="ninjato_blade" Type="Blade" scale_factor="85" />
+      <Piece id="ninjato_guard" Type="Guard" scale_factor="85" />
+      <Piece id="ninjato_handle" Type="Handle" scale_factor="85" />
+      <Piece id="ninjato_pommel" Type="Pommel" scale_factor="85" />
+    </Pieces>
+  </CraftedItem>
+  
+</Items>
+

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Module>
+  <Name value="Katana Sword Pack"/>
+  <Id value="Katana Sword Pack"/>
+  <Version value="v1.1.0.0"/>
+  <SingleplayerModule value="true"/>
+  <MultiplayerModule value="false"/>
+  <DependedModules>
+    <DependedModule Id="Native"/>
+	<DependedModule Id="SandBoxCore"/>
+	<DependedModule Id="Sandbox"/>
+	<DependedModule Id="StoryMode" />
+  </DependedModules>
+  <SubModules>
+  </SubModules>
+  <Xmls>
+		<XmlNode>
+            <XmlName id="Items" path="items"/>
+            <IncludedGameTypes>
+                <Gametype value = "Campaign"/>
+                <Gametype value = "CampaignStoryMode"/>
+		    </IncludedGameTypes>
+        </XmlNode>
+				<XmlNode>
+            <XmlName id="ItemHolsters" path="item_holsters"/>
+            <IncludedGameTypes>
+                <Gametype value = "Campaign"/>
+                <Gametype value = "CampaignStoryMode"/>
+		    </IncludedGameTypes>
+        </XmlNode>
+		<XmlNode>
+            <XmlName id="CraftingPieces" path="crafting_pieces"/>
+            <IncludedGameTypes>
+                <Gametype value = "Campaign"/>
+                <Gametype value = "CampaignStoryMode"/>
+		    </IncludedGameTypes>
+        </XmlNode>
+		<XmlNode>
+			<XmlName id="CraftingTemplates" path="crafting_templates"/>
+		</XmlNode>
+	</Xmls>
+</Module>
