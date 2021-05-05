@@ -4,7 +4,7 @@
 
   <!-- GUARDS -->
 	<!-- LACQUERED KATANAS -->
-  <CraftingPiece id="katana_lac_black_guard" name="Tsuba1" tier="2" piece_type="Guard" mesh="katana_lac_black_guard" culture="Culture.battania" length="1.46" weight="0.21">
+  <CraftingPiece id="katana_lac_black_guard" name="Tsuba1" tier="2" piece_type="Guard" mesh="katana_lac_black_guard" culture="Culture.battania" length="1.46" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="50" previous_piece_offset="0"/>
     <StatContributions armor_bonus="4" />
@@ -12,7 +12,7 @@
       <Material id="Iron3" count="2" />
     </Materials>
   </CraftingPiece>
-   <CraftingPiece id="katana_lac_red_guard" name="Tsuba2" tier="2" piece_type="Guard" mesh="katana_lac_red_guard" culture="Culture.battania" length="1.46" weight="0.21">
+   <CraftingPiece id="katana_lac_red_guard" name="Tsuba2" tier="2" piece_type="Guard" mesh="katana_lac_red_guard" culture="Culture.battania" length="1.46" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="50" previous_piece_offset="0"/>
     <StatContributions armor_bonus="4" />
@@ -22,7 +22,7 @@
   </CraftingPiece>
   
 
-   <CraftingPiece id="leather_katana_guard" name="Tsuba6" tier="2" piece_type="Guard" mesh="leather_katana_guard" culture="Culture.battania" length="1.46" weight="0.21">
+   <CraftingPiece id="leather_katana_guard" name="Tsuba6" tier="2" piece_type="Guard" mesh="leather_katana_guard" culture="Culture.battania" length="1.46" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="50" previous_piece_offset="0"/>
     <StatContributions armor_bonus="4" />
@@ -32,7 +32,7 @@
   </CraftingPiece>
   
 	<!-- WOODEN KATANAS -->
-    <CraftingPiece id="katana_wood_dark_guard" name="Tsuba3" tier="2" piece_type="Guard" mesh="katana_wood_dark_guard" culture="Culture.battania" length="1.46" weight="0.21">
+    <CraftingPiece id="katana_wood_dark_guard" name="Tsuba3" tier="2" piece_type="Guard" mesh="katana_wood_dark_guard" culture="Culture.battania" length="1.46" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="50" previous_piece_offset="0"/>
     <StatContributions armor_bonus="4" />
@@ -41,7 +41,7 @@
     </Materials>
   </CraftingPiece>
   
-      <CraftingPiece id="katana_wood_light_guard" name="Tsuba4" tier="2" piece_type="Guard" mesh="katana_wood_light_guard" culture="Culture.battania" length="1.46" weight="0.21">
+      <CraftingPiece id="katana_wood_light_guard" name="Tsuba4" tier="2" piece_type="Guard" mesh="katana_wood_light_guard" culture="Culture.battania" length="1.46" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="50" previous_piece_offset="0"/>
     <StatContributions armor_bonus="4" />
@@ -56,7 +56,7 @@
   
   
   
-    <CraftingPiece id="ninjato_guard" name="Tsuba5" tier="2" piece_type="Guard" mesh="ninjato_guard" culture="Culture.battania" length="1.46" weight="0.21">
+    <CraftingPiece id="ninjato_guard" name="Tsuba5" tier="2" piece_type="Guard" mesh="ninjato_guard" culture="Culture.battania" length="1.46" weight="0.5">
     <PieceUsages unavailable_usages="" />
     <BuildData next_piece_offset="50" previous_piece_offset="0"/>
     <StatContributions armor_bonus="4" />
@@ -65,35 +65,35 @@
     </Materials>
   </CraftingPiece>
   <!-- BLADES -->
-  <CraftingPiece id="katana_lac_black_blade" name="Katana Blade1" tier="3" piece_type="Blade" mesh="katana_lac_black_blade" culture="Culture.battania" length="200" weight="0.2">
+  <CraftingPiece id="katana_lac_black_blade" name="Katana Blade1" tier="3" piece_type="Blade" mesh="katana_lac_black_blade" culture="Culture.battania" length="200" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_lac_black_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
-    <CraftingPiece id="katana_lac_red_blade" name="Katana Blade2" tier="3" piece_type="Blade" mesh="katana_lac_red_blade" culture="Culture.battania" length="200" weight="0.2">
+    <CraftingPiece id="katana_lac_red_blade" name="Katana Blade2" tier="3" piece_type="Blade" mesh="katana_lac_red_blade" culture="Culture.battania" length="200" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_lac_red_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
   
-      <CraftingPiece id="leather_katana_blade" name="Katana Blade6" tier="3" piece_type="Blade" mesh="leather_katana_blade" culture="Culture.battania" length="200" weight="0.2">
+      <CraftingPiece id="leather_katana_blade" name="Katana Blade6" tier="3" piece_type="Blade" mesh="leather_katana_blade" culture="Culture.battania" length="200" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_leather_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
@@ -101,24 +101,24 @@
   </CraftingPiece>
   
   
-    <CraftingPiece id="katana_wood_dark_blade" name="Katana Blade3" tier="3" piece_type="Blade" mesh="katana_wood_dark_blade" culture="Culture.battania" length="200" weight="0.2">
+    <CraftingPiece id="katana_wood_dark_blade" name="Katana Blade3" tier="3" piece_type="Blade" mesh="katana_wood_dark_blade" culture="Culture.battania" length="200" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_wood_dark_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
     </Materials>
   </CraftingPiece>
   
-      <CraftingPiece id="katana_wood_light_blade" name="Katana Blade4" tier="3" piece_type="Blade" mesh="katana_wood_light_blade" culture="Culture.battania" length="200" weight="0.2">
+      <CraftingPiece id="katana_wood_light_blade" name="Katana Blade4" tier="3" piece_type="Blade" mesh="katana_wood_light_blade" culture="Culture.battania" length="200" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_wood_light_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
@@ -127,12 +127,12 @@
   
   
   
-        <CraftingPiece id="ninjato_blade" name="ninjato Blade" tier="3" piece_type="Blade" mesh="ninjato_blade" culture="Culture.battania" length="200" weight="0.2">
+        <CraftingPiece id="ninjato_blade" name="ninjato Blade" tier="3" piece_type="Blade" mesh="ninjato_blade" culture="Culture.battania" length="200" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="ninjato_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="2.8" />
-      <Swing damage_type="Cut" damage_factor="3.5" />
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
@@ -140,7 +140,7 @@
   </CraftingPiece>
   
   <!-- GRIPS -->
-  <CraftingPiece id="katana_lac_black_handle" name="Katana Handle1" tier="2" piece_type="Handle" mesh="katana_lac_black_handle" culture="Culture.battania" length="35.0" weight="0.20" item_holster_pos_shift="0,0,-0.2">
+  <CraftingPiece id="katana_lac_black_handle" name="Katana Handle1" tier="2" piece_type="Handle" mesh="katana_lac_black_handle" culture="Culture.battania" length="35.0" weight="0.5" item_holster_pos_shift="0,0,-0.2">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="15" previous_piece_offset="20" next_piece_offset="18" />
     <Materials>
@@ -148,7 +148,7 @@
     </Materials>
   </CraftingPiece>
   
-    <CraftingPiece id="katana_lac_red_handle" name="Katana Handle2" tier="2" piece_type="Handle" mesh="katana_lac_red_handle" culture="Culture.battania" length="35.0" weight="0.20" item_holster_pos_shift="0,0,-0.02">
+    <CraftingPiece id="katana_lac_red_handle" name="Katana Handle2" tier="2" piece_type="Handle" mesh="katana_lac_red_handle" culture="Culture.battania" length="35.0" weight="0.5" item_holster_pos_shift="0,0,-0.02">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="15" previous_piece_offset="20" next_piece_offset="18" />
     <Materials>
@@ -156,24 +156,7 @@
     </Materials>
   </CraftingPiece>
   
-      <CraftingPiece id="leather_katana_handle" name="Katana Handle6" tier="2" piece_type="Handle" mesh="leather_katana_handle" culture="Culture.battania" length="35.0" weight="0.20" item_holster_pos_shift="0,0,-0.02">
-    <PieceUsages unavailable_usages="" />
-    <BuildData piece_offset="15" previous_piece_offset="20" next_piece_offset="18" />
-    <Materials>
-      <Material id="Iron5" count="2" />
-    </Materials>
-  </CraftingPiece>
-  
-  
-    <CraftingPiece id="katana_wood_dark_handle" name="Katana Handle3" tier="2" piece_type="Handle" mesh="katana_wood_dark_handle" culture="Culture.battania" length="35.0" weight="0.20" item_holster_pos_shift="0,0,-0.2">
-    <PieceUsages unavailable_usages="" />
-    <BuildData piece_offset="15" previous_piece_offset="20" next_piece_offset="18" />
-    <Materials>
-      <Material id="Iron5" count="2" />
-    </Materials>
-  </CraftingPiece>
-  
-      <CraftingPiece id="katana_wood_light_handle" name="Katana Handle4" tier="2" piece_type="Handle" mesh="katana_wood_light_handle" culture="Culture.battania" length="35.0" weight="0.20" item_holster_pos_shift="0,0,-0.2">
+      <CraftingPiece id="leather_katana_handle" name="Katana Handle6" tier="2" piece_type="Handle" mesh="leather_katana_handle" culture="Culture.battania" length="35.0" weight="0.5" item_holster_pos_shift="0,0,-0.02">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="15" previous_piece_offset="20" next_piece_offset="18" />
     <Materials>
@@ -182,10 +165,27 @@
   </CraftingPiece>
   
   
+    <CraftingPiece id="katana_wood_dark_handle" name="Katana Handle3" tier="2" piece_type="Handle" mesh="katana_wood_dark_handle" culture="Culture.battania" length="35.0" weight="0.5" item_holster_pos_shift="0,0,-0.2">
+    <PieceUsages unavailable_usages="" />
+    <BuildData piece_offset="15" previous_piece_offset="20" next_piece_offset="18" />
+    <Materials>
+      <Material id="Iron5" count="2" />
+    </Materials>
+  </CraftingPiece>
+  
+      <CraftingPiece id="katana_wood_light_handle" name="Katana Handle4" tier="2" piece_type="Handle" mesh="katana_wood_light_handle" culture="Culture.battania" length="35.0" weight="0.5" item_holster_pos_shift="0,0,-0.2">
+    <PieceUsages unavailable_usages="" />
+    <BuildData piece_offset="15" previous_piece_offset="20" next_piece_offset="18" />
+    <Materials>
+      <Material id="Iron5" count="2" />
+    </Materials>
+  </CraftingPiece>
   
   
   
-        <CraftingPiece id="ninjato_handle" name="ninjato Handle" tier="2" piece_type="Handle" mesh="ninjato_handle" culture="Culture.battania" length="35.0" weight="0.20" item_holster_pos_shift="0,0,-0.2">
+  
+  
+        <CraftingPiece id="ninjato_handle" name="ninjato Handle" tier="2" piece_type="Handle" mesh="ninjato_handle" culture="Culture.battania" length="35.0" weight="0.5" item_holster_pos_shift="0,0,-0.2">
     <PieceUsages unavailable_usages="" />
     <BuildData piece_offset="15" previous_piece_offset="20" next_piece_offset="18" />
     <Materials>
@@ -193,7 +193,7 @@
     </Materials>
   </CraftingPiece>
   <!-- POMMELS -->
-  <CraftingPiece id="katana_lac_black_pommel" name="Katana Pommel" tier="2" piece_type="Pommel" mesh="katana_lac_black_pommel" culture="Culture.battania" length="5.0" weight="0.2">
+  <CraftingPiece id="katana_lac_black_pommel" name="Katana Pommel" tier="2" piece_type="Pommel" mesh="katana_lac_black_pommel" culture="Culture.battania" length="5.0" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData next_piece_offset="0" />
     <Materials>
@@ -201,7 +201,7 @@
     </Materials>
   </CraftingPiece>
   
-    <CraftingPiece id="katana_lac_red_pommel" name="Katana Pomme2" tier="2" piece_type="Pommel" mesh="katana_lac_red_pommel" culture="Culture.battania" length="5.0" weight="0.2">
+    <CraftingPiece id="katana_lac_red_pommel" name="Katana Pomme2" tier="2" piece_type="Pommel" mesh="katana_lac_red_pommel" culture="Culture.battania" length="5.0" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData next_piece_offset="0" />
     <Materials>
@@ -209,24 +209,7 @@
     </Materials>
   </CraftingPiece>
   
-      <CraftingPiece id="leather_katana_pommel" name="Katana Pomme6" tier="2" piece_type="Pommel" mesh="leather_katana_pommel" culture="Culture.battania" length="5.0" weight="0.2">
-    <PieceUsages unavailable_usages="" />
-	<BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron2" count="1" />
-    </Materials>
-  </CraftingPiece>
-  
-  
-    <CraftingPiece id="katana_wood_dark_pommel" name="Katana Pomme3" tier="2" piece_type="Pommel" mesh="katana_wood_dark_pommel" culture="Culture.battania" length="5.0" weight="0.2">
-    <PieceUsages unavailable_usages="" />
-	<BuildData next_piece_offset="0" />
-    <Materials>
-      <Material id="Iron2" count="1" />
-    </Materials>
-  </CraftingPiece>
-  
-    <CraftingPiece id="katana_wood_light_pommel" name="Katana Pomme4" tier="2" piece_type="Pommel" mesh="katana_wood_light_pommel" culture="Culture.battania" length="5.0" weight="0.2">
+      <CraftingPiece id="leather_katana_pommel" name="Katana Pomme6" tier="2" piece_type="Pommel" mesh="leather_katana_pommel" culture="Culture.battania" length="5.0" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData next_piece_offset="0" />
     <Materials>
@@ -235,10 +218,27 @@
   </CraftingPiece>
   
   
+    <CraftingPiece id="katana_wood_dark_pommel" name="Katana Pomme3" tier="2" piece_type="Pommel" mesh="katana_wood_dark_pommel" culture="Culture.battania" length="5.0" weight="0.5">
+    <PieceUsages unavailable_usages="" />
+	<BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron2" count="1" />
+    </Materials>
+  </CraftingPiece>
+  
+    <CraftingPiece id="katana_wood_light_pommel" name="Katana Pomme4" tier="2" piece_type="Pommel" mesh="katana_wood_light_pommel" culture="Culture.battania" length="5.0" weight="0.5">
+    <PieceUsages unavailable_usages="" />
+	<BuildData next_piece_offset="0" />
+    <Materials>
+      <Material id="Iron2" count="1" />
+    </Materials>
+  </CraftingPiece>
   
   
   
-      <CraftingPiece id="ninjato_pommel" name="ninjato Pommel" tier="2" piece_type="Pommel" mesh="ninjato_pommel" culture="Culture.battania" length="5.0" weight="0.2">
+  
+  
+      <CraftingPiece id="ninjato_pommel" name="ninjato Pommel" tier="2" piece_type="Pommel" mesh="ninjato_pommel" culture="Culture.battania" length="5.0" weight="0.5">
     <PieceUsages unavailable_usages="" />
 	<BuildData next_piece_offset="0" />
     <Materials>
