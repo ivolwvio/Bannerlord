@@ -33,6 +33,7 @@ Fire Arrow Enabler
 Sparta
 VlandianKnightsLances
 Katana Sword Pack
+Tetsojin
 
 # Additional mods that are not displayed above:
 
