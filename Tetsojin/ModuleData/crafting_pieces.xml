@@ -1,0 +1,249 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CraftingPieces>
+  
+  <CraftingPiece id="default_katana_guard" name="{=koX9okuG}None" tier="1" piece_type="Guard" mesh=""  length="0" weight="0" is_default="true">
+    <PieceUsages unavailable_usages="" />
+  </CraftingPiece> 
+  
+  <CraftingPiece id="default_polearm_guard" name="{=koX9okuG}None" tier="1" piece_type="Guard" mesh=""  length="0" weight="0" is_default="true">
+    <PieceUsages unavailable_usages="" />
+  </CraftingPiece>
+  
+  <CraftingPiece id="tetsubo" name="Tetsubo Mace" tier="4" piece_type="Blade" mesh="tetsubo" length="92.4" weight="3.0" full_scale="true" excluded_item_usage_features="thrust" >
+    <PieceUsages unavailable_usages="" />
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Swing damage_type="Blunt" damage_factor="0.4" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron2" count="5" />
+    </Materials>
+	<Flags>
+	  <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+  </CraftingPiece>
+  
+  <CraftingPiece id="chokuto_blade" name="Thamaskene Steel Chokuto Blade" tier="5" piece_type="Blade" mesh="chokuto_blade"  length="92.4" weight="1.02">
+    <PieceUsages unavailable_usages="" />
+    <StatContributions handling_bonus="10" swing_damage_bonus="1" swing_speed_bonus="1" thrust_damage_bonus="1" thrust_speed_bonus="15" />
+	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_11_scabbard_11">
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="2" />
+	  <Material id="Iron1" count="5" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="chokuto_blade_b" name="Noble's Chokuto Blade" tier="5" piece_type="Blade" mesh="royal_chokuto"  length="92.4" weight="1.02">
+    <PieceUsages unavailable_usages="" />
+    <StatContributions handling_bonus="10" swing_damage_bonus="1" swing_speed_bonus="10" thrust_damage_bonus="10" thrust_speed_bonus="15" />
+	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_11_scabbard_11">
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
+    </BladeData>
+    <Materials>
+      <Material id="Iron5" count="4" />
+	  <Material id="Iron1" count="5" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="katana_a" name="Fine Steel Katana Blade" tier="5" piece_type="Blade" mesh="fine_steel_katana"  length="92.4" weight="0.94">
+    <PieceUsages unavailable_usages="" />
+    <StatContributions handling_bonus="10" swing_damage_bonus="15" swing_speed_bonus="5" thrust_damage_bonus="1" thrust_speed_bonus="1" />
+	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="katana_sheathe">
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
+    </BladeData>
+    <Flags>
+	<Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron5" count="2" />
+	  <Material id="Iron1" count="5" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="katana_b" name="Noble's Katana Blade" tier="5" piece_type="Blade" mesh="royal_katana"  length="92.4" weight="0.94">
+    <PieceUsages unavailable_usages="" />
+    <StatContributions handling_bonus="10" swing_damage_bonus="15" swing_speed_bonus="20" thrust_damage_bonus="1" thrust_speed_bonus="15" />
+	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="katana_sheathe">
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="0.4" />
+    </BladeData>
+    <Flags>
+	<Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron5" count="4" />
+	  <Material id="Iron1" count="5" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="katana_z" name="Katana Blade Sheath" tier="1" piece_type="Blade" mesh="katana_sheathe"  length="92.4" weight="1">
+    <PieceUsages unavailable_usages="TwoHandedPolearm_Bracing:TwoHandedPolearm_Couchable" />
+    <StatContributions handling_bonus="25" swing_speed_bonus="17" thrust_speed_bonus="17" />
+	<BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_sword_one_handed" holster_mesh="">
+      <Thrust damage_type="Blunt" damage_factor="0.4" />
+      <Swing damage_type="Blunt" damage_factor="0.4" />
+    </BladeData>
+    <Flags>
+	 <Flag name="NoBlood" />
+	 <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Wood" count="1" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="katana_guard" name="Decorated Guard" tier="5" piece_type="Guard" mesh="katana_guard_gold"  length="3.6" weight="0.18">
+    <PieceUsages unavailable_usages="" />
+    <BuildData next_piece_offset="0.5" />
+    <StatContributions armor_bonus="5" />
+    <StatContributions handling_bonus="7" swing_damage_bonus="1" swing_speed_bonus="5" thrust_damage_bonus="1" thrust_speed_bonus="15" />
+	<Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+	<Materials>
+      <Material id="Iron5" count="2" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="katana_guard_0" name="Noble Katana Guard" tier="5" piece_type="Guard" mesh="lord_katana_guard"  length="3.6" weight="0.18">
+    <PieceUsages unavailable_usages="" />
+	<BuildData next_piece_offset="0.5" />
+    <StatContributions armor_bonus="15" />
+    <StatContributions handling_bonus="15" swing_damage_bonus="5" swing_speed_bonus="15" thrust_damage_bonus="1" thrust_speed_bonus="15" />
+	<Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+	<Materials>
+      <Material id="Iron5" count="3" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="katana_guard_1" name="Simple Steel Guard" tier="5" piece_type="Guard" mesh="simple_katana_guard1"  length="0.8" weight="0.18">
+    <PieceUsages unavailable_usages="" />
+	<BuildData next_piece_offset="0.5" />
+    <StatContributions armor_bonus="10" />
+    <StatContributions handling_bonus="7" swing_damage_bonus="15" swing_speed_bonus="5" thrust_damage_bonus="5" thrust_speed_bonus="1" />
+	<Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+	<Materials>
+      <Material id="Iron5" count="2" />
+    </Materials>
+  </CraftingPiece>
+    
+  <CraftingPiece id="katana_guard_2" name="Simple Steel Guard" tier="5" piece_type="Guard" mesh="simple_katana_guard2"  length="0.8" weight="0.18">
+    <PieceUsages unavailable_usages="" />
+	<BuildData next_piece_offset="0.5" />
+    <StatContributions armor_bonus="10" />
+    <StatContributions handling_bonus="7" swing_damage_bonus="15" swing_speed_bonus="5" thrust_damage_bonus="1" thrust_speed_bonus="1" />
+	<Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+	<Materials>
+      <Material id="Iron5" count="2" />
+    </Materials>
+  </CraftingPiece>
+      
+  <CraftingPiece id="katana_guard_3" name="Simple Steel Guard" tier="5" piece_type="Guard" mesh="simple_katana_guard3"  length="0.8" weight="0.18">
+    <PieceUsages unavailable_usages="" />
+	<BuildData next_piece_offset="0.5" />
+    <StatContributions armor_bonus="10" />
+    <StatContributions handling_bonus="7" swing_damage_bonus="1" swing_speed_bonus="1" thrust_damage_bonus="15" thrust_speed_bonus="5" />
+	<Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+	<Materials>
+      <Material id="Iron5" count="2" />
+    </Materials>
+  </CraftingPiece>
+  
+
+<CraftingPiece id="nagamaki_handle" name="Handle" tier="5" piece_type="Handle" mesh="nagamaki_handle"  length="90.4" weight="0.5" excluded_item_usage_features="widegrip">
+    <PieceUsages unavailable_usages="OneHandedSword:Mace" />
+    <StatContributions handling_bonus="15" swing_damage_bonus="1" swing_speed_bonus="5" thrust_damage_bonus="1" thrust_speed_bonus="5" />
+	<BuildData piece_offset="29.9" />
+    <Flags>
+    </Flags>
+	<Materials>
+      <Material id="Iron4" count="3" />
+    </Materials>
+  </CraftingPiece>
+
+  <CraftingPiece id="katana_hilt" name="Gripped Hilt" tier="5" piece_type="Handle" mesh="simple_hilt"  length="32" weight="0.5">
+    <PieceUsages unavailable_usages="TwoHandedMace" />
+    <StatContributions handling_bonus="7" swing_damage_bonus="1" swing_speed_bonus="5" thrust_damage_bonus="1" thrust_speed_bonus="15" />
+	<BuildData piece_offset="-0.18" next_piece_offset="-0.15" previous_piece_offset="0.4" />
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+	<Materials>
+      <Material id="Iron3" count="4" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="yari" name="Yari Blade" tier="5" piece_type="Blade" mesh="naginata"  length="91.3" weight="0.5"  excluded_item_usage_features="swing">
+    <PieceUsages unavailable_usages="" />
+    <StatContributions handling_bonus="7" thrust_damage_bonus="1" thrust_speed_bonus="15" />
+	<BuildData previous_piece_offset="-0.4" />
+    <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
+      <Thrust damage_type="Pierce" damage_factor="0.4" />
+    </BladeData>
+    <Flags>
+      <Flag name="CanDismount" />
+	  <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron2" count="3" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="naginata" name="Naginata Blade" tier="5" piece_type="Blade" mesh="naginata_2"  length="47.8" weight="0.5" >
+    <PieceUsages unavailable_usages="TwoHandedPolearm_Bracing:TwoHandedPolearm_Couchable:OneHandedPolearm" />
+    <StatContributions handling_bonus="25" swing_speed_bonus="30" />
+	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Swing damage_type="Cut" damage_factor="0.4" />
+	  <Thrust damage_type="Cut" damage_factor="0.4" />
+    </BladeData>
+    <Flags>
+      <Flag name="BonusAgainstShield"  />
+	  <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron5" count="3" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="naginata_a" name="Royal Naginata Blade" tier="5" piece_type="Blade" mesh="royal_naginata"  length="47.8" weight="0.5" >
+    <PieceUsages unavailable_usages="TwoHandedPolearm_Bracing:TwoHandedPolearm_Couchable:OneHandedPolearm" />
+    <StatContributions handling_bonus="25" swing_speed_bonus="30" />
+	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
+      <Swing damage_type="Cut" damage_factor="0.4" />
+	  <Thrust damage_type="Cut" damage_factor="0.4" />
+    </BladeData>
+    <Flags>
+      <Flag name="BonusAgainstShield"  />
+	  <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+    <Materials>
+      <Material id="Iron5" count="5" />
+    </Materials>
+  </CraftingPiece>
+  
+  <CraftingPiece id="spear_handle_z" name="Polearm Spear Shaft" tier="4" piece_type="Handle" mesh="advance_polearm_handle" length="260" weight="0.5"  >
+    <StatContributions handling_bonus="15" swing_speed_bonus="45" thrust_speed_bonus="15" />
+	<PieceUsages unavailable_usages="Javelin" />
+    <BuildData piece_offset="22.9" />
+    <Flags>
+      <Flag name="Civilian" type="ItemFlags" />
+    </Flags>
+	<Materials>
+      <Material id="Wood" count="1" />
+    </Materials>
+  </CraftingPiece>
+  
+  
+</CraftingPieces>

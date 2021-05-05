@@ -1,0 +1,568 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <NPCCharacter id="tetsojin_bandits_bandit" default_group="Infantry" name="Tetsojin Rogue" level="11" occupation="Bandit" culture="Culture.tetsojin_bandits">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+	<upgrade_targets>
+		<upgrade_target id="NPCCharacter.tetsojin_bandits_raider" />
+		<upgrade_target id="NPCCharacter.tetsojin_spearman" />
+	</upgrade_targets>
+    <Equipments>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.recruit_armor" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_pitchfork_1_t1" />
+      <equipment slot="Body"
+                 id="Item.samurai_bandit_plate_e" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_polearm_1_t1" />
+      <equipment slot="Body"
+                 id="Item.recruit_armor" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.recruit_armor" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.samurai_bandit_plate_e" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      </EquipmentRoster>
+	  
+	<EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.peasant_2haxe_1_t1" />
+      <equipment slot="Item2" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hammer_1_t1" />
+      <equipment slot="Item2" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v2" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.seax" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_leather_water_flask" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Gloves" id="Item.armwraps" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hammer_2_t1" />
+      <equipment slot="Body" id="Item.vlandia_bandit_c" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Head" id="Item.wrapped_headcloth" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hammer_2_t1" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.torn_bandit_clothes" />
+      <equipment slot="Leg" id="Item.leather_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_pickaxe_1_t1" />
+      <equipment slot="Body" id="Item.bandit_gambeson" />
+      <equipment slot="Leg" id="Item.leather_shoes" />
+      <equipment slot="Head" id="Item.pilgrim_hood" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Item2" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Head" id="Item.pilgrim_hood" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.falchion_sword_t2" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v2" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.vlandia_mace_1_t2" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_leather_water_flask" />
+      <equipment slot="Head" id="Item.pilgrim_hood" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Gloves" id="Item.armwraps" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_pitchfork_2_t1" />
+      <equipment slot="Body" id="Item.vlandia_bandit_c" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Head" id="Item.wrapped_headcloth" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.small_spurred_axe_t2" />
+      <equipment slot="Body" id="Item.torn_bandit_clothes" />
+      <equipment slot="Leg" id="Item.leather_shoes" />
+      <equipment slot="Head" id="Item.wrapped_headcloth" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hammer_1_t1" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_gambeson" />
+      <equipment slot="Leg" id="Item.leather_shoes" />
+      <equipment slot="Head" id="Item.wrapped_headcloth" />
+    </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tetsojin_bandits_raider" default_group="Infantry" name="Tetsojin Trained Rogue" level="16" occupation="Bandit" culture="Culture.tetsojin_bandits">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+		<upgrade_target id="NPCCharacter.tetsojin_bandits_chief" />
+		<upgrade_target id="NPCCharacter.tetsojin_trained_spearman" />
+	</upgrade_targets>
+    <Equipments>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.chokuto_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_bandit_plate_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Gloves"
+                 id="Item.buttoned_leather_bracers" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.katana_a" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Gloves"
+                 id="Item.buttoned_leather_bracers" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.short_spear" />
+      <equipment slot="Body"
+                 id="Item.recruit_armor" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Gloves"
+                 id="Item.steppe_leather_vambraces" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.long_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_bandit_plate_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.long_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.short_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.khuzait_sword_2_t3" />
+      <equipment slot="Body"
+                 id="Item.samurai_bandit_plate_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item2"
+                 id="Item.chokuto_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item2"
+                 id="Item.katana_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_bandit_plate_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item2"
+                 id="Item.long_spear" />
+      <equipment slot="Body"
+                 id="Item.samurai_bandit_plate_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+	<EquipmentRoster civilian="true">
+      <equipment slot="Item0" id="Item.peasant_2haxe_1_t1" />
+      <equipment slot="Item2" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hammer_1_t1" />
+      <equipment slot="Item2" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v2" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.seax" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_leather_water_flask" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Gloves" id="Item.armwraps" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hammer_2_t1" />
+      <equipment slot="Body" id="Item.vlandia_bandit_c" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Head" id="Item.wrapped_headcloth" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hammer_2_t1" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.torn_bandit_clothes" />
+      <equipment slot="Leg" id="Item.leather_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_pickaxe_1_t1" />
+      <equipment slot="Body" id="Item.bandit_gambeson" />
+      <equipment slot="Leg" id="Item.leather_shoes" />
+      <equipment slot="Head" id="Item.pilgrim_hood" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Item2" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Head" id="Item.pilgrim_hood" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.falchion_sword_t2" />
+      <equipment slot="Body" id="Item.bandit_envelope_dress_v2" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.vlandia_mace_1_t2" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_leather_water_flask" />
+      <equipment slot="Head" id="Item.pilgrim_hood" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Gloves" id="Item.armwraps" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_pitchfork_2_t1" />
+      <equipment slot="Body" id="Item.vlandia_bandit_c" />
+      <equipment slot="Leg" id="Item.wrapped_shoes" />
+      <equipment slot="Head" id="Item.wrapped_headcloth" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.small_spurred_axe_t2" />
+      <equipment slot="Body" id="Item.torn_bandit_clothes" />
+      <equipment slot="Leg" id="Item.leather_shoes" />
+      <equipment slot="Head" id="Item.wrapped_headcloth" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+      <equipment slot="Item0" id="Item.peasant_hammer_1_t1" />
+      <equipment slot="Item1" id="Item.throwing_stone" />
+      <equipment slot="Body" id="Item.bandit_gambeson" />
+      <equipment slot="Leg" id="Item.leather_shoes" />
+      <equipment slot="Head" id="Item.wrapped_headcloth" />
+    </EquipmentRoster>
+	<equipment slot="Item3"
+                 id="Item.samurai_javelin" />
+	  <equipment slot="Item2"
+                 id="Item.samurai_shield" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tetsojin_bandits_chief" default_group="HorseArcher" name="Tetsojin Rogue Trainer" upgrade_requires="ItemCategory.war_horse" level="21" occupation="Bandit" culture="Culture.tetsojin_bandits">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+		<upgrade_target id="NPCCharacter.tetsojin_omoi_yumi_kihei" />
+		<upgrade_target id="NPCCharacter.tetsojin_kanabo_master" />
+	</upgrade_targets>
+	<Equipments>
+	<EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item3"
+                 id="Item.kanabo" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item3"
+                 id="Item.kanabo" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+	
+      <equipment slot="Item2"
+                 id="Item.katana_c" />
+	  <equipment slot="Horse"
+               id="Item.t2_khuzait_horse" />
+    <equipment slot="HorseHarness"
+               id="Item.steppe_harness" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tetsojin_bandits_boss" default_group="HorseArcher" name="Tetsojin Rogue Boss" upgrade_requires="ItemCategory.war_horse" level="26" occupation="Bandit" culture="Culture.tetsojin_bandits">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+	<EquipmentRoster civilian="true">
+	  <equipment slot="Item1"
+                 id="Item.kanabo" />
+	  <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+	  <equipment slot="Item3"
+                 id="Item.yumi" />
+	  <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_a_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	<equipment slot="Horse"
+               id="Item.t2_khuzait_horse" />
+    <equipment slot="HorseHarness"
+               id="Item.steppe_harness" />
+    </EquipmentRoster>
+    <EquipmentRoster>
+	<equipment slot="Item1"
+                 id="Item.kanabo" />
+	  <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+	  <equipment slot="Item3"
+                 id="Item.yumi" />
+	  <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_a_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	<equipment slot="Horse"
+               id="Item.t2_khuzait_horse" />
+    <equipment slot="HorseHarness"
+               id="Item.steppe_harness" />
+    </EquipmentRoster>
+	<equipment slot="Horse"
+               id="Item.t2_khuzait_horse" />
+    <equipment slot="HorseHarness"
+               id="Item.steppe_harness" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

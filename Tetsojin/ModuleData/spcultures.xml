@@ -1,0 +1,202 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SPCultures>
+  <Culture id="tetsojin"
+           name="{=tetsojin}Tetsojin"
+           is_main_culture="true"
+           color="0xffe7d3ba"
+           color2="0xffD22D33"
+           elite_basic_troop="NPCCharacter.tetsojin_kizoku_musuko"
+           basic_troop="NPCCharacter.tetsojin_recruit"
+           melee_militia_troop="NPCCharacter.tetsojin_militia_spearman"
+           ranged_militia_troop="NPCCharacter.tetsojin_militia_archer"
+           melee_elite_militia_troop="NPCCharacter.tetsojin_militia_veteran_spearman"
+           ranged_elite_militia_troop="NPCCharacter.tetsojin_militia_veteran_archer"
+           can_have_settlement="true"
+           town_edge_number="4"
+		   militia_bonus="2"
+		   loyalty_bonus="2"
+           villager_party_template="PartyTemplate.villager_tetsojin_template"
+           default_party_template="PartyTemplate.kingdom_hero_party_tetsojin_template"
+           encounter_background_mesh="encounter_khuzait"
+           elite_caravan_party_template="PartyTemplate.elite_caravan_template_tetsojin"
+           caravan_party_template="PartyTemplate.caravan_template_tetsojin"
+           militia_party_template="PartyTemplate.militia_tetsojin_template"
+           rebels_party_template="PartyTemplate.rebels_tetsojin_template"
+           default_face_key="000fa92e90004202aced5d976886573d5d679585a376fdd605877a7764b8987c00000000000007520000037f0000000f00000037049140010000000000000000"
+           text="Another branch of khuzaits from a foreign land, only the elite can ride on horseback. They rival battanians in two handed sword fights and rivals the khuzait in horse archery, but because they are specialize with such weapons."
+           tournament_master="NPCCharacter.tournament_master_tetsojin"
+           villager="NPCCharacter.villager_tetsojin"
+           caravan_master="NPCCharacter.caravan_master_tetsojin"
+           armed_trader="NPCCharacter.armed_trader_tetsojin"
+           caravan_guard="NPCCharacter.caravan_guard_tetsojin"
+           veteran_caravan_guard="NPCCharacter.veteran_caravan_guard_tetsojin"
+           duel_preset="NPCCharacter.tetsojin_duel_preset"
+           prison_guard="NPCCharacter.prison_guard_tetsojin"
+           guard="NPCCharacter.guard_tetsojin"
+           steward="NPCCharacter.steward_tetsojin"
+           blacksmith="NPCCharacter.blacksmith_tetsojin"
+           weaponsmith="NPCCharacter.weaponsmith_tetsojin"
+           townswoman="NPCCharacter.townswoman_tetsojin"
+           townswoman_infant="NPCCharacter.townswoman_infant_tetsojin"
+           townswoman_child="NPCCharacter.townswoman_child_tetsojin"
+           townswoman_teenager="NPCCharacter.townswoman_teenager_tetsojin"
+           townsman="NPCCharacter.townsman_tetsojin"
+           townsman_infant="NPCCharacter.townsman_infant_tetsojin"
+           townsman_child="NPCCharacter.townsman_child_tetsojin"
+           townsman_teenager="NPCCharacter.townsman_teenager_tetsojin"
+           village_woman="NPCCharacter.village_woman_tetsojin"
+           villager_male_child="NPCCharacter.villager_child_tetsojin"
+           villager_male_teenager="NPCCharacter.villager_teenager_tetsojin"
+           villager_female_child="NPCCharacter.village_woman_child_tetsojin"
+           villager_female_teenager="NPCCharacter.village_woman_teenager_tetsojin"
+           ransom_broker="NPCCharacter.ransom_broker_tetsojin"
+           gangleader_bodyguard="NPCCharacter.gangleader_bodyguard_tetsojin"
+           merchant_notary="NPCCharacter.merchant_notary_tetsojin"
+           artisan_notary="NPCCharacter.artisan_notary_tetsojin"
+           preacher_notary="NPCCharacter.preacher_notary_tetsojin"
+           rural_notable_notary="NPCCharacter.rural_notable_notary_tetsojin"
+           shop_worker="NPCCharacter.shop_worker_tetsojin"
+           tavernkeeper="NPCCharacter.tavernkeeper_tetsojin"
+           taverngamehost="NPCCharacter.taverngamehost_tetsojin"
+           musician="NPCCharacter.musician_tetsojin"
+           tavern_wench="NPCCharacter.tavern_wench_tetsojin"
+           armorer="NPCCharacter.armorer_tetsojin"
+           horseMerchant="NPCCharacter.horseMerchant_tetsojin"
+           barber="NPCCharacter.barber_tetsojin"
+           merchant="NPCCharacter.merchant_tetsojin"
+           beggar="NPCCharacter.beggar_tetsojin"
+           female_beggar="NPCCharacter.female_beggar_tetsojin"
+           female_dancer="NPCCharacter.female_dancer_tetsojin"
+           gear_practice_dummy="NPCCharacter.gear_practice_dummy_tetsojin"
+           weapon_practice_stage_1="NPCCharacter.weapon_practice_stage_1_tetsojin"
+           weapon_practice_stage_2="NPCCharacter.weapon_practice_stage_2_tetsojin"
+           weapon_practice_stage_3="NPCCharacter.weapon_practice_stage_3_tetsojin"
+           gear_dummy="NPCCharacter.gear_dummy_tetsojin"
+           board_game_type="Puluc">
+    <male_names>
+      <name name="Toyotomi" />
+      <name name="Akechi" />
+      <name name="Ishida" />
+      <name name="Takkeda" />
+      <name name="Saigō" />
+      <name name="Hideyoshi" />
+	  <name name="Hanzō" />
+      <name name="Yoshinobu" />
+      <name name="Masamune" />
+      <name name="Murasame" />
+      <name name="Oda" />
+      <name name="Katsuyori" />
+	  <name name="Akuson" />
+	  <name name="Makoto" />
+	  <name name="Takemuro" />
+	  <name name="Arasaki" />
+<name name="Amunon" />
+<name name="Arenikosu" />
+<name name="Arakan" />
+<name name="Arata" />
+<name name="Botan" />
+<name name="Daichi" />
+<name name="Daisuke" />
+<name name="Eichi" />
+<name name="Eiko" />
+<name name="Chizu" />
+<name name="Cho" />
+<name name="Dai" />
+<name name="Ena" />
+    </male_names>
+    <female_names>
+      <name name="Sanada" />
+      <name name="Torii" />
+      <name name="Hosokawa" />
+      <name name="Miho" />
+      <name name="Tomoe" />
+      <name name="Mitsunarii" />
+      <name name="Yukimori" />
+	  <name name="Chiyo" />
+<name name="Chitose" />
+<name name="Chikako" />
+<name name="Chinami" />
+<name name="Chika" />
+<name name="Chiharu" />
+<name name="Chieko" />
+<name name="Chiasa" />
+<name name="Bunko" />
+<name name="Azumi" />
+<name name="Azami" />
+<name name="Ayumi" />
+<name name="Annaisha" />
+<name name="Anka" />
+<name name="Aika" />
+<name name="Anzu" />
+<name name="Ena" />
+<name name="Emiko" />
+<name name="Den" />
+<name name="Eiko" />
+<name name="Daitan" />
+    </female_names>
+    <clan_names>
+	  <name name="Otomo" />
+	  <name name="Choichi" />
+	  <name name="Senso" />
+	  <name name="Furiko" />
+	  <name name="Gungka" />
+	  <name name="Choichi" />
+	  <name name="Chiharu" />
+	  <name name="Mihu" />
+      <name name="Nokamikuchiku" />
+      <name name="Jikotoshikuru" />
+      <name name="Hosokawa" />
+      <name name="Takemura" />
+      <name name="Takeshi" />
+      <name name="Akatsuki" />
+      <name name="Suki" />
+      <name name="Tetsu" />
+      <name name="Huranaga" />
+      <name name="Tomoe" />
+    </clan_names>
+    <possible_clan_banner_icon_ids>
+      <icon id="422" />
+      <icon id="454" />
+      <icon id="500" />
+      <icon id="525" />
+      <icon id="532" />
+      <icon id="530" />
+      <icon id="526" />
+      <icon id="459" />
+      <icon id="451" />
+      <icon id="433" />
+      <icon id="412" />
+      <icon id="422" />
+      <icon id="223" />
+      <icon id="217" />
+    </possible_clan_banner_icon_ids>
+    <tournament_team_templates_one_participant>
+      <template name="NPCCharacter.tournament_template_tetsojin_one_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_tetsojin_one_participant_set_v2" />
+    </tournament_team_templates_one_participant>
+    <tournament_team_templates_two_participant>
+      <template name="NPCCharacter.tournament_template_tetsojin_two_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_tetsojin_two_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_tetsojin_two_participant_set_v3" />
+    </tournament_team_templates_two_participant>
+    <tournament_team_templates_four_participant>
+      <template name="NPCCharacter.tournament_template_tetsojin_four_participant_set_v1" />
+      <template name="NPCCharacter.tournament_template_tetsojin_four_participant_set_v2" />
+      <template name="NPCCharacter.tournament_template_tetsojin_four_participant_set_v3" />
+    </tournament_team_templates_four_participant>
+  </Culture>
+  
+  <Culture id="tetsojin_bandits"
+           name="Tetsojin Bandits"
+           bandit_chief="NPCCharacter.tetsojin_bandits_chief"
+           bandit_raider="NPCCharacter.tetsojin_bandits_raider"
+           bandit_bandit="NPCCharacter.tetsojin_bandits_bandit"
+           bandit_boss="NPCCharacter.tetsojin_bandits_boss"
+           elite_basic_troop="NPCCharacter.tetsojin_bandits_raider"
+           basic_troop="NPCCharacter.tetsojin_bandits_bandit"
+           is_bandit="true"
+           can_have_settlement="true"
+           encounter_background_mesh="encounter_desert_bandits"
+           bandit_boss_party_template="PartyTemplate.tetsojin_bandits_boss_party_template" />
+
+</SPCultures>

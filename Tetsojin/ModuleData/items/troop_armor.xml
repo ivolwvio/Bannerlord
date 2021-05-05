@@ -1,0 +1,157 @@
+<!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
+<Items>
+
+
+<Item id="samurai_lamellar_e" name="Tetsojin Lamellar Armor" mesh="samurai_d_armor" subtype="body_armor" culture="Culture.tetsojin" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+
+<Item id="samurai_plate_e" name="Tetsojin Plate Armor" mesh="samurai_a_armor" subtype="body_armor" culture="Culture.tetsojin" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_bandit_plate_e" name="Tetsojin Sleeveless Plate Armor" mesh="samurai_a_armor_sleeveless" subtype="body_armor" culture="Culture.tetsojin" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="5" leg_armor="1" has_gender_variations="false" covers_body="false" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_elite_plate_e" name="Tetsojin Elite Plate Armor" mesh="samurai_a_armor" subtype="body_armor" culture="Culture.tetsojin" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+
+<Item id="samurai_plate_flag_e" name="Tetsojin Plate Armor" mesh="samurai_a_armor_flag" subtype="body_armor" culture="Culture.tetsojin" weight="21.50" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+
+<Item id="samurai_a_helmet_e" name="Tetsojin Plate Helmet" mesh="samurai_a_helmet" culture="Culture.tetsojin" subtype="head_armor" weight="3.7" difficulty="0" appearance="3.8" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="true" hair_cover_type="type2" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_a_boots_e" name="Tetsojin Light Plate Boots" mesh="samurai_a_boots" culture="Culture.tetsojin" weight="3.5" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="1" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+
+<Item id="samurai_b_boots_e" name="Tetsojin Boots" mesh="samurai_b_boots" culture="Culture.tetsojin" weight="1.5" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="1" covers_legs="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+<Item id="samurai_d_boots_e" name="Tetsojin Heavy Plate Boots" mesh="samurai_d_boots" culture="Culture.tetsojin" weight="4.5" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="1" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_a_gloves_e" name="Tetsojin Plate Gauntlets" mesh="samurai_a_gloves" culture="Culture.tetsojin" weight="1.8" appearance="3" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="1" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_a_shoulders_e" name="Tetsojin Plate Shoulders" mesh="samurai_a_shoulders" culture="Culture.tetsojin" weight="3.5" appearance="3" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="5" arm_armor="1" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_d_shoulders_e" name="Tetsojin Lamellar Shoulders" mesh="samurai_d_shoulder" culture="Culture.tetsojin" weight="3.5" appearance="3" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="5" arm_armor="1" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_archer_helmet_e" name="Tetsojin High Plate Helmet" mesh="samurai_archer_helmet" culture="Culture.tetsojin" subtype="head_armor" weight="3.7" difficulty="0" appearance="3.8" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="true" hair_cover_type="type2" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_d_helmet_e" name="Tetsojin Oni Helmet" mesh="tetsojin_d_helmet" culture="Culture.tetsojin" subtype="head_armor" weight="3.6" difficulty="0" appearance="3.8" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="false" hair_cover_type="type2" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="samurai_oni_helmet_e" name="Tetsojin Oni Helmet" mesh="oni_helmet" culture="Culture.tetsojin" subtype="head_armor" weight="3.8" difficulty="0" appearance="3.8" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="false" hair_cover_type="type2" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+<Item id="samurai_leather_e" name="Tetsojin Leather Armor" mesh="samurai_b_armor" subtype="body_armor" culture="Culture.khuzait" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_body="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+
+  
+  <Item id="recruit_armor" name="Tetsojin Recruit Robe" mesh="recruit_armor" culture="Culture.tetsojin" subtype="body_armor" weight="0.6" appearance="1" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="5" leg_armor="1" arm_armor="1" has_gender_variations="true" covers_body="true" modifier_group="cloth_unarmoured" material_type="Cloth" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+  
+  
+  <Item id="samurai_b_shoulders_e" name="Tetsojin Leather Shoulders" mesh="samurai_b_shoulders" culture="Culture.tetsojin" weight="3.5" appearance="3" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="5" arm_armor="1" has_gender_variations="true" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  
+  <Item id="leather_jingasa" name="Leather Jingasa" mesh="leather_jingasa" culture="Culture.tetsojin" subtype="head_armor" weight="1.4" difficulty="0" appearance="3.6" Type="headArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="false" hair_cover_type="type1" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+  
+  <Item id="iron_jingasa" name="Iron Jingasa" mesh="iron_jingasa" culture="Culture.tetsojin" subtype="head_armor" weight="1.8" difficulty="0" appearance="3.6" Type="headArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="false" hair_cover_type="type1" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags Civilian="true" UseTeamColor="true" />
+  </Item>
+  
+  <Item id="gasa" name="Gasa" mesh="gasa" culture="Culture.tetsojin" subtype="head_armor" weight="1" difficulty="0" appearance="3.6" Type="headArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="false" hair_cover_type="type1" modifier_group="leather" material_type="Leather" />
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  
+</Items>

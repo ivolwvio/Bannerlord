@@ -1,0 +1,265 @@
+<!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
+<Items>
+
+
+<Item id="samurai_tournament_shield" name="Tetsojin Tournament Shield" is_merchandise="false" body_name="bo_cap_heater_shield_d" shield_body_name="bo_heater_shield_d" recalculate_body="false" culture="Culture.tetsojin" mesh="samurai_shield" using_tableau="false" weight="4.7" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.0">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="90" center_of_mass="0.0,0.1,0.05" hit_points="5" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+
+<Item id="samurai_shield" name="Tetsojin Shield" body_name="bo_cap_heater_shield_d" shield_body_name="bo_heater_shield_d" recalculate_body="false" culture="Culture.tetsojin" mesh="samurai_shield" using_tableau="true" weight="4.7" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.0">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="90" center_of_mass="0.0,0.1,0.05" hit_points="250" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+
+<Item id="samurai_long_shield" name="Tetsojin Long Shield" body_name="bo_cap_heater_shield_d" shield_body_name="bo_heater_shield_d" recalculate_body="false" culture="Culture.tetsojin" mesh="samurai_long_shield" using_tableau="true" weight="5.7" appearance="1" Type="Shield" item_holsters="shield_kite:shield_2:shield_3:shield_4" has_lower_holster_priority="true" holster_position_shift="-0.1,-0.1,-0.0">
+    <ItemComponent>
+      <Weapon weapon_class="LargeShield" body_armor="5" thrust_speed="82" thrust_damage_type="Blunt" speed_rating="82" physics_material="wood_shield" item_usage="shield" position="0.0, 0.00, 0.00" rotation="0.0,10.0,40.00" weapon_length="95" center_of_mass="-0.0,0.25,0.05" hit_points="400" item_modifier_group="shield_wood">
+        <WeaponFlags CanBlockRanged="true" HasHitPoints="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" WoodenParry="true" HeldInOffHand="true" ForceAttachOffHandSecondaryItemBone="true" />
+  </Item>
+
+
+  <Item id="fire_arrows" name="Fire Arrows" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" culture="Culture.tetsojin" mesh="arror_bl_z"  weight="0.036" appearance="1" flying_mesh="arror_bl_z" holster_mesh="arrow_bl_s_quiver" holster_mesh_with_weapon="arrow_bl_s_quiver" Type="Arrows" item_holsters="quiver_back_lower:quiver_back_lower_2" holster_position_shift="0,0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow" trail_particle_name="psys_game_missile_flame" stack_amount="20" thrust_speed="0" speed_rating="0" physics_material="missile" missile_speed="10" weapon_length="97" thrust_damage="4" thrust_damage_type="Pierce" item_usage="arrow_right" passby_sound_code="event:/mission/combat/missile/passby" rotation="0, -80, 25" sticking_position="0,-0.97,0" sticking_rotation="90,0,0" center_of_mass="-0.00,0.05,-0.00">
+        <WeaponFlags Consumable="true" AmmoSticksWhenShot="true"  Burning="true"
+                     LeavesTrail="true" AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="arrow_bl_samurai" name="Wide Arrows" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" culture="Culture.tetsojin" mesh="arrow_bl_samurai"  weight="0.036" appearance="1" flying_mesh="arrow_bl_samurai_a" holster_mesh="arrow_bl_s_quiver" holster_mesh_with_weapon="arrow_bl_s_quiver" Type="Arrows" item_holsters="quiver_back_lower:quiver_back_lower_2" holster_position_shift="0,0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow" stack_amount="30" thrust_speed="0" speed_rating="0" physics_material="missile" missile_speed="10" weapon_length="97" thrust_damage="3" thrust_damage_type="Cut" item_usage="arrow_right" passby_sound_code="event:/mission/combat/missile/passby" rotation="0, -80, 25" sticking_position="0,-0.97,0" sticking_rotation="90,0,0" center_of_mass="-0.00,0.05,-0.00">
+        <WeaponFlags Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  
+  <Item id="arrow_bl_samurai_x" name="Two Point Arrows" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" culture="Culture.tetsojin" mesh="arrow_bl_samurai_x"  weight="0.036" appearance="1" flying_mesh="arrow_bl_samurai_x" holster_mesh="arrow_bl_s_quiver" holster_mesh_with_weapon="arrow_bl_s_quiver" Type="Arrows" item_holsters="quiver_back_lower:quiver_back_lower_2" holster_position_shift="0,0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow" stack_amount="30" thrust_speed="0" speed_rating="0" physics_material="missile" missile_speed="10" weapon_length="97" thrust_damage="3" thrust_damage_type="Pierce" item_usage="arrow_right" passby_sound_code="event:/mission/combat/missile/passby" rotation="0, -80, 25" sticking_position="0,-0.97,0" sticking_rotation="90,0,0" center_of_mass="-0.00,0.05,-0.00">
+        <WeaponFlags Consumable="true" AmmoSticksWhenShot="true" AmmoBreaksOnBounceBack="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+  
+  <Item id="arrow_bl_samurai_a" name="Mace Arrows" body_name="bo_capsule_arrow" holster_body_name="bo_axe_short" culture="Culture.tetsojin" mesh="arrow_bl_samurai_a"  weight="0.136" appearance="1" flying_mesh="arrow_bl_samurai_a" holster_mesh="arrow_bl_s_quiver" holster_mesh_with_weapon="arrow_bl_s_quiver" Type="Arrows" item_holsters="quiver_back_lower:quiver_back_lower_2" holster_position_shift="0,0,0.15">
+    <ItemComponent>
+      <Weapon weapon_class="Arrow" stack_amount="6" thrust_speed="0" speed_rating="0" physics_material="missile" missile_speed="5" weapon_length="97" thrust_damage="4" thrust_damage_type="Blunt" item_usage="arrow_right" passby_sound_code="event:/mission/combat/missile/passby" rotation="0, -80, 25" center_of_mass="-0.00,0.05,-0.00">
+        <WeaponFlags Consumable="true" CanKnockDown="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+
+  <Item id="yumi_a" name="Yumi" body_name="bo_composite_longbow_a" culture="Culture.tetsojin" mesh="yumi"  subtype="bow" weight="0.5" difficulty="30" appearance="0.4" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="58" speed_rating="80" missile_speed="74" weapon_length="118" accuracy="94" thrust_damage="65" thrust_damage_type="Pierce" item_usage="long_bow" physics_material="wood_weapon" center_of_mass="0.15,0,0" item_modifier_group="bow">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+     <Flags Civilian="true" ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  
+  <Item id="yumi" name="Yumi" body_name="bo_composite_longbow_a" is_merchandise="false" culture="Culture.tetsojin" mesh="yumi"  weight="0.1" difficulty="70" appearance="0.1" Type="Bow" item_holsters="bow_back:bow_back_2:bow_hip:bow_hip_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow" ammo_class="Arrow" ammo_limit="1" thrust_speed="58" speed_rating="80" missile_speed="74" weapon_length="118" accuracy="94" thrust_damage="65" thrust_damage_type="Pierce" item_usage="bow" physics_material="wood_weapon" center_of_mass="0.15,0,0">
+        <WeaponFlags RangedWeapon="true" HasString="true" StringHeldByHand="true" NotUsableWithOneHand="true" TwoHandIdleOnMount="true" AutoReload="true" UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  
+
+<CraftedItem id="tetsubo" name="Iron Tetsubo" culture="Culture.tetsojin" crafting_template="Advance_Mace">
+    <Pieces>
+      <Piece id="tetsubo" Type="Blade" scale_factor="80" />
+      <Piece id="katana_hilt" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  
+<CraftedItem id="kanabo" name="Iron Kanabo" culture="Culture.tetsojin" crafting_template="Advance_Mace">
+    <Pieces>
+      <Piece id="tetsubo" Type="Blade" scale_factor="80" />
+      <Piece id="nagamaki_handle" Type="Handle" scale_factor="80" />
+    </Pieces>
+  </CraftedItem>
+
+<CraftedItem id="chokuto_a" name="Thamaskene Steel Chokuto" culture="Culture.tetsojin" crafting_template="katana">
+    <Pieces>
+      <Piece id="chokuto_blade" Type="Blade" scale_factor="100" />
+      <Piece id="katana_guard_1" Type="Guard" />
+      <Piece id="katana_hilt" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+
+<CraftedItem id="chokuto_r" name="Royal Chokuto" culture="Culture.tetsojin" crafting_template="katana">
+    <Pieces>
+      <Piece id="chokuto_blade_b" Type="Blade" scale_factor="100" />
+      <Piece id="katana_guard_0" Type="Guard" />
+      <Piece id="katana_hilt" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+
+  <CraftedItem id="nagamaki_a" name="Fine Steel Nagamaki" culture="Culture.tetsojin" crafting_template="GreatSword">
+    <Pieces>
+      <Piece id="chokuto_blade" Type="Blade" scale_factor="80" />
+      <Piece id="katana_guard_2" Type="Guard" />
+      <Piece id="nagamaki_handle" Type="Handle" scale_factor="80" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="nagamaki_b" name="Fine Steel Nagamaki" culture="Culture.tetsojin" crafting_template="GreatSword">
+    <Pieces>
+      <Piece id="katana_a" Type="Blade" scale_factor="80" />
+      <Piece id="katana_guard_3" Type="Guard" />
+      <Piece id="nagamaki_handle" Type="Handle" scale_factor="80" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="nagamaki_z" is_merchandise="false" name="Tournament Blunt Nagamaki" culture="Culture.tetsojin" crafting_template="GreatSword">
+    <Pieces>
+      <Piece id="katana_z" Type="Blade" scale_factor="60" />
+      <Piece id="katana_guard" Type="Guard" />
+      <Piece id="nagamaki_handle" Type="Handle" scale_factor="115" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="nagamaki_r_a" name="Fine Steel Nagamaki" culture="Culture.tetsojin" crafting_template="GreatSword">
+    <Pieces>
+      <Piece id="katana_b" Type="Blade" scale_factor="80" />
+      <Piece id="katana_guard_0" Type="Guard" />
+      <Piece id="nagamaki_handle" Type="Handle" scale_factor="80" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="nagamaki_r_b" name="Fine Steel Nagamaki" culture="Culture.tetsojin" crafting_template="GreatSword">
+    <Pieces>
+      <Piece id="chokuto_blade_b" Type="Blade" scale_factor="80" />
+      <Piece id="katana_guard_0" Type="Guard" />
+      <Piece id="nagamaki_handle" Type="Handle" scale_factor="80" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="katana_a" name="Fine Steel Katana" culture="Culture.tetsojin" crafting_template="katana">
+    <Pieces>
+      <Piece id="katana_a" Type="Blade" scale_factor="110" />
+      <Piece id="katana_guard_1" Type="Guard" />
+      <Piece id="katana_hilt" Type="Handle" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="katana_z" name="Blunt Katana" culture="Culture.tetsojin" crafting_template="katana">
+    <Pieces>
+      <Piece id="katana_z" Type="Blade" scale_factor="110" />
+      <Piece id="katana_guard_1" Type="Guard" />
+      <Piece id="katana_hilt" Type="Handle" scale_factor="110" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="katana_b" name="Light Katana" culture="Culture.tetsojin" crafting_template="katana">
+    <Pieces>
+      <Piece id="katana_a" Type="Blade" scale_factor="90" />
+      <Piece id="katana_guard" Type="Guard" scale_factor="60" />
+      <Piece id="katana_hilt" Type="Handle" scale_factor="90" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="katana_r" name="Lord's Katana" culture="Culture.tetsojin" crafting_template="katana">
+    <Pieces>
+      <Piece id="katana_b" Type="Blade" scale_factor="100" />
+      <Piece id="katana_guard_0" Type="Guard" />
+      <Piece id="katana_hilt" Type="Handle" scale_factor="100" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="long_spear_blunt" name="Tetsojin Blunt Spear" culture="Culture.tetsojin" crafting_template="TwoHandedPolearm_dismount">
+    <Pieces>
+      <Piece id="katana_z" Type="Blade" scale_factor="60" />
+	  <Piece id="default_polearm_guard" Type="Guard"  />
+      <Piece id="spear_handle_z" Type="Handle" scale_factor="60" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="yari" name="Fine Steel Long Yari" culture="Culture.tetsojin" crafting_template="TwoHandedPolearm_dismount">
+    <Pieces>
+      <Piece id="yari" Type="Blade" scale_factor="100" />
+	  <Piece id="default_polearm_guard" Type="Guard"  />
+      <Piece id="spear_handle_z" Type="Handle" scale_factor="70" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="yari_b" name="Fine Steel Short Yari" culture="Culture.tetsojin" crafting_template="TwoHandedPolearm_dismount">
+    <Pieces>
+      <Piece id="yari" Type="Blade" scale_factor="100" />
+	  <Piece id="default_polearm_guard" Type="Guard"  />
+      <Piece id="spear_handle_z" Type="Handle" scale_factor="70" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="yari_c" name="Thamaskene Yari" culture="Culture.tetsojin" crafting_template="TwoHandedPolearm_dismount">
+    <Pieces>
+      <Piece id="chokuto_blade" Type="Blade" scale_factor="100" />
+      <Piece id="default_polearm_guard" Type="Guard" />
+      <Piece id="spear_handle_z" Type="Handle" scale_factor="50" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="naginata" name="Naginata" culture="Culture.tetsojin" crafting_template="TwoHandedPolearm_dismount">
+    <Pieces>
+      <Piece id="naginata" Type="Blade" scale_factor="80" />
+	  <Piece id="katana_guard_1" Type="Guard"  />
+      <Piece id="spear_handle_z" Type="Handle" scale_factor="60" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="naginata_r" name="Royal Naginata" culture="Culture.tetsojin" crafting_template="TwoHandedPolearm_dismount">
+    <Pieces>
+      <Piece id="naginata_a" Type="Blade" scale_factor="100" />
+	  <Piece id="katana_guard_0" Type="Guard"  />
+      <Piece id="spear_handle_z" Type="Handle" scale_factor="70" />
+    </Pieces>
+  </CraftedItem>
+  
+   <CraftedItem id="long_spear" name="Tetsojin Long Spear" culture="Culture.tetsojin" crafting_template="TwoHandedPolearm_dismount">
+    <Pieces>
+      <Piece id="katana_a" Type="Blade" scale_factor="100" />
+	  <Piece id="default_polearm_guard" Type="Guard"  />
+      <Piece id="spear_handle_z" Type="Handle" scale_factor="65" />
+    </Pieces>
+  </CraftedItem>
+  
+  <CraftedItem id="short_spear" name="Tetsojin Short Spear" culture="Culture.tetsojin" crafting_template="TwoHandedPolearm_dismount">
+    <Pieces>
+      <Piece id="katana_a" Type="Blade" scale_factor="100" />
+	  <Piece id="default_polearm_guard" Type="Guard"  />
+      <Piece id="spear_handle_z" Type="Handle" scale_factor="40" />
+    </Pieces>
+  </CraftedItem>
+  
+  
+  <Item id="shuriken" name="Shuriken" body_name="bo_knife_a" holster_mesh="" holster_body_name="bo_axe_short" flying_mesh="shuriken" culture="Culture.tetsojin" mesh="shuriken" value="300" weight="0.1" appearance="0.1" Type="Thrown" holster_position_shift="0,0,-0.1" item_holsters="throwing_knife_2:throwing_knife">
+    <ItemComponent>
+      <Weapon weapon_class="ThrowingKnife" ammo_class="ThrowingKnife" stack_amount="4" physics_material="metal_weapon" accuracy="100" thrust_speed="102" speed_rating="102" missile_speed="60" weapon_length="10" thrust_damage="50" item_usage="throwing_knife" rotation="180,0,0" passby_sound_code="event:/mission/combat/missile/passby" sticking_position="0,-0.1,0" sticking_rotation="0,90,0" rotation_speed="0, -3.0, 0">
+        <WeaponFlags RangedWeapon="true"  AmmoSticksWhenShot="true" Consumable="true" AutoReload="true" UseHandAsThrowBase="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags Civilian="true" />
+  </Item>
+</Items>

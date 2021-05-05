@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Kingdoms>
+  
+    <Kingdom id="tetsojin_1" owner="Hero.lord_samurai_leader_1" banner_key="34.26.26.1836.1836.768.788.1.0.0.407.142.116.383.383.764.781.1.1.0.500.142.116.548.548.762.777.1.1.0" primary_banner_color="0xffe7d3ba" secondary_banner_color="0xffD22D33" label_color="0xffe7d3ba" color="0xffe7d3ba" color2="0xffD22D33" alternative_color="0xffe7d3ba" alternative_color2="0xffD22D33" culture="Culture.tetsojin" settlement_banner_mesh="encounter_flag_e" flag_mesh="info_screen_flags_b" name="Tetsojin" short_name="Tetsojin" title="Empire of Tetsojin" ruler_title="Emperor" text="Tetsojin are another branch of khuzaits from a foreign land, only the elite can ride on horseback. They rival battanians in two handed sword fights and rivals khuzait in horse archery, but because they are specialize with such weapons, shield will just be a hindrance so few soldier only bear shields.">
+    <relationships>
+
+    </relationships>
+    <policies>
+      <policy id="policy_royal_commissions" />
+		<policy id="policy_senate" />
+		<policy id="policy_castle_charters" />
+		<policy id="policy_military_coronae" />
+		<policy id="policy_council_of_the_commons" />
+		<policy id="policy_lords_privy_council" />
+    </policies>
+  </Kingdom>
+
+</Kingdoms>

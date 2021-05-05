@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="fighter_tetsojin"
+                default_group="Infantry"
+                level="1"
+                name="{=!}Tetsojin Fighter"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face></face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentSet id="fighter_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+
+  
+  <NPCCharacter id="caravan_master_tetsojin"
+                default_group="Infantry"
+                level="26"
+                name="{=WEHDGbEE}Tetsojin Caravan Master"
+                occupation="CaravanGuard"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level26_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.woodland_throwing_axe_1_t1" />
+	  <equipment slot="Item1"
+                 id="Item.woodland_throwing_axe_1_t1" />
+	  <equipment slot="Item2"
+                 id="Item.kanabo" />
+      <equipment slot="Item3"
+                 id="Item.woodland_throwing_axe_1_t1" />
+      <equipment slot="Body"
+                 id="Item.samurai_lamellar_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_d_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_d_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_d_shoulders_e" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="armed_trader_tetsojin"
+                default_group="Ranged"
+                level="16"
+                name="{=l6NFOl8c}tetsojin Armed Trader"
+                occupation="CaravanGuard"
+                culture="Culture.tetsojin"
+                is_basic_troop="true"
+                skill_template="SkillSet.ranged_skirmisher_level6_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+		<upgrade_target id="NPCCharacter.caravan_guard_tetsojin" />
+	</upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.long_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.composite_bow" />
+      <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.long_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.composite_bow" />
+      <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.short_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.composite_bow" />
+      <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item2"
+                 id="Item.composite_bow" />
+      <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+	  <equipment slot="Item1"
+                 id="Item.chokuto_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item2"
+                 id="Item.composite_bow" />
+      <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+	  <equipment slot="Item1"
+                 id="Item.katana_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item2"
+                 id="Item.composite_bow" />
+      <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+	  <equipment slot="Item1"
+                 id="Item.long_spear" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="caravan_guard_tetsojin"
+                default_group="Cavalry"
+                level="21"
+                name="{=THOfB9DZ}tetsojin Caravan Guard"
+                upgrade_requires="ItemCategory.horse"
+                occupation="CaravanGuard"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+		<upgrade_target id="NPCCharacter.veteran_caravan_guard_tetsojin" />
+	</upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_throwing_spear_1_t3" />
+      <equipment slot="Item1"
+                 id="Item.samurai_long_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_throwing_spear_1_t3" />
+      <equipment slot="Item1"
+                 id="Item.samurai_long_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_throwing_spear_1_t3" />
+      <equipment slot="Item1"
+                 id="Item.samurai_long_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yari" />
+      <equipment slot="Item1"
+                 id="Item.stronger_footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yari_b" />
+      <equipment slot="Item1"
+                 id="Item.stronger_footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yari_c" />
+      <equipment slot="Item1"
+                 id="Item.stronger_footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+     <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item3"
+                 id="Item.chokuto_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item3"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item3"
+                 id="Item.katana_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+    <equipment slot="Horse"
+               id="Item.khuzait_horse" />
+    <equipment slot="HorseHarness"
+               id="Item.steppe_harness" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="veteran_caravan_guard_tetsojin"
+                default_group="HorseArcher"
+                level="26"
+                name="{=6hhspFvz}tetsojin Veteran Caravan Guard"
+                upgrade_requires="ItemCategory.war_horse"
+                occupation="CaravanGuard"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.horsearcher_level26_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi_a" />	 
+	  <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai_x" />
+	  <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Item3"
+                 id="Item.nagamaki_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi_a" />	 
+	  <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai_x" />
+	  <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai" />
+	  <equipment slot="Item3"
+                 id="Item.nagamaki_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi_a" />	 
+	  <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item2"
+                 id="Item.samurai_long_shield" />
+      <equipment slot="Item3"
+                 id="Item.tetsubo" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi_a" />	 
+	  <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item2"
+                 id="Item.samurai_long_shield" />
+      <equipment slot="Item3"
+                 id="Item.tetsubo" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi_a" />	 
+	  <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item2"
+                 id="Item.samurai_long_shield" />
+      <equipment slot="Item3"
+                 id="Item.tetsubo" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai" />
+	  <equipment slot="Item2"
+                 id="Item.naginata" />
+      <equipment slot="Item3"
+                 id="Item.yari_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai" />
+	  <equipment slot="Item2"
+                 id="Item.naginata" />
+      <equipment slot="Item3"
+                 id="Item.yari" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai" />
+	  <equipment slot="Item2"
+                 id="Item.naginata" />
+      <equipment slot="Item3"
+                 id="Item.yari_c" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+	  <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item3"
+                 id="Item.katana_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item3"
+                 id="Item.katana_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+      <equipment slot="Item3"
+                 id="Item.katana_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+      </EquipmentRoster>
+      <equipment slot="Horse"
+               id="Item.t2_khuzait_horse" />
+    <equipment slot="HorseHarness"
+               id="Item.steppe_harness" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+</NPCCharacters>

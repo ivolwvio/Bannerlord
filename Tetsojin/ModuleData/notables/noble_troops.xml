@@ -1,0 +1,398 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+
+
+  <NPCCharacter id="tetsojin_scoundrel"
+                default_group="Ranged"
+                level="11"
+                name="Tetsojin Scoundrel"
+                occupation="Soldier" 
+				is_female="true"
+                is_basic_troop="true"
+                culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.tetsojin_saboteur" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.chokuto_a" />
+	  <equipment slot="Item1"
+                 id="Item.shuriken" />
+	  <equipment slot="Item2"
+                 id="Item.highland_ranger_bow" />
+      <equipment slot="Item3"
+                 id="Item.barbed_arrows" />
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+    </EquipmentRoster>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.chokuto_a" />
+	  <equipment slot="Item1"
+                 id="Item.shuriken" />
+	  <equipment slot="Item2"
+                 id="Item.highland_ranger_bow" />
+      <equipment slot="Item3"
+                 id="Item.barbed_arrows" />
+      <equipment slot="Body"
+                 id="Item.recruit_armor" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+    </EquipmentRoster>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.chokuto_a" />
+	  <equipment slot="Item1"
+                 id="Item.shuriken" />
+	  <equipment slot="Item2"
+                 id="Item.highland_ranger_bow" />
+      <equipment slot="Item3"
+                 id="Item.barbed_arrows" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+    </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tetsojin_saboteur"
+                default_group="Ranged"
+                level="16"
+                name="Tetsojin Saboteur"
+                occupation="Soldier" 
+				is_female="true"
+                culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.tetsojin_sharpshooter" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.chokuto_a" />
+	  <equipment slot="Item1"
+                 id="Item.yumi_a" />
+	  <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_a" />
+	  <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+    </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tetsojin_sharpshooter"
+                default_group="Ranged"
+                level="21"
+                name="Tetsojin Sharpshooter"
+                occupation="Soldier" 
+				is_female="true"
+                culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.tetsojin_fire_archer" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.katana_a" />
+	  <equipment slot="Item1"
+                 id="Item.yumi_a" />
+	  <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+	  <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+    </EquipmentRoster>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.chokuto_a" />
+	  <equipment slot="Item1"
+                 id="Item.yumi_a" />
+	  <equipment slot="Item2"
+                 id="Item.arrow_bl_samurai_x" />
+	  <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+    </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tetsojin_fire_archer"
+                default_group="Ranged"
+                level="26"
+                name="Tetsojin Fire Archer"
+                occupation="Soldier" 
+				is_female="true"
+                culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.tetsojin_mounted_fire_archer" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi_a" />
+      <equipment slot="Item1"
+                 id="Item.fire_arrows" />
+	  <equipment slot="Item2"
+                 id="Item.nagamaki_b" />
+	  <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+    </EquipmentRoster>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.yumi_a" />
+      <equipment slot="Item1"
+                 id="Item.fire_arrows" />
+	  <equipment slot="Item2"
+                 id="Item.nagamaki_a" />
+	  <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_flag_e" />
+      <equipment slot="Head"
+                 id="Item.samurai_archer_helmet_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+    </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tetsojin_mounted_fire_archer"
+                default_group="HorseArcher"
+                level="31"
+                name="Tetsojin Mounted Fire Archer"
+                upgrade_requires="ItemCategory.war_horse"
+				occupation="Soldier" 
+				is_female="true"
+                culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+    <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.naginata" />
+	  <equipment slot="Item2"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.fire_arrows" />
+	  <equipment slot="Item3"
+                 id="Item.arrow_bl_samurai" />
+      <equipment slot="Body"
+                 id="Item.lord_plate_t" />
+      <equipment slot="Head"
+                 id="Item.lord_archer_helmet_t" />
+      <equipment slot="Leg"
+                 id="Item.lord_a_boots_t" />
+      <equipment slot="Gloves"
+                 id="Item.lord_a_gloves_t" />
+      <equipment slot="Cape"
+                 id="Item.lord_a_shoulders_t" />
+    </EquipmentRoster>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.nagamaki_a" />
+	  <equipment slot="Item2"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.fire_arrows" />
+	  <equipment slot="Item3"
+                 id="Item.shuriken" />
+      <equipment slot="Body"
+                 id="Item.lord_plate_t" />
+      <equipment slot="Head"
+                 id="Item.lord_archer_helmet_t" />
+      <equipment slot="Leg"
+                 id="Item.lord_a_boots_t" />
+      <equipment slot="Gloves"
+                 id="Item.lord_a_gloves_t" />
+      <equipment slot="Cape"
+                 id="Item.lord_a_shoulders_t" />
+    </EquipmentRoster>
+	<EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.nagamaki_b" />
+	  <equipment slot="Item2"
+                 id="Item.yumi" />
+      <equipment slot="Item1"
+                 id="Item.fire_arrows" />
+	  <equipment slot="Item3"
+                 id="Item.shuriken" />
+      <equipment slot="Body"
+                 id="Item.lord_plate_t" />
+      <equipment slot="Head"
+                 id="Item.lord_archer_helmet_t" />
+      <equipment slot="Leg"
+                 id="Item.lord_a_boots_t" />
+      <equipment slot="Gloves"
+                 id="Item.lord_a_gloves_t" />
+      <equipment slot="Cape"
+                 id="Item.lord_a_shoulders_t" />
+    </EquipmentRoster>
+	<equipment slot="Horse"
+               id="Item.noble_horse" />
+    <equipment slot="HorseHarness"
+               id="Item.studded_steppe_barding" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

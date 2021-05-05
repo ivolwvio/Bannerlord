@@ -1,0 +1,4964 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="tetsojin_duel_preset"
+                default_group="Infantry"
+                level="1"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                name="{=!}Tetsojin preset"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <!--face_key value="00115ede407c0000080000066770700600000000605f000000000000000000000005088bf5000000000000000000000000000000000000000000000000700080" max_value="0022f76fc0002914fff88ffffffbffafff7fff6ffffffefffffffffff6fffff60007b45df7ffffff0000000000000000000000000000000000000000013c8144" /-->
+      <BodyProperties version="4"
+                      age="49.84"
+                      weight="0.2948"
+                      build="0.317"
+                      key="00115C0E407C0000080000066774700600000000605F000000000000000000000005488605000000000000000000000000000000000000000000000000780080" />
+      <BodyPropertiesMax version="4"
+                         age="96.46"
+                         weight="0.7855"
+                         build="0.5355"
+                         key="0020F40FC0002914FFFAAFFFFFFCFFAFFF7FFFBFFFFFFEFFFFFFFFFFF6FFFFF60B78C4BB07FFFFFF000000000000000000000000000000000000000000F49105" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.morningstar_mace_t3" />
+      <equipment slot="Item1"
+                 id="Item.leather_round_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_2_t3" />
+      <equipment slot="Item1"
+                 id="Item.leather_round_shield" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.bearded_axe_t3" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.ridged_2hsword_t4" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_polearm_1_t4" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_aserai"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="prison_guard_tetsojin"
+                default_group="Infantry"
+                level="4"
+                culture="Culture.tetsojin"
+                occupation="PrisonGuard"
+                name="{=XgjXfmM1}Prison Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item1"
+                 id="Item.eastern_spear_2_t3" />
+      <equipment slot="Body"
+                 id="Item.eastern_stitched_leather_coat" />
+      <equipment slot="Head"
+                 id="Item.steppe_helmet" />
+      <equipment slot="Cape"
+                 id="Item.eastern_studded_shoulders" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item1"
+                 id="Item.eastern_spear_2_t3" />
+      <equipment slot="Body"
+                 id="Item.eastern_stitched_leather_coat" />
+      <equipment slot="Head"
+                 id="Item.steppe_helmet" />
+      <equipment slot="Cape"
+                 id="Item.eastern_studded_shoulders" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="guard_tetsojin"
+                default_group="Infantry"
+                level="4"
+                occupation="Soldier"
+                culture="Culture.tetsojin"
+                name="{=guardnoun}Guard"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_hidden_encyclopedia="true">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits></Traits>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item1"
+                 id="Item.eastern_spear_3_t3" />
+      <equipment slot="Body"
+                 id="Item.leather_lamellar_armor" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      <equipment slot="Cape"
+                 id="Item.leather_lamellar_shoulders" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item1"
+                 id="Item.eastern_spear_3_t3" />
+      <equipment slot="Body"
+                 id="Item.eastern_stitched_leather_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.eastern_studded_shoulders" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+
+  <NPCCharacter id="blacksmith_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Blacksmith"
+                culture="Culture.tetsojin"
+                name="{=bNnQt4jN}Blacksmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="weaponsmith_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Weaponsmith"
+                culture="Culture.tetsojin"
+                name="{=UaN2lfwi}Weaponsmith"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.broad_ild_sword_t3" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <equipment slot="Leg"
+                 id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.broad_ild_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.broad_ild_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="townswoman_infant_tetsojin"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townswoman_child_tetsojin"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townswoman_teenager_tetsojin"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.upturned_fur_cap" />
+      <equipment slot="Body"
+                 id="Item.steppe_dress" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_dress" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="ransom_broker_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=W2WXkiAh}Ransom Broker"
+                occupation="RansomBroker"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Body"
+                 id="Item.khuzait_fortified_armor" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.strapped_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Leg"
+                 id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="steward_tetsojin"
+                default_group="Infantry"
+                level="21"
+                occupation="Judge"
+                culture="Culture.empire"
+                name="{=ZRkceJx3}Judge">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.broad_ild_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.eastern_silk_clothing" />
+      <equipment slot="Leg"
+                 id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.eastern_silk_clothing" />
+      <equipment slot="Leg"
+                 id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.broad_ild_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.eastern_silk_clothing" />
+      <equipment slot="Leg"
+                 id="Item.strapped_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.eastern_silk_clothing" />
+      <equipment slot="Leg"
+                 id="Item.strapped_shoes" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="gangleader_bodyguard_tetsojin"
+                default_group="Infantry"
+                name="{=LNNXiPyV}Gang Leader Bodyguard"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                level="16">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Head"
+                 id="Item.gasa" />
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.simple_sabre_sword_t2" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.hemp_tunic" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Head"
+                 id="Item.eastern_cap" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_mace_1_t2" />
+      <equipment slot="Body"
+                 id="Item.hemp_tunic" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="merchant_notary_tetsojin"
+                default_group="Infantry"
+                name="{=reoVAtrE}Merchant Notary"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="artisan_notary_tetsojin"
+                default_group="Infantry"
+                name="{=ECxiXTbF}Artisan Notary"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Item0"
+                 id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="preacher_notary_tetsojin"
+                default_group="Infantry"
+                name="{=bLMGbLF8}Preacher Notary"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="rural_notable_notary_tetsojin"
+                default_group="Infantry"
+                name="{=AlmaRAib}Rural Notable Notary"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_hatchet_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="townsman_infant_tetsojin"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townsman_child_tetsojin"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townsman_teenager_tetsojin"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.eastern_cap" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="townsman_tetsojin"
+                default_group="Infantry"
+                name="{=muu5cofb}Townsman"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_belt_leather" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="shop_worker_tetsojin"
+                default_group="Infantry"
+                name="{=275LD0Gh}Shop Worker"
+                occupation="ShopWorker"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.cloth_apron" />
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.half_apron" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cloth_apron" />
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.half_apron" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="tavernkeeper_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=CsjtWt1g}Tavern Keeper"
+                occupation="Tavernkeeper"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.cloth_apron" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.half_apron" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="taverngamehost_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=twCIejxn}Game Host"
+                occupation="TavernGameHost"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="musician_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                name="{=zfCoeglY}Musician"
+                occupation="Musician"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="tavern_wench_tetsojin"
+                default_group="Infantry"
+                name="{=z6RMWTaA}Tavern Maid"
+                is_female="true"
+                is_hero="false"
+                occupation="TavernWench"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <!--<face_key value="0016fd3fc0bc100ba85b849797f8e40ba37965b6f4ff0f6c47ecc4a5410794100006865505829038000000000000000000000000000000000000000001780000" />-->
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="armorer_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Armorer"
+                culture="Culture.tetsojin"
+                name="{=jx8ohENz}Armorer"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="horseMerchant_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="HorseTrader"
+                culture="Culture.tetsojin"
+                name="{=79ElOr2x}Horse Trader"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.merchants_fur_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="merchant_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="GoodsTrader"
+                culture="Culture.tetsojin"
+                name="{=kPCcelVX}Trader "
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      <equipment slot="Body"
+                 id="Item.merchants_fur_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.merchants_fur_coat" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.merchants_fur_coat" />
+      <equipment slot="Leg"
+                 id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+ 
+ 
+  <NPCCharacter id="beggar_tetsojin"
+                default_group="Infantry"
+                name="{=HZRKBDyB}Beggar"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <!--face_key value="000507400600141300000000000000100000000000000000000000000000000000010bacf10000000000000000000000000000000000000000000000000000c1" max_value="001cffffd50034d4fffffffffff0fffffffffffffffffffffffffeffffffffff00010baff1ffffff000000000000000000000000000000000000000000008101" /-->
+      <BodyProperties version="4"
+                      age="75.93"
+                      weight="0.1323"
+                      build="0.1794"
+                      key="000504000600141300000000000900100000000000000000000000000000000000039BA9030000000000000000000000000000000000000000000000007800C1" />
+      <BodyPropertiesMax version="4"
+                         age="116.44"
+                         weight="0.3564"
+                         build="0.2794"
+                         key="001CFC0FD50034D4FFFFFFFFFFFEFFFFFFFFFFFFFFFFFFFFFFFFFEFFFFFFFFFF0003EBAE01FFFFFF000000000000000000000000000000000000000000008101" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <!-- Uses village hair -->
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.bandit_envelope_dress_v2" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="barber_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                name="{=WH7EGGIg}Barber"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.broad_ild_sword_t3" />
+      <equipment slot="Head"
+                 id="Item.merchants_hat" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <equipment slot="Leg"
+                 id="Item.battania_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.broad_ild_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Item0"
+                 id="Item.broad_ild_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.leather_apron" />
+      <equipment slot="Leg"
+                 id="Item.leather_shoes" />
+      <equipment slot="Gloves"
+                 id="Item.leather_gloves" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="female_beggar_tetsojin"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=HZRKBDyB}Beggar"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <!-- Uses village hair -->
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.plain_dress" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.aserai_villager_female_headdress" />
+      <equipment slot="Body"
+                 id="Item.bandit_envelope_dress_v2" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="female_dancer_tetsojin"
+                default_group="Infantry"
+                name="{=X3KYysuv}Dancer"
+                is_female="true"
+                is_hero="false"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress" />
+      <equipment slot="Leg"
+                 id="Item.ladys_shoe" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="tournament_master_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="ArenaMaster"
+                culture="Culture.tetsojin"
+                name="{=IHKXNP9H}Tournament Master"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.short_sword_t3" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="villager_infant_tetsojin"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="villager_child_tetsojin"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="villager_teenager_tetsojin"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="false"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.eastern_cap" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="village_woman_infant_tetsojin"
+                name="{=9Di0NfG2}Infant"
+                age="3"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.torn_bandit_clothes" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="village_woman_child_tetsojin"
+                name="{=pOCOS8um}Child"
+                age="6"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="village_woman_teenager_tetsojin"
+                name="{=o077j2j5}Teenager"
+                age="14"
+                is_female="true"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.eastern_cap" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat_b" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      <equipment slot="Body"
+                 id="Item.khuzait_civil_coat" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="village_woman_tetsojin"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=LFUaO6rG}Tetsojin Peasant"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_dress" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress_b" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_dress" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress_b" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_dress" />
+      <equipment slot="Head"
+                 id="Item.nomad_padded_hood" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress_b" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.steppe_dress" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      <equipment slot="Leg"
+                 id="Item.khuzait_curved_boots" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      <equipment slot="Cape"
+                 id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+      <equipment slot="Body"
+                 id="Item.khuzait_dress_b" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Body"
+                 id="Item.khuzait_dress_b" />
+      <equipment slot="Head"
+                 id="Item.peaked_fur_hood" />
+      <equipment slot="Leg"
+                 id="Item.southern_moccasins" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="gear_practice_dummy_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.tetsojin"
+                name="{=!}khuzait Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Head"
+                 id="Item.fur_hat" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      <equipment slot="Gloves"
+                 id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Head"
+                 id="Item.fur_hood" />
+      <equipment slot="Body"
+                 id="Item.steppe_robe" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      <equipment slot="Gloves"
+                 id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Body"
+                 id="Item.tied_cloth_tunic" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="weapon_practice_stage_1_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.tetsojin"
+                name="{=!}khuzait Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.curved_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_2_t3" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_1_t2" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_2_t3" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_1_t2" />
+      <equipment slot="Item2"
+                 id="Item.steppe_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_1_t2" />
+      <equipment slot="Item1"
+                 id="Item.curved_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="weapon_practice_stage_2_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.tetsojin"
+                name="{=!}khuzait Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_2_t3" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_2_t3" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_2_t3" />
+      <equipment slot="Item2"
+                 id="Item.steppe_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_2_t3" />
+      <equipment slot="Item1"
+                 id="Item.curved_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_2_t3" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_2_t3" />
+      <equipment slot="Item2"
+                 id="Item.steppe_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_2_t3" />
+      <equipment slot="Item1"
+                 id="Item.curved_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="weapon_practice_stage_3_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.tetsojin"
+                name="{=!}khuzait Weapon Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_polearm_1_t4" />
+      <equipment slot="Item2"
+                 id="Item.steppe_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_polearm_1_t4" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_polearm_1_t4" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_polearm_1_t4" />
+      <equipment slot="Item2"
+                 id="Item.steppe_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_5_t4" />
+      <equipment slot="Item1"
+                 id="Item.curved_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_5_t4" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.khuzait_sword_5_t4" />
+      <equipment slot="Item2"
+                 id="Item.steppe_bow" />
+      <equipment slot="Item3"
+                 id="Item.default_arrows" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.eastern_spear_4_t4" />
+      <equipment slot="Item1"
+                 id="Item.curved_round_shield" />
+      <equipment slot="Item2"
+                 id="Item.eastern_javelin_1_t2" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="gear_dummy_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                occupation="Special"
+                culture="Culture.tetsojin"
+                name="{=!}khuzait Gear Dummy"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.guard" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.peasant_sickle_1_t1" />
+      <equipment slot="Head"
+                 id="Item.nomad_helmet" />
+      <equipment slot="Body"
+                 id="Item.steppe_armor" />
+      <equipment slot="Leg"
+                 id="Item.leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin"
+                    civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+   
+  <NPCCharacter id="caravan_leader_tetsojin" default_group="Infantry" is_hero="false" is_mercenary="true" culture="Culture.tetsojin" occupation="Merchant" name="{=VPis3atP}Tetsojin Mercenaries Leader">
+    <face>
+      <!--face_key value="0006540fc00431081ec8dac86a66b8799486388b8575bc635b788694c6445ba2000365d06cc76c25000000000000000000000000000000000000000000004000"/-->
+      <BodyProperties version="4" age="63.72" weight="0.4502" build="0.3614" key="0005540FC00031081EC8DAC86A67B8799486388B8575BC635B788694C6445BA2000575D705C76C25000000000000000000000000000000000000000000A04000" />
+      <BodyPropertiesMax version="4" age="63.72" weight="0.4502" build="0.3614" key="0005540FC00031081EC8DAC86A67B8799486388B8575BC635B788694C6445BA2000575D705C76C25000000000000000000000000000000000000000000A04000" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.eastern_spear_4_t4" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" civilian="true" />
+      <equipment slot="Body" id="Item.fur_armor_with_strap" />
+      <equipment slot="Leg" id="Item.strapped_leather_boots" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="npc_armed_wanderer_equipment_template_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}wanderer_equipment"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="npc_companion_equipment_template_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}wanderer_equipment"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="npc_wanderer_equipment_template_tetsojin"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}wanderer_equipment"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="villager_tetsojin"
+                default_group="Infantry"
+                level="1"
+                name="{=LFUaO6rG}Tetsojin Peasant"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <BodyProperties version="4"
+                      age="22.49"
+                      weight="0.0417"
+                      build="0.0324"
+                      key="000DC40D800005C6507011122CB700080603060883A8010100000000800001000000100300001000000000000000000000000000000000000000000006000000" />
+      <BodyPropertiesMax version="4"
+                         age="66.85"
+                         weight="0.9182"
+                         build="0.5231"
+                         key="001EFC0FC00038D4FFFBCEFEEFFE9E6FEFFEFFEFFEEFEFFFEFFEEFFF898EFEFA0698E06809FFFFFF000000000000000000000000000000000000000079209100" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets>
+      <upgrade_target id="NPCCharacter.tetsojin_recruit" />
+    </upgrade_targets>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head"
+                   id="Item.gasa" />
+		<equipment slot="Body"
+                   id="Item.khuzait_civil_coat_b" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_armor" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat_b" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Head"
+                   id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_armor" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Head"
+                   id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Head"
+                   id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat_b" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_robe" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_armor" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat_b" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.fur_hood" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.fur_hat" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Head"
+                   id="Item.fur_hat" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_armor" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Head"
+                   id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Head"
+                   id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat_b" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.throwing_stone" />
+        <equipment slot="Item1"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.gasa" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.throwing_stone" />
+        <equipment slot="Item1"
+                   id="Item.peasant_polearm_1_t1" />
+        <equipment slot="Body"
+                   id="Item.steppe_robe" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Head"
+                   id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.throwing_stone" />
+        <equipment slot="Item1"
+                   id="Item.peasant_2haxe_1_t1" />
+        <equipment slot="Body"
+                   id="Item.steppe_armor" />
+        <equipment slot="Leg"
+                   id="Item.strapped_leather_boots" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Head"
+                   id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.throwing_stone" />
+        <equipment slot="Item1"
+                   id="Item.peasant_2haxe_1_t1" />
+        <equipment slot="Body"
+                   id="Item.khuzait_belt_leather" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Head"
+                   id="Item.gasa" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.throwing_stone" />
+        <equipment slot="Item1"
+                   id="Item.peasant_2haxe_1_t1" />
+        <equipment slot="Item0"
+                   id="Item.peasant_sickle_1_t1" />
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat_b" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.peaked_fur_hood" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Item0"
+                   id="Item.throwing_stone" />
+        <equipment slot="Item1"
+                   id="Item.peasant_2haxe_1_t1" />
+        <equipment slot="Body"
+                   id="Item.khuzait_civil_coat" />
+        <equipment slot="Cape"
+                   id="Item.scarf" />
+        <equipment slot="Leg"
+                   id="Item.leather_shoes" />
+        <equipment slot="Head"
+                   id="Item.fur_hood" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="townswoman_tetsojin"
+                default_group="Infantry"
+                is_female="true"
+                level="1"
+                name="{=V8GrFH4B}Tetsojin Townswoman"
+                occupation="Townsfolk"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <BodyProperties version="4"
+                      age="22.27"
+                      weight="0.1744"
+                      build="0.267"
+                      key="000AA80C5000000C001111007770015240060118859910010505500060011010000436030011001000000000000000000000000000000000000000001C040003" />
+      <BodyPropertiesMax version="4"
+                         age="69.17"
+                         weight="0.9738"
+                         build="0.8133"
+                         key="001EFC0FD3143010EDEFFFEFFFFFFFEFEF7FFFEFEFFFDDDEEEFFFFFFAEDDCEC9079CF6780996FBEF00000000000000000000000000000000000000006B2C40C4" />
+      <!--hair_tags>
+        <hair_tag name="Ukrainian" />
+        <hair_tag name="BraidedInBack" />
+        <hair_tag name="ShoulderLengthTied" />
+        <hair_tag name="TiedInBack" />
+        <hair_tag name="BraidedAboveEars" />
+      </hair_tags-->
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_dress" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_dress" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_dress_b" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_dress" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_dress" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_dress_b" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_dress" />
+        <equipment slot="Head"
+                   id="Item.gasa" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_dress" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+        <equipment slot="Head"
+                   id="Item.fur_hat" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_dress_b" />
+        <equipment slot="Head"
+                   id="Item.fur_hat" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.steppe_dress" />
+        <equipment slot="Head"
+                   id="Item.peaked_fur_hood" />
+        <equipment slot="Leg"
+                   id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_dress" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+        <equipment slot="Head"
+                   id="Item.peaked_fur_hood" />
+        <equipment slot="Cape"
+                   id="Item.female_scarf" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body"
+                   id="Item.khuzait_dress_b" />
+        <equipment slot="Head"
+                   id="Item.peaked_fur_hood" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+        <equipment slot="Body"
+                   id="Item.khuzait_dress_b" />
+        <equipment slot="Head"
+                   id="Item.peaked_fur_hood" />
+        <equipment slot="Leg"
+                   id="Item.southern_moccasins" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <!--#endregion-->
+  <!-- #region Fighter Template -->
+  <NPCCharacter id="fighter_tetsojin"
+                default_group="Infantry"
+                level="1"
+                name="{=!}Tetsojin Fighter"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face></face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentSet id="fighter_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+
+  
+  <NPCCharacter id="child_template_tetsojin_townsman_male" name="{=!}khuzait Child Townsman Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.khuzait_dress" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.studded_fur_armor" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_template_tetsojin_townsman_female" name="{=!}khuzait Child Townsman Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.khuzait_dress" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.studded_fur_armor" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="teenager_template_tetsojin_townsman_male" name="{=!}khuzait Teenager Townsman Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.eastern_cap" />
+        <equipment slot="Body" id="Item.aserai_civil_a" />
+        <equipment slot="Leg" id="Item.eastern_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.nomad_padded_hood" />
+        <equipment slot="Body" id="Item.crude_leather_armor" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Gloves" id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.merchants_fur_coat" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Head" id="Item.eastern_cap" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="teenager_template_tetsojin_townsman_female" name="{=!}khuzait Teenager Townsman Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Townsfolk" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.khuzait_dress" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.upturned_fur_cap" />
+        <equipment slot="Body" id="Item.belted_leather_cuirass" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape" id="Item.bolted_leather_strips" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.steppe_armor" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Villager -->
+  <NPCCharacter id="child_template_tetsojin_villager_male" name="{=!}khuzait Child Villager Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.studded_fur_armor" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.torn_bandit_clothes" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_template_tetsojin_villager_female" name="{=!}khuzait Child Villager Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.fur_armor_with_strap" />
+        <equipment slot="Leg" id="Item.leather_shoes" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.torn_bandit_clothes" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="teenager_template_tetsojin_villager_male" name="{=!}khuzait Teenager Villager Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.merchants_fur_coat" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Head" id="Item.eastern_cap" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.nomad_padded_hood" />
+        <equipment slot="Body" id="Item.crude_leather_armor" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Gloves" id="Item.eastern_wrapped_armguards" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.studded_leather_waistcoat" />
+        <equipment slot="Cape" id="Item.khuzait_leather_pauldron" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Gloves" id="Item.studded_vambraces" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="teenager_template_tetsojin_villager_female" name="{=!}khuzait Teenager Villager Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Villager" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_sturgia" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.fur_hat" />
+        <equipment slot="Body" id="Item.bandit_fur_b" />
+        <equipment slot="Leg" id="Item.highland_boots" />
+        <equipment slot="Gloves" id="Item.strapped_leather_bracers" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.studded_steppe_leather" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Gloves" id="Item.steppe_leather_vambraces" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.khuzait_dress" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Noble -->
+  <NPCCharacter id="child_template_tetsojin_noble_male" name="{=!}khuzait Child Noble Male" age="6" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.studded_steppe_leather" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.tassled_southern_robes" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="child_template_tetsojin_noble_female" name="{=!}khuzait Child Noble Female" age="6" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.studded_steppe_leather" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.tassled_southern_robes" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.bandit_envelope_dress_v1" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="teenager_template_tetsojin_noble_male" name="{=!}khuzait Teenager Noble Male" age="14" is_child_template="true" is_female="false" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.merchants_fur_coat" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Head" id="Item.eastern_cap" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.plumed_fur_lined_helmet" />
+        <equipment slot="Body" id="Item.leather_lamellar_armor" />
+        <equipment slot="Cape" id="Item.leather_lamellar_shoulders" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Gloves" id="Item.steppe_leather_vambraces" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.eastern_lamellar_armor" />
+        <equipment slot="Cape" id="Item.lamellar_shoulders" />
+        <equipment slot="Leg" id="Item.eastern_leather_boots" />
+        <equipment slot="Gloves" id="Item.decorated_imperial_gauntlets" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.eastern_cap" />
+        <equipment slot="Body" id="Item.aserai_civil_a" />
+        <equipment slot="Leg" id="Item.eastern_leather_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="teenager_template_tetsojin_noble_female" name="{=!}khuzait Teenager Noble Female" age="14" is_child_template="true" is_female="true" default_group="Infantry" is_hero="false" occupation="Lord" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Body" id="Item.steppe_armor" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.eastern_cap" />
+        <equipment slot="Body" id="Item.khuzait_dress" />
+        <equipment slot="Leg" id="Item.southern_moccasins" />
+      </EquipmentRoster>
+      <EquipmentRoster civilian="true">
+        <equipment slot="Head" id="Item.upturned_fur_cap" />
+        <equipment slot="Body" id="Item.belted_leather_cuirass" />
+        <equipment slot="Leg" id="Item.khuzait_curved_boots" />
+        <equipment slot="Cape" id="Item.bolted_leather_strips" />
+      </EquipmentRoster>
+      <EquipmentSet id="khu_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <!--Culture:battania -->
+  <!--Townsman -->
+
+  <NPCCharacter id="spc_notable_tetsojin_merchant_1" name="{=!}Cautious khuzait merchant" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_merchant_1" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_tetsojin_0b" name="{=qeNv4ftk}{FIRSTNAME} the Broker" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Merchant" skill_template="SkillSet.spc_notable_tetsojin_0b">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_0b" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_notable_tetsojin_0b" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_tetsojin_1" name="{=!}{FIRSTNAME} the Dyer" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_1" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!-- Add skill groups -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_notable_tetsojin_1" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_tetsojin_1b" name="{=!}{FIRSTNAME} the Horsetrader" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_1b" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_notable_tetsojin_1b" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_tetsojin_1c" name="{=!}{FIRSTNAME} the Wineseller" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_1c" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_notable_tetsojin_1c" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_tetsojin_2" name="{=!}{FIRSTNAME} the Freedwoman" is_template="true" voice="ironic" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_2" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!-- Add skill groups -->
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_notable_tetsojin_2" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_tetsojin_2b" name="{=!}{FIRSTNAME} the Silkseller" voice="ironic" is_template="true" is_female="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Merchant">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_2b" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!-- Add skill groups -->
+      <Trait id="Commander" value="2" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_notable_tetsojin_2b" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_tetsojin_3" name="{=!}khuzait shaman" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_3" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!-- Add skill groups -->
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_notable_tetsojin_3" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_notable_tetsojin_4" name="{=!}Female preacher" voice="softspoken" is_template="true" default_group="Infantry" is_female="true" culture="Culture.tetsojin" occupation="Preacher">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_4" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!-- Add skill groups -->
+      <Trait id="Honor" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_notable_tetsojin_4" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- khuzait gang leaders - keep at least 3-4 for variety in persona-->
+  <NPCCharacter id="spc_tetsojin_gangleader_1" name="{=!}Female gang leader" voice="curt" is_template="true" default_group="Infantry" is_female="true" culture="Culture.tetsojin" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_5" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_gangleader_2" name="{=!}Standard male gang leader" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_6" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_gangleader_3" name="{=!}Standard male gang leader" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="GangLeader">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_6" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="spc_tetsojin_gangleader_3" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_rural_notable_1" name="{=!}khuzait craft rural notable" is_template="true" voice="ironic" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_tetsojin_rural_notable_1" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_rural_notable_2" name="{=!}khuzait proud rural notable" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="RuralNotable">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_tetsojin_rural_notable_2" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_outlaw_1" name="{=!}khuzait bold outlaw" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Outlaw">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_tetsojin_outlaw_1" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_outlaw_2" name="{=!}khuzait menacing outlaw" voice="softspoken" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Outlaw">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_tetsojin_outlaw_2" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_artisan_1" name="{=!}khuzait rebellious artisan" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_4" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="SteppeHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_artisan_2" name="{=!}khuzait conservative artisan" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_4" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="SteppeHair" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_artisan_3" name="{=!}khuzait devious artisan" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Artisan">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_4" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="SteppeHair" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_headman_1" name="{=!}khuzait rebellious headman" voice="earnest" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_4" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="SteppeHair" value="1" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_headman_2" name="{=!}khuzait conservative headman" voice="curt" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_4" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="SteppeHair" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spc_tetsojin_headman_3" name="{=!}khuzait devious headman" voice="ironic" is_template="true" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Headman">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <!--<Hero id="spc_notable_tetsojin_4" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="SteppeHair" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_armed_wanderer_equipment_template_tetsojin" />
+      <EquipmentSet id="npc_wanderer_equipment_template_tetsojin" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="npc_poor_wanderer_tetsojin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}wanderer_equipment" occupation="NotAssigned" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_poor_wanderer_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+    <NPCCharacter id="npc_artisan_equipment_tetsojin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}artisan_equipment" occupation="NotAssigned" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_artisan_equipment_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="npc_gang_leader_equipment_tetsojin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}gang_leader_equipment" occupation="NotAssigned" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_gang_leader_equipment_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="npc_preacher_equipment_tetsojin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}preacher_equipment" occupation="NotAssigned" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_preacher_equipment_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="npc_merchant_equipment_tetsojin" default_group="Infantry" is_template="true" is_hero="false" level="16" name="{=!}merchant_equipment" occupation="NotAssigned" culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="npc_merchant_equipment_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  
+</NPCCharacters>

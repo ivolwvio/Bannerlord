@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Heroes>
+
+  <Hero id="lord_samurai_leader_1" is_noble="true" spouse="Hero.lord_samurai_1" faction="Faction.clan_samurai_1" text="The current Emperor of Tetsojin is Hanzō, He leads his empire with honor and glory" />
+  <Hero id="lord_samurai_1" is_noble="true" spouse="Hero.lord_samurai_leader_1" faction="Faction.clan_samurai_1" text="The wife of Emperor Hanzō, her skills are as sharp as Hanzō's" />
+  
+  <Hero id="lord_samurai_leader_2" is_noble="true" spouse="Hero.lord_samurai_2" faction="Faction.clan_samurai_2"  /> 
+  <Hero id="lord_samurai_2" is_noble="true" spouse="Hero.lord_samurai_leader_2" faction="Faction.clan_samurai_2"  />
+  <Hero id="lord_samurai_2_1" is_noble="true" father="Hero.lord_samurai_2" mother="Hero.lord_samurai_leader_2" faction="Faction.clan_samurai_2"  />
+  <Hero id="lord_samurai_2_2" is_noble="true" father="Hero.lord_samurai_2" mother="Hero.lord_samurai_leader_2" faction="Faction.clan_samurai_2"  />
+  
+  <Hero id="lord_samurai_leader_3" is_noble="true" father="Hero.lord_samurai_dead_1" spouse="Hero.lord_samurai_3" faction="Faction.clan_samurai_3"  />
+  <Hero id="lord_samurai_3" is_noble="true" spouse="Hero.lord_samurai_leader_3" faction="Faction.clan_samurai_3"  />
+  <Hero id="lord_samurai_3_1" is_noble="true" father="Hero.lord_samurai_dead_1" faction="Faction.clan_samurai_3"  />
+  <Hero id="lord_samurai_dead_1" is_noble="true" alive="false" faction="Faction.clan_samurai_3"  />
+  
+  <Hero id="lord_samurai_leader_4" is_noble="true" spouse="Hero.lord_samurai_4" faction="Faction.clan_samurai_4"  />
+  <Hero id="lord_samurai_4" is_noble="true" spouse="Hero.lord_samurai_leader_4" faction="Faction.clan_samurai_4"  />
+  <Hero id="lord_samurai_4_1" is_noble="true" father="Hero.lord_samurai_leader_4" mother="Hero.lord_samurai_4" faction="Faction.clan_samurai_4"  />
+  
+  <Hero id="lord_samurai_leader_5" is_noble="true" father="Hero.lord_samurai_leader_1" mother="Hero.lord_samurai_1" spouse="Hero.lord_samurai_5" faction="Faction.clan_samurai_5"  />
+  <Hero id="lord_samurai_5" is_noble="true" spouse="Hero.lord_samurai_leader_5" faction="Faction.clan_samurai_5"  />
+  <Hero id="lord_samurai_5_1" is_noble="true" father="Hero.lord_samurai_leader_1" mother="Hero.lord_samurai_1" faction="Faction.clan_samurai_5"  />
+  
+  <Hero id="lord_samurai_leader_6" is_noble="true" spouse="Hero.lord_samurai_6" faction="Faction.clan_samurai_6"  />
+  <Hero id="lord_samurai_6" is_noble="true" spouse="Hero.lord_samurai_leader_6" faction="Faction.clan_samurai_6"  />
+  <Hero id="lord_samurai_6_1" is_noble="true" father="Hero.lord_samurai_leader_6" mother="Hero.lord_samurai_6" faction="Faction.clan_samurai_6"  />
+  
+  <Hero id="lord_samurai_leader_7" is_noble="true" spouse="Hero.lord_samurai_7" faction="Faction.clan_samurai_7"  />
+  <Hero id="lord_samurai_7" is_noble="true" father="Hero.lord_samurai_leader_1" mother="Hero.lord_samurai_1" spouse="Hero.lord_samurai_leader_7" faction="Faction.clan_samurai_7"  />
+  <Hero id="lord_samurai_7_1" is_noble="true" father="Hero.lord_samurai_leader_1" mother="Hero.lord_samurai_1" faction="Faction.clan_samurai_7"  />
+  
+  <Hero id="lord_samurai_leader_8" is_noble="true" spouse="Hero.lord_samurai_8" faction="Faction.clan_samurai_8"  />
+  <Hero id="lord_samurai_8" is_noble="true" spouse="Hero.lord_samurai_leader_8" faction="Faction.clan_samurai_8"  />
+  <Hero id="lord_samurai_8_1" is_noble="true" father="Hero.lord_samurai_leader_8" mother="Hero.lord_samurai_8"  faction="Faction.clan_samurai_8"  />
+  
+  <Hero id="lord_samurai_leader_9" is_noble="true" spouse="Hero.lord_samurai_9" faction="Faction.clan_samurai_9"  />
+  <Hero id="lord_samurai_9" is_noble="true" spouse="Hero.lord_samurai_leader_9" faction="Faction.clan_samurai_9"  />
+  <Hero id="lord_samurai_10" is_noble="true" faction="Faction.clan_samurai_9"  />
+  
+  <Hero id="lord_tetsojin_bandits_1" faction="Faction.tetsojin_bandits" />
+</Heroes>

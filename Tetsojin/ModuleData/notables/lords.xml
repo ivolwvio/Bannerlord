@@ -1,0 +1,1245 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  
+  <NPCCharacter id="lord_samurai_leader_1" name="Hanzo" age="38" voice="curt" default_group="Cavalry" is_hero="true" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.74" weight="0.5" build="0.5"  key="0000FC0E400021519EBF61FFB762A46EA4959AF6F9AFCE3DC8756149D64B84A80177761407B1E944000000000000000000000000000000000000000000F07082"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_heavy" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_1" name="Yumiko" age="32" voice="earnest" is_female="true" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="0000FC0B400010109EBF61FFB762A46EA4959AF6F9AFCE3DC8756149D64B84A80177761407B1E944000000000000000000000000000000000000000000F02082"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="6" />
+	  <Trait id="Commander" value="5" />
+	  <Trait id="Manager" value="10" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_leader_2" name="Annaisha" age="38" voice="earnest" is_female="true" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="00054C0CC000050BBB8E359A8D5587445C5777AAB89E74885B8D3789477867880177761407683A3300000000000000000000000000000000000000003EF47002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="6" />
+	  <Trait id="Commander" value="10" />
+	  <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+
+  <NPCCharacter id="lord_samurai_2" name="Dai" age="38" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="00054C0CC000050BBB8E359A8D5587445C5777AAB89E74885B8D3789477867880177761407683A3300000000000000000000000000000000000000003EF47002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="6" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_2_1" name="Chieko" age="15" voice="earnest" is_female="true" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="00054C0CC000050BBB8E359A8D5587445C5777AAB89E74885B8D3789477867880177761407683A3300000000000000000000000000000000000000003EF47002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="2" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="lord_samurai_2_2" name="Daitan" age="17" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="00054C0CC000050BBB8E359A8D5587445C5777AAB89E74885B8D3789477867880177761407683A3300000000000000000000000000000000000000003EF47002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="2" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="lord_samurai_leader_3" name="Ishida" age="23" voice="softspoken" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="00005C0CC00013133AB1685874C5B89877879B68D53E0EADC695863ABA2498380177761407DAC556000000000000000000000000000000000000000000F05102"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="4" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_3" name="Torii" age="23" is_female="true" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="00054C0CC000000BBB8E359A8D5587445C5777AAB89F74885B8D3789477867880177761407683A3300000000000000000000000000000000000000003EF44003"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="4" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_3_1" name="Botan" age="20" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="00005C0CC00013133AB1685874C5B89877879B68D53E0EADC695863ABA2498380177761407DAC556000000000000000000000000000000000000000000F05102"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="4" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="6" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_dead_1" name="Cho" age="53" voice="softspoken" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="22.14" weight="0.5" build="0.5"  key="00007C0D00001609A5B1685874C5B8987787745E46D95A53C695863ABA2498380077760307DAC556000000000000000000000000000000000000000000F04102"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="10" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="6" />
+	  <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="-1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_leader_4" name="Takkeda" age="40" voice="ironic" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540700A0208E8AC342785A96B9961BC9885AC8AF9B986A739AC58BD937880177761407B875BA000000007300000000000000000016770000000042FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="10" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="0" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  
+  <NPCCharacter id="lord_samurai_4" name="Yukimori" age="38" is_female="true" voice="ironic" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540700A0100A8AC342785A96B9961BC9885AC8AF9B986A739AC58BD937880177761407B875BA000000007300000000000000000016770000000042FC1082"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="7" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_4_1" name="Chiasa" age="18" is_female="true" voice="ironic" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540700A0100A8AC342785A96B9961BC9885AC8AF9B986A739AC58BD937880177761407B875BA000000007300000000000000000016770000000042FC1082"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="2" />
+      <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter  id="lord_samurai_leader_5" name="Hideyoshi" age="22" voice="softspoken" default_group="Cavalry" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="000B5408800020078A88888888888888708E885AC8AF9B986DDC37888FBE3C4A01777614070B6638000000007300000000000000000016770000000042FC4083"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+	  <Trait id="Commander" value="6" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_heavy" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="lord_samurai_5" name="Azami" age="22" is_female="true" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="000B5408800020078A88888888888888708E885AC8AF9B986DDC37888FBE3C4A01777614070B6638000000007300000000000000000016770000000042FC4083"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_5_1" name="Ena" age="22" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540700A0100A8AC342785A96B9961BC9885AC8AF9B986A739AC58BD937880177761407B875BA000000007300000000000000000016770000000042FC1082"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="5" />
+      <Trait id="Politician" value="2" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_leader_6" name="Yoshinobu" age="41" voice="curt" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="000B900B400020068C88888888888888708EA85876A8397A658795598FBE3C4A0177761407862855000000007300000000000000000016770000000042FC1003"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="10" />
+      <Trait id="Commander" value="10" />
+      <Trait id="Politician" value="1" />
+      <Trait id="Manager" value="1" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_6" name="Anzu" age="38" is_female="true" voice="curt" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="000B900B400020068C88888888888888708EA85876A8397A658795598FBE3C4A0177761407862855000000007300000000000000000016770000000042FC1003"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="6" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="5" />
+      <Trait id="Manager" value="5" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_6_1" name="Yanzu" age="16" voice="curt" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.27" weight="0.5" build="0.5"  key="000B900B400020068C88888888888888708EA85876A8397A658795598FBE3C4A0177761407862855000000007300000000000000000016770000000042FC1003"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="2" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="2" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="0" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_leader_7" name="Chitose" is_female="true" age="31" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CC070208E8A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="8" />
+      <Trait id="Commander" value="4" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="2" />
+     <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="-2" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_7" name="Arakan" age="31" voice="softspoken" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CD47020058A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1043"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="10" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_7_1" name="Chiraka" age="29" is_female="true" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CD47020058A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1043"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="7" />
+      <Trait id="Manager" value="8" />
+      <Trait id="Calculating" value="0" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_leader_8" name="Murasame" age="27" voice="ironic" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CD47020058A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1043"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_8" name="Hosokawa" age="27" is_female="true" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CD47020058A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1043"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_8_1" name="Murakawa" age="6" voice="earnest" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CD47020058A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1043"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="8" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="0" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+	 </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_leader_9" name="Katsuyori" age="26" voice="earnest" default_group="Cavalry" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CD47020058A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1043"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="BalancedFightingSkills" value="6" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+	 </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_heavy" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_9" name="Chiyo" age="26" is_female="true" voice="curt" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CD47020058A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1043"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="6" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+	 </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_samurai_10" name="Yuza" age="24" voice="curt" default_group="HorseArcher" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyProperties version="4" age="30.02" weight="0.5" build="0.5"  key="000B540CD47020058A7C38A5254A39991BC9885AC8AF9B9881D698CA8BD93788017776140748D948000000007300000000000000000016770000000042FC1043"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="HorseArcherFightingSkills" value="5" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Politician" value="4" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Calculating" value="2" />
+      <Trait id="Generosity" value="2" />
+      <Trait id="Honor" value="2" />
+      <Trait id="Mercy" value="-2" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Egalitarian" value="1" />
+	 </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="lord_tetsojin_bandits_1" default_group="Ranged" age="25" voice="curt" is_hero="true" culture="Culture.mountain_bandits" occupation="Bandit" name="Tetsojin Bandits Hero">
+    <face>
+      <!--face_key value="0032952c800012865897773981684655d9d8c798581b5696684c587363987795000484947cc7c49a00001105000030a30000001f000000000000000000007000" /-->
+      <BodyProperties version="4" key="0033940CC00012865897773981684655D9D8C798581B5696684C587363987795000404950CC7C49A00001105000030A30000001F000000000000000000007000" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!-- USED TO DERIVE SKILLS-->
+      <Trait id="BalancedFightingSkills" value="5" />
+      <Trait id="Commander" value="8" />
+      <Trait id="Politician" value="6" />
+      <Trait id="Manager" value="7" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster />
+      <EquipmentSet id="tet_bat_template_medium" />
+      <EquipmentSet id="tet_civ_template_default" civilian="true" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

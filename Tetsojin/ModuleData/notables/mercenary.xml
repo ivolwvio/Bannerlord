@@ -1,0 +1,1325 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  
+  <NPCCharacter id="fighter_tetsojin"
+                default_group="Infantry"
+                level="1"
+                name="{=!}Tetsojin Fighter"
+                occupation="Villager"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills"
+                is_template="true">
+    <face></face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <upgrade_targets></upgrade_targets>
+    <Equipments>
+      <EquipmentSet id="fighter_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+
+  
+  <NPCCharacter id="spc_horosha_1_leader_0" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_horosha_1_leader_1" name="{=bpw8fOs5}of the Horosha" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_1_leader_2" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_1_leader_3" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyPropertiesMin version="4" age="22.9" weight="0.9892" build="0.9522"  key="00155008130038C677838872878634FFF0A9863BE6D86656B226AF159ABF486400FEF6030F435408000000000000000000000000000000000000000031FC1003"  />
+	  <BodyPropertiesMax version="4" age="22.9" weight="0.9892" build="0.9522"  key="000A5400110030518A87888888888FFF708E885AC8A79B986DDC37888FBE3C4A00FEF6030F0B6638000000007300000000000000000016770000000043FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+   
+  
+  <NPCCharacter id="spc_horosha_2_leader_0" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_horosha_2_leader_1" name="{=bpw8fOs5}of the Horosha" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_2_leader_2" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_2_leader_3" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyPropertiesMin version="4" age="22.9" weight="0.9892" build="0.9522"  key="00155008130038C677838872878634FFF0A9863BE6D86656B226AF159ABF486400FEF6030F435408000000000000000000000000000000000000000031FC1003"  />
+	  <BodyPropertiesMax version="4" age="22.9" weight="0.9892" build="0.9522"  key="000A5400110030518A87888888888FFF708E885AC8A79B986DDC37888FBE3C4A00FEF6030F0B6638000000007300000000000000000016770000000043FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_horosha_3_leader_0" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_horosha_3_leader_1" name="{=bpw8fOs5}of the Horosha" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_3_leader_2" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_3_leader_3" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyPropertiesMin version="4" age="22.9" weight="0.9892" build="0.9522"  key="00155008130038C677838872878634FFF0A9863BE6D86656B226AF159ABF486400FEF6030F435408000000000000000000000000000000000000000031FC1003"  />
+	  <BodyPropertiesMax version="4" age="22.9" weight="0.9892" build="0.9522"  key="000A5400110030518A87888888888FFF708E885AC8A79B986DDC37888FBE3C4A00FEF6030F0B6638000000007300000000000000000016770000000043FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_horosha_4_leader_0" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_horosha_4_leader_1" name="{=bpw8fOs5}of the Horosha" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_4_leader_2" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_4_leader_3" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyPropertiesMin version="4" age="22.9" weight="0.9892" build="0.9522"  key="00155008130038C677838872878634FFF0A9863BE6D86656B226AF159ABF486400FEF6030F435408000000000000000000000000000000000000000031FC1003"  />
+	  <BodyPropertiesMax version="4" age="22.9" weight="0.9892" build="0.9522"  key="000A5400110030518A87888888888FFF708E885AC8A79B986DDC37888FBE3C4A00FEF6030F0B6638000000007300000000000000000016770000000043FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_horosha_5_leader_0" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_horosha_5_leader_1" name="{=bpw8fOs5}of the Horosha" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_5_leader_2" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_horosha_5_leader_3" name="{=bpw8fOs5}of the Horosha" voice="curt" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyPropertiesMin version="4" age="22.9" weight="0.9892" build="0.9522"  key="00155008130038C677838872878634FFF0A9863BE6D86656B226AF159ABF486400FEF6030F435408000000000000000000000000000000000000000031FC1003"  />
+	  <BodyPropertiesMax version="4" age="22.9" weight="0.9892" build="0.9522"  key="000A5400110030518A87888888888FFF708E885AC8A79B986DDC37888FBE3C4A00FEF6030F0B6638000000007300000000000000000016770000000043FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+		<NPCCharacter id="horosha_recruit"
+                default_group="Infantry"
+                level="11"
+                name="Horosha Recruit"
+                occupation="Mercenary"
+				is_mercenary="true"
+                culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+	  <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.chokuto_a" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Cape"
+                 id="Item.scarf" />
+      <equipment slot="Gloves"
+                 id="Item.buttoned_leather_bracers" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.tetsubo" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Gloves"
+                 id="Item.buttoned_leather_bracers" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.long_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.tetsubo" />
+      <equipment slot="Body"
+                 id="Item.recruit_armor" />
+      <equipment slot="Leg"
+                 id="Item.eastern_leather_boots" />
+      <equipment slot="Gloves"
+                 id="Item.steppe_leather_vambraces" />
+      </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t1"
+                    civilian="true" />
+    </Equipments>
+	<upgrade_targets>
+		<upgrade_target id="NPCCharacter.horosha_spearman" />
+	</upgrade_targets>
+  </NPCCharacter>
+
+<NPCCharacter id="horosha_spearman"
+                default_group="Infantry"
+                level="16"
+                name="Horosha Spearman"
+                occupation="Mercenary"
+				is_mercenary="true"
+                culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.long_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.long_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.katana_b" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item0"
+                 id="Item.short_spear" />
+      <equipment slot="Item1"
+                 id="Item.footmans_wicker_shield" />
+      <equipment slot="Item2"
+                 id="Item.khuzait_sword_2_t3" />
+      <equipment slot="Body"
+                 id="Item.samurai_leather_e" />
+      <equipment slot="Head"
+                 id="Item.leather_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_b_shoulders_e" />
+      <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2"
+                    civilian="true" />
+    </Equipments>
+	<upgrade_targets>
+		<upgrade_target id="NPCCharacter.horosha_kanabo_warrior" />
+	</upgrade_targets>
+  </NPCCharacter>
+
+<NPCCharacter id="horosha_kanabo_warrior"
+                default_group="Infantry"
+                level="21"
+                name="Horosha Kanabo Warrior"
+                occupation="Mercenary"
+				is_mercenary="true"
+                culture="Culture.tetsojin">
+    <face>
+      <face_key_template value="BodyProperty.fighter_empire" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+      <equipment slot="Item3"
+                 id="Item.kanabo" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item3"
+                 id="Item.kanabo" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentRoster>
+      <equipment slot="Item3"
+                 id="Item.kanabo" />
+      <equipment slot="Body"
+                 id="Item.samurai_plate_e" />
+      <equipment slot="Head"
+                 id="Item.iron_jingasa" />
+      <equipment slot="Leg"
+                 id="Item.samurai_a_boots_e" />
+      <equipment slot="Cape"
+                 id="Item.samurai_a_shoulders_e" />
+	  <equipment slot="Gloves"
+                 id="Item.samurai_a_gloves_e" />
+      </EquipmentRoster>
+      <EquipmentSet id="khuzait_troop_civilian_template_t2"
+                    civilian="true" />
+    </Equipments>
+	<upgrade_targets>
+	</upgrade_targets>
+  </NPCCharacter>
+
+
+  <NPCCharacter id="spc_kunoichi_1_leader_0" name="{=bpw8fOs5}of the kunoichi" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_kunoichi_1_leader_1" name="{=bpw8fOs5}of the kunoichi" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_kunoichi_1_leader_2" name="{=bpw8fOs5}of the kunoichi" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_kunoichi_1_leader_3" name="{=bpw8fOs5}of the kunoichi" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyPropertiesMin version="4" age="22.9" weight="0.9892" build="0.9522"  key="00155008130038C677838872878634FFF0A9863BE6D86656B226AF159ABF486400FEF6030F435408000000000000000000000000000000000000000031FC1003"  />
+	  <BodyPropertiesMax version="4" age="22.9" weight="0.9892" build="0.9522"  key="000A5400110030518A87888888888FFF708E885AC8A79B986DDC37888FBE3C4A00FEF6030F0B6638000000007300000000000000000016770000000043FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_kunoichi_2_leader_0" name="{=bpw8fOs5}of the kunoichi" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+   
+  <NPCCharacter id="spc_kunoichi_2_leader_1" name="{=bpw8fOs5}of the kunoichi" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_kunoichi_2_leader_2" name="{=bpw8fOs5}of the kunoichi" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+   
+   
+  <NPCCharacter id="spc_kunoichi_2_leader_3" name="{=bpw8fOs5}of the kunoichi" voice="curt" is_female="true" is_template="true" default_group="HorseArcher" is_hero="false" culture="Culture.tetsojin" occupation="Lord">
+    <face>
+      <BodyPropertiesMin version="4" age="22.9" weight="0.9892" build="0.9522"  key="00155008130038C677838872878634FFF0A9863BE6D86656B226AF159ABF486400FEF6030F435408000000000000000000000000000000000000000031FC1003"  />
+	  <BodyPropertiesMax version="4" age="22.9" weight="0.9892" build="0.9522"  key="000A5400110030518A87888888888FFF708E885AC8A79B986DDC37888FBE3C4A00FEF6030F0B6638000000007300000000000000000016770000000043FC1002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <Trait id="Honor" value="-1" />
+      <Trait id="Valor" value="2" />
+      <Trait id="Calculating" value="-1" />
+      <Trait id="Commander" value="6" />
+      <Trait id="HorseArcherFightingSkills" value="7" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+   
+</NPCCharacters>

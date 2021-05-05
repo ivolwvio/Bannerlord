@@ -1,0 +1,47 @@
+<!--You can add new or override old items(weapons and armors) by adding nodes to this xml.
+For examples please refer to: SandBoxCore/ModuleData/spitems/arm_armors.xml.-->
+<Items>
+
+<Item id="lord_plate_e" name="Tetsojin Lord Plate Armor" mesh="black_samurai_a_armor_flag" subtype="body_armor" culture="Culture.empire" weight="21.40" difficulty="0" appearance="3" Type="BodyArmor">
+    <ItemComponent>
+      <Armor body_armor="5" leg_armor="1" has_gender_variations="true" arm_armor="1" covers_body="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+
+<Item id="lord_a_helmet_e" name="Tetsojin Lord Plate Helmet" mesh="black_lord_samurai_a_helmet" culture="Culture.empire" subtype="head_armor" weight="3.7" difficulty="0" appearance="3.8" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="true" hair_cover_type="type2" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+<Item id="lord_archer_helmet_e" name="Tetsojin Lord Plate Helmet" mesh="black_lord_samurai_archer_helmet" culture="Culture.empire" subtype="head_armor" weight="3.7" difficulty="0" appearance="3.8" Type="HeadArmor">
+    <ItemComponent>
+      <Armor head_armor="5" has_gender_variations="true" hair_cover_type="type2" beard_cover_type="type3" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="lord_a_boots_e" name="Tetsojin Lord Plate Boots" mesh="black_samurai_a_boots" culture="Culture.empire" weight="3.5" difficulty="0" appearance="3" Type="LegArmor">
+    <ItemComponent>
+      <Armor leg_armor="1" covers_legs="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+
+  <Item id="lord_a_gloves_e" name="Tetsojin Lord Plate Gauntlets" mesh="black_samurai_a_gloves" culture="Culture.empire" weight="1.8" appearance="3" Type="HandArmor">
+    <ItemComponent>
+      <Armor arm_armor="1" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+  <Item id="lord_a_shoulders_e" name="Tetsojin Lord Lamellar Shoulders" mesh="black_samurai_a_shoulders" culture="Culture.empire" weight="3.5" appearance="3" Type="Cape">
+    <ItemComponent>
+      <Armor body_armor="5" arm_armor="1" has_gender_variations="true" modifier_group="plate" material_type="Plate" />
+    </ItemComponent>
+    <Flags UseTeamColor="true" Civilian="true" />
+  </Item>
+  
+</Items>

@@ -1,0 +1,345 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+  <NPCCharacter id="spc_wanderer_tetsojin_0" name="{=sdzaip5J}{HERO.FIRSTNAME} the Knowing" voice="softspoken" age="29" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_0" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="CrossbowmanStyle" value="2" />
+      <Trait id="EngineerSkills" value="4" />
+      <Trait id="Generosity" value="-1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- the hawk, curt voice. Rural clan nemesis. Easily insulted, killed a man's brother over a girl -->
+  <NPCCharacter id="spc_wanderer_tetsojin_1" name="{=j2nVPqIX}{HERO.FIRSTNAME} the Hawk" voice="curt" age="27" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_1" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="HorseArcherFightingSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="-1" />
+      <!--<Trait id="RuralClanIsNemesis" value="1" />-->
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- the fatherless, backed out of a family feud -->
+  <NPCCharacter id="spc_wanderer_tetsojin_2" name="{=agS5lIg7}{HERO.FIRSTNAME} the Fatherless" voice="earnest" age="22" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_2" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Mercy" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- ironeye, professional soldier. infantryman -->
+  <NPCCharacter id="spc_wanderer_tetsojin_3" name="{=QWbgE4bw}{HERO.FIRSTNAME} Ironeye" voice="curt" age="32" default_group="Infantry" is_hero="false" is_template="true" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_3" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="HopliteFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!--the proud, turned on protectors. lord as nemesis -->
+  <NPCCharacter id="spc_wanderer_tetsojin_4" name="{=ykTARD4b}{HERO.FIRSTNAME} the Outcast" voice="ironic" age="22" default_group="Infantry" is_hero="false" is_template="true" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_4" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="Commander" value="3" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Generosity" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- 'the mad' soft voice, sinister? Pickpocket. Have gang leader as nemesis? -->
+  <NPCCharacter id="spc_wanderer_tetsojin_5" name="{=q5QjQyde}{HERO.FIRSTNAME} the Mad" voice="softspoken" age="21" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_5" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="WandererEquipment" value="1" />
+      <!--<Trait id="GangLeaderIsNemesis" value="1" />-->
+      <Trait id="PeltastFightingSkills" value="3" />
+      <Trait id="RogueSkills" value="3" />
+      <Trait id="Calculating" value="1" />
+      <Trait id="Honor" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!--the grey falcon, lone survivor of a hunted steppe clan -->
+  <NPCCharacter id="spc_wanderer_tetsojin_6" name="{=seS9ZZUW}{HERO.FIRSTNAME} the Grey Falcon" voice="curt" age="20" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_6" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="HorseArcherFightingSkills" value="3" />
+      <Trait id="HillScoutSkills" value="2" />
+      <Trait id="Commander" value="2" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Generosity" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!--the she-wolf - taken by empire, slave in arena. CHANGED TO AT-START-->
+  <NPCCharacter id="spc_wanderer_tetsojin_7" name="{=3wzexaA7}{HERO.FIRSTNAME} the She-Wolf" voice="curt" age="28" is_female="true" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_khuzait" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_7" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="HuscarlFightingSkills" value="5" />
+      <Trait id="SergeantCommandSkills" value="2" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- lone daughter of mother -->
+  <NPCCharacter id="spc_wanderer_tetsojin_8" name="{=OIXub6bS}{HERO.FIRSTNAME} the Alone" voice="curt" age="29" is_female="true" default_group="Infantry" is_template="true" is_hero="false" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_khuzait" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_8" faction="Kingdom.khuzait" />-->
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="WandererEquipment" value="1" />
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="HillScoutSkills" value="3" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="1" />
+      <Trait id="Mercy" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- tomboy daughter of caravan guard -->
+  <NPCCharacter id="spc_wanderer_tetsojin_9" name="{=KY2zbWkj}{HERO.FIRSTNAME} the Swift" voice="ironic" age="21" is_female="true" is_hero="false" default_group="Infantry" is_template="true" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.townswoman_khuzait" />
+    </face>
+    <!--<Hero id="spc_wanderer_tetsojin_9" faction="Kingdom.khuzait" />-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <Trait id="ArcherFIghtingSkills" value="3" />
+      <Trait id="RogueSkills" value="5" />
+      <Trait id="Manager" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Generosity" value="1" />
+      <Trait id="Mercy" value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- former 'horsethief' -->
+  <NPCCharacter id="spc_wanderer_tetsojin_10" name="{=CQOlMayc}{HERO.FIRSTNAME} the Ragged" voice="earnest" default_group="Infantry" is_hero="false" culture="Culture.tetsojin" occupation="Wanderer">
+    <face>
+      <face_key_template value="BodyProperty.fighter_tetsojin" />
+    </face>
+    <!--<Hero id="spc_wanderer_karakhuzaits_10" faction="Faction.karakhuzaits" clan="Clan.karakhuzaits"/>-->
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Traits>
+      <!--<Trait id="IsTemplate" value="1" />-->
+      <!--<Trait id="SpawnAsPrisoner" value="1" />-->
+      <Trait id="BalancedFightingSkills" value="4" />
+      <Trait id="HillScoutSkills" value="4" />
+      <Trait id="Valor" value="1" />
+      <Trait id="Honor" value="-1" />
+      <Trait id="Calculating" value="-1" />
+    </Traits>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.khuzait_sword_4_t4" />
+        <equipment slot="Head" id="Item.decorated_nomad_cap" />
+        <equipment slot="Body" id="Item.ragged_robes" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" civilian="true" />
+      <EquipmentSet id="npc_companion_equipment_template_tetsojin" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>

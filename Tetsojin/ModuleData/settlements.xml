@@ -1,0 +1,361 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Settlements>
+ 
+  <Settlement id="town_R1" name="Kyoten" owner="Faction.clan_samurai_1" posX="821.52" posY="354.69" culture="Culture.tetsojin" prosperity="4000" gate_posX="816.26" gate_posY="354.81">
+    <Components>
+      <Town id="town_comp_R1" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="khuzait_city_a" scene_name_1="khuzait_city_a" scene_name_2="khuzait_city_a" scene_name_3="khuzait_city_a" />
+      <Location id="arena" scene_name="arena_khuzait_a" />
+      <Location id="tavern" scene_name="khuzait_tavern_a" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+      <Location id="house_1" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_2" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_3" scene_name="khuzait_house_c_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R1_1" name="Senso-mura" posX="828.71" posY="331.13" culture="Culture.tetsojin" text="Senso-mura lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="village_comp_R1_1" village_type="VillageType.silk_plant" hearth="700" trade_bound="Settlement.town_R1" bound="Settlement.town_R1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R1_2" name="Masuta-mura" posX="831.89" posY="290.02" culture="Culture.tetsojin" text="Masuta-mura lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="village_comp_R1_2" village_type="VillageType.steppe_horse_ranch" hearth="700" trade_bound="Settlement.town_R1" bound="Settlement.town_R1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R1_3" name="Senso uta" posX="806.69" posY="244.84" culture="Culture.tetsojin" text="Senso uta lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="village_comp_R1_3" village_type="VillageType.sheep_farm" hearth="700" trade_bound="Settlement.town_R1" bound="Settlement.town_R1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  
+ <Settlement id="town_R2" name="Kunosaki" owner="Faction.clan_samurai_8" posX="810.28" posY="100.10" culture="Culture.tetsojin" prosperity="4000" gate_posX="809.18" gate_posY="101.98">
+    <Components>
+      <Town id="town_comp_R2" is_castle="false" level="3" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="khuzait_town_004" scene_name_1="khuzait_town_004" scene_name_2="khuzait_town_004" scene_name_3="khuzait_town_004" />
+      <Location id="arena" scene_name="arena_khuzait_a" />
+      <Location id="tavern" scene_name="khuzait_tavern_a" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+      <Location id="house_1" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_2" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_3" scene_name="khuzait_house_c_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+ 
+ <Settlement id="village_R2_1" name="Gungka" posX="781.23" posY="132.39" culture="Culture.tetsojin" text="Gungka lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="village_comp_R2_1" village_type="VillageType.fisherman" hearth="700" trade_bound="Settlement.town_R2" bound="Settlement.town_R2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R2_2" name="Kakusareta" posX="814.65" posY="133.91" culture="Culture.tetsojin" text="Kakusareta lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="village_comp_R2_2" village_type="VillageType.steppe_horse_ranch" hearth="700" trade_bound="Settlement.town_R2" bound="Settlement.town_R2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R2_3" name="Honō no hi" posX="788.23" posY="197.21" culture="Culture.tetsojin" text="Honō no hi lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="village_comp_R2_3" village_type="VillageType.silk_plant" hearth="700" trade_bound="Settlement.town_R2" bound="Settlement.town_R2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  
+  <Settlement id="town_R3" name="Akuson" owner="Faction.clan_samurai_3" posX="782.43" posY="277.37" culture="Culture.tetsojin" prosperity="4000" gate_posX="780.80" gate_posY="275.94">
+    <Components>
+      <Town id="town_comp_R3" is_castle="false" level="1" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.008" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="khuzait_town_004" scene_name_1="khuzait_town_004" scene_name_2="khuzait_town_004" scene_name_3="khuzait_town_004" />
+      <Location id="arena" scene_name="arena_khuzait_a" />
+      <Location id="tavern" scene_name="khuzait_tavern_a" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+      <Location id="house_1" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_2" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_3" scene_name="khuzait_house_c_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R3_1" name="Chiharu" posX="784.97" posY="262.26" culture="Culture.tetsojin" text="Chiharu lies in in the foothills of the Koh Rohini, the mountains separating the settled Khuzait lands from their nomadic neighbors. The villagers here buy horses from the wandering tribes, and raise some of their own, making this the source for many of the steeds ridden by the Khuzait armies.">
+    <Components>
+      <Village id="village_comp_R3_1" village_type="VillageType.steppe_horse_ranch" hearth="700" trade_bound="Settlement.town_R3" bound="Settlement.town_R3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" gate_rotation="0.008" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_l" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R3_2" name="Miho" posX="760.97" posY="266.70" culture="Culture.tetsojin" text="Miho is the center of a rural district on the eastern edge of the Devseg plateau, where rain can be trapped in the many shallow valleys and wheat can be grown.">
+    <Components>
+      <Village id="village_comp_R3_2" village_type="VillageType.sheep_farm" hearth="700" trade_bound="Settlement.town_R3" bound="Settlement.town_R3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R3_3" name="Bunko" posX="756.43" posY="226.25" culture="Culture.tetsojin" text="Bunko is the center of a rural district on the eastern edge of the Devseg plateau, where rain can be trapped in the many shallow valleys and wheat can be grown.">
+    <Components>
+      <Village id="village_comp_R3_3" village_type="VillageType.wheat_farm" hearth="700" trade_bound="Settlement.town_R3" bound="Settlement.town_R3" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="town_R4" name="Horoshi" owner="Faction.clan_samurai_7" posX="705.54" posY="127.62" culture="Culture.tetsojin" prosperity="3900" gate_posX="708.06" gate_posY="127.54">
+    <Components>
+      <Town id="town_comp_R4" is_castle="false" level="2" background_crop_position="0.0" background_mesh="gui_bg_town_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.508" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.town_complex">
+      <Location id="center" scene_name="khuzait_city_a" scene_name_1="khuzait_city_a" scene_name_2="khuzait_city_a" scene_name_3="khuzait_city_a" />
+      <Location id="arena" scene_name="arena_khuzait_a" />
+      <Location id="tavern" scene_name="khuzait_tavern_a" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+      <Location id="house_1" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_2" scene_name="khuzait_house_c_interior_a_house" />
+      <Location id="house_3" scene_name="khuzait_house_c_interior_a_house" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Backstreet" name="{=a0MVffcN}Backstreet" />
+      <Area type="Clearing" name="{=LWHIVshb}Clearing" />
+      <Area type="Waterfront" name="{=Rr1cy5Sk}Waterfront" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R4_1" name="Tomoe" posX="722.93" posY="122.47" culture="Culture.tetsojin" text="Tomoe sits on the northern end of Lake Tanaesis. The terrain around here is relatively flat, allowing residents to create artificial lagoons to harvest salt from the lake's brackish water.">
+    <Components>
+      <Village id="village_comp_R4_1" village_type="VillageType.fisherman" hearth="700" trade_bound="Settlement.town_R4" bound="Settlement.town_R4" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R4_2" name="Chikako" posX="728.83" posY="136.76" culture="Culture.tetsojin" text="Chikako lies on the coastal plain east of Lake Tanaesis. Although relatively dry, the lands here get enough rain to allow a good crop of wheat.">
+    <Components>
+      <Village id="village_comp_R4_2" village_type="VillageType.wheat_farm" hearth="700" gate_rotation="0.508" trade_bound="Settlement.town_R4" bound="Settlement.town_R4" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="village_R4_3" name="Saigo" posX="706.22" posY="165.24" culture="Culture.tetsojin" text="The village of Saigo lies at the east of the Devseg plateau, in rough country scarred by ravines. Though it receives little rain, there is still enough runoff from the hills to grow wheat and other crops.">
+    <Components>
+      <Village id="village_comp_R4_3" village_type="VillageType.iron_mine" hearth="700" gate_rotation="0.508" trade_bound="Settlement.town_R4" bound="Settlement.town_R4" background_crop_position="0.0" background_mesh="gui_bg_village_battania" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_battania" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_j" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="castle_R1" name="Hosokawa Castle" owner="Faction.clan_samurai_5" posX="757.52" posY="197.4" culture="Culture.tetsojin" prosperity="2000" gate_posX="759.04" gate_posY="198.19">
+    <Components>
+      <Town id="castle_comp_R1" is_castle="true" level="3" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+  <Settlement id="castle_village_R1_1" name="Hosokawa" posX="771.95" posY="195.31" culture="Culture.tetsojin" text="Hosokawa and its surrounding hamlets lie in the floodplain of the river Asacys just as it enters Lake Tanaesis. Salt can be harvested from the surrounding tidal flats.">
+    <Components>
+      <Village id="castle_village_comp_R1_1" village_type="VillageType.salt_mine" hearth="700" gate_rotation="0.008" trade_bound="Settlement.castle_R1" bound="Settlement.castle_R1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  
+   <Settlement id="castle_village_R1_2" name="Charait" posX="744.97" posY="202.39" culture="Culture.tetsojin" text="Charait lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="castle_village_comp_R1_2" village_type="VillageType.silk_plant" hearth="700" trade_bound="Settlement.castle_R1" bound="Settlement.castle_R1" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="castle_R2" name="Choichi Castle" owner="Faction.clan_samurai_6" posX="735.77" posY="62.18" culture="Culture.tetsojin" prosperity="2000" gate_posX="737.32" gate_posY="63.35">
+    <Components>
+      <Town id="castle_comp_R2" is_castle="true" level="2" background_crop_position="0.0" background_mesh="gui_bg_castle_khuzait" wait_mesh="wait_khuzait_town" gate_rotation="0.908" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.castle_complex">
+      <Location id="center" scene_name="khuzait_castle_siege_001" scene_name_1="khuzait_castle_siege_001" scene_name_2="khuzait_castle_siege_001" scene_name_3="khuzait_castle_siege_001" />
+      <Location id="lordshall" scene_name_1="khuzait_castle_keep_a_l1_interior" scene_name_2="khuzait_castle_keep_a_l2_interior" scene_name_3="khuzait_castle_keep_a_l3_interior" />
+      <Location id="prison" scene_name="khuzait_dungeon_a" />
+    </Locations>
+  </Settlement>
+  
+  <Settlement id="castle_village_R2_1" name="Choichi" posX="752.53" posY="70.62" culture="Culture.tetsojin" text="Choichi lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="castle_village_comp_R2_1" village_type="VillageType.fisherman" hearth="700" trade_bound="Settlement.castle_R2" bound="Settlement.castle_R2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+  <Settlement id="castle_village_R2_2" name="Coeichi" posX="733.43" posY="92.16" culture="Culture.tetsojin" text="Coeichi lies in a dry valley to the east of the Devseg plateau. Though the region is poor land for most crops, its scrubby trees produce a berry that, when dried, gives a tang to the stews of the east.">
+    <Components>
+      <Village id="castle_village_comp_R2_2" village_type="VillageType.fisherman" hearth="700" trade_bound="Settlement.castle_R2" bound="Settlement.castle_R2" background_crop_position="0.0" background_mesh="gui_bg_village_khuzait" wait_mesh="wait_khuzait_village" castle_background_mesh="gui_bg_castle_khuzait" />
+    </Components>
+    <Locations complex_template="LocationComplexTemplate.village_complex">
+      <Location id="village_center" scene_name="khuzait_village_a" />
+    </Locations>
+    <CommonAreas>
+      <Area type="Pasture" name="{=fOUsLdZR}Pasture" />
+      <Area type="Thicket" name="{=66Mzk0NZ}Thicket" />
+      <Area type="Bog" name="{=iXA5SttU}Bog" />
+    </CommonAreas>
+  </Settlement>
+  
+   <Settlement id="hideout_steppe_21" name="{=Settlements.Settlement.name.hideout_steppe_21}Hideout" type="Hideout" posX="789.17" posY="185.81" culture="Culture.tetsojin_bandits">
+    <Components>
+      <Hideout id="hideout_steppe_21" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+    </Components>
+  </Settlement>
+
+<Settlement id="hideout_steppe_22" name="{=Settlements.Settlement.name.hideout_steppe_22}Hideout" type="Hideout" posX="825.62" posY="297.66" culture="Culture.tetsojin_bandits">
+    <Components>
+      <Hideout id="hideout_steppe_22" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+    </Components>
+  </Settlement>
+  
+  <Settlement id="hideout_steppe_23" name="{=Settlements.Settlement.name.hideout_steppe_23}Hideout" type="Hideout" posX="806.89" posY="314.08" culture="Culture.tetsojin_bandits">
+    <Components>
+      <Hideout id="hideout_steppe_23" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+    </Components>
+  </Settlement>
+  
+  <Settlement id="hideout_steppe_24" name="{=Settlements.Settlement.name.hideout_steppe_24}Hideout" type="Hideout" posX="787.69" posY="228.34" culture="Culture.tetsojin_bandits">
+    <Components>
+      <Hideout id="hideout_steppe_24" map_icon="bandit_hideout_a" scene_name="hideout_steppe_001" background_crop_position="0.0" background_mesh="empire_twn_scene_bg" wait_mesh="wait_hideout_desert" gate_rotation="0.0" />
+    </Components>
+  </Settlement>
+  
+</Settlements>

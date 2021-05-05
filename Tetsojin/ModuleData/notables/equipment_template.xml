@@ -1,0 +1,273 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<NPCCharacters>
+
+  <NPCCharacter id="tetsojin_troop_civilian_template_t1"
+                name="{=!}tetsojin_troop_civilian_template_t1"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.tetsojin"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="tetsojin_troop_civilian_template_t1" />
+    </Equipments>
+  </NPCCharacter>
+  
+  <NPCCharacter id="tetsojin_troop_civilian_template_t2"
+                name="{=!}tetsojin_troop_civilian_template_t2"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.tetsojin"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="tetsojin_troop_civilian_template_t2" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tetsojin_troop_civilian_template_t3"
+                name="{=!}tetsojin_troop_civilian_template_t3"
+                age="48"
+                voice="curt"
+                default_group="infantry"
+                is_hero="false"
+                culture="Culture.tetsojin"
+                is_template="true"
+                skill_template="SkillSet.infantry_heavyinfantry_level1_template_skills">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Equipments>
+      <EquipmentSet id="tetsojin_troop_civilian_template_t3" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- tetsojin BATTLE TEMPLATES -->
+  <NPCCharacter id="tet_bat_template_medium"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_lord_lady_medium"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsMediumNobleEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_medium" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tet_bat_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_lord_lady_flamboyant"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tet_bat_template_heavy"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_lord_lady_equipment"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tet_bat_template_nomad"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_lord_lady_nomad"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tet_bat_template_lady"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_lord_lady_noncom"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_bat_template_lady" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- tetsojin CIVILIAN TEMPLATES -->
+  <NPCCharacter id="tet_civ_template_default"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_unarmored_noble_equipment_normal"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsCombatantCivilianEquipmentDefaultTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_civ_template_default" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tet_civ_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_unarmored_noble_equipment_flamboyant"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_civ_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tet_civ_template_heavy"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_unarmored_noble_equipment_heavy"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_civ_template_heavy" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tet_civ_template_nomad"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_unarmored_noble_equipment_nomad"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_civ_template_nomad" />
+    </Equipments>
+  </NPCCharacter>
+  <!-- tetsojin NONCOMBATANT TEMPLATES -->
+  <NPCCharacter id="tet_noncom_template_default"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_unarmored_noble_equipment_normal"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsNoncombatantFemaleEquipmentDefaultTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_noncom_template_default" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="tet_noncom_template_flamboyant"
+                default_group="Infantry"
+                is_hero="false"
+                level="16"
+                name="{=!}tetsojin_unarmored_noble_equipment_flamboyant"
+                culture="Culture.tetsojin"
+                skill_template="SkillSet.infantry_heavyinfantry_level16_template_skills"
+                is_template="true">
+    <face>
+      <face_key_template value="BodyProperty.villager_tetsojin" />
+    </face>
+    <Traits>
+      <Trait id="IsEquipmentTemplate"
+             value="1" />
+      <Trait id="IsNoncombatantFemaleEquipmentDefaultTemplate"
+             value="1" />
+    </Traits>
+    <Equipments>
+      <EquipmentSet id="tet_noncom_template_flamboyant" />
+    </Equipments>
+  </NPCCharacter>
+</NPCCharacters>
