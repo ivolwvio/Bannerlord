@@ -54,3 +54,5 @@ Hardwood
 Charocal
 
 *** tEMP CODE ***
+
+next faction: Ninjas

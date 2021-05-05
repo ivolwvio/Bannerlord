@@ -32,6 +32,7 @@ vlandian armoury
 Fire Arrow Enabler
 Sparta
 VlandianKnightsLances
+Katana Sword Pack
 
 # Additional mods that are not displayed above:
 
@@ -39,3 +40,4 @@ Intro Remover
 BUTRLoader
 Bannerlord mod louncher
 Simple Point Crosshair no Hitmarkers
+Custom Katana Holster
