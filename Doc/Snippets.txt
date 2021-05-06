@@ -56,3 +56,15 @@ Charocal
 *** tEMP CODE ***
 
 next faction: Ninjas
+
+<EquipmentRoster>
+  <equipment slot="Item0" id="Item.katana1" />
+  <equipment slot="Item1" id="Item.shuriken" />
+  <equipment slot="Item2" id="Item.shuriken" />
+  <equipment slot="Item3" id="Item.shuriken" />
+  <equipment slot="Head" id="Item.pilgrim_hood" />
+  <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+  <equipment slot="Body" id="Item.tundra_tunic" />
+  <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
+  <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
+</EquipmentRoster>
