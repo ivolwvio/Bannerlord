@@ -121,7 +121,7 @@ campaign.give_troops spartan_sword 40
 campaign.give_troops spartan_javeline_throwers 40
 campaign.give_troops spartan_archer 40
 campaign.give_troops spartan_horse_archer 40
-campaign.give_troops spartan_lancer 40
+campaign.give_troops spartan_lancer2 40
 campaign.give_troops spartan_horse_swordsman 40
 
 ========================================================================

@@ -6,9 +6,9 @@ Romans 6:23 (King James Version)
 
 PARTY SIZES
 
-(?!<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="NPCCharacter.main_hero" \/>)(?!<PartyTemplateStack min_value="100" max_value="500" troop="(.*?)" \/>)<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="(.*?)" \/>
+(?!<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="NPCCharacter.main_hero" \/>)(?!<PartyTemplateStack min_value="1000" max_value="10000" troop="(.*?)" \/>)<PartyTemplateStack min_value="[+-]?(?:[0-9]*[.])?[0-9]+" max_value="[+-]?(?:[0-9]*[.])?[0-9]+" troop="(.*?)" \/>
 
-<PartyTemplateStack min_value="100" max_value="500" troop="$2" />
+<PartyTemplateStack min_value="1000" max_value="10000" troop="$2" />
 
 =====================================================================
 
@@ -118,77 +118,15 @@ $1weight="0.5"$2
 =====================================================================
 
 <EquipmentRoster>
-  <equipment slot="Item0" id="Item.cla_empire_gladius_elite_1" />
-</EquipmentRoster>
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.hoplon_scorpion" />
-  <equipment slot="Item1" id="Item.eastern_throwing_spear_1_t3" />
-  <equipment slot="Item2" id="Item.eastern_throwing_spear_1_t3" />
-  <equipment slot="Item3" id="Item.eastern_spear_1_t2" />
-</EquipmentRoster>
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.imperial_spear_t2" />
-  <equipment slot="Item1" id="Item.eastern_spear_1_t2" />
-  <equipment slot="Item2" id="Item.hoplon_scorpion" />
-  <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
-</EquipmentRoster>
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.leather_round_shield" />
-  <equipment slot="Item1" id="Item.imperial_spear_t2" />
-  <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
-  <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
-  <equipment slot="Head" id="Item.corinthian_1" />
+  <equipment slot="Item0" id="Item.heavy_round_shield" />
+  <equipment slot="Item1" id="Item.eastern_spear_4_t4" />
+  <equipment slot="Item2" id="Item.empire_sword_1_t2_blunt" />
+  <equipment slot="Item3" id="Item.cla_palaic_1ax_2" />
+  <equipment slot="Head" id="Item.closed_goggled_helmet" />
   <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
-  <equipment slot="Body" id="Item.cla_empire_musculata_brass_1" />
+  <equipment slot="Body" id="Item.cla_celtic_pants_hamata_obelix_t_1" />
   <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
-  <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
-</EquipmentRoster>
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.leather_round_shield" />
-</EquipmentRoster>
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.hoplon_lahmda" />
-</EquipmentRoster>
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.spartan_round_shield" />
-</EquipmentRoster>
-
-next faction: Ninjas
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.katana1" />
-  <equipment slot="Item1" id="Item.shuriken" />
-  <equipment slot="Item2" id="Item.shuriken" />
-  <equipment slot="Item3" id="Item.shuriken" />
-  <equipment slot="Head" id="Item.pilgrim_hood" />
-  <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
-  <equipment slot="Body" id="Item.tundra_tunic" />
-  <equipment slot="Gloves" id="Item.guarded_padded_vambrace" />
-  <equipment slot="Leg" id="Item.cla_dacia_legs_pantaloni_b" />
-</EquipmentRoster>
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.vlandian_lance_colored4" />
-  <equipment slot="Head" id="Item.corinthian_1" />
-  <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
-  <equipment slot="Body" id="Item.cla_empire_musculata_brass_1" />
-  <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
-  <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+  <equipment slot="Leg" id="Item.cla_empire_tournament_boots" />
 </EquipmentRoster>
 <equipment slot="Horse" id="Item.noble_horse" />
 <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
-
-<EquipmentRoster>
- 
-  <equipment slot="Head" id="Item.corinthian_1" />
-  <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
-  <equipment slot="Body" id="Item.cla_empire_musculata_brass_1" />
-  <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
-  <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
-</EquipmentRoster>

@@ -25931,7 +25931,7 @@
   <NPCCharacter id="spartan_spear"
                 default_group="Infantry"
                 level="26"
-                name="{=CJxF6fke}Spartan Elite"
+                name="{=CJxF6fke}Spartan Spearman"
                 occupation="Soldier"
                 culture="Culture.sturgia">
     <face>
@@ -26182,7 +26182,7 @@
       <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
     </Equipments>
   </NPCCharacter>
-  <NPCCharacter id="spartan_lancer"
+  <NPCCharacter id="spartan_lancer2"
                 default_group="LightCavalry"
                 level="26"
                 name="{=CJxF6fky}Spartan Lancer"

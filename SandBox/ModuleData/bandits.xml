@@ -221,6 +221,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+
   <NPCCharacter id="sea_raiders_bandit" default_group="Infantry" name="{=dq2cP8h0}Sea Raider" level="11" occupation="Bandit" culture="Culture.sea_raiders">
     <face>
       <face_key_template value="BodyProperty.villager_sturgia" />
@@ -456,6 +457,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+
   <NPCCharacter id="mountain_bandits_bandit" default_group="Infantry" name="{=9laVlEH9}Hillman" level="11" occupation="Bandit" culture="Culture.mountain_bandits">
     <face>
       <face_key_template value="BodyProperty.villager_battania" />
@@ -699,6 +701,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+
   <NPCCharacter id="forest_bandits_bandit" default_group="Ranged" name="{=HadsURl8}Bushwacker" level="11" occupation="Bandit" culture="Culture.forest_bandits">
     <face>
       <face_key_template value="BodyProperty.villager_vlandia" />
@@ -1022,6 +1025,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+
   <NPCCharacter id="desert_bandits_bandit" default_group="Infantry" name="{=uOAnHN47}Bedouin Rover" level="11" occupation="Bandit" culture="Culture.desert_bandits">
     <face>
       <face_key_template value="BodyProperty.villager_aserai" />
@@ -1051,33 +1055,38 @@
       <upgrade_target id="NPCCharacter.aserai_skirmisher" />
     </upgrade_targets>
     <Equipments>
-      <EquipmentRoster civilian="true">
-        <equipment slot="Item1" id="Item.eastern_spear_1_t2" />
-        <equipment slot="Item0" id="Item.aserai_mace_1_t2" />
-        <equipment slot="Body" id="Item.desert_robe" />
-        <equipment slot="Leg" id="Item.strapped_leather_boots" />
-        <equipment slot="Head" id="Item.turban" />
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.heavy_round_shield" />
+        <equipment slot="Item1" id="Item.eastern_spear_4_t4" />
+        <equipment slot="Item2" id="Item.empire_sword_1_t2_blunt" />
+        <equipment slot="Item3" id="Item.cla_palaic_1ax_2" />
+        <equipment slot="Head" id="Item.closed_goggled_helmet" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_celtic_pants_hamata_obelix_t_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_boots" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item1" id="Item.eastern_spear_1_t2" />
-        <equipment slot="Item0" id="Item.aserai_mace_1_t2" />
-        <equipment slot="Body" id="Item.aserai_civil_f" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-        <equipment slot="Head" id="Item.tuareg" />
+        <equipment slot="Item0" id="Item.northern_axe_t3" />
+        <equipment slot="Item1" id="Item.steppe_war_bow" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.piercing_arrows" />
+        <equipment slot="Head" id="Item.closed_goggled_helmet" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_celtic_pants_hamata_obelix_t_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_boots" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item1" id="Item.eastern_spear_1_t2" />
-        <equipment slot="Item0" id="Item.aserai_mace_1_t2" />
-        <equipment slot="Body" id="Item.layered_robe" />
-        <equipment slot="Leg" id="Item.wrapped_shoes" />
-        <equipment slot="Head" id="Item.turban" />
-      </EquipmentRoster>
-      <EquipmentRoster>
-        <equipment slot="Item1" id="Item.eastern_spear_1_t2" />
-        <equipment slot="Item0" id="Item.aserai_mace_1_t2" />
-        <equipment slot="Body" id="Item.desert_robe" />
-        <equipment slot="Leg" id="Item.strapped_leather_boots" />
-        <equipment slot="Head" id="Item.turban" />
+        <equipment slot="Item0" id="Item.northern_axe_t3" />
+        <equipment slot="Item1" id="Item.steppe_war_bow" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.piercing_arrows" />
+        <equipment slot="Head" id="Item.closed_goggled_helmet" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_celtic_pants_hamata_obelix_t_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_boots" />
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
@@ -1292,6 +1301,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+
   <NPCCharacter id="steppe_bandits_bandit" default_group="Cavalry" name="{=ZA4bgJ5V}Steppe Bandit" level="11" occupation="Bandit" culture="Culture.steppe_bandits">
     <face>
       <face_key_template value="BodyProperty.villager_khuzait" />
@@ -1577,6 +1587,7 @@
       </EquipmentRoster>
     </Equipments>
   </NPCCharacter>
+
   <!--Boss character start-->
   <NPCCharacter id="sea_raiders_boss" default_group="Infantry" name="{=C1Fkzdvu}Sea Raider Boss" level="26" occupation="Bandit" culture="Culture.sea_raiders">
     <face>
