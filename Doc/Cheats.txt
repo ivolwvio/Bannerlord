@@ -113,6 +113,17 @@ campaign.give_troops samurai_horse_archer 40
 campaign.give_troops samurai_horseman 40
 campaign.give_troops samurai_lancer 40
 
+# Spartan Faction
+
+campaign.give_troops spartan_spear 40
+campaign.give_troops spartan_short_spear 40
+campaign.give_troops spartan_sword 40
+campaign.give_troops spartan_javeline_throwers 40
+campaign.give_troops spartan_archer 40
+campaign.give_troops spartan_horse_archer 40
+campaign.give_troops spartan_lancer 40
+campaign.give_troops spartan_horse_swordsman 40
+
 ========================================================================
 
 Banners:

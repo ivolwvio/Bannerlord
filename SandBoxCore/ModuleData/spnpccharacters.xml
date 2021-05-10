@@ -13020,13 +13020,11 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_sword_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.hoplon_scorpion" />
+        <equipment slot="Item1" id="Item.vlandian_lance_colored4" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
-                    civilian="true" />
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="tournament_template_aserai_two_participant_set_v1"
@@ -13061,19 +13059,11 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_sword_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.katana1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_sword_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.katana1" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="tournament_template_aserai_two_participant_set_v2"
@@ -13108,21 +13098,17 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_sword_2_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.hoplon_lahmda" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.steppe_bow" />
-        <equipment slot="Item1"
-                   id="Item.tournament_arrows" />
-        <equipment slot="Item2"
-                   id="Item.seax_blunt" />
+        <equipment slot="Item0" id="Item.hoplon_lahmda" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="tournament_template_aserai_two_participant_set_v3"
@@ -13157,29 +13143,17 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Item2"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_sword_2_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="tournament_template_aserai_four_participant_set_v1"
@@ -13214,33 +13188,29 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_sword_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.leather_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_sword_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.leather_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_axe_2_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.leather_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.steppe_bow" />
-        <equipment slot="Item1"
-                   id="Item.tournament_arrows" />
-        <equipment slot="Item2"
-                   id="Item.desert_throwing_knife_blunt" />
+        <equipment slot="Item0" id="Item.leather_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="tournament_template_aserai_four_participant_set_v2"
@@ -13275,41 +13245,29 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_axe_2_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.leather_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_mace_2_t2" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
+        <equipment slot="Item0" id="Item.leather_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Item2"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.leather_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.leather_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="tournament_template_aserai_four_participant_set_v3"
@@ -13344,43 +13302,29 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.aserai_sword_1_t2" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_shield" />
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.steppe_bow" />
-        <equipment slot="Item1"
-                   id="Item.tournament_arrows" />
-        <equipment slot="Item2"
-                   id="Item.desert_throwing_knife_blunt" />
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Item2"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
   <NPCCharacter id="tournament_template_aserai_four_participant_set_v4"
@@ -13415,51 +13359,29 @@
     <upgrade_targets></upgrade_targets>
     <Equipments>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Item2"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.hoplon_lahmda" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.hoplon_lahmda" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Item2"
-                   id="Item.eastern_javelin_1_t2_blunt" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.hoplon_lahmda" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
       <EquipmentRoster>
-        <equipment slot="Item0"
-                   id="Item.eastern_spear_1_t2_blunt" />
-        <equipment slot="Item1"
-                   id="Item.bound_desert_round_sparring_shield" />
-        <equipment slot="Horse"
-                   id="Item.aserai_horse_tournament" />
-        <equipment slot="HorseHarness"
-                   id="Item.light_harness" />
+        <equipment slot="Item0" id="Item.hoplon_lahmda" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Item2" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
       </EquipmentRoster>
-      <EquipmentSet id="npc_wanderer_equipment_template_aserai_civilian"
-                    civilian="true" />
     </Equipments>
   </NPCCharacter>
 
@@ -25997,6 +25919,350 @@
         <equipment slot="Body" id="Item.eastern_studded_leather" />
         <equipment slot="Gloves" id="Item.studded_leather_vambraces" />
         <equipment slot="Leg" id="Item.cla_palaic_rough_tied_boots_2" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- Spartan -->
+
+
+  <NPCCharacter id="spartan_spear"
+                default_group="Infantry"
+                level="26"
+                name="{=CJxF6fke}Spartan Elite"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Head" id="Item.corinthian_4_plain" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_short_spear"
+                default_group="Ranged"
+                level="26"
+                name="{=CJxF6fkz}Spartan Short Spear"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Head" id="Item.corinthian_4_plain" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_sword"
+                default_group="Cavalry"
+                level="26"
+                name="{=CJxF6fky}Spartan Sword"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.cla_empire_gladius_elite_1" />
+        <equipment slot="Head" id="Item.corinthian_4_plain" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_javeline_throwers"
+                default_group="HorseArcher"
+                level="26"
+                name="{=CJxF6fky}Spartan Javeline Throwers"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item2" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
+        <equipment slot="Head" id="Item.corinthian_4_plain" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_archer"
+                default_group="Skirmisher"
+                level="26"
+                name="{=CJxF6fky}Spartan Archer"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.woodland_longbow" />
+        <equipment slot="Item1" id="Item.piercing_arrows" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
+        <equipment slot="Head" id="Item.corinthian_4_plain" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_horse_archer"
+                default_group="HeavyInfantry"
+                level="26"
+                name="{=CJxF6fky}Spartan Horse Archer"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.noble_bow" />
+        <equipment slot="Item1" id="Item.piercing_arrows" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.cla_palaic_sword_noble_2" />
+        <equipment slot="Head" id="Item.corinthian_4_plain" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_lancer"
+                default_group="LightCavalry"
+                level="26"
+                name="{=CJxF6fky}Spartan Lancer"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.sturgia_lance_2_t5" />
+        <equipment slot="Head" id="Item.corinthian_4_plain" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="spartan_horse_swordsman"
+                default_group="HeavyCavalry"
+                level="26"
+                name="{=CJxF6fky}Spartan Horse Swordsman"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5" key="0016C40FCECC22880776678E53B48686588CA83B78CB3F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.spartan_round_shield" />
+        <equipment slot="Item1" id="Item.cla_palaic_sword_noble_2" />
+        <equipment slot="Head" id="Item.corinthian_4_plain" />
+        <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
       </EquipmentRoster>
       <equipment slot="Horse" id="Item.noble_horse" />
       <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
