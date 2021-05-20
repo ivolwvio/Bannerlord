@@ -139,3 +139,22 @@ Viking black and red spiral:
 Knight yellow cross with black/red spiral background
 
 20.116.142.1500.1500.764.764.1.0.0.419.143.116.560.482.764.764.1.0.90
+
+========================================================================
+
+campaign.give_troops the_impossible_swordsman 500
+campaign.give_troops black_fork_knight 300
+campaign.give_troops the_woodsman 200
+
+========================================================================
+
+campaign.give_troops lion_phalangz 100
+campaign.give_troops lion_spearman 100
+campaign.give_troops lion_swordsman 100
+campaign.give_troops lion_javelin 100
+campaign.give_troops lion_archer 100
+campaign.give_troops lion_lancer 100
+campaign.give_troops lion_horsearcher 100
+campaign.give_troops lion_horseman 100
+
+========================================================================

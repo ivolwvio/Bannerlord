@@ -16,9 +16,9 @@
                physics_material="wood_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="NoBlood" />
@@ -43,9 +43,9 @@
                physics_material="wood_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="NoBlood" />
@@ -71,9 +71,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -98,9 +98,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -126,9 +126,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_1_scabbard_1">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -153,9 +153,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron6"
@@ -177,9 +177,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_2_scabbard_2">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -200,9 +200,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -227,9 +227,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -250,9 +250,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_7_scabbard_7">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -277,9 +277,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -305,9 +305,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -334,9 +334,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_1_scabbard_1">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -361,9 +361,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -384,9 +384,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_6_scabbard_6">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -411,9 +411,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_7_scabbard_7">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron6"
@@ -434,9 +434,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -457,9 +457,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -480,9 +480,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -508,9 +508,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_3blunt_scabbard_3">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -535,9 +535,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -563,9 +563,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_4_scabbard_4">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -590,9 +590,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -613,9 +613,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_8_scabbard_8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -636,9 +636,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_11_scabbard_11">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron6"
@@ -659,9 +659,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -686,9 +686,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -713,9 +713,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -740,9 +740,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -762,9 +762,9 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -789,9 +789,9 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -816,9 +816,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -844,9 +844,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_1_scabbard_1">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -871,9 +871,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -898,9 +898,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -925,9 +925,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_6_scabbard_6">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -952,9 +952,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_7_scabbard_7">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -979,9 +979,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1006,9 +1006,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -1029,9 +1029,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1056,9 +1056,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1084,9 +1084,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1111,9 +1111,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1138,9 +1138,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_5_scabbard_5">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1165,9 +1165,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1193,9 +1193,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_3_scabbard_3">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1220,9 +1220,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1247,7 +1247,7 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -1270,9 +1270,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_9_scabbard_9">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1296,9 +1296,9 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1324,9 +1324,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1351,7 +1351,7 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -1373,9 +1373,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_noble_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -1396,9 +1396,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_9_scabbard_9">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1423,9 +1423,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_6_scabbard_6">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1449,9 +1449,9 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -1472,7 +1472,7 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -1494,9 +1494,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_blade_8_scabbard_8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -1517,9 +1517,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -1540,9 +1540,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_7_scabbard_7">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -1563,9 +1563,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_noble_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1590,9 +1590,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_noble_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1617,9 +1617,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_noble_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -1640,9 +1640,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_noble_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1667,9 +1667,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_noble_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1695,9 +1695,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_noble_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron6"
@@ -1719,9 +1719,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_noble_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron6"
@@ -1742,9 +1742,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_noble_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1769,9 +1769,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_noble_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1796,9 +1796,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_noble_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -1824,9 +1824,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1851,9 +1851,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_blade_8_scabbard_8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1878,9 +1878,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_9_scabbard_9">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1905,9 +1905,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -1931,9 +1931,9 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -1953,9 +1953,9 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -1976,9 +1976,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_blade_10_scabbard_10">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -2002,9 +2002,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_blade_1_scabbard_1">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -2025,9 +2025,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_noble_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -2048,9 +2048,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_noble_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -2071,9 +2071,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="empire_noble_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -2094,9 +2094,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_noble_blade_1_scabbard_1">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -2121,9 +2121,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="sturgian_noble_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -2149,9 +2149,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="khuzait_noble_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -2172,9 +2172,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_noble_blade_2_scabbard_2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -2199,9 +2199,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="vlandian_noble_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -2226,9 +2226,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_noble_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -2253,9 +2253,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="aserai_noble_blade_4_scabbard_4">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -2280,9 +2280,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -2307,9 +2307,9 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_blade_3_scabbard_3">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -2335,7 +2335,7 @@
                body_name="bo_sword_one_handed"
                holster_mesh="battania_noble_blade_2_scabbard_2">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -7647,9 +7647,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7673,9 +7673,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7699,9 +7699,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -7728,9 +7728,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -7756,9 +7756,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7782,9 +7782,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7808,9 +7808,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7835,9 +7835,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7861,9 +7861,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7887,9 +7887,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7913,9 +7913,9 @@
                body_name="bo_knife_a"
                holster_mesh="">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7940,9 +7940,9 @@
                holster_mesh="throwing_dagger_quiver_2"
                holster_mesh_length="35.8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7967,9 +7967,9 @@
                holster_mesh="throwing_dagger_quiver_2"
                holster_mesh_length="35.8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -7994,9 +7994,9 @@
                holster_mesh="throwing_dagger_quiver_3"
                holster_mesh_length="35.8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -8021,9 +8021,9 @@
                holster_mesh="throwing_dagger_quiver_1"
                holster_mesh_length="35.8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -8049,9 +8049,9 @@
                holster_mesh="throwing_dagger_quiver_1"
                holster_mesh_length="35.8">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -8076,9 +8076,9 @@
                holster_mesh="throwing_dagger_quiver_4"
                holster_mesh_length="35.8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="Civilian"
@@ -8908,7 +8908,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -8937,7 +8937,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -8964,7 +8964,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -8991,7 +8991,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9018,7 +9018,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9047,7 +9047,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9074,7 +9074,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9104,7 +9104,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9133,7 +9133,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9160,7 +9160,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9188,7 +9188,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9216,7 +9216,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9243,7 +9243,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9270,7 +9270,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9299,7 +9299,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_a">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9326,7 +9326,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9355,7 +9355,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9384,7 +9384,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9413,7 +9413,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9440,7 +9440,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9467,7 +9467,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9496,7 +9496,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9523,7 +9523,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9552,7 +9552,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9582,7 +9582,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9609,7 +9609,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9638,7 +9638,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9665,7 +9665,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9694,7 +9694,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9721,7 +9721,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9750,7 +9750,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9779,7 +9779,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9808,7 +9808,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9836,7 +9836,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9863,7 +9863,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9890,7 +9890,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9919,7 +9919,7 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -9950,7 +9950,7 @@
                body_name="bo_axe_longer_b"
                holster_mesh="throwing_axe_quiver_1">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -9977,7 +9977,7 @@
                body_name="bo_axe_longer_b"
                holster_mesh="throwing_axe_quiver_1">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -10004,7 +10004,7 @@
                body_name="bo_axe_longer_b"
                holster_mesh="throwing_axe_quiver_1">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -10546,7 +10546,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -10568,7 +10568,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -10589,7 +10589,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -10612,7 +10612,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_2"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -10635,7 +10635,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron1"
@@ -10655,7 +10655,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags></Flags>
     <Materials>
@@ -10677,7 +10677,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -10697,7 +10697,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -10720,7 +10720,7 @@
                holster_body_name="bo_throwing_spear_quiver_4"
                holster_mesh_length="96.2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -10740,7 +10740,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -10760,7 +10760,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -10780,7 +10780,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -10803,7 +10803,7 @@
                holster_body_name="bo_throwing_spear_quiver_5_1"
                holster_mesh_length="96.7">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -10827,7 +10827,7 @@
                holster_body_name="bo_throwing_spear_quiver_5_1"
                holster_mesh_length="96.7">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -10850,7 +10850,7 @@
                holster_body_name="bo_throwing_spear_quiver_4_1"
                holster_mesh_length="96.2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -10873,7 +10873,7 @@
                holster_body_name="bo_throwing_spear_quiver_4"
                holster_mesh_length="96.2">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -10896,7 +10896,7 @@
                holster_body_name="bo_throwing_spear_quiver_5"
                holster_mesh_length="96.7">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -10919,7 +10919,7 @@
                holster_body_name="bo_throwing_spear_quiver_2"
                holster_mesh_length="94.6">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -10938,9 +10938,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -10960,7 +10960,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -10983,7 +10983,7 @@
                holster_body_name="bo_throwing_spear_quiver_1_1"
                holster_mesh_length="68.9">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -11007,7 +11007,7 @@
                holster_body_name="bo_throwing_spear_quiver_1_1"
                holster_mesh_length="68.9">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -11027,7 +11027,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -11050,9 +11050,9 @@
                physics_material="metal_weapon"
                body_name="bo_axe_longer_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanBePickedUpFromCorpse"
@@ -11075,9 +11075,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -11096,9 +11096,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -11117,9 +11117,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -11139,9 +11139,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -11161,7 +11161,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -11181,9 +11181,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -11205,7 +11205,7 @@
                physics_material="metal_weapon"
                body_name="bo_sword_one_handed">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield" />
@@ -11231,7 +11231,7 @@
                holster_body_name="bo_throwing_spear_quiver_1"
                holster_mesh_length="68.9">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -11251,7 +11251,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -11272,7 +11272,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -11291,9 +11291,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -11313,7 +11313,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -11334,7 +11334,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Wood"
@@ -11354,7 +11354,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Swing damage_type="Pierce"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron1"
@@ -11377,7 +11377,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_1"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -11397,7 +11397,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -11421,7 +11421,7 @@
                holster_body_name="bo_throwing_spear_quiver_3_1"
                holster_mesh_length="96.8">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -11441,7 +11441,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -11461,7 +11461,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Flags></Flags>
     <Materials>
@@ -11482,7 +11482,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -11502,7 +11502,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -11522,7 +11522,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
     <Flags></Flags>
     <Materials>
@@ -11542,9 +11542,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5"
@@ -11563,9 +11563,9 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Blunt"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -11590,7 +11590,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="spear_blade_21"
@@ -11608,7 +11608,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="spear_blade_28"
@@ -11625,7 +11625,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="spear_blade_30"
@@ -11642,7 +11642,7 @@
                physics_material="wood_weapon"
                body_name="bo_spear_b">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
     </BladeData>
   </CraftingPiece>
   <CraftingPiece id="sickle_blade_1_polearm"
@@ -11659,7 +11659,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Pierce"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12597,9 +12597,9 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12620,7 +12620,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -12641,7 +12641,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -12662,9 +12662,9 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12685,7 +12685,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -12706,7 +12706,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -12727,7 +12727,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -12748,7 +12748,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -12770,7 +12770,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12791,7 +12791,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12812,7 +12812,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -12833,7 +12833,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -12853,9 +12853,9 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12876,7 +12876,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -12897,7 +12897,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -12918,7 +12918,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12938,9 +12938,9 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12965,7 +12965,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -12987,7 +12987,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Wood"
@@ -13008,7 +13008,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Cut"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron1"
@@ -13029,7 +13029,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -13050,7 +13050,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"
@@ -13071,7 +13071,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -13091,9 +13091,9 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Thrust damage_type="Pierce"
-              damage_factor="0.4" />
+              damage_factor="1" />
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -13114,7 +13114,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron3"
@@ -13135,7 +13135,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -13158,7 +13158,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Blunt"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron4"
@@ -13179,7 +13179,7 @@
                physics_material="wood_weapon"
                body_name="bo_mace_a">
       <Swing damage_type="Pierce"
-             damage_factor="0.4" />
+             damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2"

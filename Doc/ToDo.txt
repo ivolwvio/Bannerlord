@@ -83,9 +83,9 @@ Single skill max level check
 
 ALL BLADES SAME DAMAGE
 
-(?!damage_factor="0.4")damage_factor="[+-]?(?:[0-9]*[.])?[0-9]+"
+(?!damage_factor="1")damage_factor="[+-]?(?:[0-9]*[.])?[0-9]+"
 
-damage_factor="0.4"
+damage_factor="1"
 
 =====================================================================
 
@@ -116,17 +116,3 @@ ALL CRAFTING PIECES SAME WEIGHT
 $1weight="0.5"$2
 
 =====================================================================
-
-<EquipmentRoster>
-  <equipment slot="Item0" id="Item.heavy_round_shield" />
-  <equipment slot="Item1" id="Item.eastern_spear_4_t4" />
-  <equipment slot="Item2" id="Item.empire_sword_1_t2_blunt" />
-  <equipment slot="Item3" id="Item.cla_palaic_1ax_2" />
-  <equipment slot="Head" id="Item.closed_goggled_helmet" />
-  <equipment slot="Cape" id="Item.cla_invisible_shoulders_1" />
-  <equipment slot="Body" id="Item.cla_celtic_pants_hamata_obelix_t_1" />
-  <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
-  <equipment slot="Leg" id="Item.cla_empire_tournament_boots" />
-</EquipmentRoster>
-<equipment slot="Horse" id="Item.noble_horse" />
-<equipment slot="HorseHarness" id="Item.stripped_leather_harness" />

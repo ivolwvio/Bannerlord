@@ -25927,7 +25927,6 @@
 
   <!-- Spartan -->
 
-
   <NPCCharacter id="spartan_spear"
                 default_group="Infantry"
                 level="26"
@@ -26263,6 +26262,480 @@
         <equipment slot="Body" id="Item.cla_empire_musculata_brass_plain_1" />
         <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
         <equipment slot="Leg" id="Item.cla_empire_tournament_greaves_brass" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- Loki's army -->
+
+  <NPCCharacter id="the_impossible_swordsman"
+                default_group="Infantry"
+                level="26"
+                name="{=CJxF6fky}The Impossible Swordsman"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="00000C088F0018100776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.cleaver_2hsword_t3" />
+        <equipment slot="Item1" id="Item.cla_empire_pugio_1" />
+        <equipment slot="Item2" id="Item.peasant_hammer_1_t1" />
+        <equipment slot="Head" id="Item.kettle_helmet_with_mail" />
+        <equipment slot="Cape" id="Item.swadian_shoulders" />
+        <equipment slot="Body" id="Item.cla_roman_hamata_brass" />
+        <equipment slot="Gloves" id="Item.cla_empire_tournament_manica" />
+        <equipment slot="Leg" id="Item.lamellar_plate_boots" />
+      </EquipmentRoster> 
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="black_fork_knight"
+                default_group="Cavalry"
+                level="26"
+                name="{=CJxF6fky}Black Fork Knight"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="00000C088F0018100776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.the_scalpel_sword_t3" />
+        <equipment slot="Item1" id="Item.peasant_pitchfork_2_t1" />
+        <equipment slot="Item2" id="Item.greek_armoured_shield" />
+        <equipment slot="Head" id="Item.vlandian_helm_with_faceplate" />
+        <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
+        <equipment slot="Body" id="Item.swadian_striped_plate_armor" />
+        <equipment slot="Gloves" id="Item.plated_strip_gauntlets" />
+        <equipment slot="Leg" id="Item.plated_strip_boots" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.mule_unmountable" />
+      <equipment slot="HorseHarness" id="Item.fortunas_choice" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="the_woodsman"
+                default_group="Ranged"
+                level="26"
+                name="{=CJxF6fky}The Woodsman"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="00000C088F0018100776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.steppe_bow" />
+        <equipment slot="Item1" id="Item.heavy_steppe_arrows" />
+        <equipment slot="Item2" id="Item.heavy_steppe_arrows" />
+        <equipment slot="Item3" id="Item.woodland_axe_t3" />
+        <equipment slot="Head" id="Item.head_scarf" />
+        <equipment slot="Cape" id="Item.cla_palaic_cloak_plain_1" />
+        <equipment slot="Body" id="Item.buckled_wildsman_armor" />
+        <equipment slot="Gloves" id="Item.cla_palaic_leather_bracers_1" />
+        <equipment slot="Leg" id="Item.ragged_boots" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+
+  <!-- The Lions Crew -->
+
+  <NPCCharacter id="lion_phalangz"
+                default_group="Infantry"
+                level="26"
+                name="{=CJxF6fky}Lion Phalangz"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.empire_lance_3_t5" />
+        <equipment slot="Head" id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Cape" id="Item.cla_empire_segmentata_shoulders_praetorian_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lion_spearman"
+                default_group="Ranged"
+                level="26"
+                name="{=CJxF6fky}Lion Spearman"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.hoplon_sphinx" />
+        <equipment slot="Item1" id="Item.imperial_spear_t2" />
+        <equipment slot="Head" id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Cape" id="Item.cla_empire_segmentata_shoulders_praetorian_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lion_swordsman"
+                default_group="Cavalry"
+                level="26"
+                name="{=CJxF6fky}Lion Swordsman"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.hoplon_sphinx" />
+        <equipment slot="Item1" id="Item.cla_empire_gladius_elite_1" />
+        <equipment slot="Head" id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Cape" id="Item.cla_empire_segmentata_shoulders_praetorian_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lion_javelin"
+                default_group="HorseArcher"
+                level="26"
+                name="{=CJxF6fky}Lion Javelin"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.hoplon_sphinx" />
+        <equipment slot="Item1" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item2" id="Item.eastern_javelin_3_t4" />
+        <equipment slot="Item3" id="Item.eastern_spear_1_t2" />
+        <equipment slot="Head" id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Cape" id="Item.cla_empire_segmentata_shoulders_praetorian_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lion_archer"
+                default_group="Skirmisher"
+                level="26"
+                name="{=CJxF6fky}Lion Archer"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.steppe_war_bow" />
+        <equipment slot="Item1" id="Item.piercing_arrows" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_1" />
+        <equipment slot="Head" id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Cape" id="Item.cla_empire_segmentata_shoulders_praetorian_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
+      </EquipmentRoster>
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lion_lancer"
+                default_group="HeavyInfantry"
+                level="26"
+                name="{=CJxF6fky}Lion Lancer"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.hoplon_sphinx" />
+        <equipment slot="Item1" id="Item.sturgia_lance_2_t5" />
+        <equipment slot="Head" id="Item.corinthian_5_j_crest_1" />
+        <equipment slot="Cape" id="Item.cla_empire_segmentata_shoulders_praetorian_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lion_horsearcher"
+                default_group="LightCavalry"
+                level="26"
+                name="{=CJxF6fky}Knight Horsearcher"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.steppe_war_bow" />
+        <equipment slot="Item1" id="Item.piercing_arrows" />
+        <equipment slot="Item2" id="Item.piercing_arrows" />
+        <equipment slot="Item3" id="Item.cla_empire_gladius_elite_long_1" />
+        <equipment slot="Head" id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Cape" id="Item.cla_empire_segmentata_shoulders_praetorian_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
+      </EquipmentRoster>
+      <equipment slot="Horse" id="Item.noble_horse" />
+      <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />
+    </Equipments>
+  </NPCCharacter>
+  <NPCCharacter id="lion_horseman"
+                default_group="HeavyCavalry"
+                level="26"
+                name="{=CJxF6fky}Lion Horseman"
+                occupation="Soldier"
+                culture="Culture.sturgia">
+    <face>
+      <BodyProperties version="4" age="21" weight="0.3" build="0.5"  key="000BD80CCF00168E0776678E53648686588CA83378A87F2099667D788BC332450290462409669983000000000000000000000000000019A300000000213C3002"  />
+    </face>
+    <skills>
+      <skill id="OneHanded" value="1023" />
+      <skill id="TwoHanded" value="1023" />
+      <skill id="Polearm" value="1023" />
+      <skill id="Bow" value="1023" />
+      <skill id="Crossbow" value="1023" />
+      <skill id="Throwing" value="1023" />
+      <skill id="Riding" value="1023" />
+      <skill id="Athletics" value="1023" />
+      <skill id="Crafting" value="1023" />
+      <skill id="Tactics" value="1023" />
+      <skill id="Scouting" value="1023" />
+      <skill id="Roguery" value="1023" />
+      <skill id="Leadership" value="1023" />
+      <skill id="Charm" value="1023" />
+      <skill id="Trade" value="1023" />
+      <skill id="Steward" value="1023" />
+      <skill id="Medicine" value="1023" />
+      <skill id="Engineering" value="1023" />
+    </skills>
+    <Equipments>
+      <EquipmentRoster>
+        <equipment slot="Item0" id="Item.hoplon_sphinx" />
+        <equipment slot="Item1" id="Item.cla_empire_gladius_elite_long_1" />
+        <equipment slot="Head" id="Item.cla_dacia_helm_spangen_leaf_bronze" />
+        <equipment slot="Cape" id="Item.cla_empire_segmentata_shoulders_praetorian_1" />
+        <equipment slot="Body" id="Item.cla_empire_musculata_praetorian_1" />
+        <equipment slot="Gloves" id="Item.cla_palaic_invisible_bracers_1" />
+        <equipment slot="Leg" id="Item.cla_empire_centurion_greaves_1_brass_socks" />
       </EquipmentRoster>
       <equipment slot="Horse" id="Item.noble_horse" />
       <equipment slot="HorseHarness" id="Item.stripped_leather_harness" />

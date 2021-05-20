@@ -69,8 +69,8 @@
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_lac_black_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
@@ -80,8 +80,8 @@
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_lac_red_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
@@ -92,8 +92,8 @@
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_leather_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
@@ -105,8 +105,8 @@
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_wood_dark_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
@@ -117,8 +117,8 @@
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="katana_wood_light_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />
@@ -131,8 +131,8 @@
     <PieceUsages unavailable_usages="" />
 	<BuildData previous_piece_offset="50" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_two_handed" holster_mesh="ninjato_scabbard">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="3" />

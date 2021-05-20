@@ -12,7 +12,7 @@
   <CraftingPiece id="tetsubo" name="Tetsubo Mace" tier="4" piece_type="Blade" mesh="tetsubo" length="92.4" weight="3.0" full_scale="true" excluded_item_usage_features="thrust" >
     <PieceUsages unavailable_usages="" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Swing damage_type="Blunt" damage_factor="0.4" />
+      <Swing damage_type="Blunt" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron2" count="5" />
@@ -26,8 +26,8 @@
     <PieceUsages unavailable_usages="" />
     <StatContributions handling_bonus="10" swing_damage_bonus="1" swing_speed_bonus="1" thrust_damage_bonus="1" thrust_speed_bonus="15" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_11_scabbard_11">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="2" />
@@ -39,8 +39,8 @@
     <PieceUsages unavailable_usages="" />
     <StatContributions handling_bonus="10" swing_damage_bonus="1" swing_speed_bonus="10" thrust_damage_bonus="10" thrust_speed_bonus="15" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="aserai_blade_11_scabbard_11">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Materials>
       <Material id="Iron5" count="4" />
@@ -52,8 +52,8 @@
     <PieceUsages unavailable_usages="" />
     <StatContributions handling_bonus="10" swing_damage_bonus="15" swing_speed_bonus="5" thrust_damage_bonus="1" thrust_speed_bonus="1" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="katana_sheathe">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Flags>
 	<Flag name="Civilian" type="ItemFlags" />
@@ -68,8 +68,8 @@
     <PieceUsages unavailable_usages="" />
     <StatContributions handling_bonus="10" swing_damage_bonus="15" swing_speed_bonus="20" thrust_damage_bonus="1" thrust_speed_bonus="15" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="katana_sheathe">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
-      <Swing damage_type="Cut" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
+      <Swing damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Flags>
 	<Flag name="Civilian" type="ItemFlags" />
@@ -84,8 +84,8 @@
     <PieceUsages unavailable_usages="TwoHandedPolearm_Bracing:TwoHandedPolearm_Couchable" />
     <StatContributions handling_bonus="25" swing_speed_bonus="17" thrust_speed_bonus="17" />
 	<BladeData stack_amount="3" physics_material="wood_weapon" body_name="bo_sword_one_handed" holster_mesh="">
-      <Thrust damage_type="Blunt" damage_factor="0.4" />
-      <Swing damage_type="Blunt" damage_factor="0.4" />
+      <Thrust damage_type="Blunt" damage_factor="1" />
+      <Swing damage_type="Blunt" damage_factor="1" />
     </BladeData>
     <Flags>
 	 <Flag name="NoBlood" />
@@ -190,7 +190,7 @@
     <StatContributions handling_bonus="7" thrust_damage_bonus="1" thrust_speed_bonus="15" />
 	<BuildData previous_piece_offset="-0.4" />
     <BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed" holster_mesh="empire_blade_1_scabbard_1">
-      <Thrust damage_type="Pierce" damage_factor="0.4" />
+      <Thrust damage_type="Pierce" damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="CanDismount" />
@@ -205,8 +205,8 @@
     <PieceUsages unavailable_usages="TwoHandedPolearm_Bracing:TwoHandedPolearm_Couchable:OneHandedPolearm" />
     <StatContributions handling_bonus="25" swing_speed_bonus="30" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Swing damage_type="Cut" damage_factor="0.4" />
-	  <Thrust damage_type="Cut" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="1" />
+	  <Thrust damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield"  />
@@ -221,8 +221,8 @@
     <PieceUsages unavailable_usages="TwoHandedPolearm_Bracing:TwoHandedPolearm_Couchable:OneHandedPolearm" />
     <StatContributions handling_bonus="25" swing_speed_bonus="30" />
 	<BladeData stack_amount="3" physics_material="metal_weapon" body_name="bo_sword_one_handed">
-      <Swing damage_type="Cut" damage_factor="0.4" />
-	  <Thrust damage_type="Cut" damage_factor="0.4" />
+      <Swing damage_type="Cut" damage_factor="1" />
+	  <Thrust damage_type="Cut" damage_factor="1" />
     </BladeData>
     <Flags>
       <Flag name="BonusAgainstShield"  />
