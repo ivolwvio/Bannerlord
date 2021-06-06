@@ -2,63 +2,63 @@
 <partyTemplates>
     <MBPartyTemplate id="cla_kingdom_hero_party_palaic_template" >
     <stacks>
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_recruit" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_infantry_2" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_infantry_3" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_infantry_4" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_infantry_5" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_infantry_heavy_3" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_infantry_heavy_4" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_mounted_cav_4" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_slinger_2" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_ranged_3" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_slinger_3" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_ranged_4" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_slinger_4" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_ranged_5" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_elite_special_4" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_elite_special_5" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_elite_special_b_5" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_elite_recruit" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_elite_infantry_4" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_elite_cavalry_4" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_elite_cavalry_5" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_recruit" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_infantry_2" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_infantry_3" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_infantry_4" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_infantry_5" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_infantry_heavy_3" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_infantry_heavy_4" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_mounted_cav_4" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_slinger_2" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_ranged_3" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_slinger_3" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_ranged_4" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_slinger_4" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_ranged_5" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_elite_special_4" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_elite_special_5" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_elite_special_b_5" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_elite_recruit" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_elite_infantry_4" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_elite_cavalry_4" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_elite_cavalry_5" />
     </stacks>
   </MBPartyTemplate>
 
   <MBPartyTemplate id="cla_caravan_template_palaic" >
     <stacks>
       <PartyTemplateStack  min_value="8" max_value="8" troop="NPCCharacter.cla_armed_trader_palaic" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_caravan_guard_palaic" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_veteran_caravan_guard_palaic" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_caravan_guard_palaic" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_veteran_caravan_guard_palaic" />
     </stacks>
   </MBPartyTemplate>
 
   <MBPartyTemplate id="cla_elite_caravan_template_palaic" >
     <stacks>
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_armed_trader_palaic" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_caravan_guard_palaic" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_veteran_caravan_guard_palaic" />
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_caravan_master_palaic" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_armed_trader_palaic" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_caravan_guard_palaic" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_veteran_caravan_guard_palaic" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_caravan_master_palaic" />
     </stacks>
   </MBPartyTemplate>
 
   <MBPartyTemplate id="cla_militia_palaic_template" >
       <stacks>
-        <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_militia_spearman" />
-        <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_militia_archer" />
+        <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_militia_spearman" />
+        <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_militia_archer" />
       </stacks>
   </MBPartyTemplate>
 
   <MBPartyTemplate id="cla_rebels_palaic_template" >
     <stacks>
-      <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_palaic_recruit" />
+      <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_palaic_recruit" />
     </stacks>
   </MBPartyTemplate>
   
     <MBPartyTemplate id="cla_villager_palaic_template" >
       <stacks>
-        <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.cla_villager_palaic" />
+        <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.cla_villager_palaic" />
       </stacks>
     </MBPartyTemplate>
   

@@ -2,14 +2,14 @@
 <partyTemplates>
     <MBPartyTemplate id="persian_template" >
       <stacks>
-        <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.battanian_volunteer" />
-        <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.vlandian_sharpshooter" />
-        <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.aserai_tribal_horseman" />
+        <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.battanian_volunteer" />
+        <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.vlandian_sharpshooter" />
+        <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.aserai_tribal_horseman" />
       </stacks>
     </MBPartyTemplate>
   <MBPartyTemplate id="spartan_template" >
       <stacks>
-        <PartyTemplateStack min_value="1000" max_value="10000" troop="NPCCharacter.guard" />
+        <PartyTemplateStack min_value="10" max_value="100" troop="NPCCharacter.guard" />
       </stacks>
     </MBPartyTemplate>
 </partyTemplates>
