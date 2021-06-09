@@ -4324,6 +4324,41 @@
     </ItemComponent>
     <Flags ForceAttachOffHandPrimaryItemBone="true" />
   </Item>
+  <Item id="steppe_war_bow_2"
+        name="{=wfhHGTbl}Phantom"
+        body_name="bo_composite_shotbow_a"
+        mesh="shortbow_a"
+        weight="0.1"
+        difficulty="1"
+        appearance="0.1"
+        Type="Bow"
+        item_holsters="bow_hip:bow_hip_2:bow_back:bow_back_2">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="1"
+              thrust_speed="100"
+              speed_rating="200"
+              missile_speed="150"
+              weapon_length="107"
+              accuracy="100"
+              thrust_damage="66"
+              thrust_damage_type="Pierce"
+              item_usage="bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.0,0,-0.15"
+              item_modifier_group="bow">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
   <Item id="woodland_yew_bow"
         name="{=RcCtV0aS}Woodland Yew Bow"
         body_name="bo_composite_longbow_a"
@@ -4523,6 +4558,41 @@
               speed_rating="94"
               missile_speed="90"
               weapon_length="116"
+              accuracy="100"
+              thrust_damage="80"
+              thrust_damage_type="Pierce"
+              item_usage="bow"
+              physics_material="wood_weapon"
+              center_of_mass="0.1,0,-0.15"
+              item_modifier_group="bow">
+        <WeaponFlags RangedWeapon="true"
+                     HasString="true"
+                     StringHeldByHand="true"
+                     NotUsableWithOneHand="true"
+                     TwoHandIdleOnMount="true"
+                     AutoReload="true"
+                     UnloadWhenSheathed="true" />
+      </Weapon>
+    </ItemComponent>
+    <Flags ForceAttachOffHandPrimaryItemBone="true" />
+  </Item>
+  <Item id="noble_bow2"
+        name="{=EO7pCu1b}Noble Bow 2"
+        body_name="bo_composite_shotbow_f"
+        mesh="shortbow_f"
+        weight="0.8"
+        difficulty="70"
+        appearance="0.1"
+        Type="Bow"
+        item_holsters="bow_back_2:bow_hip:bow_hip_2:bow_back">
+    <ItemComponent>
+      <Weapon weapon_class="Bow"
+              ammo_class="Arrow"
+              ammo_limit="3"
+              thrust_speed="120"
+              speed_rating="110"
+              missile_speed="100"
+              weapon_length="100"
               accuracy="100"
               thrust_damage="80"
               thrust_damage_type="Pierce"

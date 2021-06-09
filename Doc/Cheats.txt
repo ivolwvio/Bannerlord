@@ -163,4 +163,24 @@ campaign.give_troops elite_scavanger 1000
 
 ========================================================================
 
+campaign.give_troops spartan_spear7 200
+campaign.give_troops spartan_sword7 200
+campaign.give_troops spartan_archer7 200
+campaign.give_troops spartan_javeline7 200
+campaign.give_troops spartan_lence7 200
+campaign.give_troops spartan_horseman7 200
+campaign.give_troops spartan_horsearcher7 200
+
 ========================================================================
+
+<EquipmentRoster>
+  <equipment slot="Item0" id="Item.composite_steppe_bow" />
+  <equipment slot="Item1" id="Item.arrow_emp_1_a" />
+  <equipment slot="Item2" id="Item.arrow_emp_1_a" />
+  <equipment slot="Item3" id="Item.tyrhung_sword_t3" />
+  <equipment slot="Head" id="Item.sturgian_helmet_b_open" />
+  <equipment slot="Cape" id="Item.brass_lamellar_shoulder_white" />
+  <equipment slot="Body" id="Item.sturgian_lamellar_fortified" />
+  <equipment slot="Gloves" id="Item.woven_leather_bracers" />
+  <equipment slot="Leg" id="Item.ragged_boots" />
+</EquipmentRoster>

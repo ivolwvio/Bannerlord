@@ -365,12 +365,27 @@
 
   <!-- Men -->
 
-  <Hero id="lord_4_24_14" is_noble="true" faction="Faction.player_faction" />
-  <Hero id="lord_4_24_15" is_noble="true" faction="Faction.player_faction" />
-  <Hero id="lord_4_24_16" is_noble="true" faction="Faction.player_faction" />
-  <Hero id="lord_4_24_17" is_noble="true" faction="Faction.player_faction" />
-  <Hero id="lord_4_24_18" is_noble="true" faction="Faction.player_faction" />
-
+  <Hero id="lord_4_24_14_1" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_2" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_3" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_4" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_5" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_6" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_7" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_8" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_9" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_10" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_11" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_12" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_13" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_14" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_15" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_16" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_17" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_18" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_19" is_noble="true" faction="Faction.player_faction" />
+  <Hero id="lord_4_24_14_20" is_noble="true" faction="Faction.player_faction" />
+  
   <!-- Men -->
 
   <Hero id="lord_4_26" is_noble="true" faction="Faction.clan_vlandia_8" />
